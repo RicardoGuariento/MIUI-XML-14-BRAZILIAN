@@ -119,7 +119,7 @@ Para usar o botão Acessibilidade na barra de navegação, alterne para navegaç
     <string name="accessibility_control_timeout_preference_summary">"Defina por quanto tempo, as mensagens que solicitam que você execute uma ação fiquem visíveis na tela.
 
 Nem todos os apps são compatíveis com essa configuração"</string>
-    <string name="accessibility_control_timeout_preference_title">Tempo para agir</string>
+    <string name="accessibility_control_timeout_preference_title">Tempo de reação</string>
     <string name="accessibility_daltonizer_master_switch_title">Usar correção de cor</string>
     <string name="accessibility_daltonizer_primary_switch_title">Use correção de cores</string>
     <string name="accessibility_data_one_bar">Dados uma barra.</string>
@@ -235,7 +235,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="accessibility_service_screen_control_title">Ver e controlar a tela</string>
     <string name="accessibility_service_warning">%1$s está solicitando controle total deste dispositivo. O serviço pode ler a tela e realizar ações em nome de usuários com necessidades especiais. Esse nível de controle não é adequado para a maioria dos apps.</string>
     <string name="accessibility_service_warning_description">O controle total é adequado para apps que ajudam você com as necessidades de acessibilidade, mas não para a maioria dos apps.</string>
-    <string name="accessibility_setting_item_control_timeout_title">Tempo para agir (tempo limite de acessibilidade)</string>
+    <string name="accessibility_setting_item_control_timeout_title">Tempo de reação (tempo limite de acessibilidade)</string>
     <string name="accessibility_settings">Acessibilidade</string>
     <string name="accessibility_settings_summary">Controles de interação, leitores de tela, exibição</string>
     <string name="accessibility_settings_tabs_general">Geral</string>
@@ -341,7 +341,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="accessibility_vibration_intensity_low">Baixa</string>
     <string name="accessibility_vibration_intensity_medium">Média</string>
     <string name="accessibility_vibration_intensity_off">Desativada</string>
-    <string name="accessibility_vibration_settings_title">Intensidade da vibração e do retorno tátil</string>
+    <string name="accessibility_vibration_settings_title">Intensidade da vibração e retorno tátil</string>
     <string name="accessibility_vibration_summary">Toque sonoro: %1$s, Notificação: %2$s, Toque tátil: %3$s</string>
     <string name="accessibility_vibration_summary_high">Toque e notificação definidos para um nível alto</string>
     <string name="accessibility_vibration_summary_low">Toque e notificação definidos para um nível baixo</string>
@@ -1416,10 +1416,10 @@ para ^2"</string>
     <string name="bluetooth_broadcast_pin_configure_dialog">Transmissão: Configure o código de privacidade Bluetooth</string>
     <string name="bluetooth_broadcasting">Transmissão</string>
     <string name="bluetooth_col_grp_source_selection_options_detail">"Fonte de transmissão
-       %1$s está sendo adicionado aos membros do
-       grupo conectados."</string>
+      %1$s está sendo adicionado aos membros do
+      grupo conectados."</string>
     <string name="bluetooth_col_source_selection_options_detail">"Fonte de transmissão
-       %1$s está sendo adicionado ao receptor"</string>
+      %1$s está sendo adicionado ao receptor"</string>
     <string name="bluetooth_companion_app_body">%1$s app não vai mais se conectar ao seu %2$s</string>
     <string name="bluetooth_companion_app_remove_association_confirm_button">Desconectar app.</string>
     <string name="bluetooth_companion_app_remove_association_dialog_title">Desconectar app?</string>
@@ -1530,8 +1530,8 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_fastConnect_resource_load">Carregamento de recurso Bluetooth fastConnect</string>
     <string name="bluetooth_footer_mac_message">Endereço Bluetooth do smartphone: %1$s</string>
     <string name="bluetooth_grp_source_selection_options_detail">"Fonte de transmissão
-       %1$s está sendo adicionado aos membros do grupo conectados.
-       (Deixe o PIN de transmissão em branco se for uma fonte de transmissão não criptografada)"</string>
+      %1$s está sendo adicionado aos membros do grupo conectados.
+      (Deixe o PIN de transmissão em branco se for uma fonte de transmissão não criptografada)"</string>
     <string name="bluetooth_hd_music_play_summary">Reproduza áudio de %dkHz em dispositivos Bluetooth sem reduzir a taxa de amostragem. Os efeitos Dolby não estarão disponíveis quando esse recurso estiver ativado.</string>
     <string name="bluetooth_hd_music_play_title">Reproduzir áudio de %dkHz</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do telefone</string>
@@ -1747,9 +1747,9 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bluetooth_source_selection_error_message">Fonte de transmissão inválida selecionada para o receptor %1$s.</string>
     <string name="bluetooth_source_selection_error_src_unavail_message">Fonte selecionada para receptor %1$s está indisponível</string>
     <string name="bluetooth_source_selection_options_detail">"Fonte de transmissão
-       %1$s está sendo adicionado ao receptor.
-       (Deixe o PIN de transmissão em branco se
-       caso for uma fonte de transmissão não criptografada)"</string>
+      %1$s está sendo adicionado ao receptor.
+      (Deixe o PIN de transmissão em branco se
+      caso for uma fonte de transmissão não criptografada)"</string>
     <string name="bluetooth_source_selection_options_detail_title">Configure o receptor de transmissão</string>
     <string name="bluetooth_source_setpin_error_message">"Não foi possível atualizar o código PIN de radiodifusão para %1$s."</string>
     <string name="bluetooth_source_update_error_message">"Não foi possível atualizar detalhes da fonte de transmissão do receptor %1$s."</string>
@@ -11340,4 +11340,111 @@ Atualizar configurações para:
     <string name="zone_menu_by_region">Selecionar por região</string>
     <string name="zone_time_type_dst">Horário de verão</string>
     <string name="zone_time_type_standard">Horário padrão</string>
+    <string name="colors_viewpager_content_description">Visualização de cores</string>
+    <string name="complete_parameters_new">Informações detalhadas e especificações</string>
+    <string name="creating_new_guest_dialog_message">Criando um novo convidado…</string>
+    <string name="customize_button_title">Personalizar</string>
+    <string name="dark_ui_auto_mode_custom_bedtime">Ativar na hora de dormir</string>
+    <string name="dark_ui_bedtime_footer_action">Configurações do modo hora de dormir</string>
+    <string name="dark_ui_bedtime_footer_summary">O tema escuro está seguindo sua programação do modo hora de dormir</string>
+    <string name="dark_ui_summary_off_auto_mode_custom_bedtime">Ativar automaticamente na hora de dormir</string>
+    <string name="dark_ui_summary_on_auto_mode_custom_bedtime">Desativar automaticamente após a hora de dormir</string>
+    <string name="data_acceleration_summery">Use Wi-Fi e dados móveis para aumentar a velocidade quando a conexão Wi-Fi for ruim</string>
+    <string name="accessibility_alarm_vibration_title">Vibração do alarme</string>
+    <string name="accessibility_audio_description_summary">Ouça uma descrição do que está acontecendo na tela em filmes e programas suportados</string>
+    <string name="accessibility_autoclick_about_title">Sobre o clique automático (tempo de permanência)</string>
+    <string name="accessibility_autoclick_footer_learn_more_content_description">Saiba mais sobre o clique automático (tempo de permanência)</string>
+    <string name="accessibility_autoclick_intro_text">Você pode configurar um mouse conectado para clicar automaticamente quando o cursor parar de se mover por um determinado período de tempo</string>
+    <string name="accessibility_button_about_title">Sobre o botão de acessibilidade</string>
+    <string name="accessibility_button_intro_text">Acesse rapidamente os recursos de acessibilidade em qualquer tela</string>
+    <string name="accessibility_call_vibration_category_title">Ligações</string>
+    <string name="accessibility_caption_preference_intro">Personalize o tamanho e o estilo das legendas para facilitar a leitura</string>
+    <string name="accessibility_captioning_about_title">Sobre as preferências de legenda</string>
+    <string name="accessibility_captioning_footer_learn_more_content_description">Saiba mais sobre as preferências de legenda</string>
+    <string name="accessibility_color_and_motion_title">Cor e movimento</string>
+    <string name="accessibility_color_correction_auto_added_qs_tooltip_content">Correção de cores adicionada às Configurações rápidas. Deslize para baixo para ativá-lo ou desativá-lo a qualquer momento.</string>
+    <string name="accessibility_color_correction_qs_tooltip_content">Você também pode adicionar a correção de cores às Configurações rápidas na parte superior da tela</string>
+    <string name="accessibility_color_inversion_about_title">Sobre a inversão de cores</string>
+    <string name="accessibility_color_inversion_auto_added_qs_tooltip_content">Inversão de cores adicionada às Configurações rápidas. Deslize para baixo para ativá-lo ou desativá-lo a qualquer momento.</string>
+    <string name="accessibility_color_inversion_footer_learn_more_content_description">Saiba mais sobre a inversão de cores</string>
+    <string name="accessibility_color_inversion_qs_tooltip_content">Você também pode adicionar a inversão de cores às Configurações rápidas na parte superior da tela</string>
+    <string name="accessibility_control_timeout_about_title">Sobre o tempo de reação (Tempo limite de acessibilidade)</string>
+    <string name="accessibility_control_timeout_footer_learn_more_content_description">Saiba mais sobre o tempo de reação (Tempo limite de acessibilidade)</string>
+    <string name="accessibility_control_timeout_preference_intro_text">Escolha por quanto tempo mostrar mensagens temporárias que solicitam que você execute uma ação</string>
+    <string name="accessibility_daltonizer_about_intro_text">Ajuste como as cores são exibidas no seu telefone</string>
+    <string name="accessibility_daltonizer_about_title">Sobre a correção de cores</string>
+    <string name="accessibility_daltonizer_footer_learn_more_content_description">Saiba mais sobre a correção de cores</string>
+    <string name="accessibility_daltonizer_shortcut_title">Atalho de correção de cores</string>
+    <string name="accessibility_disable_animations_summary">Reduzir o movimento na tela</string>
+    <string name="accessibility_display_inversion_preference_intro_text">A inversão de cores torna as telas claras em escuras. Ele também transforma telas escuras em claras.</string>
+    <string name="accessibility_display_inversion_shortcut_title">Atalho de inversão de cores</string>
+    <string name="accessibility_hearingaid_left_and_right_side_device_summary">%1$s, esquerdo e direito</string>
+    <string name="accessibility_hearingaid_left_side_device_summary">%1$s, esquerdo apenas</string>
+    <string name="accessibility_hearingaid_more_device_summary">%1$s +1 mais</string>
+    <string name="accessibility_hearingaid_pair_instructions_title">Emparelhar aparelhos auditivos</string>
+    <string name="accessibility_hearingaid_right_side_device_summary">%1$s, direito apenas</string>
+    <string name="accessibility_interactive_haptics_category_title">Retorno tátil interativo</string>
+    <string name="accessibility_magnification_triple_tap_warning_message">"Ao usar o toque triplo para ampliar parte da tela, você pode notar problemas no teclado.
+
+Para evitar isso, você pode alterar o atalho de ampliação de toque triplo para outra opção.
+"<annotation id="link">Alterar configuração</annotation></string>
+    <string name="accessibility_magnification_triple_tap_warning_negative_button">Cancelar</string>
+    <string name="accessibility_magnification_triple_tap_warning_positive_button">Continuar assim mesmo</string>
+    <string name="accessibility_magnification_triple_tap_warning_title">Isso pode deixar seu teclado lento</string>
+    <string name="accessibility_media_vibration_title">Vibração da mídia</string>
+    <string name="accessibility_notification_alarm_vibration_category_title">Notificações e alarmes</string>
+    <string name="accessibility_one_handed_mode_auto_added_qs_tooltip_content">Modo de uma mão adicionado às configurações rápidas. Deslize para baixo para ativá-lo ou desativá-lo a qualquer momento.</string>
+    <string name="accessibility_one_handed_mode_qs_tooltip_content">Você também pode adicionar o modo de uma mão às Configurações rápidas na parte superior da tela</string>
+    <string name="accessibility_quick_settings_tooltip_dismiss">Dispensar</string>
+    <string name="accessibility_reduce_bright_colors_auto_added_qs_tooltip_content">Mais escuro adicionado às configurações rápidas. Deslize para baixo para ativá-lo ou desativá-lo a qualquer momento.</string>
+    <string name="accessibility_reduce_bright_colors_qs_tooltip_content">Você também pode adicionar Mais escuro às Configurações rápidas na parte superior da tela</string>
+    <string name="accessibility_screen_magnification_about_title">Sobre a amplicação</string>
+    <string name="accessibility_screen_magnification_follow_typing_summary">A amplificação segue o texto enquanto você digita</string>
+    <string name="accessibility_screen_magnification_follow_typing_title">Ampliar digitação</string>
+    <string name="accessibility_screen_magnification_footer_learn_more_content_description">Saiba mais sobre a ampliação</string>
+    <string name="accessibility_screen_magnification_intro_text">Amplie rapidamente a tela para aumentar o conteúdo</string>
+    <string name="accessibility_screen_magnification_shortcut_title">Atalho de ampliação</string>
+    <string name="accessibility_service_auto_added_qs_tooltip_content">%1$s adicionado às Configurações rápidas. Deslize para baixo para ativá-lo ou desativá-lo a qualquer momento.</string>
+    <string name="accessibility_service_qs_tooltip_content">Você também pode adicionar %1$s às Configurações rápidas na parte superior da tela</string>
+    <string name="accessibility_text_reading_confirm_dialog_message">O tamanho da tela e as preferências de texto serão redefinidos para as configurações originais do telefone</string>
+    <string name="accessibility_text_reading_confirm_dialog_reset_button">Redefinir</string>
+    <string name="accessibility_text_reading_confirm_dialog_title">Redefinir tamanho de exibição e texto?</string>
+    <string name="accessibility_text_reading_conversation_message_1">Algum plano para o fim de semana?</string>
+    <string name="accessibility_text_reading_conversation_message_2">Indo para a praia. Quer se juntar?</string>
+    <string name="accessibility_text_reading_options_suggestion_title">Alterar como o texto é exibido</string>
+    <string name="accessibility_text_reading_options_title">Tamanho de exibição e texto</string>
+    <string name="accessibility_text_reading_preview_mail_content">"Bom Dia!
+
+Eu só queria verificar como os projetos estão indo. Eles estarão prontos antes de começarmos a construir os novos balões?"</string>
+    <string name="accessibility_text_reading_preview_mail_from">De: Gabriela</string>
+    <string name="accessibility_text_reading_preview_mail_subject">Assunto: Projetos de balão de ar quente</string>
+    <string name="accessibility_text_reading_reset_button_title">Redefinir as configurações</string>
+    <string name="accessibility_text_reading_reset_message">O tamanho da tela e as configurações de texto foram redefinidas</string>
+    <string name="accessibility_toggle_audio_description_preference_title">Descrição do áudio</string>
+    <string name="accessibility_toggle_high_text_contrast_preference_summary">Altere a cor do texto para preto ou branco. Maximiza o contraste com o fundo.</string>
+    <string name="accessibility_toggle_large_pointer_icon_summary">Make the mouse pointer more noticeable</string>
+    <string name="accessibility_vibration_primary_switch_title">Usar a vibração e retorno tátil</string>
+    <string name="accessibility_vibration_setting_disabled_for_silent_mode_summary">Configuração desativada porque o dispositivo está definido como silencioso</string>
+    <string name="accessibility_vibration_settings_state_off">Desativado</string>
+    <string name="accessibility_vibration_settings_state_on">Ativado</string>
+    <string name="accessibility_vibration_settings_summary">Controle a força da vibração para diferentes usos</string>
+    <string name="add_guest_failed">"Não foi possível criar um novo convidado"</string>
+    <string name="all_supported_app_locales_title">Todas os idiomas</string>
+    <string name="allow_mock_modem">Permitir Modem simulado</string>
+    <string name="allow_mock_modem_summary">Permitir que este dispositivo execute o serviço de Modem simulado para teste de instrumentação. Não habilite isso durante o uso normal do telefone</string>
+    <string name="allow_turn_screen_on">Permitir que a tela seja ligada</string>
+    <string name="allow_turn_screen_on_description">Permitir que um aplicativo ligue a tela. Se essa permissão for concedida, o aplicativo poderá ativar a tela a qualquer momento sem sua intenção explícita.</string>
+    <string name="freeform_guide_vedio_description">Toque em um aplicativo na barra lateral para abri-lo em uma janela flutuante</string>
+    <string name="legacy_power_menu">Menu de energia legado</string>
+    <string name="ingress_rate_limit_dialog_title">Configurar limite de taxa de download de rede</string>
+    <string name="ingress_rate_limit_no_limit_entry">Ilimitado</string>
+    <string name="ingress_rate_limit_summary">Configure o limite de taxa de entrada da largura de banda da rede que é aplicado a todas as redes que fornecem conectividade com a Internet.</string>
+    <string name="ingress_rate_limit_title">Limite de taxa de download de rede</string>
+    <string name="nfc_stack_debuglog_summary">Aumente o nível de registro da pilha NFC</string>
+    <string name="nfc_stack_debuglog_title">Log de depuração da pilha NFC</string>
+    <string name="back_navigation_animation">Animações de retorno preditivas</string>
+    <string name="back_navigation_animation_dialog">Essa configuração permite animações do sistema para gestos preditivos. Requer a definição de enableOnBackInvokedCallback como Verdadeiro no arquivo de manifesto de cada aplicativo.</string>
+    <string name="back_navigation_animation_summary">Ativar animações do sistema para retorno preditivo</string>
+    <string name="stylus_handwriting">Caligrafia com Stylus</string>
+    <string name="stylus_handwriting_summary">Quando ativado, o método de entrada atual recebe o MotionEvent do Stylus se um editor estiver focado.</string>
 </resources>

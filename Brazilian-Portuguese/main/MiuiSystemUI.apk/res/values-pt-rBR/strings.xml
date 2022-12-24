@@ -1637,7 +1637,7 @@ dd/MM"</string>
     <string name="miui_notification_menu_aggregate_feedback">"Feedback"</string>
     <string name="miui_notification_menu_allow">Permitir</string>
     <string name="miui_notification_menu_feedback_success">Obrigado pelo seu feedback!</string>
-    <string name="miui_notification_menu_fold">Sem importância</string>
+    <string name="miui_notification_menu_fold">Não importante</string>
     <string name="miui_notification_menu_more_setting">Mais</string>
     <string name="miui_notification_menu_msg_fold">Agrupar todas as notificações de %1$s juntas?</string>
     <string name="miui_notification_menu_msg_not_allow">Restringir todas as notificações de %1$s?</string>
@@ -1645,7 +1645,7 @@ dd/MM"</string>
     <string name="miui_notification_menu_setting_success">Concluído</string>
     <string name="miui_notification_menu_snooze">Suspender</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
-    <string name="miui_notification_menu_unfold">Marque como importante</string>
+    <string name="miui_notification_menu_unfold">Importante</string>
     <string name="miui_notification_slide_menu_msg_ongoing">Restringir notificações permanentes para \"%1$s\" agora?</string>
     <string name="miui_notification_slide_menu_ongoing">Restringir notificações permanentes</string>
     <string name="miui_ringer_count_down">Contagem regressiva</string>
