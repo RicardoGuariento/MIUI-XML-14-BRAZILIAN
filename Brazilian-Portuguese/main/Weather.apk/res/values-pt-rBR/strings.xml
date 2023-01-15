@@ -275,7 +275,6 @@
     <string name="index_item_downloading">Baixando</string>
     <string name="index_item_experience_now">Instalar agora</string>
     <string name="index_item_installing2">Instalando</string>
-    <string name="indices_desc_humidity_without_pic">Umidade %1$s%%</string>
     <string name="indices_title_chance_of_rain">Probabilidade de chuva</string>
     <string name="indices_title_feel">Sensação</string>
     <string name="indices_title_pressure">Pressão</string>
