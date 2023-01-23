@@ -875,7 +875,7 @@ Alterar as configurações agora?"</string>
 • Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
 • Se o alto-falante estiver muito bloqueado, execute o teste de %1$d-%2$d vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
     <string name="auto_clean_summary">Um áudio de 30 segundos será reproduzido para limpar o alto-falante</string>
-    <string name="auto_clean_summary_new">Reproduza um áudio de %d segundos para limpar o alto-falante. Use este recurso várias vezes consecutivas para quantidades substanciais de sujeira.</string>
+    <string name="auto_clean_summary_new">Reproduz um áudio de %d segundos para limpar o alto-falante. Use este recurso várias vezes consecutivas para quantidades substanciais de sujeira.</string>
     <string name="auto_clean_title">Limpar alto-falante</string>
     <string name="auto_connect_disable">A conexão automática está desativada</string>
     <string name="auto_disable_broadcast_audio">Feche este modo quando você não transmitir</string>
@@ -2305,6 +2305,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="common_issue">Perguntas frequentes</string>
     <string name="common_settings">Configurações rápidas</string>
     <string name="complete_parameters">Todas as especificações</string>
+    <string name="complete_parameters_new">Informações detalhadas e especificações</string>
     <string name="complete_settings">Configurações gerais</string>
     <string name="computer_backup_summary">Faça backup e restaure itens usando um computador</string>
     <string name="computer_backup_title">Computador</string>
@@ -2782,8 +2783,8 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="date_time_set_timezone_title">Fuso horário</string>
     <string name="date_time_settings">Data e hora</string>
     <string name="day_of_week">Dia da semana</string>
-    <string name="dc_light_dialog_summary">A qualidade de imagem pode ser afetada com o modo Anti-oscilação ativado. Ativar mesmo assim?</string>
-    <string name="dc_light_summary">Aplicar DC Dimming para reduzir cansaço visual</string>
+    <string name="dc_light_dialog_summary">A qualidade de imagem pode ser afetada com o Modo anti-oscilação ativado. Ativar mesmo assim?</string>
+    <string name="dc_light_summary">Aplicar DC Dimming (Escurecimento por Corrente Contínua) para reduzir cansaço visual</string>
     <string name="dc_light_summary_new">O DC Dimming evita cintilações extensas e reduz a tensão ocular em condições de pouca luz. No entanto, a qualidade da imagem pode ser afetada quando este recurso está ativado.</string>
     <string name="dc_light_title">Modo anti-oscilação</string>
     <string name="dclight_unavailable_prompt">O Modo anti-oscilação é suportado apenas pela tela externa</string>
@@ -5668,7 +5669,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_lab_aiasst_call_screen_desc">Atender chamadas usando a IA</string>
     <string name="miui_lab_aiasst_call_screen_title">Assistente de Chamadas IA</string>
     <string name="miui_lab_drive_mode_desc">Use controles de voz e ouça mensagens do WeChat</string>
-    <string name="miui_lab_drive_mode_desc_new">Use voice controls</string>
+    <string name="miui_lab_drive_mode_desc_new">Usar controles de voz</string>
     <string name="miui_lab_drive_mode_title">Modo carro</string>
     <string name="miui_lab_feature_applied">Aplicado</string>
     <string name="miui_lab_feature_off">Desativado</string>
@@ -8504,7 +8505,7 @@ PIN possivelmente incorreto."</string>
     <string name="sim_preferred_message">O %1$s é o único chip no seu dispositivo. Quer usá-lo para dados móveis, chamadas e mensagens SMS?</string>
     <string name="sim_preferred_title">Atualiz. chip preferido?</string>
     <string name="sim_radio_off">Desativado</string>
-    <string name="sim_reenter_new">Digitar novo PIN novamente</string>
+    <string name="sim_reenter_new">Redigite o novo PIN</string>
     <string name="sim_select_card">Selecionar um chip</string>
     <string name="sim_selection_channel_title">Seleção de chip</string>
     <string name="sim_selection_required_pref">Seleção necessária</string>
