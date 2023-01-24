@@ -84,8 +84,12 @@
     <string name="cloud_find_device_off">Desativado</string>
     <string name="cloud_find_device_on">Ativado</string>
     <string name="cloud_lab_title">Laboratório</string>
+    <string name="cloud_manage_storage_text">Gerencie o armazenamento em nuvem</string>
     <string name="cloud_service_open_authorization">"Bem-vindo aos serviços da MiCloud! Você pode usar o MiCloud para sincronizar suas notas, fotos e vídeos, gravações e outros itens de apps do sistema em todos os dispositivos conectados. Os backups do layout da tela inicial também serão armazenados na MiCloud. Você poderá ver todos os itens sincronizados em i.mi.com."</string>
+    <string name="cloud_storage_almost_full_upgrade_text">O armazenamento está quase cheio. Pode não ser possível sincronizar fotos.</string>
+    <string name="cloud_storage_common_functions_text">Usado frequentemente</string>
     <string name="cloud_service_title">"MiCloud"</string>
+    <string name="cloud_storage_full_upgrade_default_text">"Armazenamento insuficiente. Não foi possível sincronizar as fotos."</string>
     <string name="cloud_space_full_gallery_notification_content_text">Atualize o seu plano para obter mais espaço de armazenamento na nuvem</string>
     <string name="cloud_storage_already_full">O armazenamento da nuvem está cheio: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Ocupado: %1$s/%2$s</string>
@@ -98,6 +102,10 @@
     <string name="cloud_storage_loading_data">Aguarde…</string>
     <string name="cloud_storage_manage_title">Gerenciar armazenamento</string>
     <string name="cloud_storage_no_data">Nenhum item na nuvem ainda</string>
+    <string name="cloud_storage_sufficient_text">Atualize para obter até %dTB de armazenamento</string>
+    <string name="cloud_storage_upgrade_text">Melhorar</string>
+    <string name="cloud_storage_upgrade_text_now">Melhorar</string>
+    <string name="cloud_storage_zero_upgrade_button_text_now">Atualize gratuitamente</string>
     <string name="cloudservice_new_sync">Sincronizar %s com a MiCloud</string>
     <string name="confirm_delete">Excluir</string>
     <string name="confirm_save">Manter</string>
@@ -109,6 +117,7 @@
     <string name="copy">Copiar</string>
     <string name="cta_notification_content_text">Permita que o app %s conecte-se à Internet para poder restaurar os itens</string>
     <string name="cta_notification_content_title">Não é possível restaurar itens do %s</string>
+    <string name="customize_notification_btn_text">Melhorar</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Esta conta também foi usada em outro dispositivo. Mesclar os itens de vários apps (incluindo %1$s e %2$s) com os itens neste dispositivo?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Esta conta também foi usada em outro dispositivo. Mesclar os itens da %s com os itens neste dispositivo?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Esta conta também foi usada em outro dispositivo. Mesclar os itens da %1$s e %2$s com os itens neste dispositivo?</string>
@@ -126,6 +135,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
+    <string name="default_noti_quota_full_title">O armazenamento em nuvem está cheio</string>
     <string name="detect_sim_card">Verificar por cartão SIM</string>
     <string name="device_activation_card_cannot_get_yet">Não foi possível obter informações. Tente novamente mais tarde</string>
     <string name="device_activation_card_description">A primeira ativação é registada quando o dispositivo conecta-se à rede pela primeira vez. Normalmente, demora um pouco para ser feita a primeira ativação, por isso é melhor aguardar 3 a 5 dias para verificar o status da ativação.&lt;br>&lt;br>A ativação do dispositivo é o principal fator para determinar o período de validade da garantia extendida. Consulte a nossa &lt;a href=%1$s>Política de Devoluções, Reparos e Trocas&lt;/a> para mais detalhes.&lt;br>&lt;br>Sinta-se à vontade para ligar para nossa linha direta de suporte ao cliente se tiver alguma dúvida: 400-100-5678.</string>
@@ -707,11 +717,12 @@ Esta função criptografa e envia a ID do seu dispositivo para os servidores da 
     <string name="noti_quota_button_text">Atualizar</string>
     <string name="noti_quota_full_sum">Atualize seu plano de armazenamento para continuar sincronizando itens.</string>
     <string name="noti_quota_full_sum_without_button">Obtenha mais espaço de armazenamento para continuar sincronizando itens.</string>
-    <string name="noti_quota_full_title">O armazenamento na nuvem está cheio</string>
+    <string name="noti_quota_full_title">O armazenamento na nuvem está &lt;font color=#F22424>cheio&lt;/font></string>
     <string name="noti_quota_full_title_without_button">O armazenamento na nuvem está cheio</string>
     <string name="noti_quota_low_sum">Atualize seu plano de armazenamento para continuar sincronizando itens.</string>
     <string name="noti_quota_low_sum_without_button">Obtenha mais espaço de armazenamento para continuar sincronizando itens.</string>
     <string name="noti_quota_low_title">Armazenamento na nuvem insuficiente</string>
+    <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Menos que &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> de armazenamento em nuvem restante</string>
     <string name="noti_quota_low_title_without_button">Armazenamento na nuvem insuficiente</string>
     <string name="notification_reinstall_key_text">Verifique sua identidade e tente novamente</string>
     <string name="notification_sync_fail_title">Não foi possível sincronizar as senhas</string>

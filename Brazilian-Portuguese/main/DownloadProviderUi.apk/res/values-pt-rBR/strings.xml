@@ -316,7 +316,8 @@ Por favor, envie este código para o técnico."</string>
     <string name="installing">Instalando…</string>
     <string name="insufficient_space">Espaço insuficiente</string>
     <string name="invalid_address">O caminho do arquivo digitado é inválido</string>
-    <string name="jump_rank_hint">Veja os rankings de download de hoje &gt;</string>
+    <string name="jump_rank_hint">"Veja os rankings de download de hoje >"</string>
+    <string name="jump_rank_hint2">Ver os principais downloads</string>
     <string name="keep_queued_download">Manter</string>
     <string name="load_finish_hint">Você pode continuar vendo amanhã</string>
     <string name="loading">Aguarde…</string>

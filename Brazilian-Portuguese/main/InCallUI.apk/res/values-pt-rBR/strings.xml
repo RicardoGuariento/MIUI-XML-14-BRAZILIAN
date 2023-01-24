@@ -229,6 +229,7 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
+    <string name="high_temperature_toast">Na proteção de alta temperatura, a função está temporariamente indisponível</string>
     <string name="inCallLabel">Ui de chamadas</string>
     <string name="incall_bubble_hangup_click_hint">Toque novamente para voltar à chamada</string>
     <string name="incall_call_type_label_sip">Chamada pela internet</string>
@@ -471,7 +472,8 @@ Toque \"%1$s\" e depois selecione \"%2$s\"."</string>
     <string name="video_crbt_title">O VRBT do outro usuário está tocando</string>
     <string name="voice_control_deny_permission_msg">"Não é possível usar os controles de voz agora. Primeiro permita que este app grave o áudio."</string>
     <string name="voicemail">Mensagem de voz</string>
-    <string name="volte_call">Chamada VoLTE</string>
+    <string name="volte_call">"Chamada
+VoLTE"</string>
     <string name="volume_boost_text">Volume otimizado com sucesso</string>
     <string name="wait_prompt_str">"Enviar os toques a seguir
 "</string>
@@ -479,6 +481,7 @@ Toque \"%1$s\" e depois selecione \"%2$s\"."</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="wifi_call">Chamada VoWiFi</string>
+    <string name="wifi_call">"Chamada
+WiFi"</string>
     <string name="yesterday">Ontem</string>
 </resources>

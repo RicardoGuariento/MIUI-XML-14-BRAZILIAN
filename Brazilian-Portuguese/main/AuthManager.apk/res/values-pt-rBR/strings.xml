@@ -98,6 +98,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Obter o número de telefone para fazer login</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Se você não conseguir fazer login com um toque, volte para a página de login e tente novamente.</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Este app deseja adquirir seu número de telefone para fazer login. Permitir?</string>
+    <string name="HIPS_Perm_operator_shake">Acessar dados do acelerômetro</string>
+    <string name="HIPS_Perm_operator_shake_Desc">Os dados do acelerômetro são usados para rastrear a orientação e o movimento (por exemplo, agitação, inclinação e rotação)</string>
     <string name="HIPS_Perm_process_nfc">"NFC"</string>
     <string name="HIPS_Perm_process_nfc_Desc">Acessar hardware de NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Acessar app Telefone</string>
@@ -342,6 +344,7 @@
     <string name="permdesc_location_background">Permitir que %1$s acesse informações de localização em segundo plano?</string>
     <string name="permdesc_microphone">Permitir que %1$s use o microfone para gravar áudio?</string>
     <string name="permdesc_nearby_devices">Permitir que %1$s descubra e se conecte aos dispositivos próximos?</string>
+    <string name="permdesc_post_notification">Permitir que %1$s envie notificações?</string>
     <string name="permdesc_process_outgoing_call">Permitir que %1$s atenda e encerre chamadas?</string>
     <string name="permdesc_read_calendar">Permitir que %1$s acesse e edite eventos da agenda?</string>
     <string name="permdesc_read_call_log">Permitir que %1$s acesse o histórico de chamadas?</string>
@@ -353,6 +356,7 @@
     <string name="permdesc_recognition">Permitir que %1$s acesse suas informações de atividade?</string>
     <string name="permdesc_send_sms">Permitir que %1$s envie mensagens de texto?</string>
     <string name="permdesc_sensors">Permitir que %1$s leia os dados gerados pelos sensores corporais?</string>
+    <string name="permdesc_shake">Permitir que %1$s acesse os dados do acelerômetro?</string>
     <string name="permdesc_use_sip">Permitir que %1$s use o Protocolo de Iniciação de Sessão para transmitir vídeo?</string>
     <string name="permdesc_write_calendar">Permitir que %1$s crie e salve eventos da agenda?</string>
     <string name="permdesc_write_call_log">Permitir que %1$s edite o histórico de chamadas?</string>
