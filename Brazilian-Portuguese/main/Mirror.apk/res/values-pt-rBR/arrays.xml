@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="settings_search_mirror">
-        <item>"MIUI+"</item>
-        <item>Conexão e compartilhamento/MIUI+</item>
-        <item>Screen Combo;Dueto;Multi janelas;Duo;Computador;Espelhamento;MIUI+</item>
+        <item>"Dispositivos conectados"</item>
+        <item>Conexão e compartilhamento/Dispositivos conectados</item>
+        <item>MIUI+, MIUIPLUS, handoff, multi janelas, interconectividade, espelhamento de tela, mouse e teclado, extensão de tela, transferência de app, Mi Smart Hub, espelhar, extensão, multitarefa, compartilhar, mouse, teclado, conectar dispositivos</item>
     </string-array>
     <string-array name="settings_tips_message">
         <item>"1. Desative o ponto de acesso, Compartilhamento Mi ou a transmissão em seu dispositivo móvel antes de usar este recurso.

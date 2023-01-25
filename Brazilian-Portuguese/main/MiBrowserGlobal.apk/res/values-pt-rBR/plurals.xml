@@ -450,6 +450,10 @@
         <item quantity="other">%s solicitações de pesquisa</item>
         <item quantity="one">%s solicitação de pesquisa</item>
     </plurals>
+    <plurals name="second">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
     <plurals name="sku_price">
         <item quantity="other">%2$s a cada %1$s meses</item>
         <item quantity="one">%2$s a cada %1$s mês</item>

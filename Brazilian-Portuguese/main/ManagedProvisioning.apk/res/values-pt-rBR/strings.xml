@@ -36,9 +36,7 @@
     <string name="admin_has_ability_to_monitor_device">"Seu administrador de TI pode monitorar e gerenciar configurações, acesso corporativo, apps, permissões e dados associados a este dispositivo, incluindo sua atividade de rede, bem como a localização do seu dispositivo, histórico de chamadas e histórico de pesquisa de contato.
 
 Entre em contato com seu administrador de TI para obter mais informações, incluindo as políticas de privacidade de sua organização."</string>
-    <string name="admin_has_ability_to_monitor_profile">"Seu administrador de TI pode monitorar e gerenciar configurações, acesso corporativo, apps, permissões e dados associados a este perfil, incluindo sua atividade de rede, bem como a localização do seu dispositivo, histórico de chamadas e histórico de pesquisa de contato.
-
-Entre em contato com seu administrador de TI para obter mais informações, incluindo as políticas de privacidade de sua organização."</string>
+    <string name="admin_has_ability_to_monitor_profile">"Seu administrador de TI pode monitorar e gerenciar configurações, acesso corporativo, apps, permissões, dados e atividades de rede associadas a esse perfil, bem como seu histórico de chamadas e histórico de pesquisa de contatos. Entre em contato com seu administrador de TI para obter mais informações e saber mais sobre as políticas de privacidade de sua organização."</string>
     <string name="app_label">Configuração do perfil de trabalho</string>
     <string name="back">Voltar</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
@@ -118,6 +116,9 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="error_icon_content_description">Erro</string>
     <string name="error_installation_failed">Não foi possível instalar o app de administração</string>
     <string name="error_package_invalid">Não é possível usar o app para o administrador, porque estão faltando alguns componentes ou o app foi corrompido. Entre em contato com o administrador de TI para receber ajuda.</string>
+    <string name="error_role_holder_download_install_failed">Tente novamente mais tarde ou peça ajuda ao seu administrador de TI</string>
+    <string name="error_role_holder_hash_mismatch">"Não é possível configurar o dispositivo. Entre em contato com seu administrador de TI e mencione \"Soma de verificação inválida\"."</string>
+    <string name="error_role_holder_package_invalid">"Não é possível configurar o dispositivo. Entre em contato com seu administrador de TI e informe \"Componentes ausentes ou corrompidos\"."</string>
     <string name="error_wifi">Não foi possível conectar ao Wi-Fi</string>
     <string name="expand">Expandir</string>
     <string name="expand_button_title">Avançado</string>
@@ -187,6 +188,7 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
     <string name="mtrl_picker_a11y_prev_month">Alterar para o mês anterior</string>
     <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+    <string name="mtrl_picker_confirm">"OK"</string>
     <string name="mtrl_picker_date_header_title">Selecione a data</string>
     <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
@@ -212,6 +214,7 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
+    <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="navigation_button_description">Navegar para cima</string>
     <string name="next">Próximo</string>
     <string name="not_set">Não definido</string>
@@ -253,6 +256,7 @@ Entre em contato com seu administrador de TI para obter mais informações, incl
     <string name="section_heading">Título da seção %1$s.</string>
     <string name="set_up_everything_else">Configurar o restante</string>
     <string name="set_up_your_device">Configure o dispositivo</string>
+    <string name="setting_up">Configurando…</string>
     <string name="setting_up_workspace">Configurando seu perfil de trabalho…</string>
     <string name="setup_device">Configurar o dispositivo</string>
     <string name="setup_device_encryption">Configurar seu dispositivo. Criptografia</string>

@@ -519,6 +519,8 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="talkback_close">Fechar</string>
+    <string name="talkback_close_open_picture">Cancelar</string>
     <string name="talkback_continue">Retomar</string>
     <string name="talkback_doc_filter">Botão de filtro</string>
     <string name="talkback_list_play">Reproduzir tudo</string>
