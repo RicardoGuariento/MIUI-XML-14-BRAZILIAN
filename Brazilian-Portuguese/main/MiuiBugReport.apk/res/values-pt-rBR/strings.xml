@@ -201,6 +201,8 @@ Envie este código ao supervisor."</string>
     <string name="facebook_login_btn_content_description">Entre com o Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
     <string name="failed_to_fetch_fql">Não foi possível obter informações das Perguntas frequentes, verifique sua conexão de rede</string>
+    <string name="feedback_account_inconsistent_login_hint">Parece que você trocou de conta. Entre na sua Conta Mi usada anteriormente.</string>
+    <string name="feedback_account_login_hint">Primeiro faça login na sua Conta Mi</string>
     <string name="feedback_answer_detail_feedback_resolved">Sim</string>
     <string name="feedback_answer_detail_feedback_result">Obrigado pelo seu feedback!</string>
     <string name="feedback_answer_detail_feedback_title">Isto foi útil?</string>
@@ -396,6 +398,7 @@ Envie este código ao supervisor."</string>
     <string name="login_by_local_phone_long_text">Faça seu login agora</string>
     <string name="login_by_local_phone_short_text">Fazer login</string>
     <string name="login_other">Outra Conta Mi</string>
+    <string name="login_out">Sair</string>
     <string name="login_register_by_local_phone_long_text">Criar conta</string>
     <string name="login_with_sns">Outras maneiras de fazer login</string>
     <string name="logo_title">"Feedback"</string>
@@ -647,6 +650,7 @@ Envie este código ao supervisor."</string>
     <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
     <string name="passport_user_id_intro">Insira a senha para %1$s</string>
     <string name="passport_user_password_hint">Senha</string>
+    <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para o seu telefone de recuperação (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_v_code_error">Código de verificação incorreto</string>
     <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
     <string name="passport_vcode_prompt_long">Digite o código de verificação</string>

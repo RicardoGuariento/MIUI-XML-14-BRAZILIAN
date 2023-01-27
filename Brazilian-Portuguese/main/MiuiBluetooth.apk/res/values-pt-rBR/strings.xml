@@ -621,6 +621,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="miheadset_notification_Disconnect">Desconectar</string>
     <string name="miheadset_notification_LeftEar">E</string>
     <string name="miheadset_notification_RightEar">D</string>
+    <string name="miheadset_spatial_audio_change_to_phone">Alternou para áudio dimensional neste dispositivo</string>
     <string name="mihome_app_download">Instalar agora</string>
     <string name="mihome_app_update">Atualizar agora</string>
     <string name="mihome_download_tips">Instale o app Mi Home, faça o login, e segure seu telefone perto do dispositivo.</string>

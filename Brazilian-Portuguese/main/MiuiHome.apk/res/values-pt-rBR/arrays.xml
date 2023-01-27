@@ -48,6 +48,13 @@
         <item>G</item>
         <item>EG</item>
     </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Padrão</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Roxo</item>
+        <item>Marrom</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>Deslizar</item>
         <item>Suavizar</item>

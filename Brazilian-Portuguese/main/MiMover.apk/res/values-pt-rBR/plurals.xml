@@ -97,7 +97,7 @@
         <item quantity="one">&lt;g id="minute"&gt;%1$d&lt;/g&gt; minuto</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d objetos selecionados</item>
+        <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="num_minutes_ago">

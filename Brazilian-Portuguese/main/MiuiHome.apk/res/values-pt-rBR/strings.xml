@@ -154,6 +154,7 @@
     <string name="app_drawer_guide_description">Encontre o que você está procurando em seus apps favoritos</string>
     <string name="app_drawer_guide_title">Gaveta de apps</string>
     <string name="app_drawer_tip_title">Substituímos o Feed de conteúdo pela Gaveta de apps.</string>
+    <string name="app_edit_icon">Editar ícone</string>
     <string name="app_install_state">Instalado</string>
     <string name="app_name">Janela Pequena</string>
     <string name="application_name">Launcher do sistema</string>
@@ -299,6 +300,8 @@
     <string name="dialog_work_profile_content_2">Apps e dados de trabalho estão visíveis para o seu administrador de TI</string>
     <string name="dialog_work_profile_title">Perfil de trabalho</string>
     <string name="disable_wallpaper_scroll">Desativar deslizamento lateral</string>
+    <string name="dock_and_folder_not_edit_icon_tip">Para editar, primeiro mova o app para fora do dock e da pasta</string>
+    <string name="dock_not_edit_icon_tip">Para editar, primeiro mova o app para fora do dock</string>
     <string name="double_tap_to_lock_title">Tocar duas vezes para bloquear a tela</string>
     <string name="download_action">Baixar</string>
     <string name="drag_icon_to_homescreen_guide">Pressione e segure um ícone de app, e arraste-o para adicionar um atalho na Tela inicial</string>
@@ -312,6 +315,7 @@
     <string name="dual_app">"Dual apps"</string>
     <string name="early_morning">"AM"</string>
     <string name="edit">Editar</string>
+    <string name="edit_folder">Editar pasta</string>
     <string name="edit_folder_title">Editar nome da pasta</string>
     <string name="edit_mode_dual_app">Criar dual app</string>
     <string name="edit_mode_group">Agrupar</string>
@@ -384,6 +388,13 @@
     <string name="fold_pair_install_shortcut_long_click">Pressione e segure para adicionar à Tela inicial</string>
     <string name="fold_pair_installed_shortcut_launcher">Este atalho já existe</string>
     <string name="folder_name">Pasta</string>
+    <string name="folder_not_edit_icon_tip">Para editar, primeiro mova o app para fora da pasta</string>
+    <string name="folder_picker_big_2x2_9_text">"XXL"</string>
+    <string name="folder_picker_big_text">Ampliado</string>
+    <string name="folder_picker_default_text">"Regular"</string>
+    <string name="folder_picker_options_tab_text">Tamanho</string>
+    <string name="folder_picker_sliding_button_tab_text">Sugerir app destacados</string>
+    <string name="folder_picker_tab_text">Pasta</string>
     <string name="frame_load_failed">Não é possível carregar o quadro</string>
     <string name="free_style_apps_title">Escolher app</string>
     <string name="free_style_drawer_title">Todos os apps</string>
@@ -466,6 +477,7 @@
     <string name="image_too_small_message">A imagem original não é grande o suficiente.</string>
     <string name="in_app_result_by">Resultados no aplicativo por</string>
     <string name="install">Instalar</string>
+    <string name="intelligent_exposed_button_summary_text">Use sugestões inteligentes com base no uso do app para destacar apps em pastas ampliadas</string>
     <string name="invalid_contact_shortcut">Contato inválido</string>
     <string name="is_setting_wallpaper_message">Definindo o plano de fundo…</string>
     <string name="is_system_wallpaper_message">Não é possível excluir recursos do sistema</string>
@@ -557,6 +569,7 @@
     <string name="minus_one_screen">Assistente</string>
     <string name="miui_screen_config_title">Configurações da Tela inicial</string>
     <string name="miui_widget_menu_replace_text">Trocar</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">"Assistente não suporta widgets deste tamanho"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
@@ -586,6 +599,8 @@
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
+    <string name="monochrome_summary">Altere a cor de fundo para ícones compatíveis</string>
+    <string name="monochrome_title">Cor de fundo</string>
     <string name="month_april">Abril</string>
     <string name="month_april_short">Abr</string>
     <string name="month_april_shortest">Abr</string>
@@ -910,6 +925,7 @@
     <string name="sort_by_abc">Ordenar por nome</string>
     <string name="sort_by_frequency">Ordenar por uso</string>
     <string name="sort_by_not_defined">Ordenar automaticamente</string>
+    <string name="split_screen_position_top">Parte superior dividida</string>
     <string name="start_activity_failed">Não é possível iniciar o launcher</string>
     <string name="starting_preset_app">Iniciando…</string>
     <string name="status_bar_recent_memory_giga">%1$sGB</string>
@@ -994,6 +1010,8 @@
     <string name="title_select_shortcut">Selecionar atalho</string>
     <string name="toast_drag_to_assistant_reject">Inicializando o Assistente…</string>
     <string name="toast_screen_icons_misplaced">Restaurado de outra fonte, alguns itens podem estar trocados.</string>
+    <string name="toast_split_app_unsupported">O app não suporta tela dividida.</string>
+    <string name="toast_split_select_app">Toque em outro app para usar a tela dividida</string>
     <string name="today">Hoje</string>
     <string name="toggle_select_title">Escolha o atalho</string>
     <string name="toggle_title">Atalhos</string>
@@ -1046,8 +1064,12 @@
     <string name="widget_global_search">Pesquisar</string>
     <string name="widget_quick_function">Funções rápidas</string>
     <string name="widgets_preview_title">Adicionar widgets</string>
+    <string name="work_mode_off_detailed_text">"Seus apps de trabalho não podem enviar notificações, usar sua bateria ou acessar sua localização"</string>
     <string name="work_mode_off_label">As notificações estão desativadas e os apps não estão disponíveis agora</string>
+    <string name="work_mode_off_text">Os apps de trabalho estão pausados</string>
     <string name="work_mode_on_label">Gerenciado pela sua organização</string>
+    <string name="work_mode_toggle_off">Desative os apps de trabalho</string>
+    <string name="work_mode_toggle_on">Ative os apps de trabalho</string>
     <string name="work_profile_first_content">Dados pessoais estão separados e ocultos de apps de trabalho</string>
     <string name="work_profile_got_button">Entendi</string>
     <string name="work_profile_next_button">Avançar</string>

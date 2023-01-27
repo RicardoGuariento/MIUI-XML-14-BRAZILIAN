@@ -165,6 +165,10 @@
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
     </plurals>
+    <plurals name="delete_brust_title">
+        <item quantity="other">Excluir %d disparos contínuos?</item>
+        <item quantity="one">Excluir %d disparos contínuo?</item>
+    </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Excluir %d disparos contínuos da MiCloud e de todos os dispositivos sincronizados?</item>
         <item quantity="one">Excluir %d disparo contínuo da MiCloud e de todos os dispositivos sincronizados?</item>
@@ -188,6 +192,10 @@
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Excluir %d fotos de todos os dispositivos e da MiCloud?</item>
         <item quantity="one">Excluir %d foto de todos os dispositivos e da MiCloud?</item>
+    </plurals>
+    <plurals name="delete_media_title">
+        <item quantity="other">Excluir %d itens?</item>
+        <item quantity="one">Excluir %d item?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Excluir %d disparos contínuos do seu dispositivo?</item>
@@ -491,6 +499,46 @@
     <plurals name="send_zip_dialog_desc_receiving">
         <item quantity="other">Recebendo %2$d arquivos (%3$s) de %1$s…</item>
         <item quantity="one">Recebendo %2$d arquivo (%3$s) de %1$s…</item>
+    </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Fotos enviadas: %d</item>
+        <item quantity="one">Fotos enviadas: %d</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d rooms</item>
+        <item quantity="one">%1$d room</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d screens</item>
+        <item quantity="one">%1$d screen</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d screens</item>
+        <item quantity="one">%1$d screen</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d shared screens</item>
+        <item quantity="one">%1$d shared screen</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">Ambientes domésticos inteligentes disponíveis: %1$d</item>
+        <item quantity="one">Ambientes domésticos inteligentes disponíveis: %1$d</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d itens são muito grandes para sincronizar</item>
+        <item quantity="one">%d item e muito grande para sincronizar</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">"Não foi possível sincronizar %d itens. Atualize seu plano de armazenamento."</item>
+        <item quantity="one">"Não foi possível sincronizar %d item. Atualize seu plano de armazenamento."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">"Não foi possível sincronizar %d itens. Tente novamente."</item>
+        <item quantity="one">"Não foi possível sincronizar %d item. Tente novamente."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">"Não foi possível sincronizar %d itens. O proprietário deste álbum está sem armazenamento na nuvem."</item>
+        <item quantity="one">"Não foi possível sincronizar %d itens. O proprietário deste álbum está sem armazenamento na nuvem."</item>
     </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d segundos</item>
