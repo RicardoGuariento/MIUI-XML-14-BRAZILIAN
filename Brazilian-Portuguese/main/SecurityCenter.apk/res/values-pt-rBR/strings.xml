@@ -5055,6 +5055,7 @@ Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</
     <string name="storage_system_memory_expansion">Extensão de memória</string>
     <string name="storage_system_memory_expansion_tip">Estende a memória RAM ocupando o armazenamento interno</string>
     <string name="storage_system_other_tip">Dados necessários para que o sistema funcione normalmente (o tamanho do arquivo pode mudar com o tempo)</string>
+    <string name="storage_system_other_tip_new">Inclui o espaço de armazenamento necessário para a operação e atualizações do sistema. O tamanho desta partição irá variar de acordo com o status do sistema.</string>
     <string name="storage_unmount_failure">Não foi possível ejetar o %1$s</string>
     <string name="storage_unmount_success">%1$s ejetado com sucesso</string>
     <string name="storage_wizard_format_confirm_v2_action">Formatar ^1</string>
