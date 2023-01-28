@@ -586,12 +586,13 @@ Verifique seu cartão SIM."</string>
     <string name="mms_block_hint">"Este remetente não está nos seus contatos.
 Esta mensagem pode não ter sido solicitada."</string>
     <string name="mms_block_hint_highlight">Bloquear MMS</string>
-    <string name="mms_main_purpose">Para ter acesso a todos os recursos do app Mensagens, ative o Mi Message e as Mensagens Inteligentes.</string>
+    <string name="mms_main_purpose">Para ter acesso a todos os recursos do app Mensagens, ative o Mi Mensagens e as Mensagens Inteligentes.</string>
+    <string name="mms_main_purpose_new">Este app precisa se conectar à internet para fornecer serviços básicos. Recomendamos que você ative os serviços Mi Mensagens e as Mensagens Inteligentes.</string>
     <string name="mms_mi_message_main_purpose">Bem-vindo ao Mi Mensagens! Uma mensagem SMS é necessária para ativar o Mi Mensagens. Sua operadora cobrará por esta mensagem.</string>
     <string name="mms_mi_message_request_notice">Queremos que você aproveite ao máximo o Mi Mensagens.</string>
     <string name="mms_mx_privacy_policy">Política de privacidade do Mi Mensagens</string>
     <string name="mms_smart_msg_main_purpose">As Mensagens Inteligentes pode reconhecer IDs de remetentes, fornecer serviços de menu inteligente e identificar mensagens suspeitas.</string>
-    <string name="mms_smart_msg_privacy_policy">Política de Privacidade de Mensagens Inteligentes</string>
+    <string name="mms_smart_msg_privacy_policy">Política de Privacidade das Mensagens Inteligentes</string>
     <string name="mms_title">Mensagens</string>
     <string name="mms_user_agreement">Contrato do Usuário</string>
     <string name="mobile_charge">Recarregar</string>
@@ -704,7 +705,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="mx_on_sim_2">Mi Mensagens com o SIM 2</string>
     <string name="mx_online">Ativado</string>
     <string name="mx_privacy_policy">Política de Privacidade do Mi Mensagens</string>
-    <string name="mx_privacy_policy_revoke">Retirar o consentimento com a Política de Privacidade do Mi Messagens</string>
+    <string name="mx_privacy_policy_revoke">Retirar o consentimento com a Política de Privacidade do Mi Mensagens</string>
     <string name="mx_reactivate">Reativar Mi Mensagens</string>
     <string name="mx_recommend_msg">Toque para ativar o Mi Mensagens</string>
     <string name="mx_stranger_recommend_msg">Toque para bloquear Mi Mensagens de números desconhecidos</string>
@@ -919,7 +920,7 @@ Leia e concorde com a nova versão da Política de Privacidade antes de continua
     <string name="privacy_revoke_nonetwork_ok">Entendi</string>
     <string name="privacy_revoke_nonetwork_title">Não é possível conectar-se à rede</string>
     <string name="privacy_state_revoked_cancel">Cancelar</string>
-    <string name="privacy_state_revoked_content">Ao desativar o seletor, você retira seu consentimento com a Política de Privacidade do app Mensagens. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Mi Mensagens e Mensagens Inteligentes fornecidos pelo Mensagens precisam coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada de consentimento à Política de Privacidade de Mensagens será considerada como recusa em aceitar os serviços com base nas informações pessoais coletadas fornecidas por Mi Mensagens e Mensagens Inteligentes.</string>
+    <string name="privacy_state_revoked_content">Ao desativar o seletor, você retira seu consentimento com a Política de Privacidade do app Mensagens. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. O Mi Mensagens e Mensagens Inteligentes fornecidos pelo Mensagens precisam coletar as informações pessoais necessárias para lhe fornecer serviços básicos. Sua retirada de consentimento à Política de Privacidade das Mensagens será considerada como recusa em aceitar os serviços com base nas informações pessoais coletadas fornecidas por Mi Mensagens e Mensagens Inteligentes.</string>
     <string name="privacy_state_revoked_dialog_title">Retirada de consentimento</string>
     <string name="privacy_state_revoked_revoked">Retirar</string>
     <string name="privacy_state_revoked_switch">Retirada de consentimento</string>
@@ -1282,7 +1283,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="smart_messages_network_allow_title">Conexão com a internet necessária</string>
     <string name="smart_msg_main_purpose">O recurso Mensagens Inteligentes fornece o reconhecimento de ID de remetentes e serviços de menu inteligente.</string>
     <string name="smart_msg_privacy_policy">Política de Privacidade das Mensagens Inteligentes</string>
-    <string name="smart_msg_privacy_policy_revoke">Retire o consentimento para a Política de Privacidade de Mensagens Inteligentes</string>
+    <string name="smart_msg_privacy_policy_revoke">Retire o consentimento para a Política de Privacidade das Mensagens Inteligentes</string>
     <string name="smart_msg_upgrade_main_purpose">As Mensagens Inteligentes funcionam agora com MMS. Você poderá utilizar mais serviços fornecidos pelos remetentes, bem como receber mensagens em novos formatos.</string>
     <string name="sms_card_partner_label">"Cartão SMS de parceiro: "</string>
     <string name="sms_card_teddy_mobile">"Teddy Mobile"</string>
