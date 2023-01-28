@@ -343,7 +343,7 @@ You can start another session on your computer."</string>
     <string name="pad_settings_pc_trusted_title">Conectar automaticamente</string>
     <string name="pad_settings_pc_use_tile">Sobre esse recurso</string>
     <string name="pad_settings_phone_handoff_summary">Use HANDOFF com apps, prancheta, vídeos e outros itens no outro dispositivo associado à sua Conta MI</string>
-    <string name="pad_settings_phone_handoff_title">Handoff</string>
+    <string name="pad_settings_phone_handoff_title">"Handoff"</string>
     <string name="pad_settings_scanner_summary">Conecte-se ao MIUI+ usando um código QR</string>
     <string name="pad_settings_trusted_delete_dialog_msg">"Você não poderá se conectar a este dispositivo automaticamente depois de removê-lo da lista."</string>
     <string name="pad_settings_trusted_tips">Conecte-se a dispositivos próximos selecionados automaticamente quando Bluetooth e Wi-Fi estão ativados</string>
