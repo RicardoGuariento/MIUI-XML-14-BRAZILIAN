@@ -518,6 +518,7 @@
     <string name="need_read_storage_permission">Arquivos necessita de permissão de acesso ao armazenamento do dispositivo para funcionar normalmente</string>
     <string name="network_not_available">Não é possível conectar-se à rede</string>
     <string name="new_folder_name">Nova pasta</string>
+    <string name="new_storage_info_detail">Livre: %1$s | Total: %2$s</string>
     <string name="next">Próximo</string>
     <string name="night">"PM"</string>
     <string name="no">Não</string>
