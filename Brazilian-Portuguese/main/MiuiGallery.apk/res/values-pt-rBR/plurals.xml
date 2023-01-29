@@ -635,6 +635,14 @@
         <item quantity="other">Os itens podem ser armazenados aqui por até %1$d dias (%2$s)</item>
         <item quantity="one">Os itens podem ser armazenados aqui por %1$d dia (%2$s)</item>
     </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Os itens podem ser armazenados aqui por %1$s dias. Toque para estender este período.</item>
+        <item quantity="one">Os itens podem ser armazenados aqui por %1$s dia. Toque para estender este período.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Os itens excluídos são armazenados na nuvem por %1$d dias</item>
+        <item quantity="one">Os itens excluídos são armazenados na nuvem por %1$d dia</item>
+    </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Os itens podem ser armazenados aqui por até %1$d dias. Faça o upgrade do seu plano para estender este período.</item>
         <item quantity="one">Os itens podem ser armazenados aqui por %1$d dia. Faça o upgrade do seu plano para estender este período.</item>

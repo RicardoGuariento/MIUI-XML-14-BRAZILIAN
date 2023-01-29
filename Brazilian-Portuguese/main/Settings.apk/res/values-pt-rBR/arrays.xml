@@ -405,6 +405,8 @@
         <item>Desativado</item>
         <item>Filtrado</item>
         <item>Ativado</item>
+        <item>Cabeçalhos filtrados</item>
+        <item>Pacotes de mídia filtrados</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>

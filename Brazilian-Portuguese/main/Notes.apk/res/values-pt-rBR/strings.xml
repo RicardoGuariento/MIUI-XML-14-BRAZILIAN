@@ -699,7 +699,7 @@
     <string name="private_entry_default">Puxe para baixo para abrir a pasta privada</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="quick_note_link_default_text">"URL"</string>
-    <string name="quick_note_new_user_guide">As notas rápidas permitem que você crie notas e excertos</string>
+    <string name="quick_note_new_user_guide">Notas rápidas permitem que você crie notas e excertos</string>
     <string name="recover_notes_hint">Ocorreu um erro, acesse i.mi.com para restaurar as notas.</string>
     <string name="redo">Refazer</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Aguarde até a nota carregar e tente novamente.</string>

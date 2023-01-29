@@ -1520,8 +1520,8 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Use protocolos Bluetooth P2P de alta velocidade para transferências</string>
     <string name="bluetooth_enable_page_scan">Ativar página de verificação do Bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">Ativar/desativar página de verificação para testar o Bluetooth</string>
-    <string name="bluetooth_enable_pts_test">habilitar teste PTS bluetooth</string>
-    <string name="bluetooth_enable_pts_test_summary">desabilita/habilita teste PTS Bluetooth</string>
+    <string name="bluetooth_enable_pts_test">Ativar teste PTS bluetooth</string>
+    <string name="bluetooth_enable_pts_test_summary">Desativa/Ativa o teste PTS Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Digite o código de pareamento e pressione \"Return\" ou \"Enter\"</string>
     <string name="bluetooth_enter_passkey_other_device">Talvez seja necessário digitar esta senha no outro dispositivo.</string>
     <string name="bluetooth_enter_pin_other_device">Talvez seja necessário digitar este PIN no outro dispositivo.</string>
@@ -3334,8 +3334,8 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_mms_notification_channel_title">Mensagem MMS</string>
     <string name="enable_mms_notification_summary">Toque para permitir mensagens MMS pela %1$s quando os dados móveis estiverem desativados</string>
     <string name="enable_mobile_data_when_opening_hotspot">Ativar também a conexão de dados móveis?</string>
-    <string name="enable_non_resizable_multi_window">Ativar não redimensível em multi janela</string>
-    <string name="enable_non_resizable_multi_window_summary">Permite que apps não redimensionáveis sejam executados em multi janela</string>
+    <string name="enable_non_resizable_multi_window">Ativar compatibilidade para multi janela</string>
+    <string name="enable_non_resizable_multi_window_summary">Permite que apps não compatíveis sejam executados em multi janela</string>
     <string name="enable_opengl_traces_title">Ativar rastream. OpenGL</string>
     <string name="enable_quick_setting">Mostrar em \"Configurações rápidas\"</string>
     <string name="enable_quick_start">Ativar o início rápido</string>
@@ -3860,8 +3860,8 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="force_allow_on_external">Forçar permissão de apps a escrever no armaz. externo</string>
     <string name="force_allow_on_external_summary">Qualifica apps p/ gravação em armazenamento externo, independentemente de valores de manifestos</string>
     <string name="force_bold_text">Texto em negrito</string>
-    <string name="force_desktop_mode">Forçar modo de área de trabalho</string>
-    <string name="force_desktop_mode_summary">Force o modo de área de trabalho experimental em telas secundárias</string>
+    <string name="force_desktop_mode">Forçar Modo desktop</string>
+    <string name="force_desktop_mode_summary">Força o Modo desktop experimental em telas secundárias</string>
     <string name="force_high_refresh_rate_desc">Maior taxa de atualização para melhor capacidade de resposta ao toque e qualidade de animação. Aumenta o uso da bateria.</string>
     <string name="force_high_refresh_rate_toggle">Taxa de atualização de pico de força</string>
     <string name="force_immersive_compatibility_dont_hide">Não ocultar</string>
@@ -7253,6 +7253,12 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="reading_settings">Lendo configurações…</string>
     <string name="really_remove_account_message">A remoção desta conta excluirá todas as suas mensagens, contatos e outros dados do telefone!</string>
     <string name="really_remove_account_title">Remover conta?</string>
+    <string name="reboot_dialog_enable_freeform_support">Uma reinicialização é necessária para habilitar o suporte a Janelas flutuantes.</string>
+    <string name="reboot_dialog_force_desktop_mode">Uma reinicialização é necessária para forçar o Modo desktop em monitores secundários.</string>
+    <string name="reboot_dialog_reboot_later">Reiniciar depois</string>
+    <string name="reboot_dialog_reboot_now">Reinicie agora</string>
+    <string name="reboot_with_mte_message">O sistema será reinicializado e permitirá experimentar o Extensão de Marcação de Memória (MTE). O MTE pode afetar negativamente o desempenho e a estabilidade do sistema. Será redefinido na próxima reinicialização subsequente.</string>
+    <string name="reboot_with_mte_title">Reiniciar com MTE</string>
     <string name="rebootiing_for_updates">Atualizando…</string>
     <string name="receiver_clean">Liberar espaço</string>
     <string name="recent_app_category_title">Apps abertos recentemente</string>
@@ -9327,7 +9333,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tethering_footer_info">Use o ponto de acesso e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão de dados móveis. Os apps também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos próximos.</string>
     <string name="tethering_footer_info_sta_ap_concurrency">Use o ponto de acesso e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão Wi-Fi ou de dados móveis. Os apps podem também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos próximos.</string>
     <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
-    <string name="tethering_hardware_offload_summary">Usar aceleração de hardware para ancoragem de Internet se disponível</string>
+    <string name="tethering_hardware_offload_summary">Usa aceleração de hardware para ancoragem de Internet se disponível</string>
     <string name="tethering_help_button_text">Ajuda</string>
     <string name="tethering_interface_options">Ancoragem</string>
     <string name="tethering_settings_not_available">Altere as configurações de vínculo no Primeiro espaço</string>
@@ -10645,6 +10651,8 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_no_related_sim_card">Nenhum</string>
     <string name="wifi_no_sim_card">Sem cartão SIM</string>
     <string name="wifi_no_user_cert_warning">Certificado obrigatório.</string>
+    <string name="wifi_non_persistent_mac_randomization">Randomização do endereço MAC</string>
+    <string name="wifi_non_persistent_mac_randomization_summary">Quando este modo está ativado, o endereço MAC deste dispositivo pode mudar sempre que ele se conectar a uma rede que tenha a randomização de MAC ativa.</string>
     <string name="wifi_not_in_range">Fora de alcance</string>
     <string name="wifi_not_in_range_message">Rede fora do alcance</string>
     <string name="wifi_notify_cmcc_connected_summary">Mostrar notificação quando conectado a uma rede CMCC</string>
@@ -11437,7 +11445,7 @@ Eu só queria verificar como os projetos estão indo. Eles estarão prontos ante
     <string name="allow_turn_screen_on">Permitir que a tela seja ligada</string>
     <string name="allow_turn_screen_on_description">Permitir que um aplicativo ligue a tela. Se essa permissão for concedida, o aplicativo poderá ativar a tela a qualquer momento sem sua intenção explícita.</string>
     <string name="freeform_guide_vedio_description">Toque em um aplicativo na barra lateral para abri-lo em uma janela flutuante</string>
-    <string name="legacy_power_menu">Menu de energia legado</string>
+    <string name="legacy_power_menu">Menu de energia (antigo)</string>
     <string name="ingress_rate_limit_dialog_title">Configurar limite de taxa de download de rede</string>
     <string name="ingress_rate_limit_no_limit_entry">Ilimitado</string>
     <string name="ingress_rate_limit_summary">Configure o limite de taxa de entrada da largura de banda da rede que é aplicado a todas as redes que fornecem conectividade com a Internet.</string>
@@ -11445,7 +11453,7 @@ Eu só queria verificar como os projetos estão indo. Eles estarão prontos ante
     <string name="nfc_stack_debuglog_summary">Aumente o nível de registro da pilha NFC</string>
     <string name="nfc_stack_debuglog_title">Log de depuração da pilha NFC</string>
     <string name="back_navigation_animation">Animações de retorno preditivas</string>
-    <string name="back_navigation_animation_dialog">Essa configuração permite animações do sistema para gestos preditivos. Requer a definição de enableOnBackInvokedCallback como Verdadeiro no arquivo de manifesto de cada aplicativo.</string>
+    <string name="back_navigation_animation_dialog">Essa configuração permite animações do sistema para gestos preditivos. Requer a definição de enableOnBackInvokedCallback como True no arquivo de manifesto de cada app.</string>
     <string name="back_navigation_animation_summary">Ativar animações do sistema para retorno preditivo</string>
     <string name="stylus_handwriting">Caligrafia com Stylus</string>
     <string name="stylus_handwriting_summary">Quando ativado, o método de entrada atual recebe o MotionEvent do Stylus se um editor estiver focado.</string>

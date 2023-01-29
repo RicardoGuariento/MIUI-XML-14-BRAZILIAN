@@ -60,9 +60,9 @@
     <string name="analying">Analisando…</string>
     <string name="apk_status_damage">Corrompido</string>
     <string name="apk_status_duplicate">Duplicado</string>
-    <string name="apk_status_install">Instalado</string>
+    <string name="apk_status_install">Instalado:</string>
     <string name="apk_status_installed_old">Versão antiga</string>
-    <string name="apk_status_uninstalled">Não instalado</string>
+    <string name="apk_status_uninstalled">Não instalado:</string>
     <string name="apk_title_alipay_plugin">Plugin Alipay</string>
     <string name="app_clean_group_document_recv">Arquivos recebidos</string>
     <string name="app_clean_group_document_send">Arquivos enviados</string>

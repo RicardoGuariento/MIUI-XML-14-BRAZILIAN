@@ -66,7 +66,7 @@
     <string name="effect_3dsurround_summary">Aumenta a profundidade da reprodução de sons para fones de ouvido e alto-falantes</string>
     <string name="effect_3dsurround_summary_headphone">Aumenta a profundidade da reprodução de sons para fones de ouvido</string>
     <string name="effect_virtual_surround">Som virtual imersivo</string>
-    <string name="effect_virtual_surround_summary">"Enriqueça a profundidade do som para reprodução de áudio e vídeo em fones de ouvido (este recurso não funcionará quando o áudio %.1f for reproduzido)"</string>
+    <string name="effect_virtual_surround_summary">"Enriqueçe a profundidade do som para reprodução de áudio e vídeo em fones de ouvido (este recurso não funcionará quando o áudio %.1f for reproduzido)"</string>
     <string name="empty" />
     <string name="end_wireless_transmission">Parar</string>
     <string name="eq_auto">Personalizado</string>

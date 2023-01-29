@@ -3889,7 +3889,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_contacts_msg">Contatos</string>
     <string name="pp_data_rights_realization">Direitos de dados</string>
     <string name="pp_fuzzy_positioning">Precisão de localização mais baixa</string>
-    <string name="pp_fuzzy_positioning_detail">Diminuir a precisão de localização e permitir que apps acessem informações de localização menos precisas</string>
+    <string name="pp_fuzzy_positioning_detail">Diminui a precisão de localização e permite que apps acessem informações de localização menos precisas</string>
     <string name="pp_grant_permission_only_during_app_use">Permitir que apps usem permissões apenas durante a sua utilização</string>
     <string name="pp_grant_permission_only_during_app_use_detail">Para impedir que um app use permissões em segundo plano, você pode permitir o uso das permissões relacionadas à localização, gravação de áudio e contatos apenas enquanto o app estiver em uso</string>
     <string name="pp_hide_app">Ocultar apps</string>
@@ -3902,7 +3902,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_local_msg">Informações de localização</string>
     <string name="pp_manage_apps_location_information">Permite que apps acessem sua localização</string>
     <string name="pp_manage_track">Monitorar rastreadores</string>
-    <string name="pp_manage_track_summary">Detecte e desative vários tipos de rastreadores embutidos em apps. Esses rastreadores podem compartilhar seus identificadores pessoais, acessando e salvando itens no armazenamento interno ou usar SDKs compartilhados para rastrear sua atividade.</string>
+    <string name="pp_manage_track_summary">Detecta e desativa vários tipos de rastreadores embutidos em apps. Esses rastreadores podem compartilhar seus identificadores pessoais, acessando e salvando itens no armazenamento interno ou usar SDKs compartilhados para rastrear sua atividade.</string>
     <string name="pp_one_app_two_use">Use duas contas sem sair</string>
     <string name="pp_one_phone_two_space">Use um dispositivo como dois</string>
     <string name="pp_only_allow_permission_during_this_run">Permitir que apps usem as permissões uma vez</string>
@@ -3910,7 +3910,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_operator_get_number">Necessário aprovação para acessar o Nº de telefone</string>
     <string name="pp_operator_get_number_summary">Os apps pedirão sua permissão quando quiserem acessar seu Nº de telefone para fazer login.</string>
     <string name="pp_optional_protection_function">Medidas de proteção opcionais</string>
-    <string name="pp_permission_action_virtual_detail">Conceda permissões, mas dê aos apps arquivos em branco em vez de informações pessoais</string>
+    <string name="pp_permission_action_virtual_detail">Concede permissões, mas fornece aos apps arquivos em branco em vez de informações pessoais</string>
     <string name="pp_permission_settings">Permissões</string>
     <string name="pp_privacy_input_tips">Proteja seu teclado</string>
     <string name="pp_privacy_lab_blur_location">Localização aproximada</string>
@@ -5314,7 +5314,24 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tc_sms_report_upload_when_net">Obrigado pelo seu feedback!</string>
     <string name="tc_web_correct_error">Não foi possível calibrar</string>
     <string name="ten_percent_total_pkg">%s (10%% do plano mensal)</string>
-     <string name="terms_and_conditions_content"><Data>"Esse recurso fornece a funcionalidade de alerta de terremotos. Ele irá notificá-lo sobre os próximos terremotos e reproduzir um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Nós protegemos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para poder funcionar normalmente, este recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer alertas precisos de terremoto. &lt;br>Se você não concordar em conceder tais permissões ou compartilhar suas informações pessoais, não poderá usar esse recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e concordar com nossa &lt;a href=%s>Política de Privacidade&lt;/a> antes de usar este recurso."</Data></string>
+    <string name="terminal_privacy">Proteção de privacidade no dispositivo</string>
+    <string name="terminal_privacy_ability">Features and mechanisms</string>
+    <string name="terminal_privacy_ability_img">Características e mecanismos</string>
+    <string name="terminal_privacy_ability_img_summary">Edição inteligente e reconhecimento de fotos e vídeos em Câmera, Galeria e Taplus</string>
+    <string name="terminal_privacy_ability_model">Reconhecer como seu dispositivo interage com o ambiente</string>
+    <string name="terminal_privacy_ability_model_summary">Contador de passos, gestos inteligentes, modo bolso e brilho automático</string>
+    <string name="terminal_privacy_ability_others">Outros mecanismos</string>
+    <string name="terminal_privacy_ability_others_summary">Compartilhamento de tela, teste de ambiente de pagamento, impressão digital e reconhecimento facial</string>
+    <string name="terminal_privacy_ability_suggest">Recomendações</string>
+    <string name="terminal_privacy_ability_suggest_summary">Recomendações e sugestões das pastas da Tela inicial, barra lateral e Carteira Mi</string>
+    <string name="terminal_privacy_ability_summary">• Os recursos e mecanismos de proteção de privacidade no dispositivo podem variar de acordo com o modelo do dispositivo</string>
+    <string name="terminal_privacy_ability_txt">Texto</string>
+    <string name="terminal_privacy_ability_txt_summary">Edição de texto, legendas inteligentes, Taplus, mensagens e área de transferência compartilhada</string>
+    <string name="terminal_privacy_ability_voice">Reconhecimento de fala</string>
+    <string name="terminal_privacy_ability_voice_summary">Comandos de voz e legendas inteligentes</string>
+    <string name="terminal_privacy_instruction">A proteção de privacidade no dispositivo inclui os recursos que garantem que suas informações pessoais sejam mantidas neste dispositivo em vez de serem carregadas na nuvem</string>
+    <string name="terminal_privacy_summary">Processar informações pessoais neste dispositivo</string>
+    <string name="terms_and_conditions_content"><Data>"Esse recurso fornece a funcionalidade de alerta de terremotos. Ele irá notificá-lo sobre os próximos terremotos e reproduzir um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Nós protegemos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para poder funcionar normalmente, este recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer alertas precisos de terremoto. &lt;br>Se você não concordar em conceder tais permissões ou compartilhar suas informações pessoais, não poderá usar esse recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e concordar com nossa &lt;a href=%s>Política de Privacidade&lt;/a> antes de usar este recurso."</Data></string>
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_value_custom">Personalizado</string>
