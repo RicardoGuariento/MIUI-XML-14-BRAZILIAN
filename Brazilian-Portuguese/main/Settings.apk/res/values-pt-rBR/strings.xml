@@ -10711,6 +10711,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_required_info_text">Para concluir a configuração, seu dispositivo precisa acessar uma rede Wi-Fi. Após a instalação, você poderá alternar entre a conexão de dados móveis e o Wi-Fi.</string>
     <string name="wifi_sap_no_channel_error">Banda de 5 GHz não está disponível neste país</string>
     <string name="wifi_save">Salvar</string>
+    <string name="wifi_saved_access_point">Redes salvas</string>
     <string name="wifi_saved_access_points_label">Redes salvas</string>
     <string name="wifi_saved_other_networks_tab">Outras redes</string>
     <string name="wifi_scan_always_available">Verificação sempre disponível</string>
