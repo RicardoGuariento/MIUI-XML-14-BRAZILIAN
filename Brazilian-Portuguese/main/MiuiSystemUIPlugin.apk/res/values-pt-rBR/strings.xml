@@ -216,8 +216,8 @@
     <string name="miplay_headset_lc3_hint">Desative o LC3 para poder alterar a saída de áudio para este dispositivo</string>
     <string name="miplay_service_timeout_toast">A conexão expirou. Tente novamente.</string>
     <string name="miplay_song_title_empty">Sem músicas</string>
-    <string name="miui_dnd_count_down">Deslize para definir o temporizador</string>
-    <string name="miui_dnd_count_down_time">"Temporizador do Não perturbe
+    <string name="miui_dnd_count_down">Deslize para definir o timer</string>
+    <string name="miui_dnd_count_down_time">"Timer do Não perturbe
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Configurações</string>
     <string name="miui_guide_dialog_button_positive_text">Entendi</string>

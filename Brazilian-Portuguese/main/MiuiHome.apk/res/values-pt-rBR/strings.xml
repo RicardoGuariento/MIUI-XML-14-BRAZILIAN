@@ -325,7 +325,7 @@
     <string name="edit_mode_group_error_nothing_be_selected">Selecione um app primeiro</string>
     <string name="edit_mode_group_error_one_folder">Não é possível duplicar uma pasta com os ícones selecionados</string>
     <string name="edit_mode_top_menu_finish">Concluído</string>
-    <string name="edit_mode_uninstall">Desinstalar</string>
+    <string name="edit_mode_uninstall">Excluir</string>
     <string name="editing_add_widget_tips">Editar widgets</string>
     <string name="editing_mode_enter_tip_text">Faça o gesto de pinça para editar a Tela inicial</string>
     <string name="editing_mode_title_empty">Nenhum item selecionado</string>
@@ -905,8 +905,8 @@
     <string name="shake_to_align_icons">Balance o dispositivo para preencher espaços vazios com ícones</string>
     <string name="shake_to_align_icons_summary">Balance o dispositivo enquanto estiver no modo edição para preencher os espaços vazios automaticamente</string>
     <string name="shake_to_align_icons_title">Balance para preencher espaços vazios</string>
-    <string name="share">Compart.</string>
-    <string name="shortcut_share_dialog_content">Os arquivos que você envia do seu telefone, bem como os destinatários, são selecionados e determinados por você. Tenha atenção ao escolher arquivos para compartilhar e os destinatários que selecionar. Você não pode usar o seu telefone para transmitir nenhum vírus, malware, trojans, bombas de tempo, e outros objetos prejudiciais para outras pessoas. Não use seu telefone para transmitir qualquer software que possa afetar o uso normal do dispositivo do destinatário ou qualquer item que possa danificar, interferir, interceptar ou eliminar quaisquer dados de sistema ou informações pessoais em dispositivos terminais móveis. Você será o responsável por qualquer dano causado a outros usuários ou dispositivos terminais móveis. A Xiaomi fará o seu melhor para garantir que a funcionalidade de compartilhamento, bem como as tecnologias e informações envolvidas sejam seguras, efetivas, precisas e confiáveis. No entanto, devido às limitações de tecnologias atuais, a Xiaomi não garante que a funcionalidade de compartilhamento é livre de erros e satisfará as suas necessidades.</string>
+    <string name="share">Enviar</string>
+    <string name="shortcut_share_dialog_content">Os arquivos que você envia do seu telefone, bem como os destinatários, são selecionados e determinados por você. Tenha atenção ao escolher arquivos para compartilhar e os destinatários que selecionar. Você não pode usar o seu telefone para transmitir nenhum vírus, malware, trojans, bombas-relógio e outros objetos prejudiciais para outras pessoas. Não use seu telefone para transmitir qualquer software que possa afetar o uso normal do dispositivo do destinatário ou qualquer item que possa danificar, interferir, interceptar ou excluir quaisquer dados de sistema ou informações pessoais em dispositivos terminais móveis. Você será o responsável por qualquer dano causado a outros usuários ou dispositivos terminais móveis. A Xiaomi fará o seu melhor para garantir que a funcionalidade de compartilhamento, bem como as tecnologias e informações envolvidas sejam seguras, efetivas, precisas e confiáveis. No entanto, devido às limitações de tecnologias atuais, a Xiaomi não garante que a funcionalidade de compartilhamento é livre de erros e satisfará as suas necessidades.</string>
     <string name="shortcut_share_dialog_positive_button">Entendi</string>
     <string name="shortcut_share_dialog_title">Aviso legal</string>
     <string name="show_all">Mostrar tudo</string>
@@ -951,7 +951,7 @@
     <string name="switch_screen_button_order">Espelhar botões</string>
     <string name="switch_screen_button_order_desc">Espelha os botões de Voltar e Menu</string>
     <string name="system_shortcuts_edit">Editar</string>
-    <string name="system_shortcuts_more_operation">Info. do app</string>
+    <string name="system_shortcuts_more_operation">Informações</string>
     <string name="system_shortcuts_remove">Remover</string>
     <string name="system_text">Automático</string>
     <string name="task_access_locked_app_msg">Bloqueio de apps ativado</string>

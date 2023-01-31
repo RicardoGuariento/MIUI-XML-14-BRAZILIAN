@@ -151,7 +151,7 @@
     <string name="classification_more_understand_you">Selecione sua categoria favorita</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
-    <string name="clock">Install Clock</string>
+    <string name="clock">Instalar Relógio</string>
     <string name="close">Fechar</string>
     <string name="close_custom_permission_warning_text">Sem permissões de armazenamento, este app não será capaz de baixar itens e personalizar seu dispositivo. Desativar?</string>
     <string name="close_custom_permission_warning_text_above_eleven">Sem permissões de armazenamento, este app não poderá personalizar seu dispositivo. Desativar?</string>
@@ -176,6 +176,7 @@
     <string name="component_title_settings_video_wallpaper">Planos de fundo com efeitos especiais</string>
     <string name="component_title_video_wallpaper">Plano de fundo em vídeo</string>
     <string name="component_title_wallpaper">Planos de fundo</string>
+    <string name="component_title_widget_suit">"Widgets"</string>
     <string name="concentration_old_period">Mais</string>
     <string name="configure_success_not_enable_aod">Aplicado com sucesso. Ative a Tela ambiente para que o tema tenha efeito.</string>
     <string name="copy">Copiar</string>
@@ -287,6 +288,7 @@
     <string name="download_failed">Não foi possível baixar</string>
     <string name="download_preview_failed">Não é possível carregar a pré-visualização</string>
     <string name="download_success">Download concluído</string>
+    <string name="dynamic_large_icon_not_support_current_type">"%s não é compatível com este ícone dinâmico"</string>
     <string name="dynamic_video_wallpaper">Plano de fundo 24 horas</string>
     <string name="early_morning">"AM"</string>
     <string name="enable_accessibility">Permissões de acessibilidade requeridas</string>
@@ -466,6 +468,7 @@
     <string name="hide_mamual_hide_aod">Não mostrar itens ocultados manualmente</string>
     <string name="hide_mamual_hide_font">"Não mostrar fontes ocultadas"</string>
     <string name="hide_mamual_hide_icons">Não mostrar ícones ocultados manualmente</string>
+    <string name="hide_mamual_hide_large_icons">Não mostrar Super ícones ocultos</string>
     <string name="hide_mamual_hide_miwallpaper">Não mostrar efeitos de Tela inicial ocultados</string>
     <string name="hide_mamual_hide_theme">"Não mostrar temas ocultados"</string>
     <string name="hide_mamual_hide_wallpaper">"Não mostrar planos de fundo ocultados"</string>
@@ -474,6 +477,7 @@
     <string name="hide_pull_down_negative">Não ocultar</string>
     <string name="hide_pull_down_positive">Ocultar</string>
     <string name="hide_retract_button">Ocultar</string>
+    <string name="historical_wallpaper">Anteriormente usado</string>
     <string name="home_apply_failured">Não é possível aplicar o plano de fundo à Tela inicial</string>
     <string name="home_apply_success">Plano de fundo aplicado à Tela inicial</string>
     <string name="home_daily">Destaques diários</string>
@@ -512,6 +516,28 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
     <string name="kuyin_user_agreement_content_href">Política de Privacidade iFlytek</string>
     <string name="lab">Laboratório de temas</string>
     <string name="label">Etiqueta</string>
+    <string name="large_icon_apply_fail_for_in_dock">"Não é possível usar Super ícones para apps no dock de apps"</string>
+    <string name="large_icon_apply_fail_for_in_folder">"Não é possível usar Super ícones para apps em pastas"</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">"Super ícones não são suportados no Modo lite"</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">"Não é possível usar Super ícones para apps que não estão na Tela inicial"</string>
+    <string name="large_icon_detail_title">%s Super icons</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Manter</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Reverter</string>
+    <string name="large_icon_detail_warning_dialog_msg">"Alguns apps estão usando Super ícones. Continuar usando os Super ícones ou reverter para os ícones padrão do seu tema?"</string>
+    <string name="large_icon_detail_warning_dialog_title">Configurações dos Super ícones</string>
+    <string name="large_icon_no_more">Nada aqui ainda</string>
+    <string name="large_icon_no_network">"Não foi possível conectar à rede"</string>
+    <string name="large_icon_not_support">"Não é possível definir ícones para %s"</string>
+    <string name="large_icon_not_support_current_type">"%s não é compatível com este ícone"</string>
+    <string name="large_icon_official">Padrão</string>
+    <string name="large_icon_picker_haven">Ícones disponíveis</string>
+    <string name="large_icon_picker_more">Mais</string>
+    <string name="large_icon_picker_size">Tamanho do ícone</string>
+    <string name="large_icon_theme">Temas</string>
+    <string name="large_icon_to_find_more">Veja mais</string>
+    <string name="large_icon_warning_install">Instalar</string>
+    <string name="large_icon_warning_not_install">Instalar %s</string>
+    <string name="large_icon_warning_not_install_msg">Instale %s para poder usar um Super ícone. Instalar agora?</string>
     <string name="like_list">Minhas curtidas</string>
     <string name="live_wallpaper">Planos de fundo dinâmicos</string>
     <string name="load_from_local_photos">Galeria</string>
@@ -571,11 +597,13 @@ Toque aqui para entrar agora."</string>
     <string name="miui_lock_screen_date">"EEE, dd 'de' MMMM"</string>
     <string name="miui_lock_screen_date_12">"EEE, dd 'de' MMMM"</string>
     <string name="miui_lock_screen_date_two_lines">"EEE
-dd 'de' MMMM"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEE
-dd 'de' MMMM"</string>
-    <string name="miui_lock_screen_large_date">"EEE, dd 'de' MMM"</string>
-    <string name="miui_lock_screen_large_date_12">"EEE, dd 'de' MMM"</string>
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date">"EEE,
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE,
+dd/MM"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -793,6 +821,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="personalize_notify_ringtone_title">Notificações</string>
     <string name="personalize_notify_style_title">Efeitos</string>
     <string name="personalize_recommend_switch_desc">Receba recomendações de conteúdo personalizado com base na ID do dispositivo</string>
+    <string name="personalize_second_space_not_support_buy_widget">"Não é possível comprar widgets no Segundo espaço"</string>
     <string name="personalize_second_space_not_support_set_font">Não é possível alterar a fonte no Segundo espaço</string>
     <string name="personalize_theme_entrance">Temas</string>
     <string name="personalize_third_font">Fontes</string>
