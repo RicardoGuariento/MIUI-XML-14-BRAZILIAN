@@ -593,7 +593,7 @@ Desative o seletor para parar a sincronização."</string>
     <string name="current_version_phone">Telefone</string>
     <string name="custom">Inserir URL</string>
     <string name="custom_head_card_text">Sempre acredite que algo maravilhoso está prestes a acontecer</string>
-    <string name="custom_head_card_text_incognito">"Você está Incógnito!
+    <string name="custom_head_card_text_incognito">"Você está anônimo!
 Páginas que você visitar não aparecerão no histórico."</string>
     <string name="custom_page_guide_content">Favoritos, configurações e ferramentas estão aqui!</string>
     <string name="dark_mode">Modo escuro</string>
@@ -1219,7 +1219,7 @@ Envie este código para o supervisor."</string>
     <string name="in_secureaccess">Navegador alternado para o Modo seguro</string>
     <string name="incognito_message">Agora você pode navegar de forma privada, e outras pessoas que usarem este dispositivo não verão a sua atividade. Entretanto, downloads e favoritos serão salvos.</string>
     <string name="incognito_off">O Modo anônimo está desativado.</string>
-    <string name="incognito_on">Você está Incógnito!</string>
+    <string name="incognito_on">Você está anônimo!</string>
     <string name="incognito_tips1">"O Navegador Mi não salvará as seguintes informações:
 • Seu histórico de navegação
 • Cookies e dados de sites
@@ -1228,7 +1228,7 @@ Envie este código para o supervisor."</string>
 • Websites que você visita
 • Seu empregador ou instituição de ensino
 • Seu provedor de serviços de internet"</string>
-    <string name="incognito_title">Você está incógnito</string>
+    <string name="incognito_title">Você está anônimo</string>
     <string name="income_expenses">Transactions</string>
     <string name="inconsistent_pwd">As senhas não conferem</string>
     <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>

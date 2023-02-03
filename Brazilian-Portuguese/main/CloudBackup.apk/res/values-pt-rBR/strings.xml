@@ -45,6 +45,7 @@
     <string name="backup_action_buy_cloud_space">Obtenha mais espaço de armazenamento</string>
     <string name="backup_action_check_network">Verifique as configurações de rede</string>
     <string name="backup_action_clean_disk_space">Liberar espaço</string>
+    <string name="backup_action_long_time_not_auto_backup_title">Faça backup de seus itens</string>
     <string name="backup_action_long_time_not_backup_action">"Backups"</string>
     <string name="backup_action_long_time_not_backup_title">Nenhum backup recente</string>
     <string name="backup_action_no_space_with_wechat_off_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de itens deste dispositivo.Toque para ver as opções de armazenamento em nuvem disponíveis para você.</string>
@@ -153,6 +154,8 @@ Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</s
     <string name="cloud_backup_detail_state_summary_china">O dispositivo deve estar conectado ao Wi-Fi, carregando e bloqueado</string>
     <string name="cloud_backup_detail_time">Último backup: %1$s</string>
     <string name="cloud_backup_detail_title">Fazer backup de itens</string>
+    <string name="cloud_backup_get_installed_apps_summary">Para fazer backup e restaurar apps da Tela inicial</string>
+    <string name="cloud_backup_get_installed_apps_title">Acesse a lista de apps instalados neste dispositivo</string>
     <string name="cloud_backup_have_data">Backup encontrado na MiCloud</string>
     <string name="cloud_backup_in_cancel">Cancelar</string>
     <string name="cloud_backup_in_process">Fazendo backup</string>
@@ -176,6 +179,9 @@ Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</s
     <string name="confirm_restore_summary">Sua Tela inicial será reiniciada. Apps que foram salvos em backup serão baixados automaticamente.</string>
     <string name="confirm_restore_title">Restaurar</string>
     <string name="copy">Copiar</string>
+    <string name="cta_dialog_all_purpose">"Bem-vindo ao Backup em nuvem! Você pode usar este app para fazer backup do layout da Tela inicial, apps, configurações do sistema e dados do WeChat na nuvem. Certifique-se de estar usando a versão mais recente para poder aproveitar todos os nossos recursos."</string>
+    <string name="cta_dialog_permission_description_get_installed_apps">Para fazer backup e restaurar apps</string>
+    <string name="cta_dialog_permission_description_storage">Para fazer backup e restaurar itens</string>
     <string name="customization"><u>Personalizar</u></string>
     <string name="date_format">HH:mm:ss, dd/MM/yyyy</string>
     <string name="date_picker_label_day" />
@@ -197,6 +203,10 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_app_usage_consent_message">Este recurso precisa acessar o uso de dados do app para poder estimar o tamanho dos backups WeChat.</string>
     <string name="dialog_app_usage_consent_title">Permitir acesso ao uso de dados do app</string>
     <string name="dialog_app_usage_denied">Conceda ao Backup a permissão \"Acesso ao uso\" nas Configurações, para poder fazer backup dos itens.</string>
+    <string name="dialog_auto_backup_condition_normal_content">Para poder fazer backup regularmente de todos os itens importantes automaticamente, verifique se você tem espaço de armazenamento em nuvem suficiente e se este dispositivo está bloqueado, tenha mais de %s de bateria e esteja conectado ao Wi-Fi à noite. Você também pode fazer backup manualmente a qualquer momento.</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">Para poder fazer backup regularmente de todos os itens importantes automaticamente, verifique se você tem espaço de armazenamento em nuvem suficiente e se este dispositivo está bloqueado, tenha mais de %s de bateria e esteja conectado ao Wi-Fi à noite. Você também pode fazer backup manualmente a qualquer momento.</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Entendi</string>
+    <string name="dialog_auto_backup_condition_normal_title">Faça backup de seus itens</string>
     <string name="dialog_backup_failed">Não foi possível fazer backup</string>
     <string name="dialog_btn_cancel_backup">Cancelar</string>
     <string name="dialog_btn_confirm2">Entendi</string>
@@ -222,6 +232,11 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_negative_btn_cancel_restore">Parar</string>
     <string name="dialog_positive_btn_cancel_backup">"Continuar"</string>
     <string name="dialog_positive_btn_cancel_restore">"Continuar"</string>
+    <string name="dialog_recommend_wechat_backup_content">Agora você pode fazer backup de conversas do WeChat e outros dados no MiCloud. Para poder fazer backup de seus itens, certifique-se de ter espaço de armazenamento em nuvem suficiente e de que este dispositivo esteja bloqueado, tenha mais de %s de bateria e esteja conectado ao Wi-Fi à noite. Você também pode fazer backup manualmente a qualquer momento.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">Agora você pode fazer backup de conversas do WeChat e outros dados no MiCloud. Para poder fazer backup de seus itens, certifique-se de ter espaço de armazenamento em nuvem suficiente e de que este dispositivo esteja bloqueado, tenha mais de %s de bateria e esteja conectado ao Wi-Fi à noite. Você também pode fazer backup manualmente a qualquer momento.</string>
+    <string name="dialog_recommend_wechat_backup_negative">Entendi</string>
+    <string name="dialog_recommend_wechat_backup_positive">Saiba mais</string>
+    <string name="dialog_recommend_wechat_backup_title">Faça backup dos dados do WeChat</string>
     <string name="dialog_title_cancel_backup">Cancelar backup</string>
     <string name="dialog_title_cancel_restore">Parar de restaurar</string>
     <string name="dialog_title_require_wlan">Conecte-se ao Wi-Fi</string>
@@ -420,6 +435,8 @@ Por favor, envie este código para o técnico."</string>
     <string name="remove_task_in_process">Removendo…</string>
     <string name="remove_task_unfinished">Remoção não concluída</string>
     <string name="remove_unfinished">Removendo, tente mais tarde</string>
+    <string name="repeat_recommend_wechat_backup_notification_content">Agora você pode fazer backup dos dados do WeChat. Toque para detalhes.</string>
+    <string name="repeat_recommend_wechat_backup_notification_title">Faça backup dos dados do WeChat</string>
     <string name="restore_app_order_finish">Concluído</string>
     <string name="restore_app_order_loading">Aguarde…</string>
     <string name="restore_app_order_retry">Repetir</string>
@@ -526,6 +543,8 @@ Verifique sua conexão e tente novamente."</string>
     <string name="storage_unit_gb">%sGB</string>
     <string name="storage_unit_mb">%sMB</string>
     <string name="success_open_cloudbackup">Backup ativado para apps na Tela inicial</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Backup de dados do WeChat. Toque para detalhes.</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Backup automático concluído</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

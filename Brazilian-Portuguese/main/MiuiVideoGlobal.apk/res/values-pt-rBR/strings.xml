@@ -1660,6 +1660,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="share_ugc_content">Dê uma olhada em %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Juntar</string>
     <string name="share_ugc_waitting">Gerando link…</string>
+    <string name="shorts_assemble_ad_recommend">Recomendado</string>
     <string name="show_the_location">Tipos de notificação</string>
     <string name="sign_in">Fazendo login</string>
     <string name="sign_in_google_account">Fazer login com o Google</string>
@@ -1773,6 +1774,8 @@ Aumentar a segurança da sua conta."</string>
     <string name="talkback_voice_search">Pesquisa por voz</string>
     <string name="target_sdk_version_30_upgrade_tips">Alguns vídeos podem não ser visualizados aqui devido a restrições do Android 11. Toque em \"Arquivos\" para encontrar outros vídeos.</string>
     <string name="temporary_not_available">Este recurso ainda não está disponível</string>
+    <string name="text_default_ad_description">Anúncios</string>
+    <string name="text_default_ad_title">Você pode gostar</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>

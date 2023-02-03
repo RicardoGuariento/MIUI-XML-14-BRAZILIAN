@@ -468,7 +468,7 @@ adicionado à lista de bloqueio"</string>
     <string name="invalid_destination">Endereço de destino inválido.</string>
     <string name="invalid_private_contact">Contato inválido</string>
     <string name="invalid_recipient_message">Corrija os destinatários ou eles não receberão a mensagem.</string>
-    <string name="invisible_mode_on">Você está incógnito</string>
+    <string name="invisible_mode_on">Você está anônimo</string>
     <string name="is_composing">Escrevendo…</string>
     <string name="json_card_img_retry">Tente novamente</string>
     <string name="json_card_img_retry_error">Verifique suas configurações de rede e tente novamente</string>
@@ -1507,9 +1507,9 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
     <string name="type_to_compose_text_or_leave_blank">Digite uma mensagem, ou deixe-a em branco</string>
     <string name="type_vcard">"vCard"</string>
     <string name="type_video">vídeo</string>
-    <string name="unable_connect_camera">Você está incógnito. Não é possível usar a câmera agora.</string>
-    <string name="unable_get_location">Você está incógnito. Não é possível usar os serviços de localização agora.</string>
-    <string name="unable_use_microphone">Você está incógnito. Não é possível usar o microfone agora.</string>
+    <string name="unable_connect_camera">Você está anônimo. Não é possível usar a câmera agora.</string>
+    <string name="unable_get_location">Você está anônimo. Não é possível usar os serviços de localização agora.</string>
+    <string name="unable_use_microphone">Você está anônimo. Não é possível usar o microfone agora.</string>
     <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem.
 Tentativas efetuadas: %s."</string>
     <string name="undelivered_msg_dialog_title">Mensagem não entregue</string>

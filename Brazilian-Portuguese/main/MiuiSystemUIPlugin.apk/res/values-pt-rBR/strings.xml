@@ -69,7 +69,7 @@
     <string name="close_invisible_mode_dialog_cancel">Cancelar</string>
     <string name="close_invisible_mode_dialog_message">"Não é possível usar o Play inteligente Mi agora. Desative o Modo anônimo nas Configurações para poder usar esse recurso."</string>
     <string name="close_invisible_mode_dialog_ok">Configurações</string>
-    <string name="close_invisible_mode_dialog_title">"Você está incógnito"</string>
+    <string name="close_invisible_mode_dialog_title">"Você está anônimo"</string>
     <string name="control_center_notification_switch_guide">Deslize para alternar entre o Centro de controle e a Área de notificações</string>
     <string name="controls_add_device_guide">Nenhum dispositivo aqui ainda</string>
     <string name="controls_click_to_add_device">Adicionar dispositivos</string>
@@ -96,7 +96,7 @@
     <string name="controls_edit_panel_save_button">Concluído</string>
     <string name="controls_edit_panel_subtitle">Arraste os itens para reorganizar</string>
     <string name="controls_edit_panel_title">Dispositivos adicionados</string>
-    <string name="controls_error_failed">Erro, tente novamente</string>
+    <string name="controls_error_failed">Um erro ocorreu. Tente novamente.</string>
     <string name="controls_error_generic">Erro</string>
     <string name="controls_error_removed">Dispositivo removido</string>
     <string name="controls_favorite_default_title">Controles</string>

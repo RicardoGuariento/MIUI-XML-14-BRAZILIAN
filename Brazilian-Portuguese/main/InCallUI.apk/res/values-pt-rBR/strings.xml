@@ -345,6 +345,7 @@
     <string name="onscreen_audio_mode_conference">Conferência</string>
     <string name="onscreen_audio_mode_handset">Auricular</string>
     <string name="onscreen_audio_mode_headset">Fones de ouvido</string>
+    <string name="onscreen_audio_mode_mirror">"Tablet"</string>
     <string name="onscreen_audio_mode_speaker">Alto-falante</string>
     <string name="onscreen_call_record">Gravar</string>
     <string name="onscreen_change_to_video">Videochamada</string>

@@ -31,6 +31,7 @@
     <string name="add_sound">Adicionar predefinição personalizada</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
+    <string name="app_disable_description_title">Desativar este app?</string>
     <string name="app_name">Fones de ouvido</string>
     <string name="apply_sound">Aplicar</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
