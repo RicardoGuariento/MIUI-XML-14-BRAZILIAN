@@ -269,13 +269,13 @@
         <item>Baixa latência</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Usar preferência do sistema (Padrão)</item>
+        <item>Usar seleção do sistema (Padrão)</item>
         <item>16 bits/amostra</item>
         <item>24 bits/amostra</item>
         <item>32 bits/amostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Usar preferência do sistema (Padrão)</item>
+        <item>Usar seleção do sistema (Padrão)</item>
         <item>16 bits/amostra</item>
         <item>24 bits/amostra</item>
         <item>32 bits/amostra</item>
@@ -327,14 +327,14 @@
         <item>Melhor desempenho (Taxa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Usar preferência do sistema (Padrão)</item>
+        <item>Usar seleção do sistema (Padrão)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Usar preferência do sistema (Padrão)</item>
+        <item>Usar seleção do sistema (Padrão)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
@@ -381,6 +381,11 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Não criptografado (sem segurança)</item>
+        <item>PIN de 4 dígitos (baixa segurança)</item>
+        <item>PIN de 16 dígitos (alta segurança)</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2 (Padrão)</item>
@@ -434,7 +439,7 @@
     <string-array name="captioning_font_size_selector_titles">
         <item>Muito pequeno</item>
         <item>Pequeno</item>
-        <item>Padrão</item>
+        <item>Médio</item>
         <item>Grande</item>
         <item>Muito grande</item>
     </string-array>
@@ -784,12 +789,12 @@
         <item>Padrão</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Azul-petróleo</item>
+        <item>Ciano</item>
         <item>Azul</item>
-        <item>Índigo</item>
+        <item>Verde</item>
         <item>Roxo</item>
         <item>Rosa</item>
-        <item>Vermelho</item>
+        <item>Laranja</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Tela de bloqueio</item>
@@ -1045,6 +1050,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>A rede está lenta devido ao alto tráfego de dados</item>
@@ -1319,10 +1325,25 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Padrão</item>
         <item>Compacto</item>
     </string-array>
+    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+        <item>Nunca</item>
+        <item>Após 1 minuto</item>
+        <item>Após 5 minutos</item>
+    </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítido</item>
         <item>Suave</item>
         <item>Pop-up</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>Nítido</item>
+        <item>Sólido</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Carregando</item>
+        <item>Doze</item>
+        <item>Modo de economia de energia</item>
+        <item>Status do processo</item>
     </string-array>
     <string-array name="time_format_entries">
         <item>12 horas | 1:00 PM</item>
@@ -1504,6 +1525,10 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Somente 2.4GHz</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
+        <item>Não</item>
+        <item>Sim</item>
+    </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
         <item>Não</item>
         <item>Sim</item>
     </string-array>
