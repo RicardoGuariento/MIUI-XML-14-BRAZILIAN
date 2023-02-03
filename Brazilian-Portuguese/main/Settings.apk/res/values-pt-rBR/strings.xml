@@ -4760,7 +4760,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="left_function_key">Atalho da esquerda</string>
     <string name="left_right_hand_switch">Esquerda e direita</string>
     <string name="left_right_hand_switch_summary">Faça as partes esquerda e direita do teclado mudarem de lugar em um único toque</string>
-    <string name="left_shoulder_key" />
+    <string name="left_shoulder_key">Esquerda</string>
     <string name="left_to_right_slide">Deslize para a direita</string>
     <string name="legacy_control_center_desc">Puxe a barra de status para baixo para ver atalhos e notificações</string>
     <string name="legacy_control_center_title">Versão antiga</string>
