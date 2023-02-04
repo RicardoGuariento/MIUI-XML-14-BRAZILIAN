@@ -3480,7 +3480,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_action_prompt">Notificar</string>
     <string name="permission_action_reject">Recusar</string>
     <string name="permission_action_tag">Proteção de privacidade</string>
-    <string name="permission_action_virtual">Retornar msgs em branco</string>
+    <string name="permission_action_virtual">Retornar mensagens em branco</string>
     <string name="permission_close_permission_control_dialog_msg">Quando o Gerenciador de permissões está desativado, apps não solicitarão sua permissão antes de ler seus contatos, ver seus registros de chamadas, alterar configurações do sistema, ou acessar a câmera e outras funções do dispositivo.</string>
     <string name="permission_close_permission_control_dialog_title">Desativar?</string>
     <string name="permission_exception_title">Verif. restrição em conexão de apps</string>
@@ -3867,7 +3867,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_wireless_update_tv_text">Atualizando o firmware… Não desligue o dispositivo.</string>
     <string name="pp_anti_track_summary">Não permite o rastreamento de sua atividade</string>
     <string name="pp_antitrack_detail">Os apps podem rastrear sua atividade por meio de identificadores pessoais, informações de localização e outros tipos de informações pessoais compartilhadas com os mesmos. O rastreamento de sua atividade em diferentes apps e sites, permite que eles personalizem anúncios e recomendem conteúdo relevante para você.</string>
-    <string name="pp_app_behavior_record_detail">Registre o comportamento de todos os apps</string>
+    <string name="pp_app_behavior_record_detail">Registra o comportamento de todos os apps</string>
     <string name="pp_app_del_img_intercept_detail">Receba notificações quando apps excluírem itens da Galeria sem sua permissão</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Receber notificações quando os apps usarem permissões de alto risco</string>
     <string name="pp_app_gets_dangerous_permission_reminder_detail">Receba notificações sempre que um app usar uma permissão de alto risco e considerar suas opções</string>
@@ -3876,7 +3876,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_app_permission_settings_detail">Permite que apps usem permissões relacionadas à privacidade</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Proteger a área de transferência</string>
     <string name="pp_app_reads_clipboard_smart_reminder_detail">"A MIUI decidirá se os apps têm permissão para acessar sua área de transferência. Quando isso acontecer, você receberá uma notificação."</string>
-    <string name="pp_app_warning_permission_tips">Receba notificações sobre o comportamento dos apps</string>
+    <string name="pp_app_warning_permission_tips">Notificações sobre o comportamento dos apps</string>
     <string name="pp_app_warning_permission_tips_detail">Receba notificações quando os apps acessarem sua localização, gravarem áudio ou usarem a câmera</string>
     <string name="pp_block_mac">Restringir o acesso ao endereço MAC</string>
     <string name="pp_block_mac_summary">O acesso ao seu endereço MAC é restrito por padrão para todos os apps.</string>

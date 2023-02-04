@@ -216,7 +216,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="annual_babies_title">Eles crescem tão rápido</string>
     <string name="annual_group_people_title">Juntos</string>
     <string name="annual_pets_title">Pata na pata</string>
-    <string name="annual_speci_year_title">Olhando para trás em %d</string>
+    <string name="annual_speci_year_title">"Olhando para trás em %d"</string>
     <string name="annual_year_title">Este ano</string>
     <string name="annula_sports_title">Seguindo em frente</string>
     <string name="app_is_launching">%s está iniciando…</string>

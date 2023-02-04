@@ -1007,7 +1007,7 @@ Permita que o app Notas grave áudio."</string>
     <string name="toolbar_voice_description">Voz</string>
     <string name="trash_folder_name">Lixo</string>
     <string name="trash_folder_reminder">As notas que você excluir serão apagadas permanentemente em %1$d dias.</string>
-    <string name="trash_folder_reminder_new">As notas são mantidas na lixeira por %d dias antes de serem permanentemente excluídas</string>
+    <string name="trash_folder_reminder_new">Itens na lixeira ficam por %d dias antes de serem excluídos permanentemente</string>
     <string name="travel_over_days">+%d</string>
     <string name="travel_time_range_hours_mins">%1$s %2$s</string>
     <string name="tuesday">Terça</string>

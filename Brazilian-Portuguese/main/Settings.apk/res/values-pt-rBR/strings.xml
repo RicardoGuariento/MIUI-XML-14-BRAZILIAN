@@ -2855,7 +2855,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="delete_legacy_fingerprint">Excluir</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Excluir esta impressão digital?</string>
     <string name="delete_rule">Excluir regras</string>
-    <string name="delete_saved_network">Excluir redes salvas</string>
+    <string name="delete_saved_network">Excluir rede salva</string>
     <string name="delete_sound_effect">Som ao excluir itens</string>
     <string name="deleted_apps">Apps excluídos</string>
     <string name="deletion_helper_automatic_title">Modo automático</string>
@@ -4345,6 +4345,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="input_method">Teclado</string>
     <string name="input_method_bottom_close">Desativado</string>
     <string name="input_method_bottom_open">Ativado</string>
+    <string name="input_method_category">Método de entrada</string>
     <string name="input_method_clipboard_settings">Configurações da área de transferência</string>
     <string name="input_method_cloud_data_title">Área de transferência da nuvem</string>
     <string name="input_method_cloud_paste_mode_bubble_des">Você verá uma bolha surgir. Toque na bolha para inserir o texto copiado.</string>
@@ -5154,6 +5155,8 @@ Conecte pelo menos 4 pontos."</string>
     <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
     <string name="lockscreen_bypass_summary">Após o desbloqueio facial, ir diretamente para a última tela utilizada</string>
     <string name="lockscreen_bypass_title">Ignorar tela de bloqueio</string>
+    <string name="lockscreen_double_line_clock_setting_toggle">Relógio em linha dupla</string>
+    <string name="lockscreen_double_line_clock_summary">Mostrar relógio em linha dupla quando disponível</string>
     <string name="lockscreen_glogin_checking_password">Verificando…</string>
     <string name="lockscreen_glogin_password_hint">Senha</string>
     <string name="lockscreen_glogin_submit_button">Fazer login</string>
@@ -6218,15 +6221,15 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
     <string name="nfc_quick_toggle_summary">Permite trocar dados quando o telefone tocar em outro dispositivo</string>
     <string name="nfc_quick_toggle_title">"NFC"</string>
     <string name="nfc_repair_action_btn">Restaurar</string>
-    <string name="nfc_repair_action_desc">Toque \"&lt;b>Restaurar&lt;/b>"\" para corrigir os problemas que impedem o uso dos recursos do NFC. Não saia da página atual enquanto o NFC estiver sendo restaurado. Reinicie o seu dispositivo para aplicar as alterações."</string>
+    <string name="nfc_repair_action_desc">Toque \"<b>Restaurar</b>"\" para corrigir os problemas que impedem o uso dos recursos do NFC. Não saia da página atual enquanto o NFC estiver sendo restaurado. Reinicie o seu dispositivo para aplicar as alterações."</string>
     <string name="nfc_repair_btn_no">Não</string>
     <string name="nfc_repair_btn_reboot">Reiniciar</string>
     <string name="nfc_repair_btn_reboot_later">Mais tarde</string>
     <string name="nfc_repair_btn_retry">Tentar novamente</string>
     <string name="nfc_repair_btn_yes">Sim</string>
     <string name="nfc_repair_confirm_desc">"Você teve algum destes problemas?
-%1$d. Você não conseguiu adicionar ou recarregar um cartão NFC.
-%2$d. O seu cartão NFC não funcionou.
+%1$d. Não conseguiu adicionar ou recarregar um cartão NFC.
+%2$d. Seu cartão NFC não funcionou.
 %3$d. Outros recursos do NFC não carregaram."</string>
     <string name="nfc_repair_fail_desc">Ocorreu um erro que impediu que a funcionalidade NFC fosse restaurada. Tente novamente.</string>
     <string name="nfc_repair_fail_title">Não foi possível restaurar</string>
