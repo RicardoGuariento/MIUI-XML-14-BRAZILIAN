@@ -5199,7 +5199,7 @@ Conecte pelo menos 4 pontos."</string>
     <string name="low_storage_summary">Há pouco espaço de armazenamento. %1$s em uso – %2$s livre</string>
     <string name="macaddr_label">Endereço MAC:</string>
     <string name="magic_list_empty_text">Nenhum app compatível com este recurso agora</string>
-    <string name="magic_list_empty_text_pad">Nenhum app compatível com este recurso agora</string>
+    <string name="magic_list_empty_text_pad">Nenhum app compatível com janelas paralelas foi encontrado</string>
     <string name="magic_window_name">Janelas paralelas</string>
     <string name="magic_window_name_pad">Otimização da visualização em paisagem</string>
     <string name="mah">%dmAh</string>

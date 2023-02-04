@@ -2394,9 +2394,9 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="recent_task_cleaning">Liberando apps…</string>
     <string name="recent_task_lock_text">Bloquear</string>
     <string name="recent_task_unlock_text">Desbloquear</string>
-    <string name="recent_used_camera">Este app usou a câmera</string>
-    <string name="recent_used_camera_and_microphone">Este app gravou áudio e usou a câmera</string>
-    <string name="recent_used_microphone">Este app gravou áudio</string>
+    <string name="recent_used_camera">Este app acessou a câmera</string>
+    <string name="recent_used_camera_and_microphone">Este app acessou a câmera e o microfone</string>
+    <string name="recent_used_microphone">Este app acessou o microfone</string>
     <string name="recents_accessibility_split_screen_left">Dividir tela para a esquerda</string>
     <string name="recents_accessibility_split_screen_right">Dividir tela para a direita</string>
     <string name="recents_accessibility_split_screen_top">Dividir tela para o topo</string>
@@ -2968,9 +2968,9 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="user_setup_dialog_title">Configurar usuário agora?</string>
     <string name="user_setup_profile_dialog_message">Configurar o perfil agora?</string>
     <string name="user_switch_to_user">Alternar para %s</string>
-    <string name="using_camera">Este app está usando a câmera</string>
-    <string name="using_camera_and_microphone">Este app está gravando áudio e usando a câmera</string>
-    <string name="using_microphone">Este app gravou áudio</string>
+    <string name="using_camera">Este app está acessando a câmera</string>
+    <string name="using_camera_and_microphone">Este app está acessando a câmera e o microfone</string>
+    <string name="using_microphone">Este app está acessando o microfone</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="velocity_tracker_impl">plataforma</string>
