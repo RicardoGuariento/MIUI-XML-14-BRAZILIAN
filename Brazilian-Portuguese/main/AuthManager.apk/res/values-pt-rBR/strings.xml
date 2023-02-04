@@ -476,7 +476,6 @@
     <string name="yesterday">Ontem</string>
     <string name="carwith_grant_permission_tips_when_lock">Desbloqueie seu telefone primeiro</string>
     <string name="perm_educate_post_notification">As notificações podem ser acompanhadas por som e vibração conforme aparecem na aba Notificações e nos ícones da tela inicial. Você pode alterar suas preferências de notificação em Configurações.</string>
-    <string name="permdesc_post_notification">Permitir que %1$s envie notificações?</string>
     <string name="permdesc_read_phone_numbers">Permitir que %1$s leia números de telefone neste dispositivo?</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="solar_term_autumn_begins">Início do outono</string>

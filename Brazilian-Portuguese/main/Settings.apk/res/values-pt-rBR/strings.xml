@@ -122,7 +122,6 @@ Nem todos os apps são compatíveis com essa configuração"</string>
     <string name="accessibility_control_timeout_preference_title">Tempo de reação</string>
     <string name="accessibility_daltonizer_master_switch_title">Usar correção de cor</string>
     <string name="accessibility_daltonizer_primary_switch_title">Use correção de cores</string>
-    <string name="accessibility_daltonizer_shortcut_title">Atalho de correção de cor</string>
     <string name="accessibility_data_one_bar">Dados uma barra.</string>
     <string name="accessibility_data_signal_full">Sinal de dados cheio.</string>
     <string name="accessibility_data_three_bars">Dados três barras.</string>
@@ -8265,7 +8264,6 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="security_settings_udfps_enroll_find_sensor_start_button">Começar</string>
     <string name="security_settings_udfps_enroll_find_sensor_title">Como configurar sua impressão digital</string>
     <string name="security_settings_udfps_enroll_progress_a11y_message">Inscrever a impressão digital %d por cento</string>
-    <string name="security_settings_udfps_enroll_find_sensor_title">Como configurar sua impressão digital</string>
     <string name="security_settings_udfps_enroll_fingertip_title">Coloque a ponta do dedo no sensor</string>
     <string name="security_settings_udfps_enroll_left_edge_title">Coloque a borda esquerda do seu dedo</string>
     <string name="security_settings_udfps_enroll_repeat_a11y_message">Isso ajuda a capturar sua impressão digital completa</string>
@@ -11521,7 +11519,6 @@ Atualizar configurações para:
     <string name="zone_time_type_dst">Horário de verão</string>
     <string name="zone_time_type_standard">Horário padrão</string>
     <string name="colors_viewpager_content_description">Visualização de cores</string>
-    <string name="complete_parameters_new">Informações detalhadas e especificações</string>
     <string name="creating_new_guest_dialog_message">Criando um novo convidado…</string>
     <string name="customize_button_title">Personalizar</string>
     <string name="dark_ui_auto_mode_custom_bedtime">Ativar na hora de dormir</string>
@@ -11555,7 +11552,6 @@ Atualizar configurações para:
     <string name="accessibility_daltonizer_about_title">Sobre a correção de cores</string>
     <string name="accessibility_daltonizer_footer_learn_more_content_description">Saiba mais sobre a correção de cores</string>
     <string name="accessibility_daltonizer_shortcut_title">Atalho de correção de cores</string>
-    <string name="accessibility_disable_animations_summary">Reduzir o movimento na tela</string>
     <string name="accessibility_display_inversion_preference_intro_text">A inversão de cores torna as telas claras em escuras. Ele também transforma telas escuras em claras.</string>
     <string name="accessibility_display_inversion_shortcut_title">Atalho de inversão de cores</string>
     <string name="accessibility_hearingaid_left_and_right_side_device_summary">%1$s, esquerdo e direito</string>
@@ -11625,8 +11621,6 @@ Eu só queria verificar como os projetos estão indo. Eles estarão prontos ante
     <string name="back_navigation_animation">Animações de retorno preditivas</string>
     <string name="back_navigation_animation_dialog">Essa configuração permite animações do sistema para gestos preditivos. Requer a definição de enableOnBackInvokedCallback como True no arquivo de manifesto de cada app.</string>
     <string name="back_navigation_animation_summary">Ativar animações do sistema para retorno preditivo</string>
-    <string name="stylus_handwriting">Caligrafia com Stylus</string>
-    <string name="stylus_handwriting_summary">Quando ativado, o método de entrada atual recebe o MotionEvent do Stylus se um editor estiver focado.</string>
     <string name="network_acceleration">Aceleração de rede</string>
     <string name="network_auto_switch">Alternar entre redes</string>
     <string name="network_auto_switch_summery">"Alternar para dados móveis quando o sinal Wi-Fi estiver fraco ou a rede não estiver disponível"</string>

@@ -31,19 +31,11 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
-    <plurals name="circulate_audio_group_subtitle_format">
-        <item quantity="other">%1$d dispositivos</item>
-        <item quantity="one">%1$d dispositivo</item>
-    </plurals>
     <plurals name="circulate_audio_group_title_format">
         <item quantity="other">%1$d dispositivos</item>
         <item quantity="one">%1$d dispositivo</item>
     </plurals>
     <plurals name="circulate_audio_group_subtitle_format">
-        <item quantity="other">%1$d dispositivos</item>
-        <item quantity="one">%1$d dispositivo</item>
-    </plurals>
-    <plurals name="circulate_audio_group_title_format">
         <item quantity="other">%1$d dispositivos</item>
         <item quantity="one">%1$d dispositivo</item>
     </plurals>

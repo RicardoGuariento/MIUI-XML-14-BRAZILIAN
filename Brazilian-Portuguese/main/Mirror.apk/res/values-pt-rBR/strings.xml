@@ -293,7 +293,6 @@ You can start another session on your computer."</string>
     <string name="pad_mirror_disconnect_tips_1">Conexão perdida</string>
     <string name="pad_mirror_disconnect_tips_2">Certifique-se de que o Wi-Fi e o Bluetooth estão ativados em ambos os dispositivos e tente novamente.</string>
     <string name="pad_mirror_disconnect_tips_2_china">Certifique-se de que o Wi-Fi e o Bluetooth estão ativados em ambos os dispositivos e tente novamente.</string>
-    <string name="pad_mirror_disconnect_tips_2_china">Make sure Wi-Fi and Bluetooth are turned on on both devices and try again.</string>
     <string name="pad_pc_app_introduction_summary">Use tablet apps on your computer</string>
     <string name="pad_pc_app_introduction_title">"Apps"</string>
     <string name="pad_pc_extend_introduction_summary">Extend your computer screen to your tablet</string>
@@ -430,7 +429,6 @@ You can start another session on your computer."</string>
     <string name="settings_handoff_enable_bluetooth">Ative o Bluetooth</string>
     <string name="settings_feature_keep_screen_summary">Mantenha seu dispositivo desbloqueado para evitar desconexões inesperadas</string>
     <string name="settings_feature_keep_screen_title">Não bloquear a tela</string>
-    <string name="settings_handoff_enable_bluetooth">Ative o Bluetooth para encontrar dispositivos próximos</string>
     <string name="settings_history">Histórico de conexão</string>
     <string name="settings_history_clear">Limpar</string>
     <string name="settings_history_clear_dialog_title">Limpar histórico de conexão agora?</string>

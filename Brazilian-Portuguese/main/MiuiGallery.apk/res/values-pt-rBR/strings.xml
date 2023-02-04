@@ -2945,8 +2945,6 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="trash_menu_delete">Excluir</string>
     <string name="trash_menu_recovery">Restaurar</string>
     <string name="trash_purge_all">Todos os itens excluídos recentemente serão excluídos permanentemente da nuvem e de todos os dispositivos sincronizados. Excluir mesmo assim?</string>
-    <string name="trash_purge_all_media">"Excluir permanentemente todos os itens da nuvem e todos os dispositivos sincronizados? Você não pode reverter esta ação."</string>
-    <string name="trash_purge_all">Todas as fotos e vídeos serão excluídas da nuvem. Você não poderá restaurá-los. Excluir mesmo assim?</string>
     <string name="trash_purge_all_cloud">Todos os itens na lixeira serão excluídos permanentemente da nuvem e todos os dispositivos sincronizados. Excluir mesmo assim?</string>
     <string name="trash_purge_all_local">Todos os itens na lixeira serão excluídos permanentemente. Excluir mesmo assim?</string>
     <string name="trash_purge_all_media">Excluir permanentemente todos os itens da nuvem e todos os dispositivos sincronizados? Você não pode reverter esta ação.</string>

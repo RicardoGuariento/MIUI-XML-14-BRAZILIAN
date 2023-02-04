@@ -475,7 +475,6 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="miplay_mini_card_no_song_pad_title">Tablet audio</string>
     <string name="miplay_mini_card_no_song_subtitle">No playback</string>
     <string name="miplay_mini_card_no_song_title">Phone audio</string>
-    <string name="miplay_service_timeout_toast">Connection timed out. Try again.</string>
     <string name="miplay_song_title_empty">No items here</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
