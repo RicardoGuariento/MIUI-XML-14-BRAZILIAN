@@ -114,6 +114,26 @@
     <string name="click_to_switch_volume_pad">Toque para mudar entre armazenamento interno e cartão SD</string>
     <string name="clock_in">Fazendo check-in…</string>
     <string name="close">Fechar</string>
+    <string name="cloud_copy_to_local_title">Salvar em…</string>
+    <string name="cloud_drive_files">Arquivos do Mi Drive</string>
+    <string name="cloud_drive_not_login_summary">Não conectado</string>
+    <string name="cloud_drive_settings">Configurações do Mi Drive</string>
+    <string name="cloud_empty_hint_text">"Nada aqui ainda.
+Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
+    <string name="cloud_guide_summary_text">Sincronize automaticamente seus itens com todos os seus dispositivos</string>
+    <string name="cloud_guide_title_text">Sincronizar com o Mi Drive</string>
+    <string name="cloud_permission_storage_desc">Para salvar fotos e documentos em seu dispositivo</string>
+    <string name="cloud_recycle_bin">Itens excluídos recentemente</string>
+    <string name="cloud_space_full">O armazenamento em nuvem está cheio. Atualize seu plano de armazenamento para poder enviar mais itens.</string>
+    <string name="cloud_transfer_download_error">"Não foi possível baixar"</string>
+    <string name="cloud_transfer_download_loading">Baixando</string>
+    <string name="cloud_transfer_downloading">Baixando</string>
+    <string name="cloud_transfer_pause">Pausado</string>
+    <string name="cloud_transfer_upload_error">"Não foi possível enviar"</string>
+    <string name="cloud_transfer_uploading">Enviando</string>
+    <string name="cloud_transfer_wait_download">Esperando para baixar</string>
+    <string name="cloud_transfer_wait_network">Esperando a internet</string>
+    <string name="cloud_transfer_wait_upload">Esperando para enviar</string>
     <string name="compress_fail">Não foi possível compactar. Já existe um arquivo com o mesmo nome.</string>
     <string name="compress_fail_unknown">Não foi possível compactar. Armazenamento está cheio ou ocorreu um erro desconhecido.</string>
     <string name="compress_message">Compactar para…</string>
@@ -374,6 +394,12 @@
     <string name="mi_router_label">Roteador</string>
     <string name="mi_share">Compartilhamento Mi</string>
     <string name="midnight">"AM"</string>
+    <string name="midrive_display_related">Exibir</string>
+    <string name="midrive_get_cloudvideo_file">Só um segundo…</string>
+    <string name="midrive_hide_recent_cloud_files">"Não exibir os arquivos do Mi Drive em Recentes"</string>
+    <string name="midrive_not_found">"Não foi possível acessar este item"</string>
+    <string name="midrive_overseas_unavailable">Este recurso está disponível apenas no continente Chinês.</string>
+    <string name="midrive_reset_privacy_and_check_availability_retry">"Não foi possível ativar o Mi Drive. Tente novamente."</string>
     <string name="midriver_install_button_text">Instalar</string>
     <string name="midriver_not_install_title">O Mi Drive não está instalado</string>
     <string name="midrop_msg_1">Conectar Mi Drop nos outros dispositivos</string>
@@ -620,6 +646,14 @@
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_policy_renew">Política de privacidade atualizada</string>
     <string name="privacy_policy_renew_content"><Data>"A &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do gerenciador de Arquivos foi atualizada. Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e concorde com a nova versão da Política de Privacidade antes de continuar."</Data></string>
+    <string name="privacy_recall_alert_description" formatted="false">Limpe todos os itens do Mi Drive para poder retirar o consentimento. Siga estas etapas para limpar itens:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Na página inicial do Mi Drive, pressione e segure um item para fazer o botão \"Selecionar tudo\" aparecer. Use este botão para selecionar até 200 arquivos por vez e excluí-los.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Depois disso, limpe seus itens excluídos recentemente.</string>
+    <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Recomendamos fazer backup de seus itens antes de excluí-los. Para fazer isso, visite i.mi.com, clique em Mi Drive e baixe seus itens para um computador.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Observe que os itens excluídos recentemente não podem ser recuperados depois de excluí-los."</string>
+    <string name="privacy_recall_confirm_button">Retirar</string>
+    <string name="privacy_recall_confirm_description">"Se continuar, você retirará seu consentimento para a Política de Privacidade do gerenciador de Arquivos. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma."</string>
+    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>Os seguintes itens serão excluídos permanentemente após a retirada do consentimento:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Todos os itens no Mi Drive, incluindo, entre outros, documentos, arquivos privados e itens excluídos.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Permissões do dispositivo, configurações e outros conteúdos em cache.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Histórico de envios e download do Mi Drive.</string>
+    <string name="privacy_recall_success">Consentimento retirado com sucesso</string>
+    <string name="privacy_recall_title">Retirada de consentimento</string>
+    <string name="privacy_recalling">Retirar o consentimento…</string>
     <string name="private_files">Privado</string>
     <string name="private_folder">Arquivos privados</string>
     <string name="private_folder_no_file_hints">Pressione e segure um arquivo ou uma pasta para torná-lo privado</string>
@@ -846,9 +880,12 @@
     <string name="unknown_error">Ocorreu um erro desconhecido. Aguarde uns minutos e tente novamente</string>
     <string name="unlock_pattern_msg">A senha de Proteção de Privacidade também funciona para fotos, mensagens e notas.</string>
     <string name="unlock_pattern_title">Novo padrão</string>
+    <string name="update_no_network">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
     <string name="upload_user_photo">"Upload"</string>
     <string name="usb_label">"USB"</string>
     <string name="use">Usar</string>
+    <string name="use_mobile_data_update_summary">Usa dados móveis para sincronizar automaticamente as alterações nos arquivos baixados do Mi Drive</string>
+    <string name="use_mobile_data_update_title">Usar dados móveis para sincronizar</string>
     <string name="use_to_all">Aplicar para todos</string>
     <string name="used">"Utilizado "</string>
     <string name="user_guide_continue_use">"OK"</string>
@@ -857,7 +894,12 @@
     <string name="utf8_title">"UTF-8"</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
+    <string name="video_data_consume_dialog_confirm">Continuar</string>
+    <string name="video_data_consume_dialog_title">Usar dados móveis?</string>
     <string name="view_type">Ver</string>
+    <string name="web_sso_login_fail">Você precisa fazer login novamente</string>
+    <string name="web_sso_login_message">Entrando…</string>
+    <string name="webview_reload">Tente novamente</string>
     <string name="wechat_msg">Devido às restrições do Android 11, o Gerenciador de arquivos não pode acessar e exibir os documentos visualizados no WeChat. Abra e salve documentos no WeChat para que eles apareçam aqui.</string>
     <string name="wechat_title">Não consigo acessar os documentos do WeChat</string>
     <string name="wechat_video">Vídeo em %s</string>

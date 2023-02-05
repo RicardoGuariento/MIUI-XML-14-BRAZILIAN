@@ -9,6 +9,9 @@
     <string name="widget_apps">Apps com suporte a widgets</string>
     <string name="widget_num_limit">Não é possível adicionar mais widgets ao Assistente. Exclua widgets mais antigos para adicionar novos.</string>
     <string name="widget_num_warn">Adicionado com sucesso. Lembre-se de que ao colocar muitos widgets na Tela inicial pode deixar seu dispositivo mais lento.</string>
+    <!-- Categories -->
+    <string name="theme_clock">Relógios personalizados</string>
+    <string name="theme_pals">Parceiros</string>
     <!-- App names -->
     <string name="app_appvault">Assistente</string>
     <string name="app_browser">Navegador</string>
@@ -16,15 +19,18 @@
     <string name="app_calendar">Agenda</string>
     <string name="app_camera">Câmera</string>
     <string name="app_clock">Relógio</string>
+    <string name="app_files">Arquivos</string>
     <string name="app_gallery">Galeria</string>
     <string name="app_google">"Google"</string>
     <string name="app_health">Mi Saúde</string>
     <string name="app_mipay">Carteira</string>
     <string name="app_notes">Notas</string>
     <string name="app_recorder">Gravador</string>
+    <string name="app_scanner">"Scanner"</string>
     <string name="app_security">Segurança</string>
     <string name="app_settings">Configurações</string>
     <string name="app_weather">Clima</string>
+    <string name="app_whatsapp">"WhatsApp"</string>
     <!-- Shortcut groups -->
     <string name="shortcuts_external">Atalhos externos</string>
     <string name="shortcuts_system">Atalhos do sistema</string>
@@ -78,6 +84,8 @@
     <string name="widget_clock_weather_desc">Hora, data e clima na sua localização atual</string>
     <string name="widget_clock_world">Relógio mundial</string>
     <string name="widget_clock_world_desc">Hora em um local diferente</string>
+    <string name="widget_files_pin">Arquivos frequentes</string>
+    <string name="widget_files_pin_desc">Fixe arquivos visualizados com frequência para acesso rápido</string>
     <string name="widget_gallery_custom">Imagens selecionadas</string>
     <string name="widget_gallery_custom_desc">Adicione o widget e toque nele para selecionar fotos</string>
     <string name="widget_gallery_recommend">Recordações</string>
@@ -98,6 +106,10 @@
     <string name="widget_notes_tasks_desc">Visualize e abra suas tarefas</string>
     <string name="widget_notes_view">Notas</string>
     <string name="widget_notes_view_desc">Veja e abra suas notas</string>
+    <string name="widget_pals_cat">"Gatinha"</string>
+    <string name="widget_pals_cat_desc">Miau ~ não me perturbe quando eu durmo…</string>
+    <string name="widget_pals_dog">Cachorrinho</string>
+    <string name="widget_pals_dog_desc">Au au ~ brinque comigo!</string>
     <string name="widget_security_app_behavior">Privacidade</string>
     <string name="widget_security_app_behavior_desc">Veja estatísticas de comportamento do app</string>
     <string name="widget_security_app_predict">Sugestões de apps</string>

@@ -2060,8 +2060,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="privacy">Política de Privacidade</string>
     <string name="privacy_cloud_confirm">Ative a sincronização</string>
     <string name="privacy_cloud_confirm_content1">Política de Privacidade da MiCloud</string>
-    <string name="privacy_cloud_confirm_content2">Termo de Acordo do Usuário</string>
-    <string name="privacy_cloud_confirm_detail"><Data>"Depois de ativar a sincronização, fotos e vídeos deste dispositivo serão carregados para a MiCloud e mescladas com itens sincronizados anteriormente (se houver). Leia e concorde com a MiCloud &lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar."</Data></string>
+    <string name="privacy_cloud_confirm_content2">Contrato do Usuário</string>
+    <string name="privacy_cloud_confirm_detail"><Data>"Depois de ativar a sincronização, fotos e vídeos deste dispositivo serão carregados para a MiCloud e mescladas com itens sincronizados anteriormente (se houver). Leia e concorde com a MiCloud &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar."</Data></string>
     <string name="privacy_cloud_confirm_detail_negative">Sair</string>
     <string name="privacy_cloud_confirm_detail_positive">Aceitar</string>
     <string name="privacy_cloud_confirm_rejected">Consentimento para a Política de Privacidade da Nuvem Xiaomi foi retirada para esta conta. Tente usar uma conta diferente.</string>
@@ -2101,7 +2101,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="privacy_rejected_map_new">Retirada do consentimento para Declaração de Compartilhamento de Dados de Terceiros do Mapa da Galeria</string>
     <string name="privacy_rejected_pos_btn">Retirar</string>
     <string name="privacy_share_album_confirm">Termos e Condições</string>
-    <string name="privacy_share_album_confirm_detail">Álbuns compartilhados são alimentados por MiCloud. Antes de usar este recurso, leia e concorde com o nosso &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Termo de Acordo do Usuário>&lt;/a>&lt;/font> e a nossa &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
+    <string name="privacy_share_album_confirm_detail">Álbuns compartilhados são alimentados por MiCloud. Antes de usar este recurso, leia e concorde com o nosso &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Contrato do Usuário>&lt;/a>&lt;/font> e a nossa &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
     <string name="private_entry_lock_state_activated_text">Solte para abrir a pasta privada</string>
     <string name="private_entry_lock_state_enterd_text">Puxe para baixo para abrir a pasta privada</string>
     <string name="problem_feedback">"Feedback"</string>

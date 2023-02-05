@@ -804,7 +804,7 @@ dd 'de' MMM"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Você não poderá realizar as seguintes ações depois de sair:
 Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">Sair do papel de parede e personalização?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do com o papel de parede e a personalização, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Termo de Acordo do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do com o papel de parede e a personalização, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
     <string name="pad_fold_log_in_wallpaper">Faça login no papel de parede e personalização</string>
     <string name="pad_fold_no_permission">Permissões de armazenamento necessárias</string>
     <string name="pad_fold_no_permission_detail">Para poder alterar as preferências de personalização e salvar itens baixados, permita que este recurso acesse o armazenamento primeiro.</string>
@@ -834,7 +834,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
 2. Adicionar comentários e likes, siguir outras pessoas e interajir com elas."</string>
     <string name="phone_exit_theme_warning_title">Fazer logout do Temas?</string>
     <string name="phone_log_in_theme">Fazer login no Temas</string>
-    <string name="phone_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Termo de Acordo do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do Temas, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Termo de Acordo do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do Temas, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
     <string name="playing_ringtone">Tocando</string>
     <string name="pm">"PM"</string>
     <string name="pref_lockscreen_magazine_summary">Substitua o plano de fundo por apresentações de slides de imagens de várias categorias</string>
@@ -1458,7 +1458,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="theme_user_agreement_exit">Recusar</string>
     <string name="theme_user_agreement_remind_again">Mostrar Contrato do Usuário</string>
     <string name="theme_user_agreement_remind_never">Não mostrar novamente</string>
-    <string name="theme_user_agreement_remind_summary">Mostrar pop-up de Contrato do Usuário sempre que o app de Temas for aberto. Esta configuração tem efeito na reinicialização do dispositivo.</string>
+    <string name="theme_user_agreement_remind_summary">Exibe um pop-up do Contrato do Usuário sempre que o app de Temas for aberto. Esta configuração tem efeito na reinicialização do dispositivo.</string>
     <string name="theme_user_agreement_title">Contrato do Usuário</string>
     <string name="theme_version_need_update_prompt_dialog_content">Atualize o app Temas para a versão %s ou posterior para continuar</string>
     <string name="theme_wallpaper">Categoria de planos de fundo</string>

@@ -608,7 +608,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_predict_privacy_privacy_policy_text">Política de Privacidade</string>
     <string name="app_predict_privacy_title">Sugestões de apps</string>
     <string name="app_predict_privacy_user_agreement_privacy_policy_text">Leia e aceite o nosso %1$s e a nossa %2$s antes de continuar.</string>
-    <string name="app_predict_privacy_user_agreement_text">Termo de Acordo do Usuário</string>
+    <string name="app_predict_privacy_user_agreement_text">Contrato do Usuário</string>
     <string name="app_predict_search_btn_cancel_text">Cancelar</string>
     <string name="app_predict_search_empty">Não foi possível encontrar apps</string>
     <string name="app_predict_search_local_app">Neste dispositivo</string>

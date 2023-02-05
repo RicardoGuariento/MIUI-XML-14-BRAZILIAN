@@ -6313,7 +6313,7 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
     <string name="no_updates_found">Sem atualizações disponíveis</string>
     <string name="no_updates_warning">Sem atualizações disponíveis</string>
     <string name="no_updates_warning2">Nós avisaremos quando uma atualização estiver disponível.</string>
-    <string name="no_vr_listeners">Nenhum app instalado solicitou ser executado como um serviço de auxílio de RV.</string>
+    <string name="no_vr_listeners">Nenhum app instalado solicitou ser executado como um serviço de auxiliar de Realidade virtual.</string>
     <string name="noise_suppression">Redução de ruído ambiente</string>
     <string name="non_carrier_data_usage">Uso de dados não-transportadora</string>
     <string name="non_carrier_data_usage_warning">Exclui dados usados por redes transportadoras</string>
@@ -6622,7 +6622,7 @@ O OTG é desativado automaticamente após 10 minutos de inatividade."</string>
     <string name="overlay_settings_summary">Permite que apps que podem ser sobrepostos a outros apps, sejam abertos sobre telas de configuração</string>
     <string name="overlay_settings_title">Permitir sobreposições de tela no app Config.</string>
     <string name="overlay_toast_failed_to_apply">Falha ao aplicar sobreposição</string>
-    <string name="owner_info_settings_edit_text_hint">por exemplo, Android do João.</string>
+    <string name="owner_info_settings_edit_text_hint">Por exemplo: meu android</string>
     <string name="owner_info_settings_summary">Nenhuma</string>
     <string name="owner_info_settings_title">Assinatura na Tela de bloqueio</string>
     <string name="owner_space">Primeiro espaço</string>
@@ -8336,7 +8336,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="set_jeejen_prompt_title">Confirmar alterações</string>
     <string name="set_screen_paper_mode">Modo leitura</string>
     <string name="set_shoulder_key_shortcut_checkbox_message">Não mostrar novamente</string>
-    <string name="set_shoulder_key_shortcut_message">Você ainda não atribuiu nenhum atalho para botões pop-up. Configurá-los agora?</string>
+    <string name="set_shoulder_key_shortcut_message">Você ainda não atribuiu nenhum atalho para o botão pop-up. Configurá-lo agora?</string>
     <string name="set_shoulder_key_shortcut_negative_button">Não</string>
     <string name="set_shoulder_key_shortcut_positive_button">Sim</string>
     <string name="set_shoulder_key_shortcut_title">Configurar botões pop-up</string>

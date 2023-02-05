@@ -879,7 +879,7 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="url_is_unknown">Não é possível verificar se este website é seguro</string>
     <string name="url_is_unsafety">Este website não é seguro</string>
     <string name="use_presentation_file">Demonstração</string>
-    <string name="user_agreement">Termo de Acordo do Usuário</string>
+    <string name="user_agreement">Contrato do Usuário</string>
     <string name="user_notification">Retirada de consentimento</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
