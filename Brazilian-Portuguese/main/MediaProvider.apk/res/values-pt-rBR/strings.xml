@@ -156,57 +156,57 @@
     <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="not_selected">não selecionado</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
-    <string name="permission_delete_audio">{count, plural, =1 {Allow ^1 to delete this audio file?} other {Allow ^1 to delete ^2 audio files?} }</string>
-    <string name="permission_delete_generic">{count, plural, =1 {Allow ^1 to delete this item?} other {Allow ^1 to delete ^2 items?} }</string>
-    <string name="permission_delete_image">{count, plural, =1 {Allow ^1 to delete this photo?} other {Allow ^1 to delete ^2 photos?} }</string>
-    <string name="permission_delete_video">{count, plural, =1 {Allow ^1 to delete this video?} other {Allow ^1 to delete ^2 videos?} }</string>
-    <string name="permission_more_text">{count, plural, =1 {Plus ^1 additional item} other {Plus ^1 additional items} }</string>
+    <string name="permission_delete_audio">{count, plural, =1 {Permitir ^1 excluir este arquivo de áudio?} other {Permitir ^1 excluir ^2 arquivos de áudio?} }</string>
+    <string name="permission_delete_generic">{count, plural, =1 {Permitir ^1 excluir este item?} other {Permitir que ^1 excluir ^2 itens?} }</string>
+    <string name="permission_delete_image">{count, plural, =1 {Permitir ^1 excluir esta foto?} other {Permitir que ^1 excluir ^2 fotos?} }</string>
+    <string name="permission_delete_video">{count, plural, =1 {Permitir ^1 excluir este vídeo?} other {Permitir que ^1 excluir ^2 vídeos?} }</string>
+    <string name="permission_more_text">{count, plural, =1 {Mais ^1 item adicional} other {Mais ^1 itens adicionais} }</string>
     <string name="permission_more_thumb">{count, plural, =1 {+^1} other {+^1} }</string>
-    <string name="permission_progress_delete_audio">{count, plural, =1 {Deleting audio file…} other {Deleting ^1 audio files…} }</string>
-    <string name="permission_progress_delete_generic">{count, plural, =1 {Deleting item…} other {Deleting ^1 items…} }</string>
-    <string name="permission_progress_delete_image">{count, plural, =1 {Deleting photo…} other {Deleting ^1 photos…} }</string>
-    <string name="permission_progress_delete_video">{count, plural, =1 {Deleting video…} other {Deleting ^1 videos…} }</string>
-    <string name="permission_progress_trash_audio">{count, plural, =1 {Moving audio file to trash…} other {Moving ^1 audio files to trash…} }</string>
-    <string name="permission_progress_trash_generic">{count, plural, =1 {Moving item to trash…} other {Moving ^1 items to trash…} }</string>
-    <string name="permission_progress_trash_image">{count, plural, =1 {Moving photo to trash…} other {Moving ^1 photos to trash…} }</string>
-    <string name="permission_progress_trash_video">{count, plural, =1 {Moving video to trash…} other {Moving ^1 videos to trash…} }</string>
-    <string name="permission_progress_untrash_audio">{count, plural, =1 {Moving audio file out of trash…} other {Moving ^1 audio files out of trash…} }</string>
-    <string name="permission_progress_untrash_generic">{count, plural, =1 {Moving item out of trash…} other {Moving ^1 items out of trash…} }</string>
-    <string name="permission_progress_untrash_image">{count, plural, =1 {Moving photo out of trash…} other {Moving ^1 photos out of trash…} }</string>
-    <string name="permission_progress_untrash_video">{count, plural, =1 {Moving video out of trash…} other {Moving ^1 videos out of trash…} }</string>
-    <string name="permission_progress_write_audio">{count, plural, =1 {Modifying audio file…} other {Modifying ^1 audio files…} }</string>
-    <string name="permission_progress_write_generic">{count, plural, =1 {Modifying item…} other {Modifying ^1 items…} }</string>
-    <string name="permission_progress_write_image">{count, plural, =1 {Modifying photo…} other {Modifying ^1 photos…} }</string>
-    <string name="permission_progress_write_video">{count, plural, =1 {Modifying video…} other {Modifying ^1 videos…} }</string>	
+    <string name="permission_progress_delete_audio">{count, plural, =1 {Excluindo arquivo de áudio…} other {Excluindo ^1 arquivos de áudio…} }</string>
+    <string name="permission_progress_delete_generic">{count, plural, =1 {Excluindo item…} other {Excluindo ^1 itens…} }</string>
+    <string name="permission_progress_delete_image">{count, plural, =1 {Excluindo fotos…} other {Excluindo ^1 fotos…} }</string>
+    <string name="permission_progress_delete_video">{count, plural, =1 {Excluindo vídeo…} other {Excluindo ^1 vídeos…} }</string>
+    <string name="permission_progress_trash_audio">{count, plural, =1 {Movendo arquivo de áudio para a lixeira…} other {Movendo ^1 arquivos de áudio para a lixeira…} }</string>
+    <string name="permission_progress_trash_generic">{count, plural, =1 {Movendo item para a lixeira…} other {Movendo ^1 itens para a lixeira…} }</string>
+    <string name="permission_progress_trash_image">{count, plural, =1 {Movendo foto para a lixeira…} other {Movendo ^1 fotos para a lixeira…} }</string>
+    <string name="permission_progress_trash_video">{count, plural, =1 {Movendo vídeo para a lixeira…} other {Movendo ^1 vídeos para a lixeira…} }</string>
+    <string name="permission_progress_untrash_audio">{count, plural, =1 {Movendo arquivo de áudio para a lixeira…} other {Movendo ^1 arquivos de áudio para a lixeir…} }</string>
+    <string name="permission_progress_untrash_generic">{count, plural, =1 {Movendo item para fora da lixeira…} other {Movendo ^1 itens para fora da lixeira…} }</string>
+    <string name="permission_progress_untrash_image">{count, plural, =1 {Movendo foto para fora da lixeira…} other {Movendo ^1 fotos para fora da lixeira…} }</string>
+    <string name="permission_progress_untrash_video">{count, plural, =1 {Movendo vídeo para fora da lixeira…} other {Movendo ^1 vídeos para fora da lixeirah…} }</string>
+    <string name="permission_progress_write_audio">{count, plural, =1 {Modificando arquivo de áudio…} other {Modificando ^1 arquivos de áudio…} }</string>
+    <string name="permission_progress_write_generic">{count, plural, =1 {Modificando item…} other {Modificando ^1 itens…} }</string>
+    <string name="permission_progress_write_image">{count, plural, =1 {Modificando foto…} other {Modificando ^1 fotos…} }</string>
+    <string name="permission_progress_write_video">{count, plural, =1 {Modificando vídeo…} other {Modificando ^1 vídeos…} }</string>	
     <string name="notification_sound_default">Som padrão de notificação</string>
     <string name="permission_audio">Permitir que &lt;b&gt;^1&lt;/b&gt; modifique ou exclua esta música?</string>
     <string name="permission_images">Permitir que &lt;b&gt;^1&lt;/b&gt; modifique ou exclua esta imagem?</string>
     <string name="permission_required">Permissão necessária para modificar ou excluir este item.</string>
     <string name="permission_required_action">Continuar</string>
-    <string name="permission_trash_audio">{count, plural, =1 {Allow ^1 to move this audio file to trash?} other {Allow ^1 to move ^2 audio files to trash?} }</string>
-    <string name="permission_trash_generic">{count, plural, =1 {Allow ^1 to move this item to trash?} other {Allow ^1 to move ^2 items to trash?} }</string>
-    <string name="permission_trash_image">{count, plural, =1 {Allow ^1 to move this photo to trash?} other {Allow ^1 to move ^2 photos to trash?} }</string>
-    <string name="permission_trash_video">{count, plural, =1 {Allow ^1 to move this video to trash?} other {Allow ^1 to move ^2 videos to trash?} }</string>
-    <string name="permission_untrash_audio">{count, plural, =1 {Allow ^1 to move this audio file out of trash?} other {Allow ^1 to move ^2 audio files out of trash?} }</string>
-    <string name="permission_untrash_generic">{count, plural, =1 {Allow ^1 to move this item out of trash?} other {Allow ^1 to move ^2 items out of trash?} }</string>
-    <string name="permission_untrash_image">{count, plural, =1 {Allow ^1 to move this photo out of trash?} other {Allow ^1 to move ^2 photos out of trash?} }</string>
-    <string name="permission_untrash_video">{count, plural, =1 {Allow ^1 to move this video out of trash?} other {Allow ^1 to move ^2 videos out of trash?} }</string>
+    <string name="permission_trash_audio">{count, plural, =1 {Permitir ^1 mover arquivo de áudio para a lixeira?} other {Permitir ^1 mover ^2 arquivos de áudio para a lixeira?} }</string>
+    <string name="permission_trash_generic">{count, plural, =1 {Permitir ^1 mover este item para a lixeira?} other {Permitir ^1 mover ^2 itens para a lixeira?} }</string>
+    <string name="permission_trash_image">{count, plural, =1 {Permitir ^1 mover esta foto para a lixeira?} other {Permitir ^1 mover ^2 fotos para a lixeira?} }</string>
+    <string name="permission_trash_video">{count, plural, =1 {Permitir ^1 mover este vídeo para a lixeira?} other {Permitir ^1 mover ^2 vídeos para a lixeira?} }</string>
+    <string name="permission_untrash_audio">{count, plural, =1 {Permitir ^1 restaurar este arquivo de áudio?} other {Permitir ^1 restaurar ^2 arquivos de áudio?} }</string>
+    <string name="permission_untrash_generic">{count, plural, =1 {Permitir ^1 restaurar este item?} other {Permitir ^1 restaurar ^2 items?} }</string>
+    <string name="permission_untrash_image">{count, plural, =1 {Permitir ^1 restaurar esta foto?} other {Permitir ^1 restaurar ^2 fotos?} }</string>
+    <string name="permission_untrash_video">{count, plural, =1 {Permitir ^1 restaurar este vídeo?} other {Permitir ^1 restaurar ^2 vídeos?} }</string>
     <string name="permission_video">Permitir que &lt;b&gt;^1&lt;/b&gt; modifique ou exclua este vídeo?</string>
-    <string name="permission_write_audio">{count, plural, =1 {Allow ^1 to modify this audio file?} other {Allow ^1 to modify ^2 audio files?} }</string>
-    <string name="permission_write_generic">{count, plural, =1 {Allow ^1 to modify this item?} other {Allow ^1 to modify ^2 items?} }</string>
-    <string name="permission_write_image">{count, plural, =1 {Allow ^1 to modify this photo?} other {Allow ^1 to modify ^2 photos?} }</string>
-    <string name="permission_write_video">{count, plural, =1 {Allow ^1 to modify this video?} other {Allow ^1 to modify ^2 videos?} }</string>
-    <string name="picker_add_button_multi_select">Add (^1)</string>
-    <string name="picker_album_item_count">{count, plural, =1 {^1 item} other {^1 items} }</string>
-    <string name="picker_albums">Albums</string>
-    <string name="picker_albums_empty_message">No albums</string>
-    <string name="picker_app_label">Photo picker</string>
-    <string name="picker_category_camera">Camera</string>
-    <string name="picker_category_downloads">Downloads</string>
-    <string name="picker_category_favorites">Favorites</string>
-    <string name="picker_category_screenshots">Screenshots</string>
-    <string name="picker_cloud_sync">Cloud media now available from %1$s</string>
-    <string name="picker_gif">GIF</string>
+    <string name="permission_write_audio">{count, plural, =1 {Permitir ^1 modificar este arquivo de áudio?} other {Permitir ^1 modificar ^2 arquivos de áudio?} }</string>
+    <string name="permission_write_generic">{count, plural, =1 {Permitir ^1 modificar este item?} other {Permitir ^1 modificar ^2 itens?} }</string>
+    <string name="permission_write_image">{count, plural, =1 {Permitir ^1 modificar esta foto?} other {Permitir ^1 modificar ^2 fotos?} }</string>
+    <string name="permission_write_video">{count, plural, =1 {Permitir ^1 modificar este vídeo?} other {Permitir ^1 modificar ^2 vídeos?} }</string>
+    <string name="picker_add_button_multi_select">Adicionar (^1)</string>
+    <string name="picker_album_item_count">{count, plural, =1 {^1 item} other {^1 itens} }</string>
+    <string name="picker_albums">Álbuns</string>
+    <string name="picker_albums_empty_message">Nenhum álbum</string>
+    <string name="picker_app_label">Seletor de fotos</string>
+    <string name="picker_category_camera">Câmera</string>
+    <string name="picker_category_downloads">"Downloads"</string>
+    <string name="picker_category_favorites">Favoritos</string>
+    <string name="picker_category_screenshots">Capturas de tela</string>
+    <string name="picker_cloud_sync">Mídia em nuvem agora disponível em %1$s</string>
+    <string name="picker_gif">"GIF"</string>
     <string name="picker_item_content_desc">%1$s taken on %2$s</string>
     <string name="picker_motion_photo">Motion Photo</string>
     <string name="picker_motion_photo_text">Motion Photo</string>
@@ -236,7 +236,7 @@
     <string name="root_videos">Vídeos</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="select">Selecione</string>
-    <string name="select_up_to">{count, plural, =1 {Select up to ^1 item} other {Select up to ^1 items} }</string>
+    <string name="select_up_to">{count, plural, =1 {Selecione até ^1 item} other {Selecione até ^1 itens} }</string>
     <string name="selected">Selecionado</string>
     <string name="sound_name_awaken">Despertar</string>
     <string name="sound_name_bounce">Salto</string>
