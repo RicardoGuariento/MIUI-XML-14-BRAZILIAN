@@ -3403,11 +3403,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_fast_charge_notifi_action_text_off">Parar</string>
     <string name="pc_fast_charge_notifi_action_text_on">Impulsionar</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Definir o nível da bateria para lembretes</string>
-    <string name="pc_fast_charge_notifi_summary">Carregando até %s mais rápido que o normal…</string>
+    <string name="pc_fast_charge_notifi_summary">Carregando %s mais rápido que o normal…</string>
     <string name="pc_fast_charge_notifi_summary_on">A velocidade de carregamento é aumentada quando a tela está desligada. Seu dispositivo irá aquecer.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Notifica sobre o aumento da velocidade de carregamento quando o carregador %dW fornecido estiver conectado e a bateria estiver abaixo do nível definido</string>
     <string name="pc_fast_charge_notifi_switch_title">Notificar sobre aumento</string>
-    <string name="pc_fast_charge_notifi_title">%dW carregando</string>
+    <string name="pc_fast_charge_notifi_title">Carregando a %dW</string>
     <string name="pc_fast_charge_notifi_title_on">Pare de aumentar a velocidade de carregamento</string>
     <string name="pc_fast_charge_switch_summary">Ative para acelerar o processo de carregamento. A MIUI irá priorizar a velocidade de carregamento, garantindo a segurança do seu dispositivo. Quanto menor for a capacidade da bateria, mais rápido ela será carregada. Este recurso pode aquecer seu dispositivo.</string>
     <string name="pc_fast_charge_switch_title">Aumente a velocidade de carregamento</string>
