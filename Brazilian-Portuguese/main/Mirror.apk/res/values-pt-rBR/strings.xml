@@ -378,7 +378,6 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="phone_pc_message_introduction_summary">Copie o texto ou tire uma foto em seu dispositivo e cole esses itens em um computador conectado</string>
     <string name="phone_pc_message_introduction_title">Área de transferência compartilhada</string>
     <string name="phone_settings_current_device_tip">Conecte-se a outros telefones associados à sua Conta Mi automaticamente</string>
-    <string name="permission_access_nearby_device">Acessar dispositivos próximos</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_all_purpose">Bem-vindo ao MIUI+! Você pode usar este app para conectar seu dispositivo a um computador e combinar dois dispositivos em uma estação de trabalho.</string>
