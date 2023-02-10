@@ -171,7 +171,7 @@
     <string name="accessibility_shortcut_enabling_service">Teclas de volume pressionadas. Serviço %1$s ativado.</string>
     <string name="accessibility_shortcut_menu_item_status_off">DESATIVADO</string>
     <string name="accessibility_shortcut_menu_item_status_on">ATIVADO</string>
-    <string name="accessibility_shortcut_multiple_service_list">"\u0009• %1$s
+    <string name="accessibility_shortcut_multiple_service_list">" • %1$s
 "</string>
     <string name="accessibility_shortcut_multiple_service_warning">"Manter as duas teclas de volume pressionadas por alguns segundos ativa os recursos de acessibilidade. Isso pode mudar o funcionamento do seu dispositivo.
 
@@ -190,6 +190,11 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="accessibility_shortcut_warning_dialog_title">Usar atalho de Acessibilidade?</string>
     <string name="accessibility_system_action_back_label">Voltar</string>
     <string name="accessibility_system_action_dismiss_notification_shade">Dispensar sombra de notificação</string>
+    <string name="accessibility_system_action_dpad_center_label">Dpad Centro</string>
+    <string name="accessibility_system_action_dpad_down_label">Dpad Baixo</string>
+    <string name="accessibility_system_action_dpad_left_label">Dpad Esquerda</string>
+    <string name="accessibility_system_action_dpad_right_label">Dpad Direita</string>
+    <string name="accessibility_system_action_dpad_up_label">Dpad Cima</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Atalho de acessibilidade</string>
     <string name="accessibility_system_action_home_label">Início</string>
     <string name="accessibility_system_action_lock_screen_label">Bloquear tela</string>
@@ -271,6 +276,15 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="app_running_notification_text">Toque para ver mais informações ou parar o app.</string>
     <string name="app_running_notification_tip_text">Isso pode fazer com que seu dispositivo fique lento e consuma mais bateria. Toque para fechar o app</string>
     <string name="app_running_notification_title">%1$s está em execução</string>
+    <string name="app_streaming_blocked_message">Isso não pode ser acessado em seu %1$s. Em vez disso, tente no seu dispositivo.</string>
+    <string name="app_streaming_blocked_message_for_fingerprint_dialog">Este app está solicitando segurança adicional. Em vez disso, tente no seu dispositivo.</string>
+    <string name="app_streaming_blocked_message_for_permission_dialog">Isso não pode ser acessado em seu %1$s no momento. Em vez disso, tente no seu dispositivo.</string>
+    <string name="app_streaming_blocked_title">%1$s indisponível</string>
+    <string name="app_streaming_blocked_title_for_camera_dialog">Câmera indisponível</string>
+    <string name="app_streaming_blocked_title_for_fingerprint_dialog">Continuar no dispositivo</string>
+    <string name="app_streaming_blocked_title_for_microphone_dialog">Microfone indisponível</string>
+    <string name="app_streaming_blocked_title_for_permission_dialog">Permissão necessária</string>
+    <string name="app_streaming_blocked_title_for_settings_dialog">Configurações do telefone indisponíveis</string>
     <string name="app_suspended_default_message">O app %1$s não está disponível no momento. Isso é gerenciado pelo app %2$s.</string>
     <string name="app_suspended_more_details">Saiba mais</string>
     <string name="app_suspended_title">O app não está disponível</string>
@@ -295,6 +309,7 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="autofill_parish">Paróquia</string>
     <string name="autofill_picker_accessibility_title">Opções de preenchimento automático</string>
     <string name="autofill_picker_no_suggestions">Sem sugestões de preenchimento automático</string>
+    <string name="autofill_picker_some_suggestions">{count, plural, =1 {Uma sugestão de preenchimento automático} other {# Sugestões de preenchimento automático} }</string>
     <string name="autofill_postal_code">Código Postal</string>
     <string name="autofill_prefecture">Município</string>
     <string name="autofill_province">Distrito</string>
@@ -347,6 +362,7 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="biometric_or_screen_lock_dialog_default_subtitle">Use sua biometria ou bloqueio de tela para continuar</string>
     <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
     <string name="bluetooth_airplane_mode_toast">O Bluetooth permanecerá ativado no modo avião</string>
+    <string name="bugreport_countdown">{count, plural, =1 {Captura de tela para relatório de bug em # segundo.} other {Captura de tela para relatório de bug em # segundos.} }</string>
     <string name="bugreport_message">Isto coletará informações sobre o estado atual do dispositivo para enviá-las em uma mensagem de e-mail. Após iniciar o relatório de bugs, será necessário aguardar algum tempo até que esteja pronto para ser enviado.</string>
     <string name="bugreport_option_full_summary">Use esta opção para ter o mínimo de interferência do sistema quando seu dispositivo não estiver respondendo ou estiver muito lento, ou quando você precisar de todas as seções de relatórios. Ela não permite que você informe mais detalhes ou faça capturas de tela adicionais.</string>
     <string name="bugreport_option_full_title">Relatório completo</string>
@@ -476,6 +492,7 @@ usando %s"</string>
     <string name="deprecated_target_sdk_message">Este app foi criado para uma versão mais antiga do Android e pode não funcionar corretamente. Tente verificar se há atualizações ou entre em contato com o desenvolvedor.</string>
     <string name="description_target_unlock_tablet">Deslize para desbloquear.</string>
     <string name="device_ownership_relinquished">O administrador renunciou ao dispositivo para uso pessoal</string>
+    <string name="device_policy_manager_service">Serviço do gerenciador de políticas de dispositivos</string>
     <string name="device_storage_monitor_notification_channel">Armazenamento do dispositivo</string>
     <string name="dial_number_using">"Discar número
 usando %s"</string>
@@ -498,6 +515,22 @@ usando %s"</string>
     <string name="dump_heap_system_text">O processo %1$s excedeu o limite de memória de %2$s. Um despejo de heap está disponível para compartilhamento. Tenha cuidado: esse despejo de heap pode conter informações pessoais confidenciais que o processo pode acessar, o que pode incluir os dados digitados.</string>
     <string name="dump_heap_text">O processo %1$s excedeu o limite de memória de %2$s. Um despejo de heap está disponível para compartilhamento com o desenvolvedor. Cuidado: esse despejo de heap pode conter informações que podem ser acessadas pelo app.</string>
     <string name="dump_heap_title">Compartilhar despejo de heap?</string>
+    <string name="duration_days_relative">{count, plural, =1 {# dia atrás} other {# dias atrás} }</string>
+    <string name="duration_days_relative_future">{count, plural, =1 {# dia} other {# dias} }</string>
+    <string name="duration_days_shortest">%dd</string>
+    <string name="duration_days_shortest_future">em %dd</string>
+    <string name="duration_hours_relative">{count, plural, =1 {# hora atrás} other {# horas atrás} }</string>
+    <string name="duration_hours_relative_future">{count, plural, =1 {# hora} other {# horas} }</string>
+    <string name="duration_hours_shortest">"%dh"</string>
+    <string name="duration_hours_shortest_future">em %dh</string>
+    <string name="duration_minutes_relative">{count, plural, =1 {# minuto atrás} other {# minutos atrás} }</string>
+    <string name="duration_minutes_relative_future">{count, plural, =1 {# minuto} other {# minutos} }</string>
+    <string name="duration_minutes_shortest">"%dm"</string>
+    <string name="duration_minutes_shortest_future">em %dm</string>
+    <string name="duration_years_relative">{count, plural, =1 {# ano atrás} other {# anos atrás} }</string>
+    <string name="duration_years_relative_future">{count, plural, =1 {# ano} other {# anos} }</string>
+    <string name="duration_years_shortest">"%da"</string>
+    <string name="duration_years_shortest_future">em %da</string>
     <string name="dynamic_mode_notification_channel_name">Notificação de informação do modo rotina</string>
     <string name="dynamic_mode_notification_summary">A Economia de bateria foi ativada para aumentar a duração da carga</string>
     <string name="dynamic_mode_notification_title">A bateria pode acabar antes da recarga normal</string>
@@ -615,6 +648,7 @@ usando %s"</string>
     <string name="face_recalibrate_notification_content">Toque para excluir seu modelo de rosto e, em seguida, adicione-o novamente</string>
     <string name="face_recalibrate_notification_name">Desbloqueio facial</string>
     <string name="face_recalibrate_notification_title">Problema com o Desbloqueio facial</string>
+    <string name="face_sensor_privacy_enabled">Para usar o Desbloqueio facial, ative <b>Acesso à câmera</b> em Configurações > Privacidade</string>
     <string name="face_setup_notification_content">Desbloqueie seu dispositivo olhando para ele</string>
     <string name="face_setup_notification_title">Configurar Desbloqueio facial</string>
     <string name="faceunlock_multiple_failures">O número máximo de tentativas de Desbloqueio por reconhecimento facial foi excedido</string>
@@ -631,17 +665,19 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Código de recurso concluído.</string>
     <string name="fcError">Problema de conexão ou código de recurso inválido.</string>
+    <string name="file_count">{count, plural, =1 {{file_name} + # arquivo} other {{file_name} + # arquivos} }</string>
     <string name="find">Localizar</string>
     <string name="find_next">Localizar próximo</string>
     <string name="find_on_page">Localizar na página</string>
     <string name="find_previous">Localizar anterior</string>
     <string name="fingerprint_acquired_already_enrolled">Tente outra impressão digital</string>
-    <string name="fingerprint_acquired_imager_dirty">Limpe o sensor</string>
+    <string name="fingerprint_acquired_imager_dirty">Limpe o sensor de impressão digital e tente novamente</string>
+    <string name="fingerprint_acquired_imager_dirty_alt">Limpe o sensor e tente novamente</string>
     <string name="fingerprint_acquired_immobile">Mude a posição do seu dedo ligeiramente a cada vez</string>
     <string name="fingerprint_acquired_insufficient">Não foi possível processar a impressão digital. Tente novamente.</string>
-    <string name="fingerprint_acquired_partial">Impressão digital parcial detectada</string>
+    <string name="fingerprint_acquired_partial">Pressione firmemente o sensor</string>
     <string name="fingerprint_acquired_too_bright">Muito brilhante</string>
-    <string name="fingerprint_acquired_too_fast">Espere um pouco mais</string>
+    <string name="fingerprint_acquired_too_fast">Pressione firmemente o sensor</string>
     <string name="fingerprint_acquired_too_slow">O movimento do dedo está muito lento. Tente novamente.</string>
     <string name="fingerprint_acquired_try_adjusting">Tente ajustar</string>
     <string name="fingerprint_app_setting_name">Use a impressão digital</string>
@@ -655,6 +691,7 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="fingerprint_error_lockout_permanent">Excesso de tentativas. Sensor de impressão digital desativado.</string>
     <string name="fingerprint_error_no_fingerprints">Nenhuma impressão digital registrada.</string>
     <string name="fingerprint_error_no_space">Não é possível configurar a impressão digital</string>
+    <string name="fingerprint_error_not_match">Impressão digital não reconhecida</string>
     <string name="fingerprint_error_security_update_required">Sensor desativado temporariamente.</string>
     <string name="fingerprint_error_timeout">Tempo máximo para captura da impressão digital atingido. Tente novamente.</string>
     <string name="fingerprint_error_unable_to_process">Tente novamente.</string>
@@ -669,6 +706,7 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="fingerprint_recalibrate_notification_title">Não é possível usar o sensor de impressão digital</string>
     <string name="fingerprint_setup_notification_content">Toque para adicionar uma impressão digital</string>
     <string name="fingerprint_setup_notification_title">Configure outras maneiras de desbloquear</string>
+    <string name="fingerprint_udfps_error_not_match">Impressão digital não reconhecida</string>
     <string name="fingerprints">Impressões digitais</string>
     <string name="floating_toolbar_close_overflow_description">Fechar menu flutuante</string>
     <string name="floating_toolbar_open_overflow_description">Mais opções</string>
@@ -685,6 +723,18 @@ Isso geralmente desliga/liga sua tela."</string>
     <string name="fp_enrollment_powerbutton_intent_negative_button">Cancelar</string>
     <string name="fp_enrollment_powerbutton_intent_positive_button">Desativar</string>
     <string name="fp_enrollment_powerbutton_intent_title">Desativar tela?</string>
+    <string name="fp_power_button_bp_message">"Você pressionou o botão liga/desliga — isso geralmente desliga a tela.
+
+Tente tocar levemente para verificar sua impressão digital."</string>
+    <string name="fp_power_button_bp_negative_button">Continuar</string>
+    <string name="fp_power_button_bp_positive_button">Desliguar a tela</string>
+    <string name="fp_power_button_bp_title">Continuar verificando sua impressão digital?</string>
+    <string name="fp_power_button_enrollment_message">"Você pressionou o botão liga/desliga — isso geralmente desliga a tela.
+
+Tente tocar levemente enquanto configura sua impressão digital."</string>
+    <string name="fp_power_button_enrollment_negative_button">Continuar configuração</string>
+    <string name="fp_power_button_enrollment_positive_button">Desliguar a tela</string>
+    <string name="fp_power_button_enrollment_title">Continuar configuração?</string>
     <string name="gadget_host_error_inflating">Não foi possível adicionar widget.</string>
     <string name="geofencing_service">Serviço de Geofencing</string>
     <string name="gigabyteShort">"GB"</string>
@@ -724,7 +774,7 @@ Isso geralmente desliga/liga sua tela."</string>
     <string name="granularity_label_line">linha</string>
     <string name="granularity_label_link">"link"</string>
     <string name="granularity_label_word">palavra</string>
-    <string name="gsm_alphabet_default_charset" />
+    <string name="guest_name">Convidado</string>
     <string name="hardware">Mostrar teclado virtual</string>
     <string name="harmful_app_warning_open_anyway">ABRIR MESMO ASSIM</string>
     <string name="harmful_app_warning_title">App nocivo detectado</string>
@@ -780,8 +830,11 @@ Isso geralmente desliga/liga sua tela."</string>
     <string name="immersive_cling_title">Visualização em tela cheia</string>
     <string name="importance_from_person">Isso é importante por causa das pessoas envolvidas.</string>
     <string name="importance_from_user">Você definiu a importância dessas notificações.</string>
+    <string name="in_progress">em progresso</string>
     <string name="inputMethod">Método de entrada</string>
     <string name="input_method_binding_label">Método de entrada</string>
+    <string name="input_method_ime_switch_button_desc">Alternar método de entrada</string>
+    <string name="input_method_nav_back_button_desc">Voltar</string>
     <string name="install_carrier_app_notification_button">Fazer download do app</string>
     <string name="install_carrier_app_notification_text">Faça o download do app da operadora para ativar seu novo chip</string>
     <string name="install_carrier_app_notification_text_app_name">Faça o download do app %1$s para ativar seu novo chip</string>
@@ -884,6 +937,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="language_picker_section_suggested">Sugeridos</string>
     <string name="language_selection_title">Adicionar um idioma</string>
     <string name="last_month">Mês passado</string>
+    <string name="last_num_days">{ count, plural, =1 {Último dia #} other {# últimos dias} }</string>
     <string name="launchBrowserDefault">Abrir Navegador?</string>
     <string name="launch_warning_original">%1$s foi iniciado.</string>
     <string name="launch_warning_replace">%1$s não está em execução.</string>
@@ -914,7 +968,7 @@ Para desafixar a tela, pressione e segure o botão Início e o Liga/Desliga ao m
     <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
     <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
     <string name="lockscreen_carrier_default">Sem serviço</string>
-    <string name="lockscreen_emergency_call">Chamada de emergência</string>
+    <string name="lockscreen_emergency_call">Emergência</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">Você tentou desbloquear incorretamente o telefone %1$d vezes. Após mais %2$d tentativas malsucedidas, o telefone será redefinido para o padrão de fábrica e todos os dados do usuário serão perdidos.</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"Você desenhou sua sequência de desbloqueio incorretamente %1$d vezes. Se fizer mais %2$d tentativas incorretas, será solicitado que você use o login do Google para desbloquear.
 
@@ -972,6 +1026,15 @@ Tente novamente em %2$d segundos."</string>
     <string name="lockscreen_transport_rew_description">Retroceder</string>
     <string name="lockscreen_transport_stop_description">Parar</string>
     <string name="lockscreen_unlock_label">Desbloquear</string>
+    <string name="log_access_confirmation_allow">Permitir acesso único</string>
+    <string name="log_access_confirmation_body">"Os logs do dispositivo registram o que acontece no seu dispositivo. Os apps podem usar esses logs para localizar e corrigir problemas.
+
+Alguns logs podem conter informações confidenciais, portanto, permita apenas que apps confiáveis acessem todos os logs do dispositivo.
+
+Se você não permitir que este app acesse todos os registros do dispositivo, ele ainda poderá acessar seus próprios registros. O fabricante do seu dispositivo ainda pode acessar alguns logs ou informações no seu dispositivo. Saiba mais"</string>
+    <string name="log_access_confirmation_deny">Não permitir</string>
+    <string name="log_access_confirmation_title">Permitir que %s acesse todos os logs do dispositivo?</string>
+    <string name="log_access_do_not_show_again">Não mostrar novamente</string>
     <string name="low_internal_storage_view_text">Algumas funções do sistema podem não funcionar</string>
     <string name="low_internal_storage_view_text_no_boot">Não há armazenamento suficiente para o sistema. Certifique-se de ter 250 MB de espaço livre e reinicie.</string>
     <string name="low_internal_storage_view_title">Pouco espaço de armazenamento</string>
@@ -980,6 +1043,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="managed_profile_label_badge">Trabalho: %1$s</string>
     <string name="managed_profile_label_badge_2">Segundo %1$s de trabalho</string>
     <string name="managed_profile_label_badge_3">Terceiro %1$s de trabalho</string>
+    <string name="matches_found">{ count, plural, =1 {# correspondente} other {# do {total}} }</string>
     <string name="maximize_button_text">Maximizar</string>
     <string name="me">Eu</string>
     <string name="media_route_button_content_description">Transmitir</string>
@@ -1106,8 +1170,8 @@ Tente novamente em %2$d segundos."</string>
     <string name="mime_type_spreadsheet_ext">Planilha em %1$s</string>
     <string name="mime_type_video">Vídeo</string>
     <string name="mime_type_video_ext">Vídeo em %1$s</string>
-    <string name="miniresolver_open_in_personal">Abrir %s no perfil pessoal?</string>
-    <string name="miniresolver_open_in_work">Abrir %s no perfil de trabalho?</string>
+    <string name="miniresolver_open_in_personal">Abrir %s no seu perfil pessoal?</string>
+    <string name="miniresolver_open_in_work">Abrir %s no seu perfil de trabalho?</string>
     <string name="miniresolver_use_personal_browser">Use o navegador pessoal</string>
     <string name="miniresolver_use_work_browser">Use o navegador de trabalho</string>
     <string name="minute">min.</string>
@@ -1131,6 +1195,8 @@ Tente novamente em %2$d segundos."</string>
     <string name="mobile_provisioning_url" />
     <string name="more_item_label">Mais</string>
     <string name="move_button_text">Toque no botão da moldura para mover toda a janela</string>
+    <string name="mte_override_notification_message">O desempenho e a estabilidade podem ser afetados. Reinicie para desativar. Se ativado usando arm64.memtag.bootctl, defina-o como nenhum antes.</string>
+    <string name="mte_override_notification_title">MTE experimental ativado</string>
     <string name="music_recognition_manager_service">Serviço de gerenciamento de reconhecimento de músicae</string>
     <string name="muted_by">%1$s está silenciando alguns sons</string>
     <string name="nas_upgrade_notification_content">As ações e respostas sugeridas agora são fornecidas por notificações aprimoradas. Notificações adaptativas do Android não são mais compatíveis.</string>
@@ -1167,12 +1233,14 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="noon">meio-dia</string>
     <string name="not_checked">não marcado</string>
     <string name="not_selected">não selecionado</string>
+    <string name="notification_action_check_bg_apps">Verifique os apps ativos</string>
     <string name="notification_alerted_content_description">Alertado</string>
     <string name="notification_app_name_settings">Configurações</string>
     <string name="notification_app_name_system">Sistema</string>
     <string name="notification_appops_camera_active">Câmera</string>
     <string name="notification_appops_microphone_active">Microfone</string>
     <string name="notification_appops_overlay_active">exibindo sobre outros apps na sua tela</string>
+    <string name="notification_channel_abusive_bg_apps">Atividade em segundo plano</string>
     <string name="notification_channel_accessibility_magnification">Ampliação</string>
     <string name="notification_channel_accessibility_security_policy">Uso de acessibilidade</string>
     <string name="notification_channel_account">Status da conta</string>
@@ -1204,6 +1272,8 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_channel_voice_mail">Mensagens do correio de voz</string>
     <string name="notification_channel_vpn">Status de VPN</string>
     <string name="notification_channel_wfc">Chamadas por Wi-Fi</string>
+    <string name="notification_content_abusive_bg_apps">%1$s está sendo executado em segundo plano. Toque para gerenciar o uso da bateria.</string>
+    <string name="notification_content_long_running_fgs">%1$s pode afetar a duração da bateria. Toque para revisar os apps ativos.</string>
     <string name="notification_description">Status da chamada de voz</string>
     <string name="notification_feedback_indicator">Deixar um feedback</string>
     <string name="notification_feedback_indicator_alerted">Esta notificação foi promovida a padrão. Toque para fornecer feedback.</string>
@@ -1217,6 +1287,8 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_ranker_binding_label">Serviço de classificação de notificação</string>
     <string name="notification_reply_button_accessibility">Responder</string>
     <string name="notification_title">Erro de login para %1$s</string>
+    <string name="notification_title_abusive_bg_apps">Um app está descarregando a bateria</string>
+    <string name="notification_title_long_running_fgs">Um app ainda está ativoe</string>
     <string name="notification_verified_content_description">Verificado</string>
     <string name="notification_work_profile_content_description">Perfil de trabalho</string>
     <string name="now_string_shortest">agora</string>
@@ -1287,7 +1359,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_bluetooth_advertise">Permite que o app anuncie em dispositivos Bluetooth próximos</string>
     <string name="permdesc_bluetooth_connect">Permite que o app se conecte a dispositivos Bluetooth pareados</string>
     <string name="permdesc_bluetooth_scan">Permite que o app descubra e pareie dispositivos Bluetooth próximos</string>
-    <string name="permdesc_bodySensors">Permite que o app acesse dados de sensores que monitoram sua condição física, como a frequência cardíaca.</string>
+    <string name="permdesc_bodySensors">Permite que o app acesse os dados do sensor corporal, como frequência cardíaca, temperatura e porcentagem de oxigênio no sangue, enquanto o app está em uso.</string>
     <string name="permdesc_bodySensors_background">Permite que o app acesse os dados do sensor corporal, como frequência cardíaca, temperatura e porcentagem de oxigênio no sangue, enquanto o app está em segundo plano.</string>
     <string name="permdesc_broadcastSticky">Permite que o app envie transmissões fixas, que permanecem depois que a transmissão termina. O uso excessivo pode deixar o telefone lento ou instável, fazendo com que ele use muita memória.</string>
     <string name="permdesc_callCompanionApp">Permite que o app veja e controle chamadas em andamento no dispositivo. Isso inclui informações como número e estado das chamadas.</string>
@@ -1415,7 +1487,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permgroupdesc_readMediaVisual">Acessar fotos e vídeos no seu dispositivo</string>
     <string name="permgroupdesc_sensors">Acessar dados do sensor sobre seus sinais vitais</string>
     <string name="permgroupdesc_sms">Envie e veja mensagens SMS</string>
-    <string name="permgroupdesc_storage">Acessar fotos, mídias e arquivos do dispositivo</string>
+    <string name="permgroupdesc_storage">Acessar arquivos no seu dispositivo</string>
     <string name="permgrouplab_activityRecognition">Atividade física</string>
     <string name="permgrouplab_calendar">Agenda</string>
     <string name="permgrouplab_calllog">Registro de chamadas</string>
@@ -1430,7 +1502,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permgrouplab_readMediaVisual">Fotos e vídeos</string>
     <string name="permgrouplab_sensors">Sensores corporais</string>
     <string name="permgrouplab_sms">"SMS"</string>
-    <string name="permgrouplab_storage">Arquivos e mídia</string>
+    <string name="permgrouplab_storage">Arquivos</string>
     <string name="permission">Permissão</string>
     <string name="permission_remember_choice">Lembrar</string>
     <string name="permission_request_notification_for_app_with_subtitle">"Permissão solicitada por %1$s
@@ -1469,7 +1541,7 @@ para a conta %s."</string>
     <string name="permlab_bluetooth_advertise">Anunciar para dispositivos Bluetooth próximos</string>
     <string name="permlab_bluetooth_connect">Conectar a dispositivos Bluetooth pareados</string>
     <string name="permlab_bluetooth_scan">Descobrir e parear dispositivos Bluetooth próximos</string>
-    <string name="permlab_bodySensors">Acessar sensores corporais (como monitores de frequência cardíaca)</string>
+    <string name="permlab_bodySensors">Acesse dados do sensor corporal, como frequência cardíaca, durante o uso do app</string>
     <string name="permlab_bodySensors_background">Acesse os dados do sensor corporal, como frequência cardíaca, enquanto estiver em segundo plano</string>
     <string name="permlab_broadcastSticky">Enviar transmissão persistente</string>
     <string name="permlab_callCompanionApp">Ver e controlar chamadas através do sistema.</string>
@@ -1862,6 +1934,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="ssl_ca_cert_noti_by_administrator">Pelo administrador do seu perfil de trabalho</string>
     <string name="ssl_ca_cert_noti_by_unknown">Por terceiros desconhecidos</string>
     <string name="ssl_ca_cert_noti_managed">Por %s</string>
+    <string name="ssl_ca_cert_warning">{count, plural, =1 {Autoridade de certificação instalada} other {Autoridades certificadoras instaladas} }</string>
     <string name="ssl_certificate">Certificado de segurança</string>
     <string name="ssl_certificate_is_valid">Este certificado é válido.</string>
     <string name="status_communication_speaker_summary">Uma chamada no viva-voz está em andamento. O áudio ainda será reproduzido pelo alto-falante quando os fones de ouvido forem conectados.</string>
@@ -1881,6 +1954,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="storage_usb_drive">"Drive USB"</string>
     <string name="storage_usb_drive_label">"Drive USB %s"</string>
     <string name="submit">Enviar</string>
+    <string name="supervised_user_creation_label">Adicionar usuário supervisionado</string>
     <string name="suspended_widget_accessibility">Widget %1$s desativado</string>
     <string name="sync_binding_label">Sincronizar</string>
     <string name="sync_do_nothing">Não fazer nada por enquanto</string>
@@ -1890,6 +1964,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="sync_undo_deletes">Desfazer as exclusões</string>
     <string name="system_error_manufacturer">Há um problema interno com seu dispositivo. Entre em contato com o fabricante para saber mais detalhes.</string>
     <string name="system_error_wipe_data">Há um problema interno com seu dispositivo. Ele pode ficar instável até que você faça a redefinição para configuração original.</string>
+    <string name="system_locale_title">Padrão do sistema</string>
     <string name="taking_remote_bugreport_notification_title">Gerando relatório de bug…</string>
     <string name="terabyteShort">"TB"</string>
     <string name="test_harness_mode_notification_message">Realize uma redefinição para configuração original para desativar o modo Arcabouço de testes.</string>
@@ -1979,6 +2054,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="user_switched">Usuário atual %1$s.</string>
     <string name="user_switching_message">Alternando para %1$s…</string>
     <string name="validity_period">Validade:</string>
+    <string name="vdm_camera_access_denied">Não é possível acessar a câmera do telefone em %1$s</string>
     <string name="view_and_control_notification_content">%s pode visualizar e controlar sua tela. Toque para revisar.</string>
     <string name="view_and_control_notification_title">Verifique as configurações de acesso</string>
     <string name="volume_alarm">Volume do alarme</string>
@@ -2084,6 +2160,14 @@ Quer fechá-la?"</string>
     <string name="zen_mode_default_weekends_name">Fim de semana</string>
     <string name="zen_mode_default_weeknights_name">Durante a semana à noite</string>
     <string name="zen_mode_downtime_feature_name">Tempo de inatividade</string>
+    <string name="zen_mode_duration_hours">{count, plural, =1 {Por 1 hora} other {Por # horas} }</string>
+    <string name="zen_mode_duration_hours_short">{count, plural, =1 {Por 1 hora} other {Por # horas} }</string>
+    <string name="zen_mode_duration_hours_summary">{count, plural, =1 {Por 1 hora (até {formattedTime})} other {Por # horas (até {formattedTime})} }</string>
+    <string name="zen_mode_duration_hours_summary_short">{count, plural, =1 {Por 1 hora (até {formattedTime})} other {Por # horas (até {formattedTime})} }</string>
+    <string name="zen_mode_duration_minutes">{count, plural, =1 {Por 1 minuto} other {Por # minutos} }</string>
+    <string name="zen_mode_duration_minutes_short">{count, plural, =1 {Por 1 min} other {Por # min} }</string>
+    <string name="zen_mode_duration_minutes_summary">{count, plural, =1 {Por 1 minuto (até {formattedTime})} other {Por # minutos (até {formattedTime})} }</string>
+    <string name="zen_mode_duration_minutes_summary_short">{count, plural, =1 {Por 1 min (até {formattedTime})} other {Por # min (até {formattedTime})} }</string>
     <string name="zen_mode_feature_name">Não perturbe</string>
     <string name="zen_mode_forever">Até você desativar</string>
     <string name="zen_mode_forever_dnd">Até que você desative \"Não perturbe\"</string>

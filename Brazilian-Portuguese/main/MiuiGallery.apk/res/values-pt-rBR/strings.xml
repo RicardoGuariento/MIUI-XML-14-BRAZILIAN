@@ -2890,7 +2890,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="thumbnail_name">miniatura</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
-    <string name="thursday_shortest">Q</string>
+    <string name="thursday_shortest">Qui</string>
     <string name="time_burst_photo_enter">Disparo contínuo por tempo</string>
     <string name="time_burst_preview_title">Disparo contínuo por tempo</string>
     <string name="time_burst_save_all">Exportar todas as fotos</string>
