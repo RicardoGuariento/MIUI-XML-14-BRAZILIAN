@@ -32,6 +32,7 @@
     <string name="allow">Permitir</string>
     <string name="allowed">Permitido</string>
     <string name="altitude">%.1f</string>
+    <string name="altitude_format">%.1fm</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Altitude</string>
     <string name="altitude_uncalibrate_cancel">Cancelar</string>
@@ -238,6 +239,7 @@
     <string name="preference_privacy_setting">Privacidade</string>
     <string name="preference_privacy_title">Política de Privacidade</string>
     <string name="pressure">%.1f</string>
+    <string name="pressure_format">%.1fhPa</string>
     <string name="pressure_title">Pressão</string>
     <string name="pressure_unit">"hPa"</string>
     <string name="remove_icon_description_content">Bússola é um app do sistema. Você não poderá usá-la para verificar a direção, coordenadas, pressão atmosférica e altitude atual após remover o atalho da Tela inicial.</string>

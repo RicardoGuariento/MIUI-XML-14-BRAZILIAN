@@ -50,6 +50,7 @@
     <string name="alarm_ascending_mode_title">Volume crescente</string>
     <string name="alarm_clock_more_setting">Configurações adicionais</string>
     <string name="alarm_disabled">Desativado</string>
+    <string name="alarm_in_furture_new">Alarme em menos de %d minuto.</string>
     <string name="alarm_in_silent_mode_title">Alarme no Modo silencioso</string>
     <string name="alarm_klaxon_service_desc">Serviço de reprodução de som para alarmes definidos no Relógio.</string>
     <string name="alarm_label_hint">Nome do alarme</string>
@@ -59,6 +60,7 @@
     <string name="alarm_repeat">Repetir</string>
     <string name="alarm_ringtone">Toques do alarme</string>
     <string name="alarm_ringtone_picker">Alarmes</string>
+    <string name="alarm_set_new">O alarme tocará em menos de %d minuto.</string>
     <string name="alarm_settings">Configurações de alarme</string>
     <string name="alarm_settings_category_title">Configurações do alarme</string>
     <string name="alarm_vibrate">Vibrar</string>
@@ -78,6 +80,14 @@
     <string name="analog_gadget">Relógio analógico</string>
     <string name="app_label">Relógio</string>
     <string name="app_name">Relógio</string>
+    <string name="auto_silence_entries1">Nunca</string>
+    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> minuto</string>
+    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> minutos</string>
+    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> minutos</string>
+    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> minutos</string>
+    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> minutos</string>
+    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> minutos</string>
+    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> minutos</string>
     <string name="auto_silence_never">Nunca</string>
     <string name="auto_silence_summary">Defina o tempo após o qual os alarmes e temporizadores serão silenciados</string>
     <string name="auto_silence_title">Silenciar automaticamente</string>
@@ -103,6 +113,7 @@
     <string name="bedtime_setting_repeat_type_desc">Selecione os dias em que você receberá lembretes</string>
     <string name="bedtime_settings">Configurações da hora de dormir</string>
     <string name="bedtime_sleep_time_remind">Você será lembrado de ir para a cama 15 minutos antes desse horário</string>
+    <string name="bedtime_sleep_time_remind_new">Você será lembrado de ir para a cama %d minutos antes desse horário</string>
     <string name="bedtime_sleep_time_setting">A que horas costuma dormir?</string>
     <string name="bedtime_wake_up_time_remind">Um alarme irá tocar neste horário</string>
     <string name="bedtime_wake_up_time_setting">A que horas costuma acordar?</string>
@@ -273,6 +284,7 @@
     <string name="life_post_setting_open_desc">Desativar alarmes recorrentes entre 04:00 e 10:00 da manhã para ouvir a previsão do tempo atual</string>
     <string name="life_post_setting_open_subtitle">Receber informações de clima quando você desativar alarmes entre 4:00 e 9:30</string>
     <string name="life_post_setting_open_summary">Inclui informações de clima no primeiro alarme desativado entre 4:00 e 10:00</string>
+    <string name="life_post_setting_open_summary_new">Inclui informações de clima no primeiro alarme desativado entre %1$s e %2$s</string>
     <string name="life_post_setting_open_title">Receber relatórios matinais</string>
     <string name="life_post_setting_wake_up_list_title">Histórico quando acordado</string>
     <string name="life_post_wake_up_acumu_day_title">Contagem de dias</string>
@@ -357,22 +369,30 @@ mm"</string>
     <string name="module_update_success">Áudio atualizado para os alarmes inteligentes da MIUI foram baixados com sucesso. Você pode definir os alarmes inteligentes da MIUI nas configurações do Relógio.</string>
     <string name="module_update_success_control">Entendi</string>
     <string name="module_weather_ringtone_download_data">O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar ≈30MB de arquivos de áudio para seu funcionamento correto. Baixar agora?</string>
-    <string name="module_weather_ringtone_download_data_privacy"><Data>O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar ≈30MB de arquivos de áudio para seu funcionamento correto. Antes de usar o Relógio, você também precisa ler e aceitar nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="module_weather_ringtone_download_data_new">O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar ≈%dMB de arquivos de áudio para seu funcionamento correto. Baixar agora?</string>
+    <string name="module_weather_ringtone_download_data_privacy"><Data>O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa se conectar à internet para baixar ≈30MB de arquivos de áudio para seu funcionamento correto. Antes de usar o Relógio, você também precisa ler e aceitar nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa se conectar à internet para baixar ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g>MB de arquivos de áudio para seu funcionamento correto. Antes de usar o Relógio, você também precisa ler e aceitar nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="module_weather_ringtone_download_wifi">O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar arquivos de áudio para seu funcionamento correto. Baixar agora?</string>
     <string name="module_weather_ringtone_download_wifi_privacy"><Data>O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. O Relógio precisa baixar arquivos de áudio para seu funcionamento correto. Antes de usar o Relógio, você também precisa ler e aceitar nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="module_weather_ringtone_introduce">O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual. Ele também permite que você ouça informativos sobre o clima durante as manhãs.</string>
     <string name="module_weather_ringtone_introduce_global">O Alarme com sons do clima seleciona diferentes toques de acordo com o clima atual.</string>
     <string name="module_weather_ringtone_update_data">O Alarme com sons do clima vem com músicas de fundo e anúncios por voz aprimorados. O Relógio precisa baixar ≈30MB de arquivos de áudio para o seu funcionamento correto. Baixar agora?</string>
+    <string name="module_weather_ringtone_update_data_new">O Alarme com sons do clima vem com músicas de fundo e anúncios por voz aprimorados. O Relógio precisa baixar ≈%dMB de arquivos de áudio para o seu funcionamento correto. Baixar agora?</string>
     <string name="module_weather_ringtone_update_success">O Alarme com sons do clima vem com músicas de fundo e anúncios de voz aprimorados. Você pode criar um novo alarme para experimentar este recurso.</string>
-    <string name="module_week_ringtone_download_data">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar cerca de 30MB de arquivos de áudio para que ele funcione. Baixar agora?</string>
-    <string name="module_week_ringtone_download_data_privacy"><Data>O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar cerca de 30MB de arquivos de áudio para que ele funcione. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="module_week_ringtone_download_data">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar ≈30MB de arquivos de áudio para que ele funcione. Baixar agora?</string>
+    <string name="module_week_ringtone_download_data_new">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar ≈%dMB de arquivos de áudio para que ele funcione. Baixar agora?</string>
+    <string name="module_week_ringtone_download_data_privacy"><Data>O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa se conectar à internet para baixar ≈30MB de arquivos de áudio para que ele funcione. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data<Data>O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa se conectar à internet para baixar ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g>MB de arquivos de áudio para que ele funcione. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="module_week_ringtone_download_wifi">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar arquivos de áudio para que ele funcione. Baixar agora?</string>
-    <string name="module_week_ringtone_download_wifi_privacy"><Data>O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar arquivos de áudio para que ele funcione. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="module_week_ringtone_download_wifi_privacy"><Data>O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar arquivos de áudio para que ele funcione. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="module_week_ringtone_introduce">O Alarme com sons da natureza reproduz diferentes sons dependendo da data.</string>
-    <string name="module_week_ringtone_update_data">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar cerca de 30MB de arquivos de áudio para que ele funcione. Baixar agora?</string>
+    <string name="module_week_ringtone_update_data">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar ≈30MB de arquivos de áudio para que ele funcione. Baixar agora?</string>
+    <string name="module_week_ringtone_update_data_new">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. O Relógio precisa baixar ≈%dMB de arquivos de áudio para que ele funcione. Baixar agora?</string>
     <string name="module_week_ringtone_update_success">O Alarme com sons da natureza reproduz diferentes sons dependendo da data. Você pode criar um novo alarme para experimentar este recurso.</string>
     <string name="module_white_noise_download_data">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ≈30MB dos seus dados móveis serão necessários. Baixar agora?</string>
-    <string name="module_white_noise_download_data_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈30MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando os dados móveis nesse momento. Aceitar?</Data></string>
+    <string name="module_white_noise_download_data_new">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ≈%dMB dos seus dados móveis serão necessários. Baixar agora?</string>
+    <string name="module_white_noise_download_data_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈30MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando os dados móveis nesse momento. Aceitar?</Data></string>
+    <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g>MB) e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Você está usando os dados móveis nesse momento. Aceitar?</Data></string>
     <string name="module_white_noise_download_wifi">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. Baixar agora?</string>
     <string name="module_white_noise_download_wifi_privacy"><Data>Para baixar arquivos de áudio para os temporizadores de ruído ambiente e fornecer serviços personalizados, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="monday">Segunda</string>
@@ -434,6 +454,11 @@ mm"</string>
     <string name="not_set">Não definido</string>
     <string name="not_set_temporarily">Não, obrigado</string>
     <string name="not_update">Agora não</string>
+    <string name="notification_adv_time_entries1">Na hora marcada</string>
+    <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minutos de antecedência</string>
+    <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minutos de antecedência</string>
+    <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hora de antecedência</string>
+    <string name="notification_adv_time_entries5">Nenhum</string>
     <string name="oneshot_alarm">Excluir após alarme disparar</string>
     <string name="open_keep_screen">A tela será mantida ligada</string>
     <string name="open_sleep_record">Ativar</string>
@@ -462,10 +487,15 @@ mm"</string>
     <string name="remind_ringtone">Toque</string>
     <string name="repeat_count">Vezes</string>
     <string name="repeat_count_value_five">5</string>
+    <string name="repeat_count_value_five_new">"%d"</string>
     <string name="repeat_count_value_one">1</string>
+    <string name="repeat_count_value_one_new">"%d"</string>
     <string name="repeat_count_value_ten">10</string>
+    <string name="repeat_count_value_ten_new">"%d"</string>
     <string name="repeat_count_value_three">3</string>
+    <string name="repeat_count_value_three_new">"%d"</string>
     <string name="repeat_count_value_two">2</string>
+    <string name="repeat_count_value_two_new">"%d"</string>
     <string name="repeat_type">Repetir</string>
     <string name="reset">Redefinir</string>
     <string name="revert">Reverter</string>
@@ -524,6 +554,7 @@ mm"</string>
     <string name="sleep_duration_desc">Dormiu por %1$s %2$s</string>
     <string name="sleep_duration_no_data">Sem dados</string>
     <string name="sleep_duration_recommendation">A maioria das pessoas necessitam de 7 a 9 horas de sono por noite</string>
+    <string name="sleep_duration_recommendation_new" formatted="false">A maioria das pessoas necessitam de %d a %d horas de sono por noite</string>
     <string name="sleep_no_disturbance">Modo Não perturbe</string>
     <string name="sleep_no_disturbance_desc">Alterar para o Não perturbe até a hora de acordar</string>
     <string name="sleep_no_record_text">Comece a analisar o seu sono para ver estatísticas</string>
@@ -545,12 +576,19 @@ mm"</string>
     <string name="snooze_duration_title">Soneca</string>
     <string name="snooze_duration_value">Intervalo (minutos)</string>
     <string name="snooze_duration_value_fifteen">15</string>
+    <string name="snooze_duration_value_fifteen_new">"%d"</string>
     <string name="snooze_duration_value_five">5</string>
+    <string name="snooze_duration_value_five_new">"%d"</string>
     <string name="snooze_duration_value_one">1</string>
+    <string name="snooze_duration_value_one_new">"%d"</string>
     <string name="snooze_duration_value_ten">10</string>
+    <string name="snooze_duration_value_ten_new">"%d"</string>
     <string name="snooze_duration_value_thirty">30</string>
+    <string name="snooze_duration_value_thirty_new">"%d"</string>
     <string name="snooze_duration_value_twenty">20</string>
     <string name="snooze_duration_value_twenty_five">25</string>
+    <string name="snooze_duration_value_twenty_five_new">"%d"</string>
+    <string name="snooze_duration_value_twenty_new">"%d"</string>
     <string name="star_wy_alarm_speech">Conheça Roy Wang</string>
     <string name="start">Iniciar</string>
     <string name="start_up">Iniciar</string>
@@ -704,6 +742,9 @@ mm"</string>
 [Liga/Desliga] e [Volume +/-]</string>
     <string name="volume_button_setting_summary">Definir ação dos botões de volume durante um alarme</string>
     <string name="volume_button_setting_title">Botões de volume</string>
+    <string name="volume_button_setting_values1">"%d"</string>
+    <string name="volume_button_setting_values2">"%d"</string>
+    <string name="volume_button_setting_values3">"%d"</string>
     <string name="wake_up_alert">Alarme</string>
     <string name="wake_up_alert_desc">Tocar o som do alarme na hora de acordar</string>
     <string name="wake_up_ringtone">Toque do alarme</string>
