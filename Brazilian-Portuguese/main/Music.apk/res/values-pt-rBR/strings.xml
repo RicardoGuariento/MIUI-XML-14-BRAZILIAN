@@ -1802,8 +1802,10 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="passport_unknow_network_error">A network error occurred</string>
     <string name="passport_user_agreement_link">"&lt;Data>I've read and agree to Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
     <string name="passport_user_agreement_link_more">"&lt;Data>I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_id_intro">Enter password for %1$s</string>
-    <string name="passport_v_code_error">Verification code is incorrect</string>
+    <string name="passport_user_id_intro">Digite a senha para %1$s</string>
+    <string name="passport_user_password_hint">Senha</string>
+    <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para o seu telefone de recuperação (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+    <string name="passport_v_code_error">O código de verificação está incorreto</string>
     <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
     <string name="passport_vcode_prompt_long">Enter verification code</string>
     <string name="passport_vcode_sms_send_prompt">Sent code to %s</string>
@@ -2104,6 +2106,7 @@ Seja feliz"</string>
     <string name="search_toast_reul">Sorry, no relevant content was found</string>
     <string name="searching">Matching...</string>
     <string name="seat_full">No free mic positions</string>
+    <string name="see_more_videos">Mais videos</string>
     <string name="select">Selecionar</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="select_clip_desc">Selecione uma parte da música</string>
@@ -2225,7 +2228,8 @@ Seja feliz"</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="supplementary_songs">Músicas adicionais</string>
-    <string name="sure">Confirm</string>
+    <string name="sure">Confirmar</string>
+    <string name="swipe_for_more">Deslize para cima para mais vídeos de música</string>
     <string name="switch_success">Alterado com sucesso</string>
     <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
     <string name="tab_album">Álbuns</string>
@@ -2628,5 +2632,17 @@ Tamanho de atualização delta: %2$s"</string>
     <string name="you">you</string>
     <string name="you_can_switch_mode_in_settings">Você pode alternar entre os modos nas Configurações</string>
     <string name="you_may_like">Você também pode gostar de</string>
+    <string name="you_might_like_it">Você pode gostar</string>
+    <string name="youtube_download_canl">Cancelar</string>
+    <string name="youtube_download_fail_net">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
+    <string name="youtube_download_fail_source">Um erro ocorreu. Espere um pouco tente novamente.</string>
+    <string name="youtube_download_fail_space">"Não foi possível fazer o download. Não há espaço de armazenamento suficiente."</string>
+    <string name="youtube_download_fail_unknown">Um erro ocorreu. Espere um pouco e tente novamente.</string>
+    <string name="youtube_download_hint">O áudio deste vídeo será armazenado em seu dispositivo no formato MP3 com o título do vídeo como nome do arquivo. Baixar agora?</string>
+    <string name="youtube_download_ing">Só um segundo…</string>
+    <string name="youtube_download_start">Baixar</string>
+    <string name="youtube_download_suc">Baixado com sucesso</string>
     <string name="youtube_play_history">Histórico de reprodução</string>
+    <string name="youtube_share_guide_tip">Agora você pode compartilhar vídeos com amigos</string>
+    <string name="youtube_tab_explore">Descobrir</string>
 </resources>

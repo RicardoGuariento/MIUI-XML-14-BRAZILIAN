@@ -366,8 +366,8 @@ Desative o seletor para parar a sincronização."</string>
     <string name="bookshelf__shared__unselect_any_books">Select items first</string>
     <string name="bookshelf__upload_books_view__querying_quota">is querying cloud space usage</string>
     <string name="bookshelf__upload_books_view__storage_quota_used">you currently use %1$s space</string>
-    <string name="bookshelf_read_label_latest">Recent</string>
-    <string name="bookshelf_read_label_recommend">Recommended</string>
+    <string name="bookshelf_read_label_latest">Recente</string>
+    <string name="bookshelf_read_label_recommend">Recomendado</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Deslize para baixo para fechar</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Esta é a última guia</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Deslize para cima para fechar</string>
@@ -377,6 +377,7 @@ Desative o seletor para parar a sincronização."</string>
     <string name="branch_give_relevant_permissions">Grant Mi Browser the relevant permissions in Settings</string>
     <string name="branch_grant_permission">Permissions required</string>
     <string name="branch_local_search_settings">Configurações de pesquisa local</string>
+    <string name="branch_search_bar_tips">Pesquisar apps e jogos</string>
     <string name="branch_search_guide_privacy">Este recurso é fornecido por Branch Metrics Inc. Nós compartilharemos sua localização, pesquisas e ID do Google Ads com ela. Leia e aceite os <font color="#B3000000"><a href="http://url1">Termos e Condições</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> deles antes de continuar.</string>
     <string name="branch_search_in_browser">Pesquisar \"%1$s\" no Navegador</string>
     <string name="branch_setting">Configurações</string>
@@ -384,6 +385,10 @@ Desative o seletor para parar a sincronização."</string>
     <string name="branch_shortcuts">Atalhos</string>
     <string name="branch_show_more">More</string>
     <string name="branch_terms_condition">Termos e condições</string>
+    <string name="branch_trending_google_news">Notícias do Google</string>
+    <string name="branch_trending_youtube_news">"YouTube"</string>
+    <string name="branch_viewpage_title_app_recommend">Recomendado</string>
+    <string name="branch_viewpage_title_local">Instalado</string>
     <string name="browser">Navegador Mi</string>
     <string name="browserFrameFileErrorLabel">Erro no arquivo</string>
     <string name="browserFrameFormResubmitLabel" />
@@ -2892,6 +2897,10 @@ Try to modify your keyword?"</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">Não foi possível salvar a página</string>
     <string name="snapshot_successed">Abra Favoritos/Histórico->LOCAL para ver a página</string>
+    <string name="sniff_ask_every_times">Pergunte sempre</string>
+    <string name="sniff_detect_resource">Notamos conteúdo para download nesta página. Ver agora?</string>
+    <string name="sniff_dialog">Conteúdo disponível para download</string>
+    <string name="sniff_no_resource">Nenhum conteúdo para download encontrado</string>
     <string name="sns_access_token_expired_warning">Sessão expirada. Faça o login novamente para reconectar esta conta.</string>
     <string name="sns_bind_limit">Muitas tentativas efetuadas. Tente outras formas de login.</string>
     <string name="sns_sign_in">Outras formas de login</string>

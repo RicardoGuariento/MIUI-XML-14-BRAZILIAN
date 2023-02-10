@@ -135,6 +135,7 @@
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Verificado com sucesso. A informação pode ser atualizada com um atraso aqui.</string>
     <string name="bh_get_charge_phone_number">Selecionar dos contatos</string>
+    <string name="bh_goto_granted">Conceder permissões</string>
     <string name="bh_goto_open">Não permitir</string>
     <string name="bh_goto_set">Definir</string>
     <string name="bh_i_got_it">Entendi</string>
@@ -276,6 +277,8 @@
     <string name="call_feature_vowifi">"VoWiFi"</string>
     <string name="call_home">Ligar para residência</string>
     <string name="call_isdn">Ligar para ISDN</string>
+    <string name="call_limit">Restrições de chamada</string>
+    <string name="call_limit_content">"Não foi possível ligar “%s”. Você só pode ligar para números de telefone que estão em sua lista de contatos aprovados."</string>
     <string name="call_main">Ligar para número principal</string>
     <string name="call_mms">Ligar para MMS</string>
     <string name="call_mobile">Ligar para celular</string>
@@ -763,6 +766,7 @@ Motivo: \"%s\""</string>
     <string name="item_offical">Oficial</string>
     <string name="keep_local">Não sincronizar</string>
     <string name="keep_local_btn">Usar armazenamento interno do dispositivo</string>
+    <string name="know">Entendi</string>
     <string name="label_custom_type">Personalizado</string>
     <string name="label_no_duplicate_contacts">Nenhum contato duplicado</string>
     <string name="label_notes">Notas</string>
