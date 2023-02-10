@@ -310,6 +310,10 @@
     <string name="other_settings_ad_disable_summary">Ative para personalizar os anúncios</string>
     <string name="other_settings_ad_enable">Anúncios personalizados</string>
     <string name="other_settings_ad_enable_summary">Personalizar anúncios com base em seus interesses</string>
+    <string name="other_settings_alarm_assistance">Localzação de emergência</string>
+    <string name="other_settings_alarm_assistance_privacy">Política de Privacidade</string>
+    <string name="other_settings_alarm_assistance_summary">"Você pode enviar suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga para os números 110, 120, 119 ou 122. Leia e concorde com nosso &lt;a href=\"%1$s\">Contrato de Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso."</string>
+    <string name="other_settings_alarm_assistance_user">Contrato de Usuário</string>
     <string name="other_settings_auto_update">Atualizar automaticamente</string>
     <string name="other_settings_auto_update_summary">A MIUI selecionará o melhor horário para baixar e instalar as atualizações. Seu dispositivo será reiniciado automaticamente para aplicar as mudanças.</string>
     <string name="other_settings_auto_update_summary_v1">Permita que a MIUI selecione o melhor momento para baixar e instalar atualizações. Seu dispositivo será reinicializado automaticamente para aplicar as alterações.</string>

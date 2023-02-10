@@ -55,7 +55,8 @@ este recurso será adicionado ao Segundo espaço automaticamente."</string>
     <string name="button_touch">Coloque seu dedo no sensor</string>
     <string name="can_not_delete_when_calling">Não é possível excluir Espaços durante uma chamada</string>
     <string name="can_not_switch_when_calling">Não é possível trocar de Espaços durante uma chamada</string>
-    <string name="can_not_switch_when_green_kid_active">A alteração para o Segundo espaço é restringida pelos controles parentais</string>
+    <string name="can_not_switch_when_green_kid_active">A alteração para o Segundo espaço é restringida pelos controle familiar</string>
+    <string name="can_not_switch_when_green_kid_active_new">"Não é possível alternar para o Segundo espaço quando a Segurança familiar está ativa"</string>
     <string name="can_not_switch_when_super_power_active">Não é possível mudar entre Espaços quando a Ultra economia de bateria está ativada</string>
     <string name="cancelClosePassword">Não desativar</string>
     <string name="cancel_button">Cancelar</string>
