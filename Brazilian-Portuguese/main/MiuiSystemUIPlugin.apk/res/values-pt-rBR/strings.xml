@@ -30,8 +30,10 @@
     <string name="accessibility_airplane_mode">Modo avião.</string>
     <string name="accessibility_back">Voltar</string>
     <string name="accessibility_brightness">Brilho da tela</string>
+    <string name="accessibility_desc_add">Adicionar</string>
     <string name="accessibility_desc_close">Fechar</string>
     <string name="accessibility_desc_edit">Editar</string>
+    <string name="accessibility_desc_remove">Remover</string>
     <string name="accessibility_description_hours">Horas</string>
     <string name="accessibility_description_minutes">Minutos</string>
     <string name="accessibility_description_seconds">Segundos</string>
@@ -51,6 +53,7 @@
     <string name="accessibility_volume_expand">Expandir</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
+    <string name="airplane">Modo avião</string>
     <string name="airplane_mode">Modo avião</string>
     <string name="already_in_small_freeform">Alguns apps são abertos em janelas flutuantes</string>
     <string name="am">"AM"</string>
@@ -59,6 +62,7 @@
     <string name="auto_brightness_on">Brilho automático ativado</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desativados, toque duas vezes em qualquer botão para reativá-los.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação ativados</string>
+    <string name="bootloader">"Fastboot"</string>
     <string name="bt_is_off">Bluetooth desativado</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
@@ -74,6 +78,7 @@
     <string name="controls_add_device_guide">Nenhum dispositivo aqui ainda</string>
     <string name="controls_click_to_add_device">Adicionar dispositivos</string>
     <string name="controls_confirmation_message">Confirmar alteração para %s</string>
+    <string name="controls_default_structure">Casa inteligente</string>
     <string name="controls_dialog_confirmation">Controles atualizados</string>
     <string name="controls_dialog_message">%s sugeriu este controle para adicionar aos seus favoritos.</string>
     <string name="controls_dialog_ok">Adicionar aos favoritos</string>
@@ -138,6 +143,7 @@
     <string name="dnd_popup_close_message">Entendi</string>
     <string name="dnd_popup_message">É posssível ativar o modo Não perturbe para silenciar chamadas e notificações sem desativar os sons de mídia.</string>
     <string name="dolby_atoms_sound_effect_label">"Dolby Atmos"</string>
+    <string name="drag_to_add_tiles">Pressione e segure para adicionar ou reorganizar itens</string>
     <string name="early_morning">"AM"</string>
     <string name="empty" />
     <string name="eras_ad">d.C</string>
@@ -433,6 +439,7 @@
     <string name="quick_settings_wireless_label">Carregamento sem fios reverso</string>
     <string name="reboot_info_auto_boot">Dispositivo programado para ligar: %s</string>
     <string name="reboot_info_shutdown_alarm">Próximo alarme: %s</string>
+    <string name="recovery">"Recovery"</string>
     <string name="reset">Redefinir</string>
     <string name="restart">Reiniciar</string>
     <string name="safe_media_volume_warning">"Aumentar o volume acima do nível recomendado?
@@ -444,7 +451,10 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="save">Salvar</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="send">Enviar</string>
+    <string name="silent">Modo silencioso</string>
     <string name="slider_view_content_description">Deslize para cima para desligar ou deslize para baixo para reiniciar</string>
+    <string name="slider_view_content_left_description">Deslize para cima para reiniciar no modo Fastboot ou deslize para baixo para reiniciar no modo Recovery</string>
+    <string name="slider_view_content_right_description">Deslize para cima para alternar para o Modo avião ou deslize para baixo para alternar para o Modo silencioso</string>
     <string name="smart_home_title">Dispositivos inteligentes</string>
     <string name="status_bar_setting_title">Centro de controle e barra de status</string>
     <string name="sunday">Domingo</string>

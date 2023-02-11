@@ -75,9 +75,8 @@ Sign in to your Xiaomi Account in Settings > Xiaomi Account to sync permissions.
     <string name="auth_phone_model">"This page can't be viewed on this device."</string>
     <string name="auth_show_to_test_user">This page is only available to Beta testers.</string>
     <string name="ball_hint_connect_fail">"Couldn't perform this action. Wait a minute or two and try again."</string>
-    <string name="ball_hint_text_loading">Just a sec…</string>
+    <string name="ball_hint_text_loading">Aguarde…</string>
     <string name="ball_hint_text_success">Connected successfully</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
     <string name="cast_image_des">Casting tutorial</string>
     <string name="casting_tips">Transmitindo…</string>
@@ -89,10 +88,10 @@ Sign in to your Xiaomi Account in Settings > Xiaomi Account to sync permissions.
     <string name="circulate_card_mirror_device_button">Stop</string>
     <string name="circulate_card_mirror_device_pad_subtitle">"Showing tablet's screen…"</string>
     <string name="circulate_card_mirror_device_subtitle">"Showing phone's screen…"</string>
-    <string name="circulate_card_mirror_device_title_laptop">Computer</string>
-    <string name="circulate_card_mirror_device_title_pad">Tablet</string>
-    <string name="circulate_card_mirror_device_title_television">TV</string>
-    <string name="circulate_card_mirror_help"><u>Compatible devices</u></string>
+    <string name="circulate_card_mirror_device_title_laptop">"Computador"</string>
+    <string name="circulate_card_mirror_device_title_pad">"Tablet"</string>
+    <string name="circulate_card_mirror_device_title_television">"TV"</string>
+    <string name="circulate_card_mirror_help"><u>Dispositivos compatíveis</u></string>
     <string name="circulate_card_mirror_pad_subtitle">"Arraste \"Tela do tablet\" para uma TV
 para espelhar a tela"</string>
     <string name="circulate_card_mirror_pad_title">"Tela do tablet"</string>
@@ -115,7 +114,7 @@ to mirror this tablet's screen"</string>
     <string name="circulate_card_sticker_control_contentDescription">Control panel</string>
     <string name="circulate_card_sticker_dressing_equipment">Personalizar dispositivo</string>
     <string name="circulate_card_sticker_expend_contentDescription">Show customized devices</string>
-    <string name="circulate_card_sticker_no">No stickers</string>
+    <string name="circulate_card_sticker_no">Sem stickers</string>
     <string name="circulate_card_sticker_remote_control">TV remote</string>
     <string name="circulate_card_sticker_remote_control_bottom">Down</string>
     <string name="circulate_card_sticker_remote_control_center">OK</string>
@@ -130,8 +129,8 @@ to mirror this tablet's screen"</string>
     <string name="circulate_card_sticker_remote_control_top">Up</string>
     <string name="circulate_card_sticker_remote_control_volum_add">Volume up</string>
     <string name="circulate_card_sticker_remote_control_volum_reduce">Volume down</string>
-    <string name="circulate_card_sticker_selected">Selected</string>
-    <string name="circulate_common_retry_later">Wait a minute or two and try again</string>
+    <string name="circulate_card_sticker_selected">Selecionado</string>
+    <string name="circulate_common_retry_later">Espere um ouco e tente novamente</string>
     <string name="circulate_cta_agree">Aceitar</string>
     <string name="circulate_cta_app_name">"Mi Smart Hub"</string>
     <string name="circulate_cta_desc_phone">Bem-vindo ao Mi Smart Hub! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução multimídia entre dispositivos, usar Mi Smart Play, MIUI+ e transferência de apps. Este aplicativo precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:</string>

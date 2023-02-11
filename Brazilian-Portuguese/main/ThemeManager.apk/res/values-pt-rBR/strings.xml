@@ -521,7 +521,7 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
     <string name="large_icon_apply_fail_for_in_oldmode">"Super ícones não são suportados no Modo lite"</string>
     <string name="large_icon_apply_fail_for_not_in_launcher">"Não é possível usar Super ícones para apps que não estão na Tela inicial"</string>
     <string name="large_icon_detail_title">%s Super icons</string>
-    <string name="large_icon_detail_warning_dialog_btn_keep">Manter</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Continuar</string>
     <string name="large_icon_detail_warning_dialog_btn_not_keep">Reverter</string>
     <string name="large_icon_detail_warning_dialog_msg">"Alguns apps estão usando Super ícones. Continuar usando os Super ícones ou reverter para os ícones padrão do seu tema?"</string>
     <string name="large_icon_detail_warning_dialog_title">Configurações dos Super ícones</string>
@@ -1182,7 +1182,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_title_hot_subject">Populares</string>
     <string name="resource_title_local">Baixados</string>
     <string name="resource_title_rank">Posição</string>
-    <string name="resource_title_select_ringtone">Selecionar toque</string>
+    <string name="resource_title_select_ringtone">Selecione o toque</string>
     <string name="resource_title_subject">Destaques</string>
     <string name="resource_trial_days">(teste: %1$dd)</string>
     <string name="resource_trial_days_hours">(teste: %1$dd %2$dh)</string>
@@ -1414,8 +1414,8 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="theme_component_title_photo_frame">Moldura de fotos</string>
     <string name="theme_component_title_ringtone">Toques</string>
     <string name="theme_component_title_statusbar">Barra de status</string>
-    <string name="theme_component_title_wallpaper">Plano de fundo</string>
-    <string name="theme_component_video_wallpaper">Planos de fundo dinâmicos</string>
+    <string name="theme_component_title_wallpaper">Fundo</string>
+    <string name="theme_component_video_wallpaper">Fundo dinâmicos</string>
     <string name="theme_current_using_has_update">Atualização para tema disponível</string>
     <string name="theme_description_title_customized">Personalizado</string>
     <string name="theme_description_title_default">Padrão</string>
@@ -1590,12 +1590,12 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wallpaper_loop_add_success">Adicionado com sucesso</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adicionar na apresentação da Tela inicial</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Adicionar na apresentação da Tela de bloqueio</string>
-    <string name="wallpaper_loop_desc_all_walpaper">Criar apresentações de planos de fundo personalizadas</string>
-    <string name="wallpaper_loop_desc_desk_walpaper">Criar uma apresentação personalizada para sua Tela inicial</string>
-    <string name="wallpaper_loop_desc_lock_walpaper">Criar uma apresentação personalizada para sua Tela de bloqueio</string>
+    <string name="wallpaper_loop_desc_all_walpaper">Cria apresentações de planos de fundo personalizadas</string>
+    <string name="wallpaper_loop_desc_desk_walpaper">Cria uma apresentação personalizada para sua Tela inicial</string>
+    <string name="wallpaper_loop_desc_lock_walpaper">Cria uma apresentação personalizada para sua Tela de bloqueio</string>
     <string name="wallpaper_loop_interval_15min">A cada 15 minutos</string>
     <string name="wallpaper_loop_interval_1d">Todos os dias</string>
-    <string name="wallpaper_loop_interval_1h">Toda hora</string>
+    <string name="wallpaper_loop_interval_1h">A cada 1 hora</string>
     <string name="wallpaper_loop_interval_desc">Definir o intervalo da apresentação</string>
     <string name="wallpaper_loop_interval_title">Mudar plano de fundo</string>
     <string name="wallpaper_loop_manage">Gerenciar</string>

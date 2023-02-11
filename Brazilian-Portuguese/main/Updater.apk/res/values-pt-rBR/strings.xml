@@ -64,7 +64,7 @@ Seus dados não serão apagados."</string>
     <string name="message">%1$s</string>
     <string name="message_checkbox">Ocultar mensagens futuras do time da Xiaomi.eu</string>
     <string name="message_checkbox_device">Não mostrar novamente</string>
-    <string name="message_title">NOTA!</string>
+    <string name="message_title">IMPORTANTE!</string>
     <string name="new_version">Nova versão disponível!</string>
     <string name="no_info">Sem informações disponíveis.</string>
     <string name="no_mirror">Todos os mirrors estão offline, tente mais tarde…</string>
@@ -91,7 +91,7 @@ Atualizações não estão disponíveis pra você!"</string>
     <string name="share_desc">A versão da sua MIUI foi atualizada para %1$s, veja a última lista de alterações em: %2$s</string>
     <string name="share_title">Compartilhar com</string>
     <string name="stable">Estável</string>
-    <string name="twrp_update_warning">Para poder usar o update OTA, você precisa selecionar se tem ou não o TWRP instalado no seu dispositivo:</string>
+    <string name="twrp_update_warning">Para poder atualizar via OTA, você precisa selecionar se tem (SIM) ou não o TWRP instalado no seu dispositivo:</string>
     <string name="version">Instalado atualmente:</string>
     <string name="weekly">Semanal</string>
     <string name="wifi_recommended">Sem conexão com o Wi-Fi para baixar com segurança!</string>

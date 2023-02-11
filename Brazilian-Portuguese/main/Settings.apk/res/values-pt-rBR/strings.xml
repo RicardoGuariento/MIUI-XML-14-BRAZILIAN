@@ -3020,7 +3020,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dialog_wifi_title">Usando dados móveis</string>
     <string name="dialog_yes">Sim</string>
     <string name="digital_clock_dot">:</string>
-    <string name="direct_boot_unaware_dialog_message">Nota: Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
+    <string name="direct_boot_unaware_dialog_message">Importate! Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
     <string name="disableNetwork">Desativar rede</string>
     <string name="disable_overlays">Desativar sobreposição HW</string>
     <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
@@ -6046,7 +6046,7 @@ Selecione seu sistema operacional:"</string>
     <string name="mvno_match_data">Valor de MVNO</string>
     <string name="mvno_type">Tipo de MVNO</string>
     <string name="my_device">Meu dispositivo</string>
-    <string name="my_device_disclaimer">Nota: Informações de hardware, incluindo CPU, capacidade de bateria, tamanho e resolução de tela e câmeras são fornecidos pelos laboratórios Xiaomi, seus designers e fornecedores.</string>
+    <string name="my_device_disclaimer">Importante! Informações de hardware, incluindo CPU, capacidade de bateria, tamanho e resolução de tela e câmeras são fornecidos pelos laboratórios Xiaomi, seus designers e fornecedores.</string>
     <string name="my_device_info_account_preference_title">Conta</string>
     <string name="my_device_info_basic_info_category_title">Informação básica</string>
     <string name="my_device_info_device_details_category_title">Detalhes do dispositivo</string>
