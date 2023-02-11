@@ -130,7 +130,7 @@ to mirror this tablet's screen"</string>
     <string name="circulate_card_sticker_remote_control_volum_add">Volume up</string>
     <string name="circulate_card_sticker_remote_control_volum_reduce">Volume down</string>
     <string name="circulate_card_sticker_selected">Selecionado</string>
-    <string name="circulate_common_retry_later">Espere um ouco e tente novamente</string>
+    <string name="circulate_common_retry_later">Espere um pouco e tente novamente</string>
     <string name="circulate_cta_agree">Aceitar</string>
     <string name="circulate_cta_app_name">"Mi Smart Hub"</string>
     <string name="circulate_cta_desc_phone">Bem-vindo ao Mi Smart Hub! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução multimídia entre dispositivos, usar Mi Smart Play, MIUI+ e transferência de apps. Este aplicativo precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:</string>
