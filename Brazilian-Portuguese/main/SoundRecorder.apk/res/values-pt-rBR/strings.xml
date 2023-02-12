@@ -476,7 +476,8 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="record_downloading_notification_complete">Download concluído</string>
     <string name="record_downloading_notification_count">%d baixando</string>
     <string name="record_format_preference_title">Formato de gravação</string>
-    <string name="record_item_title_multi_choice">Selecione</string>
+    <string name="record_item_title_delete">Excluir</string>
+    <string name="record_item_title_multi_choice">Selecionar</string>
     <string name="record_item_title_remark">Adicionar observação</string>
     <string name="record_item_title_send">Compartilhar</string>
     <string name="record_list">Gravações</string>

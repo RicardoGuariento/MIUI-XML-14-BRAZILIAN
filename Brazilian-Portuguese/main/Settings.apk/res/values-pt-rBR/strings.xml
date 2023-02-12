@@ -2584,7 +2584,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="dark_mode_alert_dialog_message">Este aplicativo pode não ser exibido corretamente no modo escuro. Ativar o Modo escuro mesmo assim?</string>
     <string name="dark_mode_alert_dialog_title">Atenção!!</string>
     <string name="dark_mode_apps_header">Apps individuais</string>
-    <string name="dark_mode_auto_time_summary">Ative e desative o Modo escuro em horário programado</string>
+    <string name="dark_mode_auto_time_summary">Ativa e desativa o Modo escuro em horário programado</string>
     <string name="dark_mode_auto_time_title">Personalizado</string>
     <string name="dark_mode_contrast">Ajustar contraste automaticamente</string>
     <string name="dark_mode_contrast_hint">Ajustar cores e reduzir o contraste automaticamente quando o brilho for reduzido</string>

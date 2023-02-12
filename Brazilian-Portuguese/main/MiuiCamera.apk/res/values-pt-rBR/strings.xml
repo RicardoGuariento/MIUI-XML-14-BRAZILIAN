@@ -1736,6 +1736,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_privacy_watermark_edit">Texto personalizado</string>
     <string name="pref_privacy_watermark_edit_clear_history">Limpar histórico</string>
     <string name="pref_privacy_watermark_edit_history">Histórico</string>
+    <string name="pref_privacy_watermark_edit_title">"Editar marca d'água"</string>
     <string name="pref_privacy_watermark_entry">"Marca d'água de proteção"</string>
     <string name="pref_privacy_watermark_switch">"Exibir seletor de marca d'água"</string>
     <string name="pref_qc_focus_position_title">Foco</string>
