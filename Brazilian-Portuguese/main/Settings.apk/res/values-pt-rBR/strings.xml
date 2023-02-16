@@ -2855,7 +2855,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="delete_legacy_fingerprint">Excluir</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Excluir esta impressão digital?</string>
     <string name="delete_rule">Excluir regras</string>
-    <string name="delete_saved_network">Excluir rede salva</string>
+    <string name="delete_saved_network">Esquecer rede salva</string>
     <string name="delete_sound_effect">Som ao excluir itens</string>
     <string name="deleted_apps">Apps excluídos</string>
     <string name="deletion_helper_automatic_title">Modo automático</string>
@@ -3527,6 +3527,7 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="external_ram_dialog_icon_title">Extensão de memória ativada</string>
     <string name="external_ram_dialog_message">Reinicie o seu dispositivo para aplicar as alterações.</string>
     <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
+    <string name="external_ram_intro">"Cria memória RAM adicional ocupando o armazenamento. Use esse recurso somente quando houver espaço de armazenamento suficiente disponível em seu dispositivo."</string>
     <string name="external_ram_remind_toast">O espaço de armazenamento está acabando. Extensão de memória desativada por enquanto.</string>
     <string name="external_ram_summary">Adiciona %1$s %2$s de RAM, que será utilizada a partir do armazenamento interno. Use este recurso apenas quando houver espaço de armazenamento suficiente disponível em seu dispositivo.</string>
     <string name="external_ram_title">Extensão de memória</string>
@@ -3538,7 +3539,6 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="extreme_threats_title">Ameaças extremas</string>
     <string name="eye_gaze_summary">"O dispositivo não irá bloquear quando detectar que você está olhando para a tela"</string>
     <string name="eye_gaze_title">Detectar olhar</string>
-
     <string name="face_add_max">É possível adicionar até %d rostos</string>
     <string name="face_data_apply_for_category_title">Desbloquear usando dados faciais</string>
     <string name="face_data_apply_for_keyguard_title">Tela de bloqueio</string>
@@ -9438,7 +9438,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_auto_disable_summary">Desativa o ponto de acesso automaticamente quando nenhum dispositivo estiver conectado</string>
     <string name="tether_auto_disable_title">Desativar ponto de acesso automaticamente</string>
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
-    <string name="tether_data_usage_limit">Limite de dados únicos</string>
+    <string name="tether_data_usage_limit">Limite único de dados</string>
     <string name="tether_data_usage_limit_summary">O limite de dados será aplicado na próxima vez que o ponto de acesso móvel for ativado</string>
     <string name="tether_devices_management_title">Gerenciar dispositivos</string>
     <string name="tether_devices_max_number">Limite de dispositivos conectados</string>

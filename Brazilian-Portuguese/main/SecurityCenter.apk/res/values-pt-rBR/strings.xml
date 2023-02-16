@@ -109,9 +109,9 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="activity_edit_task_name">Editar tarefa</string>
     <string name="activity_mine_task">Minhas tarefas</string>
-    <string name="activity_new_condition_name">Adicionar condição</string>
-    <string name="activity_new_result_name">Adicionar resultado</string>
-    <string name="activity_new_task_name">Adicionar tarefa</string>
+    <string name="activity_new_condition_name">Condição</string>
+    <string name="activity_new_result_name">Resultado</string>
+    <string name="activity_new_task_name">Tarefa</string>
     <string name="activity_no_task">Ainda não há tarefas aqui</string>
     <string name="activity_task_center">Centro de Tarefas</string>
     <string name="activity_title_antispam">Lista de bloqueio</string>
