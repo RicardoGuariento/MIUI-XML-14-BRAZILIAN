@@ -91,21 +91,26 @@
     <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
     <string name="charger_test_end">"
 Fim do teste, por favor, desconecte o carregador"</string>
-    <string name="cit_DP_check_summary">As linhas DP devem ser conectadas durante o processo de teste</string>
-    <string name="cit_DP_check_title">DP</string>
-    <string name="cit_DP_in_start_test">Insira a linha DP para iniciar o teste</string>
-    <string name="cit_DP_plug_err">"Falha no teste
+    <string name="cit_DP_check_summary">O cabo Tipo C para DP deve ser conectado durante o processo de teste</string>
+    <string name="cit_DP_check_title">Teste de DP</string>
+    <string name="cit_DP_in_start_test">Insira o cabo Tipo C para DP para iniciar o teste</string>
+    <string name="cit_DP_plug_err">"Mudança de conexão do dispositivo de detecção
+A leitura do valor do nó subjacente falhou
 O valor não foi recebido"</string>
-    <string name="cit_DP_plug_fail">"Falha no teste
- Esta linha não é uma linha DP, substitua outra linha para teste"</string>
+    <string name="cit_DP_plug_fail">"Mudança de conexão do dispositivo de detecção
+A leitura do valor do nó subjacente falhou
+Insira o cabo Tipo C no cabo DP para iniciar o teste"</string>
     <string name="cit_DP_plug_out_err">"Falha no teste
 O valor não foi recebido"</string>
-    <string name="cit_DP_plug_out_fail">"Foi detectada uma interrupção na conexão
-Falha no teste
+    <string name="cit_DP_plug_out_fail">"Mudança de conexão do dispositivo de detecção
+A leitura do valor do nó subjacente falhou
+Teste falhou
 "</string>
     <string name="cit_DP_plug_out_pass">"Foi detectada uma interrupção na conexão
 Teste concluído"</string>
-    <string name="cit_DP_plug_pass">A linha DP conectada foi detectada, observe se a projeção da tela foi bem-sucedida e clique no botão correspondente</string>
+    <string name="cit_DP_plug_pass">Mudança de conexão do dispositivo de detecção
+Leitura do valor do nó subjacente realizada com sucesso
+Observe se a tela foi bem-sucedida e clique no botão correspondente</string>
     <string name="cit_DP_plug_re_plugin">Teste DP concluído, verifique se a tela foi bem-sucedida e clique no botão correspondente</string>
     <string name="cit_OTG_plug_check_summary">"Durante o teste, siga os passos:
 1. Conecte o dispositvo USB OTG.

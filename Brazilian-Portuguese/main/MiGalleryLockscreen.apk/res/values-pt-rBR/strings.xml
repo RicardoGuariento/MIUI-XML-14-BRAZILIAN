@@ -717,6 +717,8 @@ mm"</string>
     <string name="passport_user_agreement_link">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Xiaomi.&lt;/Data></string>
     <string name="passport_user_agreement_link_more">&lt;Data>Eu li e aceito os seguintes documentos: o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">Insira a senha para %1$s</string>
+    <string name="passport_user_password_hint">Senha</string>
+    <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para o seu telefone de recuperação (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_v_code_error">Código de verificação incorreto</string>
     <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
     <string name="passport_vcode_prompt_long">Inserir código de verificação</string>

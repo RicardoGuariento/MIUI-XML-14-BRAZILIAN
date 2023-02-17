@@ -722,6 +722,8 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="verify_account_title">Verifique sua identidade</string>
+    <string name="verify_failed">Falha na verificação</string>
+    <string name="verify_to_sure_close">Desativar</string>
     <string name="virus_install_authorize_dialog_msg">Este app apresenta riscos para a segurança do seu dispositivo. Verifique sua identidade para instalá-lo.</string>
     <string name="virus_install_authorize_dialog_negative">Verificar</string>
     <string name="virus_install_authorize_dialog_title">Verificação de identidade necessária</string>

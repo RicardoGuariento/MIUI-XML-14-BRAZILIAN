@@ -597,6 +597,8 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="partner_compatibility">Compatibilidade de parceiro</string>
     <string name="password_toggle_content_description">Alternar a visibilidade da senha</string>
     <string name="path_calendar_settings">Apps do sistema/Agenda/Configurações</string>
+    <string name="permission_denial">Permita as permissões para poder usar este recurso</string>
+    <string name="permission_description">Detalhes das permissões</string>
     <string name="picker_day">Dia selecionado: %1$d. Deslize verticalmente para selecionar.</string>
     <string name="picker_month">Mês selecionado: %1$d. Deslize verticalmente para selecionar.</string>
     <string name="picker_year">Ano selecionado: %1$d. Deslize verticalmente para selecionar.</string>
@@ -630,6 +632,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="preferences_week_start_day_title">Início da semana</string>
     <string name="prefsx_notify_sound_none">Silencioso</string>
     <string name="premission_description_log">Para salvar logs</string>
+    <string name="premission_description_notice">Para enviar notificações sobre eventos e feriados</string>
     <string name="premission_description_ringtone">Para definir toques</string>
     <string name="privacy_card_description">Aceite nossa Política de Privacidade para acessar todos os recursos.</string>
     <string name="privacy_policy_dialog_agree">Aceitar</string>
