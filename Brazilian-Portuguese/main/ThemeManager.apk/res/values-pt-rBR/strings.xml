@@ -1414,8 +1414,8 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="theme_component_title_photo_frame">Moldura de fotos</string>
     <string name="theme_component_title_ringtone">Toques</string>
     <string name="theme_component_title_statusbar">Barra de status</string>
-    <string name="theme_component_title_wallpaper">Fundo</string>
-    <string name="theme_component_video_wallpaper">Fundo dinâmicos</string>
+    <string name="theme_component_title_wallpaper">Plano de fundo</string>
+    <string name="theme_component_video_wallpaper">Dinâmico</string>
     <string name="theme_current_using_has_update">Atualização para tema disponível</string>
     <string name="theme_description_title_customized">Personalizado</string>
     <string name="theme_description_title_default">Padrão</string>
