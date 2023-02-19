@@ -3876,7 +3876,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_app_permission_settings_detail">Permite que apps usem permissões relacionadas à privacidade</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Proteger a área de transferência</string>
     <string name="pp_app_reads_clipboard_smart_reminder_detail">"A MIUI decidirá se os apps têm permissão para acessar sua área de transferência. Quando isso acontecer, você receberá uma notificação."</string>
-    <string name="pp_app_warning_permission_tips">Notificações sobre o comportamento dos apps</string>
+    <string name="pp_app_warning_permission_tips">Comportamento dos apps</string>
     <string name="pp_app_warning_permission_tips_detail">Receba notificações quando os apps acessarem sua localização, gravarem áudio ou usarem a câmera</string>
     <string name="pp_block_mac">Restringir o acesso ao endereço MAC</string>
     <string name="pp_block_mac_summary">O acesso ao seu endereço MAC é restrito por padrão para todos os apps.</string>
