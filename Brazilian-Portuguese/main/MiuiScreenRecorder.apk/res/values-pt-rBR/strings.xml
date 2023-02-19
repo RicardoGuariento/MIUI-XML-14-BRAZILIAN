@@ -228,6 +228,7 @@ Toque para ver"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_settings">Privacidade</string>
     <string name="quit_recording">Saindo do Gravador de Tela</string>
+    <string name="record_time_too_short">O vídeo gravado é muito curto</string>
     <string name="recording_failure">Não foi possível gravar, tente novamente</string>
     <string name="recording_max_size">A gravação foi parada e salva porque o arquivo do vídeo atingiu seu limite de tamanho. Inicie a gravação navamente caso deseje continuar a gravar.</string>
     <string name="recording_without_mic">O microfone está ocupado e não pode gravar áudio agora.</string>
