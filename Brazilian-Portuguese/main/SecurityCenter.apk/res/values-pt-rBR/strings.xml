@@ -3975,7 +3975,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pref_daily_traffic">Limite do pico do uso de dados</string>
     <string name="pref_data_usage_ignore_settings">Ignorar uso de dados</string>
     <string name="pref_data_usage_ignore_settings_summary">Não contabilizar o uso dos apps selecionados</string>
-    <string name="pref_data_usage_not_set">Plano de dados desconhecido</string>
+    <string name="pref_data_usage_not_set">Desconhecido</string>
     <string name="pref_free_adjust">Defina o uso de dados fora do pico</string>
     <string name="pref_key_daily_package_summary">Ative para redefinir o plano de dados diariamente</string>
     <string name="pref_key_daily_package_switch">Plano de dados diário</string>
