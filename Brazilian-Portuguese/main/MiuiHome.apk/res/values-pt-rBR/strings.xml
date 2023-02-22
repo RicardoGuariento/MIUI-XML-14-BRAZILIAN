@@ -929,8 +929,8 @@
     <string name="start_activity_failed">Não é possível iniciar o launcher</string>
     <string name="starting_preset_app">Iniciando…</string>
     <string name="status_bar_recent_memory_giga">%1$sGB</string>
-    <string name="status_bar_recent_memory_info1">%1$s de %2$s disponível</string>
-    <string name="status_bar_recent_memory_info2" />
+    <string name="status_bar_recent_memory_info1">"Memória RAM
+Disponível: %1$s | Total: %2$s"</string>
     <string name="status_bar_recent_memory_mega">%1$sMB</string>
     <string name="status_downloaded">Baixado</string>
     <string name="status_downloading">Baixando</string>
