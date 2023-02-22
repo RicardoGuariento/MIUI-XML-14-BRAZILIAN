@@ -269,7 +269,7 @@
     <string name="cancel_apply_queue">Cancel mic row</string>
     <string name="cancel_running_download">Cancelar</string>
     <string name="cannot_download_to_sdcard_hint">Não é possível baixar itens para o cartão SD devido a restrições de direitos autorais. Os itens serão baixados para armazenamento interno.</string>
-    <string name="cant_exit_room">During the game, you cannot exit the voice room</string>
+    <string name="card_content_descriptor">Cartão</string>
     <string name="change_activate_email">Change email address</string>
     <string name="change_download_quality">Alterar qualidade do download</string>
     <string name="change_password">Change password</string>
@@ -1077,6 +1077,9 @@ Send this code to the supervisor."</string>
     <string name="headset_and_audio_effect_category">Fones de ouvido e efeitos sonoros</string>
     <string name="headset_and_audio_effect_summary">Fones de ouvido e equalizador</string>
     <string name="headset_and_audio_effect_title">Fones de ouvido e efeitos sonoros</string>
+    <string name="hgm_vip_btn_desc">Iniciar teste gratuito</string>
+    <string name="hgm_vip_high_quality">Downloads de alta qualidade</string>
+    <string name="hgm_vip_no_ads">Sem anúncios ou limites</string>
     <string name="hide_album">Ocultar capa do álbum</string>
     <string name="hide_lyric">Ocultar letra</string>
     <string name="hifi_quality">Qualidade Hi-Fi</string>

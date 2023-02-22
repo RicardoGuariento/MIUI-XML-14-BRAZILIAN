@@ -61,7 +61,9 @@
     <string name="widget_browser_shortcuts">Atalhos</string>
     <string name="widget_browser_shortcuts_desc">Principais recursos ao seu alcance</string>
     <string name="widget_calculator_basic">Básico</string>
+    <string name="widget_calculator_basic_desc">Adição, subtração, multiplicação e divisão regulares</string>
     <string name="widget_calculator_currency">Moeda</string>
+    <string name="widget_calculator_currency_desc">Conversão de moeda de vários países</string>
     <string name="widget_calendar_agenda">Próximos eventos</string>
     <string name="widget_calendar_agenda_desc">Veja as informações dos próximos eventos</string>
     <string name="widget_calendar_agenda_special">Eventos especiais</string>

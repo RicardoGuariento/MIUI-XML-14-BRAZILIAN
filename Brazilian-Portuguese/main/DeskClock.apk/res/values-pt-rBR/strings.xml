@@ -43,6 +43,7 @@
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
     <string name="alarm_alert_alert_silenced">Alarme silenciado após %1$s.</string>
+    <string name="alarm_alert_close_entrance">Desativar</string>
     <string name="alarm_alert_disabled">Desativado</string>
     <string name="alarm_alert_now">Alarme: %s</string>
     <string name="alarm_alert_snooze_button">Soneca</string>
@@ -57,6 +58,7 @@
     <string name="alarm_list_title">Alarme</string>
     <string name="alarm_notify_snooze_label">Soneca %s</string>
     <string name="alarm_notify_text">Tirar soneca ou dispensar alarme.</string>
+    <string name="alarm_permanent_alert">Toque</string>
     <string name="alarm_repeat">Repetir</string>
     <string name="alarm_ringtone">Toques do alarme</string>
     <string name="alarm_ringtone_picker">Alarmes</string>
@@ -459,8 +461,10 @@ mm"</string>
     <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minutos de antecedência</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hora de antecedência</string>
     <string name="notification_adv_time_entries5">Nenhum</string>
+    <string name="notification_permission_desc">"Se você não conceder permissões de notificação, não poderá desativar os alarmes quando eles tocarem. Conceder permissão agora?"</string>
     <string name="oneshot_alarm">Excluir após alarme disparar</string>
     <string name="open_keep_screen">A tela será mantida ligada</string>
+    <string name="open_notification_permission_remind">Permita notificações para poder desativar os alarmes</string>
     <string name="open_sleep_record">Ativar</string>
     <string name="other_category_title">Outros</string>
     <string name="other_settings">Configurações adicionais</string>

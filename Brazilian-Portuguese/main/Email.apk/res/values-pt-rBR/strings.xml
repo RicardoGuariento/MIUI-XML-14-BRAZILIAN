@@ -1002,6 +1002,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="message_compose_insert_quick_response_list_title">Inserir resposta rápida</string>
     <string name="message_decode_error">Não é possível decodificar a mensagem</string>
     <string name="message_discarded">Rascunho descartado</string>
+    <string name="message_forward_has_signature_pdf">Você encaminha anexos com PDF assinados?</string>
     <string name="message_invite_accept">Sim</string>
     <string name="message_invite_calendar_download_prompt">Baixe o Calendário para poder usar este recurso</string>
     <string name="message_invite_calendar_view">Ver na Agenda</string>

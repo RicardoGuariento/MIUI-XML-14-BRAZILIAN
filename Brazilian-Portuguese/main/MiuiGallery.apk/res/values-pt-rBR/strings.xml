@@ -514,6 +514,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cloud_bacup_disable_processing">Processando…</string>
     <string name="cloud_camera_display_name">Fotos da câmera</string>
     <string name="cloud_cancel_authorizing_to_device">Revogando autorização…</string>
+    <string name="cloud_data_size">Fotos e vídeos na nuvem: %1$s</string>
     <string name="cloud_full_space_tip_message">Faça upgrade do seu plano de armazenamento em nuvem para poder sincronizar todas as suas fotos e vídeos.</string>
     <string name="cloud_full_space_tip_negative">Agora não</string>
     <string name="cloud_full_space_tip_positive">Fazer upgrade</string>
@@ -1227,6 +1228,7 @@ estão disponíveis"</string>
     <string name="id_photo_module_finish">Plugin \"Identificação\" baixado com sucesso</string>
     <string name="id_photo_module_loading">Baixando o plugin \"Identificação\"…</string>
     <string name="ignore_album">Não mostrar</string>
+    <string name="ignore_alert_dialog_title">Ignorar esta pessoa?</string>
     <string name="ignore_alert_title">Não mostrar este álbum? Toque no canto superior direito para ver as fotos que foram ignoradas.</string>
     <string name="ignore_face">Ignorar esta pessoa</string>
     <string name="ignore_faces_title">Ignorado</string>
