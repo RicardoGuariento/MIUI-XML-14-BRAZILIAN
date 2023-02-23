@@ -108,9 +108,9 @@
     <string name="widget_notes_tasks_desc">Visualize e abra suas tarefas</string>
     <string name="widget_notes_view">Notas</string>
     <string name="widget_notes_view_desc">Veja e abra suas notas</string>
-    <string name="widget_pals_cat">"Gatinha"</string>
+    <string name="widget_pals_cat">"Amora"</string>
     <string name="widget_pals_cat_desc">Miau ~ não me perturbe quando eu durmo…</string>
-    <string name="widget_pals_dog">Cachorrinho</string>
+    <string name="widget_pals_dog">Caramelo</string>
     <string name="widget_pals_dog_desc">Au au ~ brinque comigo!</string>
     <string name="widget_security_app_behavior">Privacidade</string>
     <string name="widget_security_app_behavior_desc">Veja estatísticas de comportamento do app</string>
