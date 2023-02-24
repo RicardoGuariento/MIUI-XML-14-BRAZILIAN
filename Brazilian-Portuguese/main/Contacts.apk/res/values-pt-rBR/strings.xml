@@ -344,6 +344,9 @@
     <string name="callrecordview_item_op_time_rejected">Rejeitada</string>
     <string name="callrecordview_item_op_time_short_incoming">"Recebida: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Efetuada: "</string>
+    <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Resposta automática</string>
+    <string name="callrecordview_item_op_time_xiaoai_call">Assistente de chamada Mi AI</string>
+    <string name="callrecordview_item_op_time_xiaoai_manual_answer">Resposta manual</string>
     <string name="callrecordview_item_op_video">Vídeo</string>
     <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
     <string name="callrecordview_menu_aiphone">Chamadas por IA</string>
@@ -1168,6 +1171,8 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="scan_bussiness_card_merge_tip">Dados conflitantes foram substituídos</string>
     <string name="scan_merge">Procurando contatos duplicados…</string>
     <string name="scan_not_installed">Instale o Scanner primeiro</string>
+	<string name="scan_not_installed_china">Instale o Mi AI Scanner primeiro</string>
+    <string name="scan_not_installed_global">Instale o Scanner primeiro</string>
     <string name="scan_qrcode_card_hint1">Digitalize o código QR acima</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
