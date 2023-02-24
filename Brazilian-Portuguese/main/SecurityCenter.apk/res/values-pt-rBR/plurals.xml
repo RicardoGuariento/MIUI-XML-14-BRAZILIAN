@@ -33,6 +33,10 @@
         <item quantity="other">Jogos adicionados: %d</item>
         <item quantity="one">Jogo adicionado: %d</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d apps adicionados</item>
+        <item quantity="one">%d app adicionado</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">"%d apps"</item>
         <item quantity="one">"%d app"</item>
@@ -204,6 +208,14 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Retroceder %d segundos</item>
         <item quantity="one">Retroceder %d segundo</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Pesquisar entre %d apps</item>
@@ -500,6 +512,10 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="other">"O acesso à rede está restrito para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; apps"</item>
         <item quantity="one">"O acesso à rede está restrito para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; app"</item>
     </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d apps não adicionados</item>
+        <item quantity="one">%d app não adicionado</item>
+    </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d dias sem ser verficado</item>
         <item quantity="one">%d dia sem ser verficado</item>
@@ -583,6 +599,10 @@ Você pode testar gratuitamente por %d dia agora!"</item>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Seu dispositivo está sem bateria. Entrando no Modo hibernação em %1$d segundos.</item>
+        <item quantity="one">Seu dispositivo está sem bateria. Entrando no Modo hibernação em %1$d segundo.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dias</item>

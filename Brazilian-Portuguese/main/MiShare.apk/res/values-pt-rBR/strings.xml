@@ -379,6 +379,7 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
     <string name="start_scan">INICIAR VERIFICAÇÃO</string>
     <string name="stop_advertise">PARAR ANÚNCIO</string>
     <string name="stop_scan">PARAR VERIFICAÇÃO</string>
+    <string name="sub_title_mishare_switch">Este recurso será desativado automaticamente após %d minutos</string>
     <string name="success_receive_much_file_from_pc">Recebido mais de 200 arquivos de %1$s. Toque para visualizar.</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -437,6 +438,8 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
     <string name="tips_p2p_support_use5g_china">Para melhores resultados, use uma rede Wi-Fi de 5GHz.</string>
     <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
     <string name="to_feedback">Reportar</string>
+    <string name="toast_auto_close_in_minutes">O Compartilhamento Mi será desativado após %d minutos</string>
+    <string name="toast_transfering">Transferindo itens. Tente mais tarde.</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s</string>
@@ -444,8 +447,10 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
     <string name="transfer_to_pc_summary_new"><Data>"A versão mais recente do MIUI+ instalada em Notebooks Mi é compatível com o Compartilhamento Mi. Você pode verificar a lista de modelos de laptop suportados no site MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu notebook estiver na lista, mas o MIUI+ não estiver instalado, atualize a BIOS e o driver do adaptador de rede, e baixe o MIUI+."</Data></string>
     <string name="transfer_to_pc_title">Enviar arquivos a computadores</string>
     <string name="transfer_to_phone_summary">Ative o Compartilhamento Mi usando o item na Área de notificações. Depois disso, você poderá ver dispositivos próximos quando você compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando.</string>
+    <string name="transfer_to_phone_summary_new">Ative o Compartilhamento Mi no Centro de controle para poder enviar e receber itens com facilidade. Depois de ativá-lo, você pode compartilhar itens com dispositivos próximos por %d minutos antes que ele seja desativado automaticamente.</string>
     <string name="transfer_to_phone_title">Enviar arquivos a telefones</string>
     <string name="transfer_to_summary">"Ative o Compartilhamento Mi usando o item na Área de notificações. Depois disso, você poderá ver os dispositivos próximos quando você compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando."</string>
+    <string name="transfer_to_summary_new">Ative o Compartilhamento Mi no Centro de controle para poder enviar e receber itens com facilidade. Depois de ativá-lo, você pode compartilhar itens com dispositivos próximos por %d minutos antes que ele seja desativado automaticamente.</string>
     <string name="transfer_to_title">Envie arquivos para dispositivos móveis</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>

@@ -152,8 +152,8 @@
     <string name="add_done">Adicionado com sucesso</string>
     <string name="add_game">Adicionar jogo</string>
     <string name="add_game_notification_summary">Toque para executar e otimizar a velocidade</string>
-    <string name="add_miservice_dialog_content">%s requer que você adicione a estrutura de serviços MIUI à lista de exceções. Você poderá receber notificações de apps integrados da MIUI e outros apps de terceiros.</string>
-    <string name="add_miservice_dialog_title">Estrutura de serviços MIUI</string>
+    <string name="add_miservice_dialog_content">%s requer que você adicione a estrutura de serviços Mi à lista de exceções. Você poderá receber notificações de apps integrados da MIUI e outros apps de terceiros.</string>
+    <string name="add_miservice_dialog_title">Estrutura de serviços Mi</string>
     <string name="add_to_whitelist_button">Exceções do roaming de dados</string>
     <string name="add_whitelist">Adicionar às exceções</string>
     <string name="added_game_notification_summary">Comece a jogar agora</string>
@@ -1259,6 +1259,11 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="continue_set">Continuar</string>
     <string name="convenient_mode">Desbloquear todos os apps de uma só vez</string>
     <string name="convenient_summary">Insira a senha apenas uma vez para desbloquear todos os apps</string>
+    <string name="conversation_settings_top">" • Deslize a barra de ferramentas da Conferência durante as chamadas de áudio e vídeo em tela cheia para acessar seus recursos.
+• O tipo e o número de recursos dependem do modelo do dispositivo."</string>
+    <string name="conversation_sider_tips">Use as novas ferramentas de conferência para obter a melhor experiência de chamada</string>
+    <string name="conversation_summary">Embelezamento, transcrição de legendas e outros recursos durante chamadas de áudio e vídeo</string>
+    <string name="conversation_title">Ferramentas de conferência</string>
     <string name="copy">Copiar</string>
     <string name="cpu_usage_android_system">Sistema Android</string>
     <string name="cpu_usage_process_run_time_little_time">Menos de 1 minuto</string>
@@ -1266,6 +1271,19 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cpu_usage_view_action_btn_text">Toque para ver</string>
     <string name="create_gamebooster_destop">Atalho na Tela inicial criado com sucesso</string>
     <string name="create_shortcut">Criar um atalho na Tela inicial para o Game Turbo</string>
+    <string name="cs_color_sense">Temperatura de cor</string>
+    <string name="cs_func_toast_headset">Desconecte seu fone de ouvido para poder usar este recurso</string>
+    <string name="cs_func_toast_light">Mude para a câmera frontal para poder usar este recurso</string>
+    <string name="cs_func_toast_pickup">Mude para uma chamada de vídeo para poder usar este recurso</string>
+    <string name="cs_pickup_multi_desc">Captação de áudio de %d grau</string>
+    <string name="cs_pickup_multi_title">Vários participantes</string>
+    <string name="cs_pickup_single_desc">Apenas pegue o som na frente da tela</string>
+    <string name="cs_pickup_single_title">Único participante</string>
+    <string name="cs_pickup_surround_desc">Usa IA para reduzir o ruído para um som nítido e claro</string>
+    <string name="cs_pickup_surround_title">Redução de ruído do microfone</string>
+    <string name="cs_title_pickup">Redução de ruído</string>
+    <string name="cs_title_smart_subtitle">Transcrição da legenda</string>
+    <string name="cs_title_ultraclear">Modo Ultra HD</string>
     <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Centro de Alerta MIUI, SOS de emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada</string>
     <string name="cta_agree_desc">Para poder usar os nossos serviços, permita que este app conecte-se à internet e conceda as permissões listadas acima.</string>
     <string name="cta_close_dialog_cancel">Cancelar</string>
@@ -1275,7 +1293,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cta_dialog_negative">Sair</string>
     <string name="cta_dialog_positive">Aceitar</string>
     <string name="cta_dialog_title">Conexão com a internet</string>
-    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança MIUI e serviços do sistema) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança MIUI se conectarão à Internet e realizarão verificações de segurança enquanto você instala aplicativos e faz pagamentos.</string>
+    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança MIUI, serviços do sistema, e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança MIUI se conectarão à Internet e realizarão verificações de segurança enquanto você instala aplicativos e faz pagamentos.</string>
     <string name="cta_settings">Permita o acesso à internet e à localização</string>
     <string name="current_network_state_not_need_diagnose">A conexão com a internet está normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar a lista de bloqueio e fazer chamadas para contatos de emergência quando avisos de terremoto forem emitidos</string>
@@ -2004,6 +2022,12 @@ monitoramento de terremotos"</string>
  %2$d. Quando esse recurso estiver ativado, a outra pessoa não poderá ouvir seus tons de retorno de chamada, a menos que você esteja usando um cartão SIM comum. As chamadas recebidas serão rejeitadas automaticamente após %3$d-%4$d segundos de inatividade.
  %5$d. Cartões SIM de dados emitidos pela China Mobile e China Unicom são suportados. Cartões SIM regulares emitidos pela China Mobile, China Unicom e China Telecom são suportados."</string>
     <string name="function_gwsd_title">Não permitir que chamadas recebidas interrompam a conexão de dados do SIM</string>
+    <string name="function_oncall_not_close_network">"Não desconectar para chamadas"</string>
+    <string name="function_oncall_not_close_network_detail">"Sobre este recurso
+%1$d. Este recurso permite que você fique online durante as sessões de jogo sem ser interrompido por chamadas recebidas quando este dispositivo estiver conectado a redes 5G específicas.
+%2$d. Se nenhum dos seus cartões SIM estiver conectado a uma rede 5G, as chamadas recebidas serão rejeitadas automaticamente pelo seu cartão SIM principal.
+%3$d. Este recurso é suportado apenas no continente Chinês.
+%4$d. Este recurso só funciona em redes 5G-SA."</string>
     <string name="function_shield_auto_bright">Desativar brilho automático</string>
     <string name="function_shield_eye_shield">Desativar Modo leitura</string>
     <string name="function_shield_pull_notification_bar">Não abrir a Área de notificações</string>
@@ -2132,6 +2156,9 @@ monitoramento de terremotos"</string>
     <string name="gb_advance_settings_vibration_4d">Vibração 4D</string>
     <string name="gb_advance_settings_vibration_4d_summary">Vibrar durante tiros em jogos</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrar durante abates em jogos</string>
+    <string name="gb_already_in_game_list_tips">"Este item já está entre os jogos adicionados. Não é possível adicioná-lo aqui."</string>
+    <string name="gb_already_in_video_list_tips">"Este item já está entre os apps de vídeo adicionados. Não é possível adicioná-lo aqui."</string>
+    <string name="gb_application_not_find">Nada aqui ainda</string>
     <string name="gb_audition_instruction">Pressione e segure para gravar (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Use fones de ouvido para um melhor efeito</string>
     <string name="gb_beauty_cold_light">Frio</string>
@@ -2389,6 +2416,8 @@ das suas sessões de jogos"</string>
     <string name="gd_app_edit_done">Concluído</string>
     <string name="gd_app_edit_title">Adicionar apps</string>
     <string name="gd_app_edit_title_new">Edite atalhos de janela flutuante</string>
+    <string name="gd_setting_conversation">Ferramentas de conferência</string>
+    <string name="gd_setting_conversation_desc">Fornece uma variedade de recursos para uso em chamadas de áudio e vídeo em tela cheia</string>
     <string name="gd_setting_desc_action1">Abrir janela flutuante</string>
     <string name="gd_setting_desc_action2">Use um atalho</string>
     <string name="gd_setting_group_custom_gtb_apps">Jogos</string>
@@ -3237,6 +3266,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="notify_channel_name_behavior">Histórico de comportamento</string>
     <string name="notify_channel_name_security">Segurança do sistema</string>
     <string name="notify_channel_optimize">Notificações de segurança</string>
+    <string name="notify_channel_resident_hide">Notificações do assistente de segurança</string>
     <string name="notify_daily_data_usage_body">Para limitar o uso de dados automaticamente, defina seu plano de dados mensal.</string>
     <string name="notify_daily_limit_body">Toque para definir o limite de uso de dados.</string>
     <string name="notify_daily_limit_title">%s usados hoje</string>
@@ -3400,6 +3430,17 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_battery_history_total_consumption_title">Total de consumo de energia</string>
     <string name="pc_battery_history_usetime_title">Ativo</string>
     <string name="pc_endurance_calculation">Calculando…</string>
+    <string name="pc_entered_extreme_mode">O Modo hibernação está ativado</string>
+    <string name="pc_entered_extreme_mode_summary">"Seu dispositivo está sem bateria e entrou no Modo hibernação. Os apps serão executados em segundo plano e não enviarão notificações."</string>
+    <string name="pc_extreme_exit_and_power_off">Sair</string>
+    <string name="pc_extreme_mode_bg_toast">"No Modo hibernação, os apps serão executados em segundo plano e não enviarão notificações"</string>
+    <string name="pc_extreme_mode_entering">Entrando no Modo hibernação…</string>
+    <string name="pc_extreme_mode_exit_risk_title">Atenção</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Seu dispositivo está sem bateria. Se você sair do Modo hibernação, seu dispositivo será desligado.</string>
+    <string name="pc_extreme_mode_exiting">Saindo do Modo hibernação…</string>
+    <string name="pc_extreme_mode_find_charger">Carregue seu dispositivo o mais rápido possível.</string>
+    <string name="pc_extreme_mode_runtime">O Modo hibernação está ativado há %1$s %2$s.</string>
+    <string name="pc_extreme_mode_title">Modo hibernação</string>
     <string name="pc_fast_charge_notifi_action_text_off">Parar</string>
     <string name="pc_fast_charge_notifi_action_text_on">Impulsionar</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Definir o nível da bateria para lembretes</string>
@@ -3413,6 +3454,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_fast_charge_switch_title">Aumente a velocidade de carregamento</string>
     <string name="pc_fast_charge_switch_toast_message">As alterações serão aplicadas na próxima vez que você carregar este dispositivo</string>
     <string name="pc_fast_charge_title">Aumente a velocidade de carregamento</string>
+    <string name="pc_going_to_exit_extreme_mode">Saindo do Modo hibernação</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Seu dispositivo está carregando. O Modo hibernação está desativado.</string>
+    <string name="pc_going_to_extreme_mode">Entrando no Modo hibernação</string>
     <string name="pc_hidemode_normal">Equilibrado</string>
     <string name="pc_hidemode_normal_title">Modo equilibrado</string>
     <string name="pc_hidemode_performance">Desempenho</string>
@@ -3464,6 +3508,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permgroupdesc_location">Acessar informações de localização</string>
     <string name="permgroupdesc_microphone">Gravar áudio</string>
     <string name="permgroupdesc_phone">Fazer chamadas e gerenciar conversas</string>
+    <string name="permgroupdesc_readmediaimages">Acessar fotos e vídeos</string>
+    <string name="permgroupdesc_readmediavideo">Acessar músicas e áudios</string>
     <string name="permgroupdesc_recognition">Acessar dados de saúde e de atividades físicas</string>
     <string name="permgroupdesc_sensors">Acessar dados dos sensores corporais</string>
     <string name="permgroupdesc_sms">Ler ou enviar SMS</string>
@@ -3503,8 +3549,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_get_accounts">Esta permissão permite aos apps acessar a lista de contas armazenadas em seu dispositivo. Esta lista pode conter todas as suas contas pessoais criadas pelos apps instalados, assim como as contas de plataformas de mídia social e ferramentas de comunicação.</string>
     <string name="permission_instruction_install_shortcuts">Esta permissão permite que os apps criem atalhos para a Tela inicial.</string>
     <string name="permission_instruction_install_unknown_source">Esta permissão permite que os apps instalem outros apps em seu dispositivo. Apps maliciosos usam esta permissão para instalar apps sem sua confirmação.</string>
-    <string name="permission_instruction_media_audio">This permission allows apps to access songs and other audio files stored on this device. These items might contain personal information.</string>
-    <string name="permission_instruction_media_files">This permission allows apps to access files and documents stored on this device. These items might contain personal information.</string>
+    <string name="permission_instruction_location">Quando você concede essa permissão, os apps usam a internet ou posicionamento por satélite para acessar sua localização. Você pode permitir que apps compatíveis com o recurso acessem apenas sua localização aproximada.</string>
+    <string name="permission_instruction_media_audio">Esta permissão permite que apps acessem músicas e outros arquivos de áudio armazenados neste dispositivo. Esses itens podem conter informações pessoais.</string>
+    <string name="permission_instruction_media_files">Esta permissão permite que apps acessem arquivos e documentos armazenados neste dispositivo. Esses itens podem conter informações pessoais.</string>
     <string name="permission_instruction_modify_audio_settings">Esta permissão permite aos apps modificar as configurações de áudio (ex.: ajustar o volume sem sua confirmação). Você pode não pode não ser capaz de ajustar o volume em alguns apps, a menos que conceda a eles esta permissão.</string>
     <string name="permission_instruction_nfc">Esta permissão permite que os apps se comuniquem com os cartões e dispositivos NFC.</string>
     <string name="permission_instruction_notification_adjustment">Esta permissão permite que os apps forneçam notificações adaptativas mais personalizadas e diversificadas.</string>
@@ -3516,7 +3563,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_read_calllog">Esta permissão permite aos apps acessar o histórico de chamadas, que pode conter informações detalhadas sobre suas chamadas recebidas e efetuadas. Esta permissão também permite aos apps salvar os registros do histórico de chamadas. Apps maliciosos podem usar esta permissão para compartilhar seu histórico de chamadas com terceiros ou usá-lo para fraudes.</string>
     <string name="permission_instruction_read_clipboard">Esta permissão permite que os apps leiam qualquer conteúdo que você copie, que pode incluir informações pessoais (ex.: detalhes da conta, números de cartões bancários e senhas).</string>
     <string name="permission_instruction_read_contacts">Esta permissão permite aos apps acessar as informações de contato armazenadas em seu dispositivo. Estas informações podem conter a frequência de sua comunicação com contatos específicos através de chamadas, e-mails e outros métodos. Esta permissão também permite aos apps salvar contatos. Apps maliciosos podem usar esta permissão para compartilhar contatos sem seu consentimento.</string>
-    <string name="permission_instruction_read_media_pic">This permission allows apps to access photos and videos stored on this device. These items might contain personal information.</string>
+    <string name="permission_instruction_read_media_pic">Esta permissão permite que apps acessem fotos e vídeos armazenados neste dispositivo. Esses itens podem conter informações pessoais.</string>
     <string name="permission_instruction_read_notify_sms">Esta permissão permite aos apps ler mensagens de texto e notificação armazenadas em seu dispositivo ou cartão SIM.</string>
     <string name="permission_instruction_read_phone_state">Esta permissão permite que apps acessem seu número de telefone, IMEI, IMSI e outros identificadores de dispositivos. Os apps normalmente usam esta permissão para determinar se suas chamadas estão sendo encaminhadas. Se você estiver usando uma ID de dispositivo virtual, os apps não poderão acessar seus identificadores de dispositivo reais.</string>
     <string name="permission_instruction_read_sms">Esta permissão permite que os apps leiam todas as mensagens de texto armazenadas em seu dispositivo ou cartão SIM. Estas mensagens podem conter senhas, detalhes de contas bancárias e outras informações pessoais.</string>
@@ -3525,7 +3572,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_record_audio">Esta permissão permite que os apps utilizem o microfone para a gravação de áudio. Lembre-se que esta permissão permite aos apps gravar qualquer coisa, inclusive suas conversas com outras pessoas. É melhor permitir que os apps usem esta permissão apenas enquanto você estiver usando os apps.</string>
     <string name="permission_instruction_running_background">Esta permissão permite que os apps funcionem em segundo plano. Ao fazer isto, os apps podem coletar dados e fornecer serviços. Lembre-se de que tais atividades aumentam o consumo de energia.</string>
     <string name="permission_instruction_running_exceed_data">Esta permissão permite que os apps ignorem os limites de uso de dados móveis.</string>
-    <string name="permission_instruction_scoped">A new storage protection mechanism allows you to better control how compatible apps use storage permissions</string>
+    <string name="permission_instruction_scoped">Um novo mecanismo de proteção de armazenamento permite que você controle melhor como apps compatíveis usam permissões de armazenamento</string>
     <string name="permission_instruction_send_mms">Esta permissão permite aos apps enviar mensagens multimídia, o que pode gerar taxas adicionais. Apps maliciosos podem usar esta permissão para enviar mensagens pagas sem seu consentimento.</string>
     <string name="permission_instruction_send_payment_sms">Esta permissão permite aos apps enviar mensagens de texto pagas.</string>
     <string name="permission_instruction_send_sms">Esta permissão permite que os apps enviem mensagens de texto, o que pode gerar taxas adicionais. Os apps maliciosos podem usar esta permissão para enviar mensagens pagas sem seu consentimento.</string>
@@ -3535,6 +3582,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_touch_pay">Esta permissão permite que os apps realizem pagamentos sem contato.</string>
     <string name="permission_instruction_use_sip">Esta permissão permite que os apps utilizem os serviços de vídeo SIP.</string>
     <string name="permission_instruction_vr_assistant">Esta permissão permite que os apps possam utilizar os serviços de assistente de RV.</string>
+    <string name="permission_instruction_wall_paper">Conceda esta permissão para permitir que os apps alterem os serviços padrão de papel de parede dinâmico e continuem sendo executados em segundo plano.</string>
     <string name="permission_instruction_write_calllog">Esta permissão permite que os apps editem o histórico de chamadas, que pode conter informações detalhadas sobre suas chamadas recebidas e efetuadas. Os apps maliciosos podem usar esta permissão para limpar ou editar seu histórico de chamadas.</string>
     <string name="permission_instruction_write_clipboard">Esta permissão permite que os apps salve os itens na área de transferência. As mensagens de spam podem afetar seu uso normal da área de transferência.</string>
     <string name="permission_instruction_write_contacts">Esta permissão permite que os apps editem, adicionem e excluam as informações de contato armazenadas em seu dispositivo. Estas informações podem conter a frequência de sua comunicação com contatos específicos através de chamadas, e-mails e outros métodos. Esta permissão também permite que os apps excluam seus contatos.</string>
@@ -3899,6 +3947,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_identifier_protection">Proteja identificadores pessoais</string>
     <string name="pp_interception_net_visit_content_manager">Proteger a Galeria e apps de rede social</string>
     <string name="pp_interception_net_visit_content_manager_detail">Selecione quais apps têm permissão para acessar a sua Galeria e os arquivos de apps de redes sociais</string>
+    <string name="pp_lab_compact_blur_location">Apps acessando a localização aproximada</string>
+    <string name="pp_lab_compact_blur_location_summary">"Selecione \"Padrão\" para usar a funcionalidade de localização aproximada do Android ou \"Todos\" para alternar para MIUI."</string>
     <string name="pp_local_msg">Informações de localização</string>
     <string name="pp_manage_apps_location_information">Permite que apps acessem sua localização</string>
     <string name="pp_manage_track">Monitorar rastreadores</string>
@@ -4110,6 +4160,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_flares_current_detail_mic">Está usando o microfone</string>
     <string name="privacy_flares_current_detail_mic_loc">Está usando o microfone e acessando sua localização</string>
     <string name="privacy_flares_current_detail_more">Está usando uma permissão sensível</string>
+    <string name="privacy_flares_current_multiple">%s e outros</string>
     <string name="privacy_flares_recent">Ação recente</string>
     <string name="privacy_flares_recent_detail_cam">Usou a câmera</string>
     <string name="privacy_flares_recent_detail_cam_loc">Usou a câmera e acessou sua localização</string>
@@ -5014,7 +5065,7 @@ Retirar consentimento agora?"</string>
     <string name="storage_clear_more_tools">Mais ferramentas de limpeza</string>
     <string name="storage_clear_video">Limpar cache de vídeo</string>
     <string name="storage_compact_warning">Adjusting multiple permissions</string>
-    <string name="storage_compact_warning_desc">"This app doesn't support adjusting permissions for photos, videos, audio, files, or documents individually."</string>
+    <string name="storage_compact_warning_desc">"As permissões de foto, vídeo e áudio para este app devem ser alteradas simultaneamente. A alteração de uma dessas permissões alterará todas elas."</string>
     <string name="storage_deepclean_entry">Limpeza profunda</string>
     <string name="storage_dialog_unmountable">"Este ^1 está corrompido.
 

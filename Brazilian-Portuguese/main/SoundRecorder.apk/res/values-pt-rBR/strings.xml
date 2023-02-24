@@ -503,6 +503,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="record_scenes_summaries_stereo_music">Grave através de %d canais, ouça som estéreo nos fones de ouvido</string>
     <string name="record_scenes_summaries_stereo_voice">Mova o microfone para mais perto da fonte do som para melhor qualidade</string>
     <string name="record_scenes_summaries_voice">Mova o microfone para mais perto da fonte do som para melhor qualidade</string>
+    <string name="record_while_in_call_tip">"Não é possível gravar durante uma chamada"</string>
     <string name="recorder_record">Áudio</string>
     <string name="recording">Gravando</string>
     <string name="recording_quality_high">Qualidade alta</string>

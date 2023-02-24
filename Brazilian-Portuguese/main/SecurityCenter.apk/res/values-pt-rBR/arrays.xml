@@ -154,6 +154,10 @@
         <item>Apps de terceiros que não são verificados podem causar vários problemas e diminuir a estabilidade do sistema.</item>
         <item>Alguns apps de terceiros podem conter malwares que colocam os seus dados pessoais em risco.</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Padrão</item>
+        <item>Todos</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Armazenamento interno</item>
         <item>Armazenamento externo</item>
