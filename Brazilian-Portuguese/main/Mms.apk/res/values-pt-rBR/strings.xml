@@ -863,8 +863,11 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="pref_title_perm_call">Efetuar chamadas</string>
     <string name="pref_title_perm_camera">Usar câmera</string>
     <string name="pref_title_perm_location">Localização</string>
+    <string name="pref_title_perm_read_audio">Acessar arquivos de áudio</string>
     <string name="pref_title_perm_read_call_log">Acessar histórico de chamadas</string>
     <string name="pref_title_perm_read_contacts">Acessar contatos</string>
+    <string name="pref_title_perm_read_files">Acessar arquivos e documentos</string>
+    <string name="pref_title_perm_read_images_video">Acessar fotos e vídeos</string>
     <string name="pref_title_perm_read_mms">Ler SMS</string>
     <string name="pref_title_perm_send_mms">Enviar SMS</string>
     <string name="pref_title_perm_storage">Acessar armazenamento</string>
@@ -1390,7 +1393,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
     <string name="system_permission_perm_send_mms">Enviar MMS</string>
     <string name="system_permission_perm_send_sms">Para enviar mensagens de texto</string>
     <string name="system_permission_perm_sms">Para ver e enviar mensagens</string>
-    <string name="system_permission_perm_storage">Para visualizar, enviar e armazenar arquivos</string>
+    <string name="system_permission_perm_storage">Para salvar e enviar anexos de SMS</string>
     <string name="system_permission_perm_takephoto">Para tirar fotos e vídeos</string>
     <string name="system_permission_perm_write_contact">Para criar e editar contatos</string>
     <string name="system_permission_perm_write_mms">Permitir que o Mensagens escreva MMS</string>
@@ -1483,7 +1486,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
     <string name="toast_not_show_microphone_perm_req">Permita que o app Mensagens use o microfone para poder usar este recurso</string>
     <string name="toast_not_show_read_mms_perm_req">Para poder visualizar as mensagens recebidas, você precisa conceder permissão ao Mensagens para ler SMS e MMS. Você pode conceder essa permissão nas Configurações.</string>
     <string name="toast_not_show_send_sms_perm_req">Para poder usar este recurso, primeiro permita que este app envie mensagens.</string>
-    <string name="toast_not_show_storage_perm_req">Permita que o app Mensagens acesse o armazenamento para poder usar este recurso</string>
+    <string name="toast_not_show_storage_perm_req">Permissões são necessárias para usar este recurso. Você pode conceder essa permissão em Configurações.</string>
     <string name="toast_not_show_write_contacts_perm_req">Permitir que o app Mensagens edite contatos para usar este recurso</string>
     <string name="toast_pending_hangup_msg">A mensagem será enviada quando a chamada for encerrada</string>
     <string name="today">Hoje</string>
