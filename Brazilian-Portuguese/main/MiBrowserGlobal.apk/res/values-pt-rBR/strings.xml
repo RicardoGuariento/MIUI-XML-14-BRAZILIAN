@@ -146,6 +146,10 @@
     <string name="allow_current">Permitir uma vez</string>
     <string name="already_add">Added %s to your Home screen</string>
     <string name="am">"AM"</string>
+    <string name="app_category_tag_daily_recommendation">Escolhas de hoje</string>
+    <string name="app_category_tag_editor_recommendation">"Escolhas dos editores</string>
+    <string name="app_category_tag_free">Grátis</string>
+    <string name="app_category_tag_hot">"Popular"</string>
     <string name="app_id">Firebase App ID (toque para exportar)</string>
     <string name="app_library_category_entertainment">Entretenimento</string>
     <string name="app_library_category_financial_management">Finance</string>
@@ -202,6 +206,7 @@
     <string name="avatar">Imagem de perfil</string>
     <string name="back_description">Voltar</string>
     <string name="back_home">Voltar para a página inicial</string>
+    <string name="batch_download">"Download"</string>
     <string name="batch_download_tip">Parece que vários itens estão sendo baixados ao mesmo tempo. Bloquear estes downloads?</string>
     <string name="billing_unavailable_message">"- Verifique se você está conectado à Play Store.
 - Atualize o Google Services Framework para a versão mais recente.
@@ -2787,6 +2792,11 @@ Try to modify your keyword?"</string>
     <string name="search_bar_hint_content">Search apps and content</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Ir</string>
+    <string name="search_card_more">Mais</string>
+    <string name="search_card_online_rec_app">Loja de apps</string>
+    <string name="search_card_online_rec_app_install">Instalar</string>
+    <string name="search_card_online_rec_app_installed">Instalado</string>
+    <string name="search_card_online_rec_app_open">Abrir</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">Nada encontrado</string>
