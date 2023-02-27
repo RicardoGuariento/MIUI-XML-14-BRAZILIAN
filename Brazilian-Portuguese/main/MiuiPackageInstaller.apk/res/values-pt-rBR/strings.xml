@@ -716,6 +716,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="untrusted_external_source_warning">Para sua segurança, seu dispositivo não tem permissão para instalar apps desconhecidos dessa fonte.</string>
     <string name="untrusted_external_source_warning_summary">Seu dispositivo e dados pessoais são vulneráveis a ataques de apps instalados de fontes desconhecidas. Ao permitir a instalação de apps dessa fonte, você concorda em aceitar a responsabilidade por qualquer dano ou perda de dados que possa ocorrer enquanto estiver usando esses apps.</string>
     <string name="untrusted_external_source_warning_summary_tablet">Seu dispositivo e dados pessoais são vulneráveis a ataques de apps instalados de fontes desconhecidas. Ao permitir a instalação de apps dessa fonte, você concorda em aceitar a responsabilidade por qualquer dano ou perda de dados que possa ocorrer enquanto estiver usando esses apps.</string>
+    <string name="update_start">Atualizar</string>
     <string name="uri_no_permission">Não é possível ler o arquivo, permissão negada</string>
     <string name="user_is_not_allowed_dlg_text">O usuário atual não tem permissão para executar esta desinstalação.</string>
     <string name="user_is_not_allowed_dlg_title">Não permitido</string>
