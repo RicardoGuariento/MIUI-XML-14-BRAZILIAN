@@ -186,7 +186,7 @@
     <string name="album_sort_type_name_desc">De Z a A</string>
     <string name="album_tab_page_switch_view_style_to_grid">Exibir em grade</string>
     <string name="album_tab_page_switch_view_style_to_linear">Exibir em lista</string>
-    <string name="album_tab_tool_tips">%sMB</string>
+    <string name="album_tab_tool_tips">%s MB</string>
     <string name="album_type_baby">Álbum do bebê</string>
     <string name="album_type_share">Álbuns compartilhados</string>
     <string name="album_type_system">Álbuns do sistema</string>
@@ -755,7 +755,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="enable_midrop">Ativar</string>
     <string name="enter_choice_mode">Acessando modo de compartilhamento</string>
     <string name="enter_email_hint">Inserir endereço de e-mail</string>
-    <string name="equivalent_focal_length">(Distância focal equivalente %dmm)</string>
+    <string name="equivalent_focal_length">(Distância focal equivalente %d mm)</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_album_not_exist">O álbum não existe</string>
@@ -1004,7 +1004,7 @@ estão disponíveis"</string>
     <string name="filter_sky_download_failed">Não foi possível baixar o plugin. Verifique suas configurações de rede e tente novamente.</string>
     <string name="filter_sky_download_failed_msg">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
     <string name="filter_sky_download_finish">Plugin baixado com sucesso</string>
-    <string name="filter_sky_download_sdk_without_wifi_msg">Se você não está conectado ao Wi-Fi, você pode usar os dados móveis para baixar o plugin (%1$dMB) que permite substituir o céu nas suas fotos.</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">Se você não está conectado ao Wi-Fi, você pode usar os dados móveis para baixar o plugin (%1$d MB) que permite substituir o céu nas suas fotos.</string>
     <string name="filter_sky_download_sdk_without_wifi_title">Baixar plugin</string>
     <string name="filter_sky_download_with_metered_network_msg">O uso de dados móveis para baixar arquivos originais pode gerar taxas adicionais pela operadora. Baixar mesmo assim?</string>
     <string name="filter_sky_download_with_metered_network_title">Usando dados móveis</string>
@@ -1632,7 +1632,7 @@ para personalizar a Galeria"</string>
     <string name="movie_delete_disable">Você precisa de pelo menos %d fotos para criar um clipe.</string>
     <string name="movie_download_failed">Não foi possível baixar</string>
     <string name="movie_download_failed_for_notwork">Não foi possível baixar. Conecte-se à rede e tente novamente.</string>
-    <string name="movie_download_sdk_without_wifi_msg">Parece que seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin requerido (%2$dMB) usando os dados móveis?</string>
+    <string name="movie_download_sdk_without_wifi_msg">Parece que seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin requerido (%2$d MB) usando os dados móveis?</string>
     <string name="movie_download_sdk_without_wifi_title">Baixar usando dados móveis</string>
     <string name="movie_edit">Editar</string>
     <string name="movie_edit_photo">Foto</string>
@@ -1666,7 +1666,7 @@ para personalizar a Galeria"</string>
     <string name="movie_template_travel">Viagens</string>
     <string name="movie_template_xmas">Natal</string>
     <string name="movie_video_long">Vídeo mais longo</string>
-    <string name="movie_video_short">%ds</string>
+    <string name="movie_video_short">%d s</string>
     <string name="multi_file_name">%1$s, %2$s</string>
     <string name="multi_view_tip_button_text">Entendi</string>
     <string name="multi_view_tip_sub_title">Afaste dois dedos ou mova-os um em direção ao outro para ajustar o tamanho dos itens exibidos.</string>
@@ -1872,7 +1872,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_editor_beauty_compare">"Original"</string>
     <string name="photo_editor_common_download_failed">Não foi possível baixar o plugin. Verifique suas configurações de rede e tente novamente.</string>
     <string name="photo_editor_common_download_finish">Plugin baixado com sucesso</string>
-    <string name="photo_editor_common_download_sdk_without_wifi_msg">Parece que você não está conectado ao Wi-Fi. Baixar o plugin (%1$dMB) usando os dados móveis?</string>
+    <string name="photo_editor_common_download_sdk_without_wifi_msg">Parece que você não está conectado ao Wi-Fi. Baixar o plugin (%1$d MB) usando os dados móveis?</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Baixar plugin</string>
     <string name="photo_editor_compare_tip">Pressione e segure para ver a imagem original</string>
     <string name="photo_editor_crop_and_rotate">Cortar</string>
@@ -1908,7 +1908,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_editor_miui_beauty_no_face">Não é possível detectar o rosto</string>
     <string name="photo_editor_mosaic">Mosaico</string>
     <string name="photo_editor_navigator_cancel">Cancelar</string>
-    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Para baixar %s é necessário %2$dMB de dados móveis. Baixar agora?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Para baixar %s é necessário %2$d MB de dados móveis. Baixar agora?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Aviso sobre o uso de dados</string>
     <string name="photo_editor_navigator_download_title">Carregando…</string>
     <string name="photo_editor_navigator_export">Salvar</string>
@@ -1920,8 +1920,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_editor_navigator_need_download">Conecte-se à Internet para baixar %s.</string>
     <string name="photo_editor_navigator_sticker_download_failed">Não foi possível baixar. Verifique as suas configurações de rede e tente novamente.</string>
     <string name="photo_editor_navigator_sticker_download_success">Baixado com sucesso</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Não está conectado ao Wi-Fi. Usar %1$dMB dos dados móveis para baixar o plugin?</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Não está conectado ao Wi-Fi. Usar %1$dMB dos dados móveis para baixar o plugin?</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Não está conectado ao Wi-Fi. Usar %1$d MB dos dados móveis para baixar o plugin?</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Não está conectado ao Wi-Fi. Usar %1$d MB dos dados móveis para baixar o plugin?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Baixar plugin</string>
     <string name="photo_editor_privacy_watermark">"Marca d'água de proteção"</string>
     <string name="photo_editor_remove_watermark">"Remover marca d'água"</string>
@@ -1997,7 +1997,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_portrait_color_download_fail">Não foi possível baixar o plugin. Conecte-se à rede e tente novamente.</string>
     <string name="photo_portrait_color_download_success">Filtros baixados com sucesso</string>
     <string name="photo_portrait_color_no_face">O Foco de cor só funciona em fotos com pessoas</string>
-    <string name="photo_portrait_download_sdk_without_wifi_msg">Parece que o seu dispositivo não está conectado ao Wi-Fi agora. Você pode baixar os filtros (%1$dMB) usando os dados móveis.</string>
+    <string name="photo_portrait_download_sdk_without_wifi_msg">Parece que o seu dispositivo não está conectado ao Wi-Fi agora. Você pode baixar os filtros (%1$d MB) usando os dados móveis.</string>
     <string name="photo_portrait_download_sdk_without_wifi_title">Baixar filtros</string>
     <string name="photo_print_menu_loading">Carregando plugin…</string>
     <string name="photo_print_package_finish">Plugin de impressão carregado com sucesso</string>
@@ -2040,7 +2040,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="picker_image_need_download">%d das fotos selecionadas não estão no dispositivo. Baixar usando os dados móveis?</string>
     <string name="picker_image_will_download">%d das fotos selecionadas não estão no dispositivo. Elas serão baixadas.</string>
     <string name="picker_no_network_message">Conecte-se à rede para baixar</string>
-    <string name="picker_origin_need_download">%1$d das fotos selecionadas (%2$dMB) não estão no dispositivo. Baixar usando os dados móveis?</string>
+    <string name="picker_origin_need_download">%1$d das fotos selecionadas (%2$d MB) não estão no dispositivo. Baixar usando os dados móveis?</string>
     <string name="picker_origin_request_progress_fail">Não foi possível baixar a imagem original devido a um erro de rede.</string>
     <string name="picker_origin_request_progress_message">Preparando os arquivos originais (%1$d/%2$d)…</string>
     <string name="picker_title_format">Selecione de %1$d a %2$d fotos</string>
@@ -2554,12 +2554,12 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="slim_complete_action_title">Otimizado com sucesso</string>
     <string name="slim_complete_count">"Otimizado %1$s e %2$s. "</string>
     <string name="slim_complete_download_tip">Cópias de alta qualidade (HD) serão baixadas automaticamente em vez dos originais.</string>
-    <string name="slim_cost_time_minute">%dm restante(s)</string>
-    <string name="slim_cost_time_minute_and_second">%1$dm %2$ds restante(s)</string>
-    <string name="slim_cost_time_second">%ds restante(s)</string>
+    <string name="slim_cost_time_minute">%d m restante(s)</string>
+    <string name="slim_cost_time_minute_and_second">%1$d m e %2$d s restante(s)</string>
+    <string name="slim_cost_time_second">%d s restante(s)</string>
     <string name="slim_description_dialog_detail">Comprima as fotos e deixe cópias menores de alta qualidade neste dispositivo, mantendo os arquivos originais na nuvem.</string>
     <string name="slim_description_dialog_ok">Entendi</string>
-    <string name="slim_description_dialog_slim_after">Depois: %dKB</string>
+    <string name="slim_description_dialog_slim_after">Depois: %d KB</string>
     <string name="slim_description_dialog_slim_before">Antes: %.2fMB</string>
     <string name="slim_dialog_empty_message">Não foi possível encontrar itens para otimizar.</string>
     <string name="slim_dialog_empty_positive">Entendi</string>
@@ -2980,7 +2980,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="unsupported_media_downloading_tip_format">Ver imagens %s originais não é suportado nesta versão do Android. Baixar mesmo assim?</string>
     <string name="unsupported_media_scanned_tip">Imagens %1$s detectadas. Ver imagens originais %2$s não é suportado nesta versão do Android.</string>
     <string name="unsupported_media_view_tip">Ver imagens %s originais não é suportado nesta versão do Android</string>
-    <string name="update_apk_size">Tamanho da atualização: %sMB</string>
+    <string name="update_apk_size">Tamanho da atualização: %s MB</string>
     <string name="update_btn_exit">Sair</string>
     <string name="update_btn_negative">Mais tarde</string>
     <string name="update_btn_positive">Atualizar</string>
@@ -3082,7 +3082,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="video_editor_smart_effect_fastslow">Movimento</string>
     <string name="video_editor_smart_effect_freesze">Stopmotion</string>
     <string name="video_editor_smart_effect_halo">Auréola</string>
-    <string name="video_editor_smart_effect_high_iframes_text">Este efeito funciona melhor para vídeos em %dfps.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">Este efeito funciona melhor para vídeos em %d fps.</string>
     <string name="video_editor_smart_effect_movie">Filme</string>
     <string name="video_editor_smart_effect_none">Nenhum</string>
     <string name="video_editor_smart_effect_radical">Otimista</string>
@@ -3190,7 +3190,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="vlog_clip_delete_dialog_btn_cancel">Cancelar</string>
     <string name="vlog_clip_delete_dialog_btn_delete">Excluir</string>
     <string name="vlog_clip_delete_dialog_btn_msg">Excluir este vídeo?</string>
-    <string name="vlog_clip_duration_time">%ss</string>
+    <string name="vlog_clip_duration_time">%s s</string>
     <string name="vlog_clip_is_reversed">Reverso</string>
     <string name="vlog_clip_select_trans">Selecionar transição</string>
     <string name="vlog_clip_sort">Reorganizar vídeos</string>
@@ -3206,7 +3206,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="vlog_downloading_cloud_file">Baixando itens da nuvem…</string>
     <string name="vlog_editor_talkback_ratio_239_1">239x1</string>
     <string name="vlog_end_of_film">Fechando</string>
-    <string name="vlog_estimated_size_x">≈%dMB</string>
+    <string name="vlog_estimated_size_x">≈%d MB</string>
     <string name="vlog_exit_ddit_message">Todas as alterações serão perdidas se você sair agora. Sair mesmo assim?</string>
     <string name="vlog_exit_edit_title">Saindo do editor</string>
     <string name="vlog_exit_message">Todas as alterações que não foram salvas serão perdidas. Cancelar mesmo assim?</string>

@@ -337,8 +337,8 @@
         <item quantity="one">A foto selecionada não está no dispositivo. Ela será baixada.</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">As fotos selecionadas (%dMB) não estão no dispositivo. Baixar usando os dados móveis?</item>
-        <item quantity="one">A foto selecionada (%dMB) não está no dispositivo. Baixar usando os dados móveis?</item>
+        <item quantity="other">As fotos selecionadas (%d MB) não estão no dispositivo. Baixar usando os dados móveis?</item>
+        <item quantity="one">A foto selecionada (%d MB) não está no dispositivo. Baixar usando os dados móveis?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">%d arquivos ainda não foram baixados. Cancelar mesmo assim?</item>
@@ -353,20 +353,20 @@
         <item quantity="one">Não foi possível baixar %1$d foto, conecte-se à rede e tente novamente</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">Não foi possível baixar %1$d arquivos (%2$dMB). Conecte-se à rede e tente novamente.</item>
-        <item quantity="one">Não foi possível baixar %1$d arquivo (%2$dMB). Conecte-se à rede e tente novamente.</item>
+        <item quantity="other">Não foi possível baixar %1$d arquivos (%2$d MB). Conecte-se à rede e tente novamente.</item>
+        <item quantity="one">Não foi possível baixar %1$d arquivo (%2$d MB). Conecte-se à rede e tente novamente.</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
-        <item quantity="other">%1$d arquivos (%2$dMB) ainda não foram baixados. Baixar usando os dados móveis?</item>
-        <item quantity="one">%1$d arquivo (%2$dMB) ainda não foi baixado. Baixar usando os dados móveis?</item>
+        <item quantity="other">%1$d arquivos (%2$d MB) ainda não foram baixados. Baixar usando os dados móveis?</item>
+        <item quantity="one">%1$d arquivo (%2$d MB) ainda não foi baixado. Baixar usando os dados móveis?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Não foi possível baixar %1$d fotos, tentar novamente?</item>
         <item quantity="one">Não foi possível baixar %1$d foto, tentar novamente?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">Não foi possível baixar %1$d fotos (%2$dMB), tentar novamente?</item>
-        <item quantity="one">Não foi possível baixar %1$d foto (%2$dMB), tentar novamente?</item>
+        <item quantity="other">Não foi possível baixar %1$d fotos (%2$d MB), tentar novamente?</item>
+        <item quantity="one">Não foi possível baixar %1$d foto (%2$d MB), tentar novamente?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Ignorando %d fotos que não estão no dispositivo.</item>

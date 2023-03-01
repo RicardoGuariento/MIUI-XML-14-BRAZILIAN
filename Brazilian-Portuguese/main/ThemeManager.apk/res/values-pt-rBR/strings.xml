@@ -180,7 +180,7 @@
     <string name="concentration_old_period">Mais</string>
     <string name="configure_success_not_enable_aod">Aplicado com sucesso. Ative a Tela ambiente para que o tema tenha efeito.</string>
     <string name="copy">Copiar</string>
-    <string name="count_down_tip">%ds restantes</string>
+    <string name="count_down_tip">%d s restantes</string>
     <string name="create_home_icon">Atalho na Tela inicial</string>
     <string name="current_device_not_support_superwallpaper_dialog_content">"Super papéis de parede não são compatíveis com este dispositivo"</string>
     <string name="current_using">Atual</string>
@@ -1185,8 +1185,8 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_title_rank">Posição</string>
     <string name="resource_title_select_ringtone">Selecione o toque</string>
     <string name="resource_title_subject">Destaques</string>
-    <string name="resource_trial_days">(teste: %1$dd)</string>
-    <string name="resource_trial_days_hours">(teste: %1$dd %2$dh)</string>
+    <string name="resource_trial_days">(teste: %1$d d)</string>
+    <string name="resource_trial_days_hours">(teste: %1$d d %2$d h)</string>
     <string name="resource_trial_end_get_mibi">Receber Mi Créditos</string>
     <string name="resource_trial_end_jump_hint">Redirecionando…</string>
     <string name="resource_trial_end_message">Teste de %1$s expirado. Conclua a compra caso tenha gostado.</string>
@@ -1199,9 +1199,9 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_trial_fail_go_settings">Configurações</string>
     <string name="resource_trial_fail_message">Certifique-se de que o relógio do sistema está configurado corretamente.</string>
     <string name="resource_trial_fail_title">Não foi possível configurar sessão de teste</string>
-    <string name="resource_trial_hours">(teste: %1$dh)</string>
-    <string name="resource_trial_hours_minutes">(teste: %1$dh %2$dm)</string>
-    <string name="resource_trial_minutes">(teste: %1$dm)</string>
+    <string name="resource_trial_hours">(teste: %1$d h)</string>
+    <string name="resource_trial_hours_minutes">(teste: %1$d h e %2$d m)</string>
+    <string name="resource_trial_minutes">(teste: %1$d m)</string>
     <string name="resource_unknow_error">Ocorreu um erro desconhecido</string>
     <string name="resource_update">Atualizar</string>
     <string name="resource_user_know">"OK"</string>

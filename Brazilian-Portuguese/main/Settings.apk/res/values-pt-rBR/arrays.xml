@@ -1521,8 +1521,8 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automático</item>
-        <item>Somente 5GHz</item>
-        <item>Somente 2.4GHz</item>
+        <item>Somente 5 GHz</item>
+        <item>Somente 2.4 GHz</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Não</item>

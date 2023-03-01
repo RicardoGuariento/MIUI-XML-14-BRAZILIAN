@@ -605,10 +605,10 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
     <string name="cit_tool_bluetooth_le_tx_50_antenna">antena:</string>
     <string name="cit_tool_bluetooth_le_tx_50_channel">canal:</string>
     <string name="cit_tool_bluetooth_le_tx_antenna">antena:</string>
-    <string name="cit_tool_bluetooth_le_tx_ch19">Teste de frequência Bluetooth LE 2.440GHz</string>
+    <string name="cit_tool_bluetooth_le_tx_ch19">Teste de frequência Bluetooth LE 2.440 GHz</string>
     <string name="cit_tool_bluetooth_le_tx_channel">canal:</string>
-    <string name="cit_tool_bluetooth_le_tx_h">Teste de frequência Bluetooth LE 2.480GHz</string>
-    <string name="cit_tool_bluetooth_le_tx_l">Teste de frequência Bluetooth LE 2.402GHz</string>
+    <string name="cit_tool_bluetooth_le_tx_h">Teste de frequência Bluetooth LE 2.480 GHz</string>
+    <string name="cit_tool_bluetooth_le_tx_l">Teste de frequência Bluetooth LE 2.402 GHz</string>
     <string name="cit_tool_bluetooth_le_tx_power">"LE: TX Pwr "</string>
     <string name="cit_tool_bluetooth_le_tx_power_level">Pwr/Lv:</string>
     <string name="cit_tool_bluetooth_le_tx_power_msg">Entre com o modo de teste Bluetooth BR/EDR TX:</string>
@@ -627,10 +627,10 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
     <string name="cit_tool_bluetooth_tx_burst_run">EXECUTAR</string>
     <string name="cit_tool_bluetooth_tx_chain">antena:</string>
     <string name="cit_tool_bluetooth_tx_channel">canal:</string>
-    <string name="cit_tool_bluetooth_tx_h">Teste de frequência Bluetooth BR/EDR 2.480GHz</string>
-    <string name="cit_tool_bluetooth_tx_l">Teste de frequência Bluetooth BR/EDR 2.402GHz</string>
+    <string name="cit_tool_bluetooth_tx_h">Teste de frequência Bluetooth BR/EDR 2.480 GHz</string>
+    <string name="cit_tool_bluetooth_tx_l">Teste de frequência Bluetooth BR/EDR 2.402 GHz</string>
     <string name="cit_tool_bluetooth_tx_level">Pwr/Lv:</string>
-    <string name="cit_tool_bluetooth_tx_m">Teste de frequência Bluetooth BR/EDR 2.441GHz</string>
+    <string name="cit_tool_bluetooth_tx_m">Teste de frequência Bluetooth BR/EDR 2.441 GHz</string>
     <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_tx_type">BR0/EDR1:</string>
     <string name="cit_tool_cal_accelerometer">Ferramenta de calibração do Acelerômetro</string>

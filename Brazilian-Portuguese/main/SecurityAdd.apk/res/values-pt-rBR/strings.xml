@@ -86,7 +86,7 @@
     <string name="ew_detail_receive_location_message">"%2$s°N %1$s°E"</string>
     <string name="ew_detail_receive_location_title">Localização</string>
     <string name="ew_detail_receive_time_title">Hora de início</string>
-    <string name="ew_detail_receive_warn_time_message">"%ss"</string>
+    <string name="ew_detail_receive_warn_time_message">"%s s"</string>
     <string name="ew_detail_receive_warn_time_title">Tempo antes do início</string>
     <string name="ew_save_title">Salvar</string>
     <string name="ew_share_logo_title">Alerta de terremoto</string>
@@ -399,7 +399,7 @@
     <string name="superpower_exit_hint">Desativando a Ultra economia de bateria…</string>
     <string name="superpower_incharging">Carregando</string>
     <string name="superpower_progress_battery_last">%s restante(s)</string>
-    <string name="superpower_progress_left_time">"%1$dh %2$dm"</string>
+    <string name="superpower_progress_left_time">"%1$d h e %2$d m"</string>
     <string name="superpower_search_hint">Procurar por apps</string>
     <string name="superpower_select_app_title">Apps usados com frequência</string>
     <string name="superpower_settings">Ultra economia de bateria</string>

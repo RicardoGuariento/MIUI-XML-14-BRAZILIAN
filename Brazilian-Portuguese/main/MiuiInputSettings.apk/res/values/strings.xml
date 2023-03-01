@@ -258,7 +258,7 @@ You can view generated logs in File Manager."</string>
     <string name="long_press_menu_key_when_lock">Long press Menu on the Lock screen</string>
     <string name="long_press_power_key">Long press the Power button</string>
     <string name="long_press_power_key_half_of_second">Press and hold the Power button for 0.5s to turn on Google Assistant</string>
-    <string name="long_press_power_key_half_second">Press and hold the Power button for %ss</string>
+    <string name="long_press_power_key_half_second">Press and hold the Power button for %s s</string>
     <string name="long_press_power_key_tips">&lt;Data>Long pressing the Power button is &lt;font color=#999999>faster and more convenient&lt;/font>&lt;/Data></string>
     <string name="long_press_volume_down">Long press Volume down</string>
     <string name="material_clock_display_divider">:</string>

@@ -102,7 +102,7 @@
     <string name="cloud_storage_loading_data">Aguarde…</string>
     <string name="cloud_storage_manage_title">Gerenciar armazenamento</string>
     <string name="cloud_storage_no_data">Nenhum item na nuvem ainda</string>
-    <string name="cloud_storage_sufficient_text">Atualize para obter até %dTB de armazenamento</string>
+    <string name="cloud_storage_sufficient_text">Atualize para obter até %d TB de armazenamento</string>
     <string name="cloud_storage_upgrade_text">Melhorar</string>
     <string name="cloud_storage_upgrade_text_now">Melhorar</string>
     <string name="cloud_storage_zero_upgrade_button_text_now">Atualize gratuitamente</string>
@@ -573,8 +573,8 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_storage_full_tip">Armazenamento está cheio</string>
     <string name="micloud_storage_normal_tip">Restante: %s</string>
     <string name="micloud_storage_share_family">Compartilhamento familiar</string>
-    <string name="micloud_storage_unit_gb">%sGB</string>
-    <string name="micloud_storage_unit_mb">%sMB</string>
+    <string name="micloud_storage_unit_gb">%s GB</string>
+    <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">Sincronize suas fotos, contatos, notas e mais entre todos os seus dispositivos.</string>
     <string name="micloud_sync_alert_dialog_message_pad">Sincronize suas fotos, notas e mais entre todos os seus dispositivos.</string>
     <string name="micloud_sync_alert_dialog_message_v2">Sincronize suas fotos, contatos, notas e muito mais em todos os seus dispositivos.</string>

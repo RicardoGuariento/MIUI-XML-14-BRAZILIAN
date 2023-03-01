@@ -506,8 +506,8 @@
     <string name="gps_prompt_context">Baixar com rede móvel?</string>
     <string name="gps_prompt_title">Tips</string>
     <string name="grabage_rank_title">Limpos hoje</string>
-    <string name="guide_dc_dialog_message">Há menos de 2GB de espaço livre disponível no armazenamento. Isto pode reduzir a velocidade do seu dispositivo. Execute uma limpeza profunda para liberar espaço no armazenamento.</string>
-    <string name="guide_dc_dialog_message_new">Há menos de %dGB de espaço livre disponível no armazenamento. Isto pode reduzir a velocidade do seu dispositivo. Execute uma limpeza profunda para liberar espaço no armazenamento.</string>
+    <string name="guide_dc_dialog_message">Há menos de 2 GB de espaço livre disponível no armazenamento. Isto pode reduzir a velocidade do seu dispositivo. Execute uma limpeza profunda para liberar espaço no armazenamento.</string>
+    <string name="guide_dc_dialog_message_new">Há menos de %d GB de espaço livre disponível no armazenamento. Isto pode reduzir a velocidade do seu dispositivo. Execute uma limpeza profunda para liberar espaço no armazenamento.</string>
     <string name="guide_dc_dialog_negative">Cancelar</string>
     <string name="guide_dc_dialog_positive">"OK"</string>
     <string name="guide_dc_dialog_title">Espaço de armazenamento acabando</string>
@@ -599,8 +599,8 @@
     <string name="login_immediately">Fazer login</string>
     <string name="long_click_dialog_summary">Segure para adicionar às exceções.</string>
     <string name="long_click_dialog_title">Aviso</string>
-    <string name="low_memory_clean_dialog_msg">Limpe pelo menos 100MB de arquivos primeiro</string>
-    <string name="low_memory_clean_dialog_msg_new">Limpe pelo menos %dMB de arquivos primeiro</string>
+    <string name="low_memory_clean_dialog_msg">Limpe pelo menos 100 MB de arquivos primeiro</string>
+    <string name="low_memory_clean_dialog_msg_new">Limpe pelo menos %d MB de arquivos primeiro</string>
     <string name="low_memory_clean_dialog_ok_button">"OK"</string>
     <string name="low_memory_clean_dialog_title">Espaço livre insuficiente</string>
     <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
@@ -779,8 +779,8 @@
     <string name="offline_opt_in_message">"Enviaremos uma notificação com um link para o site do anunciante."</string>
     <string name="offline_opt_in_title">"Abra o anúncio quando estiver on-line novamente."</string>
     <string name="ok">"OK"</string>
-    <string name="one_tap_clean_GB">"%sGB"</string>
-    <string name="one_tap_clean_M">"%dMB"</string>
+    <string name="one_tap_clean_GB">"%s GB"</string>
+    <string name="one_tap_clean_M">"%d MB"</string>
     <string name="onekeyclean_boost_available">%s disponível</string>
     <string name="onekeyclean_boost_cleaned">%s limpo(s)</string>
     <string name="onekeyclean_boosted_title">Limpo com sucesso</string>
@@ -1016,8 +1016,8 @@
     <string name="tips_app_specific_clean_result_page">Liberar espaço de armazenamento</string>
     <string name="tips_data_page">Tente limpar os dados do app para liberar armazenamento</string>
     <string name="tips_low_storage_dialog_cancel">Cancelar</string>
-    <string name="tips_low_storage_dialog_msg_qq">O cache do QQ atingiu 3GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do QQ agora?</string>
-    <string name="tips_low_storage_dialog_msg_qq_new">O cache do QQ atingiu %dGB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do QQ agora?</string>
+    <string name="tips_low_storage_dialog_msg_qq">O cache do QQ atingiu 3 GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do QQ agora?</string>
+    <string name="tips_low_storage_dialog_msg_qq_new">O cache do QQ atingiu %d GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do QQ agora?</string>
     <string name="tips_low_storage_dialog_msg_storage">Você está usando 90% do seu espaço de armazenamento. Desinstale os apps que você não usa.</string>
     <string name="tips_low_storage_dialog_msg_storage_new">Você está usando %s do seu espaço de armazenamento. Desinstale os apps que você não usa.</string>
     <string name="tips_low_storage_dialog_msg_wechat">O cache do WeChat atingiu 3GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do WeChat agora?</string>
@@ -1085,8 +1085,8 @@
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
-    <string name="unit_gb">%sGB</string>
-    <string name="unit_mb">%sMB</string>
+    <string name="unit_gb">%s GB</string>
+    <string name="unit_mb">%s MB</string>
     <string name="unlike">Não, obrigado</string>
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="updating_tips">Arguarde…</string>

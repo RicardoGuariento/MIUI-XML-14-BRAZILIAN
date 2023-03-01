@@ -41,20 +41,20 @@
         <item quantity="one">%1$d item selecionado</item>
     </plurals>
     <plurals name="common_share_unit_kilometer_desc">
-        <item quantity="other">"%1$skm"</item>
-        <item quantity="one">"%1$skm"</item>
+        <item quantity="other">"%1$s km"</item>
+        <item quantity="one">"%1$s km"</item>
     </plurals>
     <plurals name="common_share_unit_meter_desc">
-        <item quantity="other">"%1$sm"</item>
-        <item quantity="one">"%1$sm"</item>
+        <item quantity="other">"%1$s m"</item>
+        <item quantity="one">"%1$s m"</item>
     </plurals>
     <plurals name="common_unit_calorie">
         <item quantity="other">" kcal"</item>
         <item quantity="one">" kcal"</item>
     </plurals>
     <plurals name="common_unit_calorie_desc">
-        <item quantity="other">"%1$dkcal"</item>
-        <item quantity="one">"%1$dkcal"</item>
+        <item quantity="other">"%1$d kcal"</item>
+        <item quantity="one">"%1$d kcal"</item>
     </plurals>
     <plurals name="common_unit_day_desc">
         <item quantity="other">%1$d dias</item>
@@ -69,20 +69,20 @@
         <item quantity="one">"%1$d BPM"</item>
     </plurals>
     <plurals name="common_unit_heart_rate_desc2">
-        <item quantity="other">"%1$dBPM"</item>
-        <item quantity="one">"%1$dBPM"</item>
+        <item quantity="other">"%1$d BPM"</item>
+        <item quantity="one">"%1$d BPM"</item>
     </plurals>
     <plurals name="common_unit_kilometer">
         <item quantity="other">"km"</item>
         <item quantity="one">"km"</item>
     </plurals>
     <plurals name="common_unit_kilometer_desc_new">
-        <item quantity="other">"%1$skm"</item>
-        <item quantity="one">"%1$skm"</item>
+        <item quantity="other">"%1$s km"</item>
+        <item quantity="one">"%1$s km"</item>
     </plurals>
     <plurals name="common_unit_meter_desc_new">
-        <item quantity="other">"%1$sm"</item>
-        <item quantity="one">"%1$sm"</item>
+        <item quantity="other">"%1$s m"</item>
+        <item quantity="one">"%1$s m"</item>
     </plurals>
     <plurals name="common_unit_step">
         <item quantity="other">" passos"</item>
@@ -97,8 +97,8 @@
         <item quantity="one">vez</item>
     </plurals>
     <plurals name="common_unit_time_desc">
-        <item quantity="other">%1$dh</item>
-        <item quantity="one">%1$dh</item>
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
     </plurals>
     <plurals name="common_unit_time_rope_skipping_desc">
         <item quantity="other">%1$d saltos</item>
@@ -145,8 +145,8 @@
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="device_settings_common_unit_heart_rate_desc">
-        <item quantity="other">"%1$dBPM"</item>
-        <item quantity="one">"%1$dBPM"</item>
+        <item quantity="other">"%1$d BPM"</item>
+        <item quantity="one">"%1$d BPM"</item>
     </plurals>
     <plurals name="device_settings_event_content_max_length">
         <item quantity="other">Você pode inserir até %1$d caracteres</item>
@@ -161,8 +161,8 @@
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="device_settings_heart_rate_warning_freq">
-        <item quantity="other">"%1$dBPM"</item>
-        <item quantity="one">"%1$dBPM"</item>
+        <item quantity="other">"%1$d BPM"</item>
+        <item quantity="one">"%1$d BPM"</item>
     </plurals>
     <plurals name="device_settings_huami_shortcut_quantity_limit_tips">
         <item quantity="other">Você pode adicionar até %1$d widgets</item>
@@ -233,8 +233,8 @@
         <item quantity="one">"%1$d min'</item>
     </plurals>
     <plurals name="health_common_unit_calorie_desc">
-        <item quantity="other">"%1$dkcal"</item>
-        <item quantity="one">"%1$dkcal"</item>
+        <item quantity="other">"%1$d kcal"</item>
+        <item quantity="one">"%1$d kcal"</item>
     </plurals>
     <plurals name="health_common_unit_step">
         <item quantity="other">passos</item>
@@ -341,36 +341,36 @@
         <item quantity="one">h</item>
     </plurals>
     <plurals name="health_target_calories_unit">
-        <item quantity="other">"%1$dkcal"</item>
-        <item quantity="one">"%1$dkcal"</item>
+        <item quantity="other">"%1$d kcal"</item>
+        <item quantity="one">"%1$d kcal"</item>
     </plurals>
     <plurals name="health_target_mhs_unit">
         <item quantity="other">%1$d min</item>
         <item quantity="one">"%1$d min"</item>
     </plurals>
     <plurals name="health_target_stand_times_unit">
-        <item quantity="other">%1$dh</item>
-        <item quantity="one">%1$dh</item>
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
     </plurals>
     <plurals name="health_target_step_unit">
-        <item quantity="other">%1$d</item>
-        <item quantity="one">%1$d</item>
+        <item quantity="other">%1$ d</item>
+        <item quantity="one">%1$ d</item>
     </plurals>
     <plurals name="health_unit_spo2_percent_desc">
         <item quantity="other">%1$d%%</item>
         <item quantity="one">%1$d%%</item>
     </plurals>
     <plurals name="health_weight_compared_with_more_days_gain">
-        <item quantity="other">%1$skg | + %3$skg desde %2$d dias atrás</item>
-        <item quantity="one">%1$skg | + %3$skg desde %2$d dia atrás</item>
+        <item quantity="other">%1$s kg | + %3$s kg desde %2$d dias atrás</item>
+        <item quantity="one">%1$s kg | + %3$s kg desde %2$d dia atrás</item>
     </plurals>
     <plurals name="health_weight_compared_with_more_days_loss">
-        <item quantity="other">%1$skg | - %3$skg desde %2$d dias atrás</item>
-        <item quantity="one">%1$skg | - %3$skg desde %2$d dia atrás</item>
+        <item quantity="other">%1$s kg | - %3$s kg desde %2$d dias atrás</item>
+        <item quantity="one">%1$s kg | - %3$s kg desde %2$d dia atrás</item>
     </plurals>
     <plurals name="health_weight_home_title">
-        <item quantity="other">Peso %skg</item>
-        <item quantity="one">Peso %skg</item>
+        <item quantity="other">Peso %s kg</item>
+        <item quantity="one">Peso %s kg</item>
     </plurals>
     <plurals name="heartrate_fp_detect_time_remainder">
         <item quantity="other">%1$d seg restantes</item>
@@ -429,10 +429,10 @@
         <item quantity="one">Você pode inserir até %1$d caractere</item>
     </plurals>
     <plurals name="nfc_issue_card_hold_on_">
-        <item quantity="other">&lt;Data>"Mantenha o dispositivo conectado ao seu telefone.
-Isto levará cerca de %1$d min."&lt;/Data></item>
-        <item quantity="one">&lt;Data>"Mantenha o dispositivo conectado ao seu telefone.
-Isto levará cerca de %1$d min."&lt;/Data></item>
+        <item quantity="other"><Data>"Mantenha o dispositivo conectado ao seu telefone.
+Isto levará cerca de %1$d min."</Data></item>
+        <item quantity="one"><Data>"Mantenha o dispositivo conectado ao seu telefone.
+Isto levará cerca de %1$d min."</Data></item>
     </plurals>
     <plurals name="notify_sms_reply_delay_time">
         <item quantity="other">%1$d s</item>
@@ -455,8 +455,8 @@ Isto levará cerca de %1$d min."&lt;/Data></item>
         <item quantity="one">passo</item>
     </plurals>
     <plurals name="sport_local_sport_setting_speed">
-        <item quantity="other">"%1$dkm/h"</item>
-        <item quantity="one">"%1$dkm/h"</item>
+        <item quantity="other">"%1$d km/h"</item>
+        <item quantity="one">"%1$d km/h"</item>
     </plurals>
     <plurals name="sport_unit_kilometer">
         <item quantity="other">"km"</item>
@@ -481,10 +481,6 @@ Isto levará cerca de %1$d min."&lt;/Data></item>
     <plurals name="trail_hint_unit_minute">
         <item quantity="other">min</item>
         <item quantity="one">"min"</item>
-    </plurals>
-    <plurals name="trail_hint_unit_step">
-        <item quantity="other"></item>
-        <item quantity="one"></item>
     </plurals>
     <plurals name="trail_label_step">
         <item quantity="other">passos</item>
@@ -523,16 +519,12 @@ Isto levará cerca de %1$d min."&lt;/Data></item>
         <item quantity="one">%d treino</item>
     </plurals>
     <plurals name="trail_sport_unit_speed_plurals">
-        <item quantity="other">"%skm/h"</item>
-        <item quantity="one">"%skm/h"</item>
+        <item quantity="other">"%s km/h"</item>
+        <item quantity="one">"%s km/h"</item>
     </plurals>
     <plurals name="trail_unit_score_desc_new">
         <item quantity="other">%1$s</item>
         <item quantity="one">%1$s</item>
-    </plurals>
-    <plurals name="trail_unit_time_rope_skipping">
-        <item quantity="other"></item>
-        <item quantity="one"></item>
     </plurals>
     <plurals name="unit_hour_1">
         <item quantity="other">h</item>
@@ -635,8 +627,8 @@ Isto levará cerca de %1$d min."&lt;/Data></item>
         <item quantity="one">h</item>
     </plurals>
     <plurals name="userinfo_target_calories_unit">
-        <item quantity="other">"%1$dkcal"</item>
-        <item quantity="one">"%1$dkcal"</item>
+        <item quantity="other">"%1$d kcal"</item>
+        <item quantity="one">"%1$d kcal"</item>
     </plurals>
     <plurals name="userinfo_target_mhs_unit">
         <item quantity="other">%1$d min</item>
@@ -651,8 +643,8 @@ Isto levará cerca de %1$d min."&lt;/Data></item>
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="userinfo_unit_heart_rate_space">
-        <item quantity="other">"%1$dBPM"</item>
-        <item quantity="one">"%1$dBPM"</item>
+        <item quantity="other">"%1$d BPM"</item>
+        <item quantity="one">"%1$d BPM"</item>
     </plurals>
     <plurals name="userinfo_unit_min">
         <item quantity="other">min</item>

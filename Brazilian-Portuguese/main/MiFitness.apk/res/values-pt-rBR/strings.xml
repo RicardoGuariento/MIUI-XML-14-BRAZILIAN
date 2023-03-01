@@ -33,7 +33,7 @@
     <string name="about_comment_go">Classifique-nos</string>
     <string name="about_common_confirm">"OK"</string>
     <string name="about_common_user_privacy_agreement">Política de Privacidade</string>
-    <string name="about_count_down_time_tips">"(%1$ds)"</string>
+    <string name="about_count_down_time_tips">"(%1$d s)"</string>
     <string name="about_current_version">Versão: %1$s</string>
     <string name="about_dialog_open_concise_theme_desc">Seu personagem de perfil será oculto no app.</string>
     <string name="about_dialog_open_vitality_theme_desc">Para ver seu personagem de perfil, toque em Saúde no app.</string>

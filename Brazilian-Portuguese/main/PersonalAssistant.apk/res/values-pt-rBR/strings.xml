@@ -199,7 +199,7 @@
     <string name="pa_app_label">Assistente</string>
     <string name="pa_base_hour12_format_en">hh:mm</string>
     <string name="pa_base_hour24_format_en">HH:mm</string>
-    <string name="pa_base_hour_minute">%1$dh %2$dm</string>
+    <string name="pa_base_hour_minute">%1$d h e %2$d m</string>
     <string name="pa_base_minute_second">mm:ss</string>
     <string name="pa_base_time_just_now">Agora mesmo</string>
     <string name="pa_base_time_month">dd/MM</string>
@@ -532,7 +532,7 @@ para mostrar widgets."</string>
     <string name="pa_setting_privacy_revoke_cta">Retirada de consentimento</string>
     <string name="pa_setting_privacy_revoke_cta_message">"Se você continuar, retirará seu consentimento para a Política de Privacidade do Assistente. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico, de acordo com as leis e regulamentos aplicáveis, a menos que seja necessário de outra forma. Como o Assistente fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será mantida como se recusando a aceitar os serviços do Assistente. Retirar o consentimento agora?"</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Retirar</string>
-    <string name="pa_setting_privacy_revoke_cta_progress">Retirar (%ds)</string>
+    <string name="pa_setting_privacy_revoke_cta_progress">Retirar (%d s)</string>
     <string name="pa_setting_privacy_revoke_cta_summary">Retirar o consentimento para a Política de Privacidade do Assistente</string>
     <string name="pa_setting_privacy_revoke_error_message">Um erro do servidor ocorreu. Espere um minuto ou dois e tente novamente.</string>
     <string name="pa_setting_privacy_revoke_error_title">"Não podia retirar o consentimento"</string>
@@ -582,7 +582,7 @@ para mostrar widgets."</string>
     <string name="pa_shortcut_empty">Não adicionado</string>
     <string name="pa_shortcut_group_title_start_page">Tela inicial</string>
     <string name="pa_shortcut_memory_clean_nothing">Nada para limpar no cache</string>
-    <string name="pa_shortcut_memory_clean_result">%1$sB limpo</string>
+    <string name="pa_shortcut_memory_clean_result">%1$s B limpo</string>
     <string name="pa_shortcut_paycode">"Alipay"</string>
     <string name="pa_shortcut_setting_activity_subtitle">Arraste itens para reorganizar</string>
     <string name="pa_shortcut_setting_activity_title">Atalhos adicionados</string>

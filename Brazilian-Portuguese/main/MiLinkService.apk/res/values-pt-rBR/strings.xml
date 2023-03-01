@@ -853,7 +853,7 @@ make sure the package contains the latest versions of all apps."</string>
     <string name="wifi_connect_btn_text">Configurar</string>
     <string name="wifi_other">Outras redes</string>
     <string name="wifi_passwd_et_hint">Digite a senha</string>
-    <string name="wifi_recommendation">Selecione redes de %1$dGHz para uma melhor experiência de transmissão</string>
+    <string name="wifi_recommendation">Selecione redes de %1$d GHz para uma melhor experiência de transmissão</string>
     <string name="wifi_scan_btn_text">Escaneie novamente</string>
     <string name="wifi_username_et_hint">Insira a ID da conta</string>
     <string name="yesterday">Ontem</string>

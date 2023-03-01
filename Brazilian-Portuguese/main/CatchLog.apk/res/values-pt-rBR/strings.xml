@@ -51,7 +51,7 @@ SurfaceFlinger: W
     <string name="cit_offline_log_size_alert_empty">O tamanho do log não está definido. Ignorando.</string>
     <string name="cit_offline_log_size_alert_oversize">O valor do tamanho excede o limite máximo. Redefina para o valor máximo.</string>
     <string name="cit_offline_log_size_alert_undersize">O valor do tamanho não atingiu o limite mínimo. Redefina para o limite mínimo.</string>
-    <string name="cit_offline_log_size_info">"%1$d. O intervalo disponível está entre %2$d e %3$dMB.
+    <string name="cit_offline_log_size_info">"%1$d. O intervalo disponível está entre %2$d e %3$d MB.
 %4$d. Selecione os itens novamente para aplicar as alterações."</string>
     <string name="cit_offline_log_size_txt">Limite do tamanho do log</string>
     <string name="cit_offline_log_title">Status do log offline</string>

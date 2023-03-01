@@ -557,9 +557,9 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="picture_camera_roll">Todas as fotos</string>
     <string name="picture_camera_roll_num">%1$s (%2$d)</string>
     <string name="picture_cancel">Cancelar</string>
-    <string name="picture_choose_limit_seconds">Apenas vídeos de %1$ds a %2$ds podem ser selecionados</string>
-    <string name="picture_choose_max_seconds">Você só pode selecionar vídeos em %1$ds</string>
-    <string name="picture_choose_min_seconds">Você não pode selecionar um vídeo menor que %1$ds</string>
+    <string name="picture_choose_limit_seconds">Apenas vídeos de %1$d s a %2$d s podem ser selecionados</string>
+    <string name="picture_choose_max_seconds">Você só pode selecionar vídeos em %1$d s</string>
+    <string name="picture_choose_min_seconds">Você não pode selecionar um vídeo menor que %1$d s</string>
     <string name="picture_completed">Concluído</string>
     <string name="picture_confirm">Confirmar</string>
     <string name="picture_data_exception">Obter exceção de dados do álbum…</string>

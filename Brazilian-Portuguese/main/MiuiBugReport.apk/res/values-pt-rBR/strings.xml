@@ -441,7 +441,7 @@ Envie este código ao supervisor."</string>
     <string name="mobile_data_note_dialog_cancel_china">Aguardando Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Fazer upload</string>
     <string name="mobile_data_note_dialog_content">Parece que você está conectado a uma rede paga. O upload dos logs poderá gerar cobranças adicionais.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">Parece que você está conectado a uma rede paga. O envio dos logs usará %sMB de dados móveis.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">Parece que você está conectado a uma rede paga. O envio dos logs usará %s MB de dados móveis.</string>
     <string name="mobile_data_note_dialog_title">Aviso sobre o uso de dados</string>
     <string name="modem_tool_log_dumping_desc">Toque no ícone para parar</string>
     <string name="modem_tool_log_dumping_title">Capturando logs do modem</string>
@@ -839,7 +839,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="toast_report_copied_to_clipboard">Relatório copiado para a área de transferência</string>
     <string name="toast_report_sent_failed">Não é possível enviar o relatório</string>
     <string name="toast_report_sent_succeed">O relatório foi enviado</string>
-    <string name="toast_screenshot_too_large">Não é possível enviar imagens ou vídeos maiores do que %dMB.</string>
+    <string name="toast_screenshot_too_large">Não é possível enviar imagens ou vídeos maiores do que %d MB.</string>
     <string name="toast_third_packagename_required">Informar o nome do app</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
@@ -889,7 +889,7 @@ Tamanho: %2$s"</string>
     <string name="withdraw_consent_failed_hint_connect_net">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="withdraw_consent_hint">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %1$s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como %2$s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %3$s. Retirar consentimento agora?"</string>
     <string name="withdrawing">Retirando consentimento…</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">A conexão com Gerenciador de download falhou, verifique o estado do Gerenciador de download no Gerenciamento de Apps.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
@@ -897,7 +897,7 @@ Tamanho: %2$s"</string>
 Tamanho de atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s atualizar!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
     <string name="yesterday">Ontem</string>
 </resources>

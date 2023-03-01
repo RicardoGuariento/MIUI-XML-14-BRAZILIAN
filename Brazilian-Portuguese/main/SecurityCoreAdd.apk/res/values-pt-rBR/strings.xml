@@ -425,7 +425,7 @@ Ou então você não será capaz de entrar no Segundo espaço a partir da Tela d
     <string name="radio_button_password_switch_title">Usando uma senha</string>
     <string name="removeSuccess">Excluído com sucesso</string>
     <string name="remove_button">Excluir</string>
-    <string name="remove_button_time">Excluir (%ds)</string>
+    <string name="remove_button_time">Excluir (%d s)</string>
     <string name="remove_second_space_msg">Todos os dados de apps no Segundo espaço serão perdidos após você excluir o Segundo espaço. Excluí-lo agora?</string>
     <string name="removingSpace">Excluindo…</string>
     <string name="repeat_scanner_fingerprint">Adicionar novamente</string>

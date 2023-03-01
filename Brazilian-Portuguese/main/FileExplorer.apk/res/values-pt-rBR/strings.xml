@@ -736,12 +736,12 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="set_pattern_msg">Defina sua senha novamente. A senha de Proteção de Privacidade também funciona para fotos, mensagens e notas.</string>
     <string name="settings">Configurações</string>
     <string name="sign_percent">%</string>
-    <string name="size_lv1">Menor que %dKB</string>
-    <string name="size_lv2" formatted="false">%1dKB - %2dMB</string>
-    <string name="size_lv3" formatted="false">%1dMB - %2dMB</string>
-    <string name="size_lv4" formatted="false">%1dMB - %2dMB</string>
-    <string name="size_lv5" formatted="false">%1dMB - %2dGB</string>
-    <string name="size_lv6">Maior que %dGB</string>
+    <string name="size_lv1">Menor que %d KB</string>
+    <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
+    <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
+    <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>
+    <string name="size_lv5" formatted="false">%1d MB - %2d GB</string>
+    <string name="size_lv6">Maior que %d GB</string>
     <string name="skip">Pular</string>
     <string name="skip_file">Ignorar</string>
     <string name="smb_loading">Aguarde…</string>

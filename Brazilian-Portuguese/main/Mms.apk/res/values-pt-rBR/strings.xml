@@ -1164,7 +1164,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="restored_to_phone_memory">Restaurado</string>
     <string name="rms_audio_body">[Áudio]</string>
     <string name="rms_audio_file_duration_too_long">Não é possível enviar arquivos de áudio com mais de 180 segundos</string>
-    <string name="rms_audio_file_length_too_large">Não é possível enviar arquivos de áudio maiores do que %1$dMB</string>
+    <string name="rms_audio_file_length_too_large">Não é possível enviar arquivos de áudio maiores do que %1$d MB</string>
     <string name="rms_card_body">[Cartão]</string>
     <string name="rms_cloud_file_body">[Arquivo na nuvem]</string>
     <string name="rms_editor_hints">"Chat"</string>
@@ -1175,8 +1175,8 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rms_illegal_extension">Este formato de arquivo não é suportado.</string>
     <string name="rms_image_body">[Imagem]</string>
     <string name="rms_location_body">[Localização]</string>
-    <string name="rms_normal_file_length_too_large">Não é possível enviar arquivos maiores do que %1$dMB</string>
-    <string name="rms_original_image_length_too_large">Não é possível enviar imagens maiores do que %1$dMB</string>
+    <string name="rms_normal_file_length_too_large">Não é possível enviar arquivos maiores do que %1$d MB</string>
+    <string name="rms_original_image_length_too_large">Não é possível enviar imagens maiores do que %1$d MB</string>
     <string name="rms_original_image_size_too_large">Esta imagem é muito grande</string>
     <string name="rms_text_body">[Texto]</string>
     <string name="rms_vcard_body">[Contato]</string>
@@ -1549,7 +1549,7 @@ Tentativas efetuadas: %s."</string>
     <string name="voice_report_off">Desativado</string>
     <string name="voice_report_wiredon">Com fones de ouvido</string>
     <string name="wap_push_title">"[WAP Push] "</string>
-    <string name="warning_show">Enviar em %ds</string>
+    <string name="warning_show">Enviar em %d s</string>
     <string name="web_content_invalid_hint">A exibição deste item é restringida por leis e regulamentos locais</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>

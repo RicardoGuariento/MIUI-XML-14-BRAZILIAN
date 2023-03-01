@@ -12,7 +12,7 @@ Com o suporte a mecanismos de pesquisa de terceiros, você também pode procurar
 Se você tiver alguma dúvida, sinta-se à vontade para nos enviar uma mensagem: misearch-feedback@xiaomi.com"</string>
     <string name="apk_name">Pesquisa global %s</string>
     <string name="apk_pre_code">Versão: %s</string>
-    <string name="apk_size">"Tamanho: %sMB
+    <string name="apk_size">"Tamanho: %s MB
 "</string>
     <string name="app_loaction">Procurar na tela inicial</string>
     <string name="app_name">Pesquisar</string>

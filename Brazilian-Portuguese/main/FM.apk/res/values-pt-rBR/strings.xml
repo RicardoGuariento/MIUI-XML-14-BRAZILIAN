@@ -38,7 +38,7 @@
     <string name="dialog_saf_step_one">Toque em \"Autorizar\"</string>
     <string name="dialog_saf_step_two">Na próxima página, toque no botão na parte inferior da página para conceder permissões</string>
     <string name="dialog_saf_title">Permissões necessárias</string>
-    <string name="frequency_mhz_fomart">"%sMHZ"</string>
+    <string name="frequency_mhz_fomart">"%s MHZ"</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="mtrl_picker_cancel">Cancelar</string>
@@ -53,6 +53,6 @@
     <string name="permission_desc_record_audio">Para gravar estações de rádio</string>
     <string name="record_completed">Gravação concluída</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="station_freq_format">"%sMHz"</string>
+    <string name="station_freq_format">"%s MHz"</string>
     <string name="toast_saf_permission_denied">Conceda permissões para poder salvar gravações</string>
 </resources>

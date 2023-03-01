@@ -341,7 +341,7 @@
     <string name="instruction">Informações Importantes sobre Segurança</string>
     <string name="label">SDK da MIUI</string>
     <string name="midnight">"AM"</string>
-    <string name="mobile_data_consume">Baixar os itens agora requer o uso de %1$sMB de dados móveis. Baixar mesmo assim?</string>
+    <string name="mobile_data_consume">Baixar os itens agora requer o uso de %1$s MB de dados móveis. Baixar mesmo assim?</string>
     <string name="mobile_data_remind">Aviso sobre o uso de dados móveis</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>

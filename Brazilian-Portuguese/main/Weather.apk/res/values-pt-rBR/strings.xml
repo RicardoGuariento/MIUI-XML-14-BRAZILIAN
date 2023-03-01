@@ -607,7 +607,7 @@
     <string name="wednesday_shortest">Qua</string>
     <string name="welcome_app_title">Bem-vindo ao Clima!</string>
     <string name="wind_direction_no_data">Vento</string>
-    <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_unit">%1$s km/h</string>
     <string name="xiaomi_weather_description_content">Clima é um app do sistema. Você não poderá ver as informações do clima ou usar os widgets relacionados ao desinstalar o app.</string>
     <string name="xiaomi_weather_description_content_remove">Clima é um app do sistema. Você não poderá ver as informações do clima ou usar os widgets relacionados após remover o atalho na Tela inicial.</string>
     <string name="xiaomi_weather_description_title">Desinstalar \"Clima\"?</string>

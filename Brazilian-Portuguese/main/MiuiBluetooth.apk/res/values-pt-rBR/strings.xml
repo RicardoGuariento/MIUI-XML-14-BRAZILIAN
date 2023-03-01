@@ -846,7 +846,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="profile_connect_timeout_subtext">Problema na conexão. Desligue e ligue o dispositivo novamente</string>
     <string name="profile_info_settings_title">Informações de perfil</string>
     <string name="progress_scanning">Buscando…</string>
-    <string name="prompt_desc">O uso desta função consumirá %sM de seus dados. Deseja continuar o download?</string>
+    <string name="prompt_desc">O uso desta função consumirá %s M de seus dados. Deseja continuar o download?</string>
     <string name="remaining_length_format">%1$s restante(s)</string>
     <string name="request_uninstall">Solicitar desinstalação do módulo</string>
     <string name="reset_function_msg">Redefinir este recurso poderá prevenir o funcionamento normal de %1$s.</string>
@@ -858,7 +858,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="runningservices_settings_title">Serviços em execução</string>
     <string name="sample_cancel">Cancelar</string>
     <string name="sample_confirm">Confirmar</string>
-    <string name="sample_prompt_desc">Usar este recurso consumirá cerca de %sM de dados. Deseja continuar o download?</string>
+    <string name="sample_prompt_desc">Usar este recurso consumirá cerca de %s M de dados. Deseja continuar o download?</string>
     <string name="sample_warm_prompt">Prompt</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -928,10 +928,10 @@ Protocolo de conexão mais rápido"</string>
     <string name="storage_category">Armazenamento</string>
     <string name="strict_mode">Modo rígido</string>
     <string name="strict_mode_summary">Piscar tela quando apps executarem operações longas na tarefa principal</string>
-    <string name="string_KB">%dKB</string>
-    <string name="string_KB_per_log_buffer">%dKB por buffer de log</string>
-    <string name="string_MB">%dMB</string>
-    <string name="string_MB_per_log_buffer">%dMB por buffer de log</string>
+    <string name="string_KB">%d KB</string>
+    <string name="string_KB_per_log_buffer">%d KB por buffer de log</string>
+    <string name="string_MB">%d MB</string>
+    <string name="string_MB_per_log_buffer">%d MB por buffer de log</string>
     <string name="string_off">Desativado</string>
     <string name="string_offed">Desativado</string>
     <string name="stylus_ota_check_update">Atualizar</string>
@@ -1194,7 +1194,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_status_sign_in_required">Autenticação necessária</string>
     <string name="wifi_unmetered_label">Ilimitada</string>
     <string name="wifi_unsaved_network_linking">Ponte SSID - Conexão automática</string>
-    <string name="wifi_unsaved_network_linking_summary">Ativar tentativas de conexão automática para um novo SSID WPA/WPA2-PSK 5GHz com credenciais SSID WPA/WPA2-PSK 2GHz conectadas no SSID com correspondência parcial de BSSID</string>
+    <string name="wifi_unsaved_network_linking_summary">Ativar tentativas de conexão automática para um novo SSID WPA/WPA2-PSK 5 GHz com credenciais SSID WPA/WPA2-PSK 2GHz conectadas no SSID com correspondência parcial de BSSID</string>
     <string name="wifi_verbose_logging">Ativar registro detalhado do Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">Aumentar nível de registro do Wi-Fi (exibe RSSI por SSID no seletor de Wi-Fi)</string>
     <string name="wifi_wapi_as_certificate">Certificado AS</string>

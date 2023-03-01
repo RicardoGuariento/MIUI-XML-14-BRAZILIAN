@@ -701,7 +701,7 @@ Envie este código para o supervisor."</string>
     <string name="download_dialog_confirm_delete_checkbox_message">Excluir arquivo no armazenamento interno</string>
     <string name="download_dialog_confirm_delete_the_download_item_message">Excluir esta tarefa?</string>
     <string name="download_dialog_content_downloading">Baixando…</string>
-    <string name="download_dialog_content_open_mi_picks">Abrir (%1$ds)</string>
+    <string name="download_dialog_content_open_mi_picks">Abrir (%1$d s)</string>
     <string name="download_dialog_content_ordinary_download">Download padrão</string>
     <string name="download_dialog_content_rcmd_get_apps">GetApps — Loja de apps oficial da Mi</string>
     <string name="download_dialog_content_rcmd_text">Milhões de apps e jogos gratuitos. Instale sem precisar fazer login.</string>
@@ -710,7 +710,7 @@ Envie este código para o supervisor."</string>
     <string name="download_dialog_failed_body">Tentar novamente mais tarde ou remover o download da fila?</string>
     <string name="download_dialog_file_already_exists">Você já baixou este arquivo</string>
     <string name="download_dialog_file_length_hint_txt">"Tamanho: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">Menos de %1$dKB</string>
+    <string name="download_dialog_file_length_lessthan1kb">Menos de %1$d KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">Não foi possível baixar</string>
     <string name="download_dialog_file_length_nolength_txt">Aguarde…</string>
     <string name="download_dialog_file_missing_body">Não foi possível encontrar o arquivo. Você o moveu ou excluiu?</string>
@@ -2316,7 +2316,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="privacy_authorize_revoke_dialog_title">Revogando autorização</string>
     <string name="privacy_authorize_revoke_failed">Não foi possível revogar a autorização</string>
     <string name="privacy_authorize_revoke_success">Autorização revogada com sucesso</string>
-    <string name="privacy_authorize_revoke_time">Revogar (%1$ds)</string>
+    <string name="privacy_authorize_revoke_time">Revogar (%1$d s)</string>
     <string name="privacy_authorize_revoking">Revogando autorização…</string>
     <string name="privacy_authorize_summary">Ative ou desative o seletor para conceder ou revogar a sua autorização</string>
     <string name="privacy_authorize_title">Autorização</string>
@@ -3483,7 +3483,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_webpage_btn">Ver</string>
     <string name="whatsapp_webpage_tips">Salve o Status do WhatsApp</string>
     <string name="xiaomi_sign_in_btn_txt">Faça o login ou crie uma conta</string>
-    <string name="xiaomi_update_sdk_bytes_unit">"%1$sB"</string>
+    <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Falha ao conectar o Gerenciador de downloads, verifique o estado do Gerenciador de downloads no Gerenciamento de apps.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
@@ -3491,8 +3491,8 @@ Tamanho: %2$s"</string>
 Tamanho de atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s atualizar!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$sKB"</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">"%1$sMB"</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
     <string name="year_month_day_format">"dd 'de' MMMM 'de' yyyy"</string>
     <string name="yes">Sim</string>
     <string name="yesterday">Ontem</string>

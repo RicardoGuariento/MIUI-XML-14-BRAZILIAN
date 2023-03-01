@@ -317,7 +317,7 @@ Não altere ou renomeie os arquivos de backup."</string>
     <string name="hsa_input_hint">Insira o código de verificação</string>
     <string name="hsa_input_tip">Sua ID Apple usa a autenticação de dois fatores. Insira o código de verificação.</string>
     <string name="hsa_send_again">Enviar novamente</string>
-    <string name="hsa_send_again_countdown">Enviar novamente (%ds)</string>
+    <string name="hsa_send_again_countdown">Enviar novamente (%d s)</string>
     <string name="hsa_send_failed">Não foi possível enviar o código de verificação. Aguarde alguns minutos e tente novamente.</string>
     <string name="hsa_sending">Enviando…</string>
     <string name="hsa_tip_message">"1. Se você não receber o código de verificação, certifique-se de que você já fez o login na iCloud em seu dispositivo Apple.
@@ -998,7 +998,7 @@ Mantenha os dispositivos pertos um do outro."</string>
 Você gostou do Mi Mover?"</string>
     <string name="trans_success_dialog_survey_title">Agradecemos o seu feedback</string>
     <string name="trans_success_survey_hint">Preencha todos os campos primeiro.</string>
-    <string name="trans_switching_5g">Alternando para Wi-Fi 5GHz…</string>
+    <string name="trans_switching_5g">Alternando para Wi-Fi 5 GHz…</string>
     <string name="trans_time_format_second">Menos de 1 minuto</string>
     <string name="trans_time_spent">Tempo gasto: %s</string>
     <string name="trans_wait_trans_data">"Conectado ao dispositivo antigo.
@@ -1041,11 +1041,11 @@ Não feche a página antes da conexão ser estabelecida."</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="wifi_title">Configurações de Wi-Fi</string>
-    <string name="xiaomi_bytes_unit">"%1$sB"</string>
+    <string name="xiaomi_bytes_unit">"%1$s B"</string>
     <string name="xiaomi_connect_download_manager_fail">Não foi possível iniciar o download. Certifique-se que o Gerenciador de Downloads está funcionando normalmente.</string>
     <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique seu cartão SD.</string>
-    <string name="xiaomi_kilobytes_unit">"%1$sKB"</string>
-    <string name="xiaomi_megabytes_unit">"%1$sMB"</string>
+    <string name="xiaomi_kilobytes_unit">"%1$s KB"</string>
+    <string name="xiaomi_megabytes_unit">"%1$s MB"</string>
     <string name="xiaomi_router">Roteador Mi</string>
     <string name="xiaomi_router_location">Roteador Mi %s</string>
     <string name="xiaomi_update_dialog_message">"Introduzindo a versão %1$s

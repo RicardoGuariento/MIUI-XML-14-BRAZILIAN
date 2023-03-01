@@ -453,11 +453,11 @@
 %d Hz"</string>
     <string name="sound_id_hz_media">"Intervalo médio
 %d Hz"</string>
-    <string name="sound_id_music_one_description">Leve | %ds</string>
+    <string name="sound_id_music_one_description">Leve | %d s</string>
     <string name="sound_id_music_one_title">Cidade chuvosa</string>
-    <string name="sound_id_music_three_description">Melódico | %ds</string>
+    <string name="sound_id_music_three_description">Melódico | %d s</string>
     <string name="sound_id_music_three_title">Vestígio</string>
-    <string name="sound_id_music_two_description">Rítmico | %ds</string>
+    <string name="sound_id_music_two_description">Rítmico | %d s</string>
     <string name="sound_id_music_two_title">Noite calorosa</string>
     <string name="sound_id_no_effect_msg">"Não use som personalizado"</string>
     <string name="sound_id_notice_headset_change_msg">"Parece que você está usando um par de fones de ouvido diferente. O teste foi interrompido."</string>

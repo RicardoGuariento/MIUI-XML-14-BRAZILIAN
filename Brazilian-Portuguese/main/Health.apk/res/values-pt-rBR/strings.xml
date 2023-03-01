@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="MediaControlView_ad_remaining_time">Anúncio · %1$s restante</string>
-    <string name="MediaControlView_ad_skip_wait_time">Você pode pular este anúncio em %1$ds</string>
+    <string name="MediaControlView_ad_skip_wait_time">Você pode pular este anúncio em %1$d s</string>
     <string name="MediaControlView_ad_text">Visitar patrocinador</string>
     <string name="MediaControlView_audio_track_none_text">Nenhum</string>
     <string name="MediaControlView_audio_track_number_text">Faixa %1$d</string>
@@ -1391,7 +1391,7 @@ os dados de sono"</string>
     <string name="sleep_state_this_week">"Sono nesta semana"</string>
     <string name="sleep_status">Status do sono</string>
     <string name="sleep_time_edit">Editar</string>
-    <string name="sleep_time_standard_pattern">Padrão: %1$dh</string>
+    <string name="sleep_time_standard_pattern">Padrão: %1$d h</string>
     <string name="sleep_tip_default">Tente dormir antes das 23:00</string>
     <string name="sleep_tip_keep_not_enough">Parece que você não está dormindo o suficiente</string>
     <string name="sleep_tip_keep_on">Parece estar tudo bem. Legal!</string>

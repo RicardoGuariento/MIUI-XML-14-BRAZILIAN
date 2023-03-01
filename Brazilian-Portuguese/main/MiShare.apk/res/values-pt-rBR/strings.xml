@@ -434,8 +434,8 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
     <string name="tile_state_inactive">Desativado</string>
     <string name="tile_state_unavailable">Não disponível</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="tips_p2p_support_use5g">Para melhores resultados, use uma rede Wi-Fi de 5GHz.</string>
-    <string name="tips_p2p_support_use5g_china">Para melhores resultados, use uma rede Wi-Fi de 5GHz.</string>
+    <string name="tips_p2p_support_use5g">Para melhores resultados, use uma rede Wi-Fi de 5 GHz.</string>
+    <string name="tips_p2p_support_use5g_china">Para melhores resultados, use uma rede Wi-Fi de 5 GHz.</string>
     <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
     <string name="to_feedback">Reportar</string>
     <string name="toast_auto_close_in_minutes">O Compartilhamento Mi será desativado após %d minutos</string>

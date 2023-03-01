@@ -195,7 +195,7 @@
     <string name="artist_name">Artista</string>
     <string name="attention_failure">Follow failed</string>
     <string name="attention_success">Followed successfully</string>
-    <string name="audio_ad_countdown">Pular anúncio em %ss</string>
+    <string name="audio_ad_countdown">Pular anúncio em %s s</string>
     <string name="audio_ad_pass">Pular anúncio</string>
     <string name="audio_picker_title">Escolha uma música</string>
     <string name="auth_fail_warning">Session expired. Sign in again.</string>
@@ -921,11 +921,11 @@ Send this code to the supervisor."</string>
     <string name="filter_by_folder">Por pasta</string>
     <string name="filter_by_folder_summary">Escolher pastas para exibir</string>
     <string name="filter_by_size">Por tamanho</string>
-    <string name="filter_by_size_max">%dMB</string>
-    <string name="filter_by_size_min">%dKB</string>
+    <string name="filter_by_size_max">%d MB</string>
+    <string name="filter_by_size_min">%d KB</string>
     <string name="filter_by_size_prefix">"Ocultar arquivos menores que "</string>
     <string name="filter_by_size_summary">Ocultar arquivos de áudio pequenos</string>
-    <string name="filter_size_unit">%dKB</string>
+    <string name="filter_size_unit">%d KB</string>
     <string name="find_you_tunes">Encontre suas músicas</string>
     <string name="floating_view_dialog_desc">A música vai parar de reproduzir se você sair desta página agora. Sair mesmo assim?</string>
     <string name="floating_view_dialog_leave">Sair</string>
@@ -2021,7 +2021,7 @@ Seja feliz"</string>
     <string name="room_game_luckynumber">Lucky Number</string>
     <string name="room_horn_send_error">Failed to send message</string>
     <string name="room_host">Host</string>
-    <string name="room_hot_score">%dw</string>
+    <string name="room_hot_score">%d w</string>
     <string name="room_id">ID:%s</string>
     <string name="room_income_close_failed">Failed to close the heart rate~</string>
     <string name="room_income_close_success">Heartbeat value closed successfully~</string>
@@ -2466,7 +2466,7 @@ Seja feliz"</string>
     <string name="user_name_phone_number">Phone number</string>
     <string name="user_playlist_plaza">"Playlists"</string>
     <string name="user_privacy_dialog_negative_text">Cancelar</string>
-    <string name="user_privacy_dialog_positive_count_down_text">Retirar (%ss)</string>
+    <string name="user_privacy_dialog_positive_count_down_text">Retirar (%s s)</string>
     <string name="user_privacy_dialog_positive_text">Retirar</string>
     <string name="user_privacy_setting_group_title">Retirada de consentimento</string>
     <string name="user_privacy_setting_title">Ao desativar o seletor, você retira seu consentimento à Política de Privacidade do Música.</string>
@@ -2620,7 +2620,7 @@ Toque em %s para iniciar este download da próxima vez que você estiver conecta
     <string name="withdraw_toast3">Only coins left in the account can be withdrawn</string>
     <string name="withdraw_toast4">The withdrawal amount must not be less than 1,000 coins</string>
     <string name="withdraw_toast5">Withdrawals must be in multiples of 10</string>
-    <string name="xiaomi_update_sdk_bytes_unit">"%1$sB"</string>
+    <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
@@ -2628,8 +2628,8 @@ Tamanho: %2$s"</string>
 Tamanho de atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s atualização!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$sKB"</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">"%1$sMB"</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
     <string name="yes">yes</string>
     <string name="yesterday">Ontem</string>
     <string name="you">you</string>

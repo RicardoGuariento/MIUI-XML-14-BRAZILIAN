@@ -1322,10 +1322,10 @@ prioridades"</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Aumentando a velocidade de carregamento %s</string>
     <string name="keyguard_charging_info_battery_used_time_text">Na bateria</string>
     <string name="keyguard_charging_info_click_to_detail">Ver detalhes</string>
-    <string name="keyguard_charging_info_data_c">%s°C</string>
-    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_c">%s °C</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_charging_info_data_v">%sV</string>
+    <string name="keyguard_charging_info_data_v">%s V</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descarregou</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Hoje %s</string>
@@ -1605,8 +1605,8 @@ captura de tela estendida"</string>
     <string name="media_transfer_wired_device_name">Dispositivo de áudio com fio</string>
     <string name="media_transfer_wired_usb_device_name">Fones de ouvido com fio</string>
     <string name="megabyte_per_second">"MB/s"</string>
-    <string name="memory_clear_result_giga">%1$sGB liberado</string>
-    <string name="memory_clear_result_mega">%1$sMB liberado</string>
+    <string name="memory_clear_result_giga">%1$s GB liberado</string>
+    <string name="memory_clear_result_mega">%1$s MB liberado</string>
     <string name="memory_leak">Perda de memória</string>
     <string name="menu_ime">Alternar teclado</string>
     <string name="mic_active">Microfone ativado</string>
@@ -2665,7 +2665,7 @@ Deslize para baixo para bloquear"</string>
     <string name="status_bar_recent_guide_bottom">Deslize para baixo para bloquear</string>
     <string name="status_bar_recent_guide_top">Deslize para cima para fechar</string>
     <string name="status_bar_recent_inspect_item_title">Info. do app</string>
-    <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponível</string>
+    <string name="status_bar_recent_memory_info1">%1$s B de %2$s B disponível</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="status_bar_recent_remove_item_title">Remover da lista</string>
     <string name="status_bar_recording_back">Retornar ao Gravador</string>
@@ -3138,7 +3138,7 @@ Endereço do Wi-Fi (BSSID)
     <string name="wifi_status_sign_in_required">Login necessário</string>
     <string name="wifi_unmetered_label">Ilimitada</string>
     <string name="wifi_unsaved_network_linking">Ponte SSID - Conexão automática</string>
-    <string name="wifi_unsaved_network_linking_summary">Ativar tentativas de conexão automática para um novo SSID WPA/WPA2-PSK 5GHz com credenciais SSID WPA/WPA2-PSK 2GHz conectadas no SSID com correspondência parcial de BSSID</string>
+    <string name="wifi_unsaved_network_linking_summary">Ativar tentativas de conexão automática para um novo SSID WPA/WPA2-PSK 5 GHz com credenciais SSID WPA/WPA2-PSK 2GHz conectadas no SSID com correspondência parcial de BSSID</string>
     <string name="wifi_verbose_logging">Ativar registro extenso do Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">Aumentar nível de registro do Wi-Fi (exibe RSSI por SSID no seletor de Wi-Fi)</string>
     <string name="wifi_wapi_as_certificate">Certificado AS</string>

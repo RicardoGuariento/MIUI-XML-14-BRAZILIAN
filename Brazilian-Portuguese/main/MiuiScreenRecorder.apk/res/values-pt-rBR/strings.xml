@@ -138,8 +138,8 @@ Toque para ver"</string>
     <string name="low_battery_title">Bateria fraca</string>
     <string name="low_battery_warning">A bateria está muito fraca. A gravação foi interrompida e o vídeo foi salvo.</string>
     <string name="low_memory">Você tem menos de 1GB de armazenamento disponível. Você pode gravar até 20 minutos agora.</string>
-    <string name="low_memory_for_pad">Você tem menos de %1$dGB de armazenamento disponível. Você pode gravar até %2$d minutos agora.</string>
-    <string name="low_memory_for_phone">Você tem menos de %1$dGB de armazenamento disponível. Você pode gravar até %2$d minutos agora.</string>
+    <string name="low_memory_for_pad">Você tem menos de %1$d GB de armazenamento disponível. Você pode gravar até %2$d minutos agora.</string>
+    <string name="low_memory_for_phone">Você tem menos de %1$d GB de armazenamento disponível. Você pode gravar até %2$d minutos agora.</string>
     <string name="low_memory_title">Não há espaço suficiente no armazenamento</string>
     <string name="low_momery_warning">Não há espaço de armazenamento suficiente. A gravação foi interrompida e o vídeo salvo.</string>
     <string name="memory_not_allowed">Não há espaço disponível. Libere algum espaço no armazenamento para gravar.</string>

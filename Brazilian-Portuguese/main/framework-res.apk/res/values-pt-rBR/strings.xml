@@ -517,20 +517,20 @@ usando %s"</string>
     <string name="dump_heap_title">Compartilhar despejo de heap?</string>
     <string name="duration_days_relative">{count, plural, =1 {# dia atrás} other {# dias atrás} }</string>
     <string name="duration_days_relative_future">{count, plural, =1 {# dia} other {# dias} }</string>
-    <string name="duration_days_shortest">%dd</string>
-    <string name="duration_days_shortest_future">em %dd</string>
+    <string name="duration_days_shortest">%d d</string>
+    <string name="duration_days_shortest_future">em %d d</string>
     <string name="duration_hours_relative">{count, plural, =1 {# hora atrás} other {# horas atrás} }</string>
     <string name="duration_hours_relative_future">{count, plural, =1 {# hora} other {# horas} }</string>
-    <string name="duration_hours_shortest">"%dh"</string>
-    <string name="duration_hours_shortest_future">em %dh</string>
+    <string name="duration_hours_shortest">"%d h"</string>
+    <string name="duration_hours_shortest_future">em %d h</string>
     <string name="duration_minutes_relative">{count, plural, =1 {# minuto atrás} other {# minutos atrás} }</string>
     <string name="duration_minutes_relative_future">{count, plural, =1 {# minuto} other {# minutos} }</string>
-    <string name="duration_minutes_shortest">"%dm"</string>
-    <string name="duration_minutes_shortest_future">em %dm</string>
+    <string name="duration_minutes_shortest">"%d m"</string>
+    <string name="duration_minutes_shortest_future">em %d m</string>
     <string name="duration_years_relative">{count, plural, =1 {# ano atrás} other {# anos atrás} }</string>
     <string name="duration_years_relative_future">{count, plural, =1 {# ano} other {# anos} }</string>
-    <string name="duration_years_shortest">"%da"</string>
-    <string name="duration_years_shortest_future">em %da</string>
+    <string name="duration_years_shortest">"%d ano(s)"</string>
+    <string name="duration_years_shortest_future">em %d ano(s)</string>
     <string name="dynamic_mode_notification_channel_name">Notificação de informação do modo rotina</string>
     <string name="dynamic_mode_notification_summary">A Economia de bateria foi ativada para aumentar a duração da carga</string>
     <string name="dynamic_mode_notification_title">A bateria pode acabar antes da recarga normal</string>

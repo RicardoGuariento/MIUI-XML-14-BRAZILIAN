@@ -299,7 +299,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="hsa_code_null">O código de verificação não pode estar vazio</string>
     <string name="hsa_input_tip">Seu Apple ID usa verificação de dois fatores. Digite o código</string>
     <string name="hsa_send_again">Enviar novamente</string>
-    <string name="hsa_send_again_countdown">Enviar novamente (%ds)</string>
+    <string name="hsa_send_again_countdown">Enviar novamente (%d s)</string>
     <string name="hsa_send_failed">Não foi possível enviar o código de verificação. Espere um momento e tente novamente.</string>
     <string name="hsa_sending">Enviando…</string>
     <string name="hsa_tip_message">Se não conseguir receber o código de verificação, verifique se você já fez login no iCloud no seu dispositivo Apple.</string>

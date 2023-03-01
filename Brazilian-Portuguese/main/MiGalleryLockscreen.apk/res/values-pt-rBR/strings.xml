@@ -904,7 +904,7 @@ mm"</string>
     <string name="sst_mode_selection">Modo</string>
     <string name="sst_more_subscription">Mais subscrições</string>
     <string name="sst_morning_greeting_desc">Obtenha uma imagem nova todas as manhãs</string>
-    <string name="sst_morning_greeting_desc2">Receba saudações entre %1$sh e %2$sh todas as manhãs</string>
+    <string name="sst_morning_greeting_desc2">Receba saudações entre %1$s h e %2$s h todas as manhãs</string>
     <string name="sst_morning_greeting_disable_toast">Este recurso estará disponível em breve</string>
     <string name="sst_morning_greeting_title">Saudações matinais</string>
     <string name="sst_morning_history_desc">Ver saudações matinais</string>

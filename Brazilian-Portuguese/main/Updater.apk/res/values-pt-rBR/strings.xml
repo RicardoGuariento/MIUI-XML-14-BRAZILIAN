@@ -4,7 +4,7 @@
     <string name="battery_islow">&lt;font color=#f37981&gt;Conecte seu carregador&lt;/font&gt;</string>
     <string name="battery_islow_desc">O nível da bateria está muito baixo para instalar o arquivo ZIP com segurança, conecte o carregador e tente novamente mais tarde!</string>
     <string name="btn_changelog">Lista de alterações</string>
-    <string name="btn_download">Baixar (%1$sB)</string>
+    <string name="btn_download">Baixar (%1$s B)</string>
     <string name="btn_error">Ocorreu um erro, tentar novamente?</string>
     <string name="btn_install">Verificar o MD5 e instalar</string>
     <string name="btn_no">Cancelar</string>
@@ -42,9 +42,9 @@
     <string name="fetch_notification_download_cancel">Cancelar</string>
     <string name="fetch_notification_download_complete">Concluído</string>
     <string name="fetch_notification_download_downloading">Baixando</string>
-    <string name="fetch_notification_download_eta_hrs">%1$dh %2$dm %3$ds restantes</string>
-    <string name="fetch_notification_download_eta_min">%1$dm %2$ds restantes</string>
-    <string name="fetch_notification_download_eta_sec">%1$ds restantes</string>
+    <string name="fetch_notification_download_eta_hrs">%1$d h %2$d m e %3$d s restantes</string>
+    <string name="fetch_notification_download_eta_min">%1$d m e %2$d s restantes</string>
+    <string name="fetch_notification_download_eta_sec">%1$d s restantes</string>
     <string name="fetch_notification_download_failed">Falhou</string>
     <string name="fetch_notification_download_pause">Pausar</string>
     <string name="fetch_notification_download_paused">Pausado</string>
