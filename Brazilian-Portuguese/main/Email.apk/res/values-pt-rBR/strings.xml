@@ -328,7 +328,7 @@ IMAP"</string>
     <string name="broker_helper_signature">Assinatura deve ser inserida ao registrar o app</string>
     <string name="broker_helper_title">Informações de URI de redirecionamento MSAL</string>
     <string name="broker_processing">O corretor está processando</string>
-    <string name="bytes">%s B</string>
+    <string name="bytes">"%s B"</string>
     <string name="calendar_remind_dialog_title">Adicionar à Agenda</string>
     <string name="calendar_remind_gridview_pick_date">Escolher data</string>
     <string name="calendar_skip_no_account_alert">Não foi possível encontrar esta conta</string>
@@ -979,7 +979,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
         Onde:
         %s
     "</string>
-    <string name="megabytes">%s MB</string>
+    <string name="megabytes">"%s MB"</string>
     <string name="menu_att_mgr">Anexos</string>
     <string name="menu_att_mgr_order_default">Visualizado recentemente</string>
     <string name="menu_att_mgr_order_mime">Formato</string>
@@ -1126,8 +1126,8 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
     <string name="mtrl_picker_text_input_day_abbr">"d"</string>
-    <string name="mtrl_picker_text_input_month_abbr">"m"</string>
-    <string name="mtrl_picker_text_input_year_abbr">"a"</string>
+    <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
+    <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>

@@ -1113,8 +1113,8 @@ para uma melhor experiência de visualização"</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
     <string name="mtrl_picker_text_input_day_abbr">"d"</string>
-    <string name="mtrl_picker_text_input_month_abbr">"m"</string>
-    <string name="mtrl_picker_text_input_year_abbr">"a"</string>
+    <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
+    <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
@@ -1995,7 +1995,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="widget_more_channel_click">Toque para ver os canais de TV</string>
     <string name="widget_trending_click">Toque para ver os vídeos mais populares de hoje</string>
     <string name="widget_trending_today">Popular hoje</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
+    <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">A conexão do Gerenciador de download falhou, verifique o estado do Gerenciador de download no Gerenciamento de Apps.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
@@ -2003,8 +2003,8 @@ Tamanho: %2$s"</string>
 Tamanho de atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s atualizar!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
     <string name="year">ano</string>
     <string name="yesterday">Ontem</string>
     <string name="yt_subscription_notification_setting_title">Notificações de inscrições</string>

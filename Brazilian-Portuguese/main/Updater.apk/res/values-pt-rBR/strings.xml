@@ -42,8 +42,8 @@
     <string name="fetch_notification_download_cancel">Cancelar</string>
     <string name="fetch_notification_download_complete">Concluído</string>
     <string name="fetch_notification_download_downloading">Baixando</string>
-    <string name="fetch_notification_download_eta_hrs">%1$d h %2$d m e %3$d s restantes</string>
-    <string name="fetch_notification_download_eta_min">%1$d m e %2$d s restantes</string>
+    <string name="fetch_notification_download_eta_hrs">%1$d h %2$d min e %3$d s restantes</string>
+    <string name="fetch_notification_download_eta_min">%1$d min e %2$d s restantes</string>
     <string name="fetch_notification_download_eta_sec">%1$d s restantes</string>
     <string name="fetch_notification_download_failed">Falhou</string>
     <string name="fetch_notification_download_pause">Pausar</string>

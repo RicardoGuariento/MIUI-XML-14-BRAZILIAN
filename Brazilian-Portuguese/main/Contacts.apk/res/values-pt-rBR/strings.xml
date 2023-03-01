@@ -337,7 +337,7 @@
     <string name="calllog_menu_send_sms">Enviar uma mensagem</string>
     <string name="calllog_record_none_toast">Nenhuma gravação de chamadas para mostrar</string>
     <string name="calllog_record_searching_toast">Pesquisando gravações de chamadas…</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">"%1$d m e %2$d s"</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">"%1$d min e %2$d s"</string>
     <string name="callrecordview_item_op_time_missed">Não atendida</string>
     <string name="callrecordview_item_op_time_only_minutes">"%d min"</string>
     <string name="callrecordview_item_op_time_only_seconds">%d seg</string>
@@ -1144,9 +1144,9 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="remove_duplicate">"A MIUI o auxiliará a encontrar e unir contatos duplicados.
 
 Para começar, toque no ícone Unir na parte inferior da tela."</string>
-    <string name="residual_time_description">%1$s dia e %2$s hora</string>
+    <string name="residual_time_description">%1$s dia e %2$s hora(s)</string>
     <string name="residual_time_description2">"%1$d h"</string>
-    <string name="residual_time_description3">"%1$d m"</string>
+    <string name="residual_time_description3">"%1$d min"</string>
     <string name="residual_time_description4">"%1$d d"</string>
     <string name="restore_app_btn_cancel">Cancelar</string>
     <string name="restore_app_btn_restore">"OK"</string>

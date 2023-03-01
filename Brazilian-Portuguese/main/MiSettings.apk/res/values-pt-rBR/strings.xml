@@ -852,7 +852,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usage_state_go_more">Mais apps</string>
     <string name="usage_state_holiday_day_hour_minute">Dias de folga: %1$s e %2$s</string>
     <string name="usage_state_holiday_time">Dias de folga: %s</string>
-    <string name="usage_state_hour_minute">"%1$d h e %2$d m"</string>
+    <string name="usage_state_hour_minute">"%1$d h e %2$d min"</string>
     <string name="usage_state_less_one_minute">&lt; 1 minuto</string>
     <string name="usage_state_monday">Seg</string>
     <string name="usage_state_mourth_day">Tempo de tela em %s</string>
@@ -892,11 +892,11 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usage_state_use_time_remind_title">Alerta de tempo de tela</string>
     <string name="usage_state_wakeups_title">Tela ligada</string>
     <string name="usage_state_wednesday">Qua</string>
-    <string name="usage_state_week_day_hour_minute">Finais de semana: %1$d h e %2$d m</string>
+    <string name="usage_state_week_day_hour_minute">Finais de semana: %1$d h e %2$d min</string>
     <string name="usage_state_week_total_text">Tempo de tela (últimos 7 dias)</string>
     <string name="usage_state_which_mouth">"MMM"</string>
     <string name="usage_state_work_day">Dias úteis</string>
-    <string name="usage_state_work_day_hour_minute">Dias úteis: %1$d h e %2$d m</string>
+    <string name="usage_state_work_day_hour_minute">Dias úteis: %1$d h e %2$d min</string>
     <string name="usage_stats_device_limit">Limite diário de tempo de tela</string>
     <string name="usage_stats_device_limit_summary">Definir limites diários para uso</string>
     <string name="usage_stats_experience_text">Toque para experimentar (1 min)</string>
@@ -941,7 +941,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usagestats_device_notification_des_over">Você já atingiu o seu limite de tempo de tela para hoje.</string>
     <string name="usagestats_device_notification_des_reset">Limite de hoje: %1$s | %2$s restante</string>
     <string name="usagestats_device_notification_title">Alerta de tempo de tela</string>
-    <string name="usagestats_device_timeout_des">Você já usou o seu dispositivo por %1$d h e %2$d m hoje. Descanse um pouco!</string>
+    <string name="usagestats_device_timeout_des">Você já usou o seu dispositivo por %1$d h e %2$d min hoje. Descanse um pouco!</string>
     <string name="usagestats_device_timeout_negative">Lembrar em 1 hora</string>
     <string name="usagestats_device_timeout_positive">Entendido</string>
     <string name="usagestats_device_timeout_title">Alerta de tempo de tela</string>

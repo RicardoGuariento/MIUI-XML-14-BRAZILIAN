@@ -573,8 +573,8 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_storage_full_tip">Armazenamento está cheio</string>
     <string name="micloud_storage_normal_tip">Restante: %s</string>
     <string name="micloud_storage_share_family">Compartilhamento familiar</string>
-    <string name="micloud_storage_unit_gb">%s GB</string>
-    <string name="micloud_storage_unit_mb">%s MB</string>
+    <string name="micloud_storage_unit_gb">"%s GB"</string>
+    <string name="micloud_storage_unit_mb">"%s MB"</string>
     <string name="micloud_sync_alert_dialog_message">Sincronize suas fotos, contatos, notas e mais entre todos os seus dispositivos.</string>
     <string name="micloud_sync_alert_dialog_message_pad">Sincronize suas fotos, notas e mais entre todos os seus dispositivos.</string>
     <string name="micloud_sync_alert_dialog_message_v2">Sincronize suas fotos, contatos, notas e muito mais em todos os seus dispositivos.</string>

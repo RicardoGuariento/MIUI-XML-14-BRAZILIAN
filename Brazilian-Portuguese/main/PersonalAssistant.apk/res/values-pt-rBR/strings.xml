@@ -199,7 +199,7 @@
     <string name="pa_app_label">Assistente</string>
     <string name="pa_base_hour12_format_en">hh:mm</string>
     <string name="pa_base_hour24_format_en">HH:mm</string>
-    <string name="pa_base_hour_minute">%1$d h e %2$d m</string>
+    <string name="pa_base_hour_minute">%1$d h e %2$d min</string>
     <string name="pa_base_minute_second">mm:ss</string>
     <string name="pa_base_time_just_now">Agora mesmo</string>
     <string name="pa_base_time_month">dd/MM</string>

@@ -542,8 +542,8 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="mtrl_picker_text_input_date_range_end_hint">Data final</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data inicial</string>
     <string name="mtrl_picker_text_input_day_abbr">"d"</string>
-    <string name="mtrl_picker_text_input_month_abbr">"m"</string>
-    <string name="mtrl_picker_text_input_year_abbr">"a"</string>
+    <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
+    <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Mude para o modo de entrada do calendário</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para selecionar um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mude para o modo de entrada de texto</string>

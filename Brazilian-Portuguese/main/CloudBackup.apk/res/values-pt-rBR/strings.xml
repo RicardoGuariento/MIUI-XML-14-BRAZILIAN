@@ -540,8 +540,8 @@ Verifique sua conexão e tente novamente."</string>
     <string name="size_unknown">Tamanho desconhecido</string>
     <string name="start_backup_to_micloud">Fazer backup de apps para a MiCloud</string>
     <string name="start_recover">Restaurar %s</string>
-    <string name="storage_unit_gb">%s GB</string>
-    <string name="storage_unit_mb">%s MB</string>
+    <string name="storage_unit_gb">"%s GB"</string>
+    <string name="storage_unit_mb">"%s MB"</string>
     <string name="success_open_cloudbackup">Backup ativado para apps na Tela inicial</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Backup de dados do WeChat. Toque para detalhes.</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Backup automático concluído</string>

@@ -921,11 +921,11 @@ Send this code to the supervisor."</string>
     <string name="filter_by_folder">Por pasta</string>
     <string name="filter_by_folder_summary">Escolher pastas para exibir</string>
     <string name="filter_by_size">Por tamanho</string>
-    <string name="filter_by_size_max">%d MB</string>
-    <string name="filter_by_size_min">%d KB</string>
+    <string name="filter_by_size_max">"%d MB"</string>
+    <string name="filter_by_size_min">"%d KB"</string>
     <string name="filter_by_size_prefix">"Ocultar arquivos menores que "</string>
     <string name="filter_by_size_summary">Ocultar arquivos de áudio pequenos</string>
-    <string name="filter_size_unit">%d KB</string>
+    <string name="filter_size_unit">"%d KB"</string>
     <string name="find_you_tunes">Encontre suas músicas</string>
     <string name="floating_view_dialog_desc">A música vai parar de reproduzir se você sair desta página agora. Sair mesmo assim?</string>
     <string name="floating_view_dialog_leave">Sair</string>
@@ -1537,8 +1537,8 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
     <string name="mtrl_picker_text_input_day_abbr">"d"</string>
-    <string name="mtrl_picker_text_input_month_abbr">"m"</string>
-    <string name="mtrl_picker_text_input_year_abbr">"a"</string>
+    <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
+    <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
@@ -2021,7 +2021,7 @@ Seja feliz"</string>
     <string name="room_game_luckynumber">Lucky Number</string>
     <string name="room_horn_send_error">Failed to send message</string>
     <string name="room_host">Host</string>
-    <string name="room_hot_score">%d w</string>
+    <string name="room_hot_score">"%d w"</string>
     <string name="room_id">ID:%s</string>
     <string name="room_income_close_failed">Failed to close the heart rate~</string>
     <string name="room_income_close_success">Heartbeat value closed successfully~</string>

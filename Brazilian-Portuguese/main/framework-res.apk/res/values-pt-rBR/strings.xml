@@ -525,8 +525,8 @@ usando %s"</string>
     <string name="duration_hours_shortest_future">em %d h</string>
     <string name="duration_minutes_relative">{count, plural, =1 {# minuto atrás} other {# minutos atrás} }</string>
     <string name="duration_minutes_relative_future">{count, plural, =1 {# minuto} other {# minutos} }</string>
-    <string name="duration_minutes_shortest">"%d m"</string>
-    <string name="duration_minutes_shortest_future">em %d m</string>
+    <string name="duration_minutes_shortest">"%d min"</string>
+    <string name="duration_minutes_shortest_future">em %d min</string>
     <string name="duration_years_relative">{count, plural, =1 {# ano atrás} other {# anos atrás} }</string>
     <string name="duration_years_relative_future">{count, plural, =1 {# ano} other {# anos} }</string>
     <string name="duration_years_shortest">"%d ano(s)"</string>

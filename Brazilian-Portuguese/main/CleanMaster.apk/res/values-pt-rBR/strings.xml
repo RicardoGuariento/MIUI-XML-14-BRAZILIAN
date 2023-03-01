@@ -1085,8 +1085,8 @@
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
-    <string name="unit_gb">%s GB</string>
-    <string name="unit_mb">%s MB</string>
+    <string name="unit_gb">"%s GB"</string>
+    <string name="unit_mb">"%s MB"</string>
     <string name="unlike">Não, obrigado</string>
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="updating_tips">Arguarde…</string>

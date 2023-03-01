@@ -889,7 +889,7 @@ Tamanho: %2$s"</string>
     <string name="withdraw_consent_failed_hint_connect_net">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="withdraw_consent_hint">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %1$s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como %2$s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %3$s. Retirar consentimento agora?"</string>
     <string name="withdrawing">Retirando consentimento…</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
+    <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">A conexão com Gerenciador de download falhou, verifique o estado do Gerenciador de download no Gerenciamento de Apps.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
@@ -897,7 +897,7 @@ Tamanho: %2$s"</string>
 Tamanho de atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s atualizar!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
     <string name="yesterday">Ontem</string>
 </resources>

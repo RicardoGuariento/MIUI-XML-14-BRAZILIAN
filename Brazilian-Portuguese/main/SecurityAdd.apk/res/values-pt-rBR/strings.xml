@@ -347,8 +347,8 @@
     <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
     <string name="mtrl_picker_text_input_day_abbr">"d"</string>
-    <string name="mtrl_picker_text_input_month_abbr">"m"</string>
-    <string name="mtrl_picker_text_input_year_abbr">"a"</string>
+    <string name="mtrl_picker_text_input_month_abbr">"mês"</string>
+    <string name="mtrl_picker_text_input_year_abbr">"ano"</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
@@ -399,7 +399,7 @@
     <string name="superpower_exit_hint">Desativando a Ultra economia de bateria…</string>
     <string name="superpower_incharging">Carregando</string>
     <string name="superpower_progress_battery_last">%s restante(s)</string>
-    <string name="superpower_progress_left_time">"%1$d h e %2$d m"</string>
+    <string name="superpower_progress_left_time">"%1$d h e %2$d min"</string>
     <string name="superpower_search_hint">Procurar por apps</string>
     <string name="superpower_select_app_title">Apps usados com frequência</string>
     <string name="superpower_settings">Ultra economia de bateria</string>
