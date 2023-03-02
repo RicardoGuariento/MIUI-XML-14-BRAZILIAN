@@ -3532,7 +3532,7 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="external_ram_dialog_icon_title">Memória RAM virtual ativada</string>
     <string name="external_ram_dialog_message">Reinicie o seu dispositivo para aplicar as alterações.</string>
     <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
-    <string name="external_ram_intro">"Cria memória RAM adicional ocupando o armazenamento. Use esse recurso somente quando houver espaço de armazenamento suficiente disponível em seu dispositivo."</string>
+    <string name="external_ram_intro">"A memória RAM virtual é criada ocupando espaço do armazenamento. Use esse recurso somente quando houver espaço de armazenamento suficiente disponível em seu dispositivo."</string>
     <string name="external_ram_remind_toast">O espaço de armazenamento está acabando. Memória RAM virtual desativada por enquanto.</string>
     <string name="external_ram_summary">Adiciona %1$s %2$s de RAM, que será utilizada a partir do armazenamento interno. Use este recurso apenas quando houver espaço de armazenamento suficiente disponível em seu dispositivo.</string>
     <string name="external_ram_title">Memória RAM virtual</string>
