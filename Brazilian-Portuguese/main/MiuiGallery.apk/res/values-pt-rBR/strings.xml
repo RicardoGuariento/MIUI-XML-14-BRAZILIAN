@@ -481,6 +481,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cleaner_space_description">pode ser liberado</string>
     <string name="cleaner_space_detail_description">Limpe fotos na sua Galeria para liberar espaço de armazenamento</string>
     <string name="cleaner_stop_scan">Parar verificação</string>
+    <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s ocupado</string>
     <string name="cleaner_title">Limpeza</string>
     <string name="cleaner_video_action">Ver detalhes</string>
     <string name="cleaner_video_description">Excluir vídeos ocupando espaço de armazenamento</string>
@@ -562,7 +563,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="collage_poster_global_tea_text">CHÁ DA TARDE</string>
     <string name="collage_ratio_text">Proporção</string>
     <string name="collage_rotate">Girar</string>
-    <string name="collage_select_image_range">Colagens podem conter de 1 a 6 fotos</string>
+    <string name="collage_select_image_range">Colagens podem conter de %1$d-%2$d fotos</string>
     <string name="collage_talkback_margin_large">Margem espessa</string>
     <string name="collage_talkback_margin_medium">Margem regular</string>
     <string name="collage_talkback_margin_non">Sem margens</string>
@@ -1959,9 +1960,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_editor_talkback_crop_mirror">Espelho</string>
     <string name="photo_editor_talkback_crop_original">"Original"</string>
     <string name="photo_editor_talkback_crop_reset">Redefinir</string>
-    <string name="photo_editor_talkback_crop_right_rotate">Girar 90° graus</string>
+    <string name="photo_editor_talkback_crop_right_rotate">Girar %d graus</string>
     <string name="photo_editor_talkback_crop_rotate">Girar</string>
-    <string name="photo_editor_talkback_crop_scale_default_value">O valor padrão antes da rotação ser aplicada é 0° graus</string>
+    <string name="photo_editor_talkback_crop_scale_default_value">O valor padrão antes da rotação ser aplicada é %d graus</string>
     <string name="photo_editor_talkback_crop_scale_value">Girar %d° graus</string>
     <string name="photo_editor_talkback_crop_screen">Proporção em tela cheia</string>
     <string name="photo_editor_talkback_crop_view">Cortar imagem</string>
@@ -2550,6 +2551,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="slim_action_auto_backup_enable_description">Upload de itens para a nuvem…</string>
     <string name="slim_action_auto_backup_sub_tip">Libere espaço de armazenamento</string>
     <string name="slim_action_auto_backup_tip">Ative a sincronização com a nuvem</string>
+    <string name="slim_auto_backup_cloud_confirm_detail">Ative a sincronização com a nuvem para poder enviar fotos e vídeos do seu dispositivo para a nuvem.</string>
+    <string name="slim_auto_backup_cloud_confirm_title">Sincronizar com a nuvem</string>
     <string name="slim_complete">Concluído</string>
     <string name="slim_complete_action_title">Otimizado com sucesso</string>
     <string name="slim_complete_count">"Otimizado %1$s e %2$s. "</string>
@@ -2569,6 +2572,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="slim_dialog_title">Otimize o armazenamento</string>
     <string name="slim_exit_dialog_positive">Parar</string>
     <string name="slim_exit_dialog_title">Parar otimização</string>
+    <string name="slim_finish_upgrade_tip"><Data>Atualize seu plano de armazenamento em nuvem para poder sincronizar mais itens. Toque para &lt;a href=\"%1$s\">atualizar agora&lt;/a>.</Data></string>
+    <string name="slim_function_summery_first">Mantenha fotos otimizadas em seu dispositivo e salve a imagem original na nuvem</string>
+    <string name="slim_function_summery_second">Arquivos criados nos últimos %d dias serão salvos em seu dispositivo</string>
     <string name="slim_preference_scanning">Analisando fotos e vídeos…</string>
     <string name="slim_preference_summery">Armazene fotos e vídeos originais na nuvem, mantendo cópias menores de alta qualidade neste dispositivo. Cópias menores substituirão os arquivos originais em %d dias após os itens serem criados.</string>
     <string name="slim_preference_title">Otimize o armazenamento</string>
@@ -2576,6 +2582,10 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="slim_space">liberado(s)</string>
     <string name="slim_stop">Parar otimização</string>
     <string name="slim_stop_v2">Parar</string>
+    <string name="slim_subtitle_slim_space_prefix">Liberar %1$s %2$s</string>
+    <string name="slim_subtitle_sync_off_no_slimdata">Ative a sincronização com a nuvem para obter uma estimativa do espaço liberado</string>
+    <string name="slim_subtitle_sync_on_no_slimdata">Sincronizando. Tente mais tarde.</string>
+    <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Atualize seu plano de armazenamento em nuvem para sincronizar mais itens</string>
     <string name="slim_success_tip">Liberou %s de armazenamento</string>
     <string name="slow_motion_enter">Câmera lenta</string>
     <string name="smartisan">"Smartisan"</string>
@@ -2753,13 +2763,13 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="text_edit_dialog_style_toast">Não é possível colocar texto em contorno em cenários</string>
     <string name="text_edit_dialog_style_transparent">Opacidade</string>
     <string name="text_edit_sub_menu_text">Bolha</string>
-    <string name="text_item_type_talkback_bubble_arrow1">Flecha 1</string>
-    <string name="text_item_type_talkback_bubble_arrow2">Flecha 2</string>
+    <string name="text_item_type_talkback_bubble_arrow1">Flecha %d</string>
+    <string name="text_item_type_talkback_bubble_arrow2">Flecha %d</string>
     <string name="text_item_type_talkback_bubble_circular">Balão de diálogo</string>
     <string name="text_item_type_talkback_bubble_none">Campo de texto</string>
     <string name="text_item_type_talkback_bubble_oval">Balão de diálogo oval</string>
-    <string name="text_item_type_talkback_bubble_rectangle">Balão de diálogo quadrado 1</string>
-    <string name="text_item_type_talkback_bubble_rectangle2">Balão de diálogo quadrado 2</string>
+    <string name="text_item_type_talkback_bubble_rectangle">Balão de diálogo quadrado %d</string>
+    <string name="text_item_type_talkback_bubble_rectangle2">Balão de diálogo quadrado %d</string>
     <string name="text_item_type_talkback_bubble_signature">Assinatura</string>
     <string name="text_item_type_talkback_bubble_watermark_1">Sempre acredite que algo maravilhoso está para acontecer</string>
     <string name="text_item_type_talkback_bubble_watermark_2">Umas férias perfeitas 1</string>
@@ -2780,11 +2790,11 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="text_item_type_talkback_city_suzhou">Sucheu</string>
     <string name="text_item_type_talkback_city_tianjin">Tianjin</string>
     <string name="text_item_type_talkback_city_wuhan">Wuhan</string>
-    <string name="text_item_type_talkback_festival_chaojieyueliang2">Superlua 2</string>
+    <string name="text_item_type_talkback_festival_chaojieyueliang2">Superlua %d</string>
     <string name="text_item_type_talkback_festival_chaojiyueliang">Superlua</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang3">Superlua 3</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang4">Superlua 4</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang5">Superlua 5</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang3">Superlua %d</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang4">Superlua %d</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang5">Superlua %d</string>
     <string name="text_item_type_talkback_festival_chunjie">Ano-Novo Chinês</string>
     <string name="text_item_type_talkback_festival_chuxi">Véspera do Ano-Novo Chinês</string>
     <string name="text_item_type_talkback_festival_ertongjie">Dia das crianças</string>

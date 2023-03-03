@@ -116,7 +116,7 @@
     <string name="delete_file_success">Excluído com sucesso</string>
     <string name="delete_operation_record">Excluir este registro?</string>
     <string name="delete_operation_record_timeout">Não foi possível excluir o registro. Aguarde um momento e tente novamente.</string>
-    <string name="delete_record_only">Os itens aos quais os registros selecionados referem-se, não serão excluídos.</string>
+    <string name="delete_record_only">Esta ação excluirá apenas os registros selecionados. Nenhum arquivo será excluído.</string>
     <string name="delete_success">Excluído com sucesso</string>
     <string name="detail_download_path">"Localização: "</string>
     <string name="detail_download_time">"Baixado: "</string>
@@ -397,7 +397,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
     <string name="operation_move">Mover</string>
     <string name="operation_rename">Renomear</string>
     <string name="operation_save">Salvar</string>
-    <string name="operation_sure_to_delete">Excluir agora?</string>
+    <string name="operation_sure_to_delete">Excluir histórico?</string>
     <string name="operation_transport_success">Adicionado à transferência com sucesso</string>
     <string name="operation_will_not_show_after_delete">O registro não aparecerá mais aqui após excluí-lo.</string>
     <string name="pause_all">Pausar todos</string>

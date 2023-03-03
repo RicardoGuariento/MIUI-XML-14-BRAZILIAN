@@ -664,6 +664,10 @@ documentos digitalizados automaticamente"</string>
     <string name="download_cancel_hint">Parar de baixar %1$s?</string>
     <string name="download_confirm">Baixar</string>
     <string name="download_hint">%1$s MB de dados móveis serão usados para baixar itens. Baixar mesmo assim?</string>
+    <string name="download_hint_check_on_wifi">"Você está conectado ao Wi-Fi. Baixar este arquivo %1$s MB agora?"</string>
+    <string name="download_hint_check_on_wifi_cn">"Você está conectado ao Wi-Fi. Baixar este arquivo %1$s MB agora?"</string>
+    <string name="download_hint_check_on_wifi_remind">"Não lembrar novamente"</string>
+    <string name="download_hint_check_on_wifi_remind_cn">"Não lembrar novamente"</string>
     <string name="download_hint_cn">Seu dispositivo não está conectado ao Wi-Fi. Usar %1$s MB de dados móveis para baixar itens agora?</string>
     <string name="download_hint_wifi">Seu dispositivo não está conectado ao Wi-Fi. Usar %1$s MB de dados móveis para baixar itens agora?</string>
     <string name="download_in_progress">Baixando…</string>
