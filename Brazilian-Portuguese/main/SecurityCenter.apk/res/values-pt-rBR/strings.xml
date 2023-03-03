@@ -3671,7 +3671,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_hints_scan_danger_result">Você pode corrigir problemas de bateria agora</string>
     <string name="power_center_list_item_auto_brightness">Ajustar brilho da tela automaticamente</string>
     <string name="power_center_list_item_battery_health_model_temperature">"%d ℃"</string>
-    <string name="power_center_list_item_battery_health_model_voltage">"% sV"</string>
+    <string name="power_center_list_item_battery_health_model_voltage">"%s V"</string>
     <string name="power_center_list_item_battery_health_model_volume">"%s mAh"</string>
     <string name="power_center_list_item_battery_status_capacity">"mAh"</string>
     <string name="power_center_list_item_battery_status_temperature">"℃"</string>
