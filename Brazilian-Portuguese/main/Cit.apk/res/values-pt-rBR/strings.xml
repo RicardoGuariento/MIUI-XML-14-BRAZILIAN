@@ -439,12 +439,12 @@ Toque na tela para iniciar o GPS…"</string>
     <string name="cit_keyboard_menu">Botão MENU</string>
     <string name="cit_keyboard_left_gamekey_down">Botão pop-up esquerdo (baixo)</string>
     <string name="cit_keyboard_left_gamekey_up">Botão pop-up esquerdo (cima)</string>
-    <string name="cit_keyboard_left_shoulder_switch_off">Switch esquerdo do botão pop-p desativado</string>
-    <string name="cit_keyboard_left_shoulder_switch_on">Switch esquerdo do botão pop-p ativado</string>
+    <string name="cit_keyboard_left_shoulder_switch_off">Switch esquerdo do botão pop-up desativado</string>
+    <string name="cit_keyboard_left_shoulder_switch_on">Switch esquerdo do botão pop-up ativado</string>
     <string name="cit_keyboard_right_gamekey_down">Botão pop-up direito (baixo)</string>
     <string name="cit_keyboard_right_gamekey_up">Botão pop-up direito (cima)</string>
-    <string name="cit_keyboard_right_shoulder_switch_off">Switch direito do botão pop-p desativado</string>
-    <string name="cit_keyboard_right_shoulder_switch_on">Switch direito do botão pop-p ativado</string>
+    <string name="cit_keyboard_right_shoulder_switch_off">Switch direito do botão pop-up desativado</string>
+    <string name="cit_keyboard_right_shoulder_switch_on">Switch direito do botão pop-up ativado</string>
     <string name="cit_keyboard_test_power_down">Botão [LIGA/DESLIGA]</string>
     <string name="cit_keyboard_test_power_up">Botão [LIGA/DESLIGA]</string>
     <string name="cit_keyboard_test_summary">Quando apertar os botões, o texto correspondente na tela deverá ficar na cor verde (nota: os botões Início e de energia não estão incluídos no teste)</string>
