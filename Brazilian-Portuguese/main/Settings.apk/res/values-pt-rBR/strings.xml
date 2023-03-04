@@ -5341,7 +5341,7 @@ Não poderá reverter esta ação."</string>
     <string name="master_clear_short_title">Limpar todos os dados</string>
     <string name="master_clear_title">"Limpar todos os dados
 (reposição para os dados de fábrica)"</string>
-    <string name="master_clear_title_new">Restauração de fábrica</string>
+    <string name="master_clear_title_new">Redefinição de fábrica</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione horas</string>
