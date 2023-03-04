@@ -72,6 +72,9 @@
         <item>Áudio Qualcomm® aptX™</item>
         <item>Áudio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar seleção do sistema (padrão)</item>
@@ -80,6 +83,9 @@
         <item>Áudio Qualcomm® aptX™</item>
         <item>Áudio Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -102,6 +108,8 @@
         <item>Desativado</item>
         <item>Filtro ativado</item>
         <item>Ativado</item>
+        <item>Cabeçalhos filtrados</item>
+        <item>Pacotes de mídia filtrados</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Cores aprimoradas</item>

@@ -171,10 +171,14 @@
     <string name="pa_accessibility_picker_back">Volte.</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Ver lista de widgets suportados</string>
     <string name="pa_accessibility_picker_home_bigBanner_slected">%1$s selecionado, linha %2$d, número %3$d. Toque duas vezes para começar.</string>
+    <string name="pa_accessibility_picker_home_maml_slected">selecionado: %1$s | Tamanho: %2$s. Pressione duas vezes para ver a página de detalhes. Pressione duas vezes e segure para arrastar.</string>
     <string name="pa_accessibility_picker_home_search">Pesquisar widgets</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">%1$s selecionado, linha %2$d, número %3$d. Toque duas vezes para começar.</string>
     <string name="pa_accessibility_picker_home_title">Adicionar widget</string>
-    <string name="pa_accessibility_picker_home_widget_slected">%1$s selecionado, linha %2$d, número %3$d. Toque duas vezes para ver os detalhes. Pressione e segure para arrastar o item.</string>
+    <string name="pa_accessibility_picker_home_widget_replace">Selected %s. Switching widgets.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Toque duas vezes no botão abaixo dele para substituir por outro widget.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Status da instalação: %3$s. O botão \"Alternar\" está abaixo. Pressione duas vezes para alternar.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Selecionado: %1$s | Tamanho: %2$d | Status da instalação: %3$d. Toque duas vezes para ver os detalhes. Pressione e segure para arrastar o item.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">%1$s selecionado, linha %2$d, número %3$d. Toque duas vezes para ver os detalhes.</string>
     <string name="pa_accessibility_picker_search_cancel">Barra de pesquisa de widgets. Toque duas vezes para cancelar.</string>
     <string name="pa_accessibility_picker_search_tips">Barra de pesquisa de widgets. Toque duas vezes para pesquisar.</string>
@@ -230,7 +234,7 @@
     <string name="pa_edit_select_image">Formato</string>
     <string name="pa_edit_set_time">Definir hora</string>
     <string name="pa_edit_state_onoff">Controle de estado</string>
-    <string name="pa_edit_switch">Trocar</string>
+    <string name="pa_edit_switch">Alternar</string>
     <string name="pa_edit_text">Item exibido</string>
     <string name="pa_edit_text_align">Alinhamento</string>
     <string name="pa_edit_text_max_length">Este texto é muito longo</string>
@@ -675,7 +679,7 @@ para mostrar widgets."</string>
     <string name="pa_vertical_right">Layout vertical. Direito alinhado.</string>
     <string name="pa_widget_menu_edit">Editar</string>
     <string name="pa_widget_menu_remove">Remover</string>
-    <string name="pa_widget_menu_replace">Switch</string>
+    <string name="pa_widget_menu_replace">Alternar</string>
     <string name="pa_widget_need_download_dialog_cancel">Cancelar</string>
     <string name="pa_widget_need_download_dialog_confirm">"OK"</string>
     <string name="pa_widget_need_download_dialog_message_install">Para poder usar widgets, instale \"%s\" primeira.</string>
@@ -776,6 +780,6 @@ para mostrar widgets."</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Diga-me mais tarde</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar imediatamente</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">%s nova versão</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="yesterday">Ontem</string>
 </resources>

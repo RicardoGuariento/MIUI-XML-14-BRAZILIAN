@@ -1437,7 +1437,7 @@ Entre em contato com sua operadora para obter outro cartão SIM."</string>
     <string name="kg_sim_pin_instructions">Digite o PIN do SIM</string>
     <string name="kg_sim_pin_instructions_multi">Digite o PIN do SIM para o \"%1$s\"</string>
     <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando cartão SIM…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Tente novamente em %d segundos.</string>
+    <string name="kg_too_many_failed_attempts_countdown">{count, plural, =1 {Tente novamente em # segundo.} other {Tente novamente em # segundos.} }</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Você inseriu uma senha incorreta %1$d vezes. 
 
 Tente novamente em %2$d segundos."</string>
@@ -1588,7 +1588,7 @@ captura de tela estendida"</string>
     <string name="media_category">Mídia</string>
     <string name="media_output_dialog_add_output">Adicionar resultados</string>
     <string name="media_output_dialog_connect_failed">"Não foi possível conectar. Tente novamente."</string>
-    <string name="media_output_dialog_disconnected">%1$s (desconectado)</string>
+    <string name="media_output_dialog_disconnected">(desconectado)</string>
     <string name="media_output_dialog_group">Grupo</string>
     <string name="media_output_dialog_multiple_devices">%1$d dispositivos selecionados</string>
     <string name="media_output_dialog_pairing_new">Parear novo dispositivo</string>

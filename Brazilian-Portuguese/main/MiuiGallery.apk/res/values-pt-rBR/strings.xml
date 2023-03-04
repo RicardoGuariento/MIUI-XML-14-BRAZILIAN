@@ -1300,7 +1300,7 @@ estão disponíveis"</string>
     <string name="load_complete">Não há mais itens aqui</string>
     <string name="load_failed">Não foi possível carregar as informações, toque para tentar novamente</string>
     <string name="load_relations">Aguarde…</string>
-    <string name="loading">Aguarde</string>
+    <string name="loading">Aguarde…</string>
     <string name="loading_dots">Aguarde…</string>
     <string name="loading_dual_tip">Carregando foto dupla…</string>
     <string name="loading_fail">Não foi possível baixar</string>

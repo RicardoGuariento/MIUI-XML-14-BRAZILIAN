@@ -1158,7 +1158,7 @@ Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse
     <string name="battery_saver_schedule_settings_title">Definir uma programação</string>
     <string name="battery_saver_seekbar_title">Em %1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Ativar</string>
-    <string name="battery_saver_sticky_description_new">A Economia de bateria é desativada quando a carga do smartphone chega a %1$s</string>
+    <string name="battery_saver_sticky_description_new">A Economia de bateria é desativada quando a carga do smartphone chega a ^1%</string>
     <string name="battery_saver_sticky_title_new">Desativar quando estiver carregado</string>
     <string name="battery_saver_turn_on_automatically_never">Nunca</string>
     <string name="battery_saver_turn_on_automatically_pct">com %1$s de bateria</string>
@@ -5341,8 +5341,7 @@ Não poderá reverter esta ação."</string>
     <string name="master_clear_short_title">Limpar todos os dados</string>
     <string name="master_clear_title">"Limpar todos os dados
 (reposição para os dados de fábrica)"</string>
-    <string name="master_clear_title_new">"Apagar todos os dados
-(restauração de fábrica)"</string>
+    <string name="master_clear_title_new">Restauração de fábrica</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione horas</string>
