@@ -1605,7 +1605,7 @@ para personalizar a Galeria"</string>
     <string name="mosaic_item_talkback_eraser">Borracha</string>
     <string name="motion_photo_enter">Tiro dinâmico</string>
     <string name="motion_photo_play">Reproduzir</string>
-    <string name="move_to_other_albums_tip">Mover este álbum para Outros álbuns?</string>
+    <string name="move_to_other_albums_tip">Mover este álbum para \"Outros álbuns\"?</string>
     <string name="move_to_rubbish_albums_tip">Mover itens selecionados para álbuns redundantes?</string>
     <string name="movie_add_disable">Você pode selecionar até %d fotos</string>
     <string name="movie_audio_antiquity">Retrô</string>
@@ -1778,7 +1778,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="operation_hide_time">Ocultar datas</string>
     <string name="operation_in_process">Processando…</string>
     <string name="operation_move">Mover</string>
-    <string name="operation_move_to_other_albums">Mover para outros álbuns</string>
+    <string name="operation_move_to_other_albums">Mover para \"Outros álbuns\"</string>
     <string name="operation_move_to_rubbish_albums">Mover para álbuns redundantes</string>
     <string name="operation_not_show_in_photos_tab">"Não mostrar em 'Fotos'"</string>
     <string name="operation_photo_rename">Renomear</string>
@@ -1787,7 +1787,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="operation_projection">Transmitir</string>
     <string name="operation_remove_face">Remover</string>
     <string name="operation_remove_from_face_album">Remover do álbum</string>
-    <string name="operation_remove_from_other_albums">Mover de outros álbuns</string>
+    <string name="operation_remove_from_other_albums">Remover de \"Outros álbuns\"</string>
     <string name="operation_remove_from_rubbish_albums">Restaurar</string>
     <string name="operation_remove_rubbish">Restaurar</string>
     <string name="operation_remove_secret">Remover do álbum privado</string>
@@ -1826,7 +1826,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="origin_video_name">vídeo</string>
     <string name="other_album">Outros álbuns</string>
     <string name="other_album_operation_move_to_rubbish_albums">Mover para álbuns redundantes</string>
-    <string name="other_album_operation_remove_from_other_albums">Remover dos álbuns redundantes</string>
+    <string name="other_album_operation_remove_from_other_albums">Remover de \"Outros álbuns\"</string>
     <string name="other_settings">Configurações adicionais</string>
     <string name="owner_album_subtitle">Compartilhado com %1$s pessoa(s)</string>
     <string name="pad_device_model_name">Mi Pad</string>
@@ -2104,7 +2104,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="privacy_rejected_map_new">Retirada do consentimento para Declaração de Compartilhamento de Dados de Terceiros do Mapa da Galeria</string>
     <string name="privacy_rejected_pos_btn">Retirar</string>
     <string name="privacy_share_album_confirm">Termos e Condições</string>
-    <string name="privacy_share_album_confirm_detail">Álbuns compartilhados são alimentados por MiCloud. Antes de usar este recurso, leia e concorde com o nosso &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Contrato do Usuário>&lt;/a>&lt;/font> e a nossa &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
+    <string name="privacy_share_album_confirm_detail">Álbuns compartilhados são alimentados por MiCloud. Antes de usar este recurso, leia e concorde com o nosso &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Contrato do Usuário&lt;/a>&lt;/font> e a nossa &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
     <string name="private_entry_lock_state_activated_text">Solte para abrir a pasta privada</string>
     <string name="private_entry_lock_state_enterd_text">Puxe para baixo para abrir a pasta privada</string>
     <string name="problem_feedback">"Feedback"</string>
@@ -2198,7 +2198,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="remove_from_album_title">Remover deste álbum</string>
     <string name="remove_from_current_album">Remover deste álbum</string>
     <string name="remove_from_favorites_failed">Não foi possível remover dos favoritos</string>
-    <string name="remove_from_other_albums_tip">Mover este álbum de Outros álbuns?</string>
+    <string name="remove_from_other_albums_tip">Remover este álbum de \"Outros álbuns\"?</string>
     <string name="remove_from_secret_fail">Não foi possível remover do álbum privado</string>
     <string name="remove_from_secret_failed_with_reason">Não é possível remover do álbum privado. %1$s.</string>
     <string name="remove_from_secret_successful">Removido do álbum privado</string>
@@ -2519,8 +2519,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Gerencie e visualize álbuns ocultos</string>
     <string name="show_hidden_album_title">Ver álbuns ocultos</string>
-    <string name="show_in_other_albums_disable_toast_long_press_menu">Movido com sucesso, vá aos Outros álbuns para ver</string>
-    <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso, vá aos Álbuns para ver</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Removido com sucesso. Agora você pode visualizar este item entre os \"Álbuns\".</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso. Agora você pode visualizar este item em \"Outros álbuns\".</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Movido para álbuns redundantes com sucesso</string>
     <string name="show_nearby_photos">Exibir fotos e vídeos próximos</string>
     <string name="signature_dialog_clear">Limpar</string>
