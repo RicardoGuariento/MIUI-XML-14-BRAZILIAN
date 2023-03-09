@@ -179,7 +179,7 @@
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Toque duas vezes no botão abaixo dele para substituir por outro widget.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Status da instalação: %3$s. O botão \"Alternar\" está abaixo. Pressione duas vezes para alternar.</string>
     <string name="pa_accessibility_picker_home_widget_slected">Selecionado: %1$s | Tamanho: %2$s | Status da instalação: %3$s. Toque duas vezes para ver os detalhes. Pressione e segure para arrastar o item.</string>
-	<string name="pa_accessibility_picker_home_widget_with_add_slected">%1$s selecionado, linha %2$d, número %3$d. Toque duas vezes para ver os detalhes.</string>
+    <string name="pa_accessibility_picker_home_widget_with_add_slected">%1$s selecionado, linha %2$d, número %3$d. Toque duas vezes para ver os detalhes.</string>
     <string name="pa_accessibility_picker_search_cancel">Barra de pesquisa de widgets. Toque duas vezes para cancelar.</string>
     <string name="pa_accessibility_picker_search_tips">Barra de pesquisa de widgets. Toque duas vezes para pesquisar.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Loja de Widgets. %s selecionado. Toque duas vezes para ver detalhes.</string>
