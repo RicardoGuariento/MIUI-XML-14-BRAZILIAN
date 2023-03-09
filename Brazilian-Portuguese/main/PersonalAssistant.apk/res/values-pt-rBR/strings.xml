@@ -194,7 +194,7 @@
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Widget selecionado. Arraste para adicionar este item à Tela inicial.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Widget selecionado. Arraste para adicionar este item ao Assistente.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Loja de widgets. Selecione para visualizar todos os widgets para %s. Toque duas vezes para ver todos os widgets para %s.</string>
-    <string name="pa_accessibility_picker_widget_group_item" formatted="false">Loja de widgets. %s Selecionado.Toque duas vezes para abrir a descrição do widget. O item contém %s widget.</string>
+    <string name="pa_accessibility_picker_widget_group_item" formatted="false">Loja de widgets. %s Selecionado. Toque duas vezes para abrir a descrição do widget. O item contém %s widget.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_desktop">%s</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">%s</string>
     <string name="pa_accessibility_picker_widget_item_add_to_third">%s</string>
