@@ -467,6 +467,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
     <string name="rename_ext_confirm_dialog_desc">Alterar o tipo do arquivo pode torná-lo inacessível</string>
     <string name="rename_file_select_error">Não é possível renomear vários itens</string>
     <string name="rename_success">Renomeado com sucesso</string>
+    <string name="request_permission_account_state">Para fornecer um rápido login para a Conta Mi</string>
     <string name="request_permission_confirm">"OK"</string>
     <string name="request_permission_content">O Mi Drive precisa de permissão para acessar contas, fotos e arquivos em seu dispositivo e enviar notificações. Essas permissões serão usadas para fornecer um rápido login em sua Conta Mi e visualizar, carregar, baixar e sincronizar itens.</string>
     <string name="request_permission_content_with_phone_state">Para que você possa entrar com a Conta Mi, visualizar, enviar, baixar e sincronizar arquivos e verificar se há atualizações, o Mi Drive requer permissões para acessar suas contas, fotos, arquivos e IMEI.</string>

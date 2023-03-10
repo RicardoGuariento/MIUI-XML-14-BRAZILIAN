@@ -776,9 +776,11 @@ para vídeos"</string>
     <string name="local_diversion_close_recommend">Fechar</string>
     <string name="local_diversion_download_more_video">Mais vídeos</string>
     <string name="local_diversion_manage_local_video">Gerenciar arquivos</string>
+    <string name="local_diversion_moments_videos">Assistir momentos</string>
     <string name="local_diversion_open_mivideo">"Assista no Mi Vídeo
 para uma melhor experiência de visualização"</string>
     <string name="local_diversion_recommend_title">"Popular"</string>
+    <string name="local_diversion_trending_videos">Assista a vídeos em alta</string>
     <string name="local_diversion_view_more">Ver</string>
     <string name="local_empty_guide">Os vídeos que você gravar aparecerão aqui</string>
     <string name="local_folder_select_count">Selecionado: %s</string>

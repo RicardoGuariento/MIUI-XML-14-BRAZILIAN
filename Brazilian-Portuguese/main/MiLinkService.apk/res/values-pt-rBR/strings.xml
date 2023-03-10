@@ -56,8 +56,9 @@ your devices?"</string>
     <string name="appcirculate_fragment_circulate_device_list_text_searching">Searching for devices nearby…</string>
     <string name="appcirculate_toast_busy">Looks like the other device is transferring files now. Wait until the transfer is complete and try again.</string>
     <string name="appcirculate_toast_cancel">Cancelado</string>
-    <string name="appcirculate_toast_fail">"Couldn't switch to another device"</string>
-    <string name="appcirculate_toast_loading">Switching to another device…</string>
+    <string name="appcirculate_toast_connected">Transmissão iniciada</string>
+    <string name="appcirculate_toast_fail">"Não foi possível alternar para outro dispositivo"</string>
+    <string name="appcirculate_toast_loading">Alternando para outro dispositivo…</string>
     <string name="appcirculate_toast_not_support_device_pad">"Can't open this app on tablets"</string>
     <string name="appcirculate_toast_not_support_device_pc">"Can't open this app on computers"</string>
     <string name="appcirculate_toast_not_support_device_phone">"Can't open this app on phone"</string>
@@ -92,8 +93,7 @@ Sign in to your Xiaomi Account in Settings > Xiaomi Account to sync permissions.
     <string name="circulate_card_mirror_device_title_pad">"Tablet"</string>
     <string name="circulate_card_mirror_device_title_television">"TV"</string>
     <string name="circulate_card_mirror_help"><u>Dispositivos compatíveis</u></string>
-    <string name="circulate_card_mirror_pad_subtitle">"Arraste \"Tela do tablet\" para uma TV
-para espelhar a tela"</string>
+    <string name="circulate_card_mirror_pad_subtitle">"Arraste \"Tela do tablet\" para uma TV para espelhar a tela"</string>
     <string name="circulate_card_mirror_pad_title">"Tela do tablet"</string>
     <string name="circulate_card_mirror_phone_subtitle">"Arraste \"Tela do dispositivo\" para outro dispositivo
 para espelhar a tela"</string>
@@ -131,6 +131,8 @@ to mirror this tablet's screen"</string>
     <string name="circulate_card_sticker_remote_control_volum_reduce">Volume down</string>
     <string name="circulate_card_sticker_selected">Selecionado</string>
     <string name="circulate_common_retry_later">Espere um pouco e tente novamente</string>
+    <string name="circulate_controlphone_button_hint">Tela de visualização</string>
+    <string name="circulate_controlphone_title">Gerenciar dispositivo</string>
     <string name="circulate_cta_agree">Aceitar</string>
     <string name="circulate_cta_app_name">"Mi Smart Hub"</string>
     <string name="circulate_cta_desc_phone">Bem-vindo ao Mi Smart Hub! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução multimídia entre dispositivos, usar Mi Smart Play, MIUI+ e transferência de apps. Este aplicativo precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:</string>
@@ -191,13 +193,19 @@ your devices?"</string>
     <string name="circulate_help_feedback_button">"Feedback"</string>
     <string name="circulate_local_pad_name">Meu tablet</string>
     <string name="circulate_local_phone_name">Meu dispositivo</string>
+    <string name="circulate_ringfind_button_hint_play">Tocar som</string>
+    <string name="circulate_ringfind_button_hint_stop">Parar de reproduzir o som</string>
+    <string name="circulate_ringfind_error_hint_ringing">O som já está sendo reproduzido</string>
+    <string name="circulate_ringfind_error_hint_start">"Não foi possível reproduzir o som. Tente novamente."</string>
+    <string name="circulate_ringfind_error_hint_stop">"Não foi possível parar de reproduzir o som. Tente novamente."</string>
+    <string name="circulate_ringfind_title">Tocar som</string>
+    <string name="circulate_ringfind_title_stop">Parar de reproduzir o som</string>
     <string name="circulate_title">Mi Smart Hub</string>
-    <string name="circulate_tv_power_alter_text">"You've set your TV to power off or turn its screen off. Remotes and TVs will disappear from here after the TV is powered off."</string>
-    <string name="circulate_tv_power_alter_title">Attention</string>
-    <string name="circulate_video_capture_fail">"Couldn't take a screenshot"</string>
-    <string name="circulate_video_capture_success">Took a screenshot successfully</string>
-    <string name="circulate_video_retry_later">Trying to control TV…</string>
-
+    <string name="circulate_tv_power_alter_text">"Você configurou sua TV para desligar ou desligar sua tela. Controles remotos e TVs ficarão indisponíveis após a TV ser desligada."</string>
+    <string name="circulate_tv_power_alter_title">Atenção</string>
+    <string name="circulate_video_capture_fail">"Não foi possível fazer uma captura de tela"</string>
+    <string name="circulate_video_capture_success">Tirou uma captura de tela com sucesso</string>
+    <string name="circulate_video_retry_later">Tentando controlar a TV…</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
@@ -245,6 +253,8 @@ your devices?"</string>
     <string name="debug_mode_wait_remove_desc">Por padrão, haverá uma janela pop-up para digitalização que dura pelo menos 1 segundo</string>
     <string name="debug_mode_wait_remove_title">Remover pop-up de verificação de dispositivo</string>
     <string name="device_desc_trust">Dispositivos confiáveis</string>
+    <string name="device_type_name_pad">"Tablet"</string>
+    <string name="device_type_name_phone">"Telefone"</string>
     <string name="dialog_can_not_find_device">Nenhum dispositivo próximo foi encontrado</string>
     <string name="dialog_cancle">Cancelar</string>
     <string name="dialog_connect_fail">Não foi possível conectar-se</string>
@@ -300,6 +310,16 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="evening">"PM"</string>
     <string name="expand_button_title">Avançado</string>
     <string name="file_read_des">Para exibir fotos e outros arquivos em monitores externos</string>
+    <string name="find_device_close">Entendi</string>
+    <string name="find_device_notification_content_phone">%1$s está procurando este dispositivo usando %2$s. Desbloqueie para interromper a reprodução do som.</string>
+    <string name="find_device_notification_content_single_phone">Alguém está procurando este dispositivo usando %1$s. Desbloqueie para parar de reproduzir o som.</string>
+    <string name="find_device_notification_content_single_tablet">Alguém está procurando este dispositivo usando %1$s. Desbloqueie para interromper a reprodução do som.</string>
+    <string name="find_device_notification_content_tablet">%1$s está procurando este dispositivo usando %2$s. Desbloqueie para interromper a reprodução do som.</string>
+    <string name="find_device_popup_content_phone">%1$s está procurando este dispositivo usando %2$s.</string>
+    <string name="find_device_popup_content_single_phone">Alguém está procurando este dispositivo usando %1$s.</string>
+    <string name="find_device_popup_content_single_tablet">Alguém está procurando este dispositivo usando %1$s.</string>
+    <string name="find_device_popup_content_tablet">%1$s está procurando por este dispositivo usando %2$s.</string>
+    <string name="find_device_title">Playing sound on device</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -358,7 +378,7 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="guide_page_subtitle_2">"Arraste o cartão com a tela deste dispositivo para um tablet, computador ou TV para espelhar o que está na tela do seu dispositivo."</string>
     <string name="guide_page_subtitle_2_pad">"Arraste o cartão com a tela deste dispositivo para uma TV para espelhar o que está na tela do seu dispositivo."</string>
     <string name="guide_page_subtitle_3">"Arraste o app para Mi Smart Hub e selecione o dispositivo no qual você gostaria de continuar sua tarefa atual."</string>
-    <string name="guide_page_subtitle_earphones">Arraste e solte o cartão do fone de ouvido para outro dspositivo, tablet ou uma TV para conecta-lo ao dispositivo correspondente e continuar a usá-lo</string>
+    <string name="guide_page_subtitle_earphones">Arraste seus fones de ouvido entre seu telefone, tablet e TV para alternar rapidamente a conexão de seus fones de ouvido para um dispositivo diferente</string>
     <string name="guide_page_title_0">Bem-vindo ao Mi Smart Hub!</string>
     <string name="guide_page_title_0_pad">Bem-vindo ao Mi Smart Hub!</string>
     <string name="guide_page_title_1">Reprodução de áudio</string>
@@ -366,7 +386,7 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="guide_page_title_2">Espelhamento de tela</string>
     <string name="guide_page_title_2_pad">Espelhamento de tela</string>
     <string name="guide_page_title_3">"Apps"</string>
-    <string name="guide_page_title_earphones">Transferência de fone de ouvido</string>
+    <string name="guide_page_title_earphones">Troca rápida</string>
     <string name="hang_up">Transmitir com a tela desligada</string>
     <string name="hang_up_alert_dialog_content">Continue transmitindo quando a tela do seu dispositivo for desligada. Este recurso diminui o consumo de energia. Pressione o botão de energia para ligar a tela novamente.</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>

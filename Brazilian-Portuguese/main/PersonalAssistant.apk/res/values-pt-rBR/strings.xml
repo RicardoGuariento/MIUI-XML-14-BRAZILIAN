@@ -157,7 +157,8 @@
     <string name="night">"PM"</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
-    <string name="pa_accessibility_home_search">Pesquisar, toque duas vezes para começar</string>
+    <string name="pa_accessibility_home_search">"Pesquisar, 
+toque duas vezes para começar"</string>
     <string name="pa_accessibility_home_widget_drag">Arrastar item</string>
     <string name="pa_accessibility_home_widget_drag_move">Mover para a linha %1$d, posição %2$d</string>
     <string name="pa_accessibility_home_widget_drop_workspace">Mudou-se para a linha %1$d, posição %2$d</string>
@@ -170,16 +171,27 @@
     <string name="pa_accessibility_olympic_the_third">3º lugar: %s</string>
     <string name="pa_accessibility_picker_back">Volte.</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Ver lista de widgets suportados</string>
-    <string name="pa_accessibility_picker_home_bigBanner_slected">%1$s selecionado, linha %2$d, número %3$d. Toque duas vezes para começar.</string>
-    <string name="pa_accessibility_picker_home_maml_slected">selecionado: %1$s | Tamanho: %2$s. Pressione duas vezes para ver a página de detalhes. Pressione duas vezes e segure para arrastar.</string>
+    <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s 
+Toque duas vezes para começar."</string>
+    <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
+Pressione duas vezes para ver a página de detalhes. 
+Pressione duas vezes e segure para arrastar."</string>
     <string name="pa_accessibility_picker_home_search">Pesquisar widgets</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">%1$s selecionado, linha %2$d, número %3$d. Toque duas vezes para começar.</string>
     <string name="pa_accessibility_picker_home_title">Adicionar widget</string>
     <string name="pa_accessibility_picker_home_widget_replace">Selected %s. Switching widgets.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Toque duas vezes no botão abaixo dele para substituir por outro widget.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Status da instalação: %3$s. O botão \"Alternar\" está abaixo. Pressione duas vezes para alternar.</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Selecionado: %1$s | Tamanho: %2$s | Status da instalação: %3$s. Toque duas vezes para ver os detalhes. Pressione e segure para arrastar o item.</string>
-    <string name="pa_accessibility_picker_home_widget_with_add_slected">%1$s selecionado, linha %2$d, número %3$d. Toque duas vezes para ver os detalhes.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
+Toque duas vezes no botão abaixo dele para substituir por outro widget."</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Status da instalação: %3$s. O botão \"Alternar\" está abaixo. 
+Pressione duas vezes para alternar."</string>
+    <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, | Status da instalação: %3$s, 
+Toque duas vezes para ver os detalhes. 
+Pressione e segure para arrastar o item."</string>
+    <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, | Status da instalação: %3$s.
+Toque duas vezes para ver os detalhes."</string>
+    <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, linha %2$d, número %3$d. 
+Toque duas vezes para ver os detalhes."</string>
+    <string name="pa_accessibility_picker_order_list_to_theme">Abrir o Temas</string>
     <string name="pa_accessibility_picker_search_cancel">Barra de pesquisa de widgets. Toque duas vezes para cancelar.</string>
     <string name="pa_accessibility_picker_search_tips">Barra de pesquisa de widgets. Toque duas vezes para pesquisar.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Loja de Widgets. %s selecionado. Toque duas vezes para ver detalhes.</string>
@@ -199,6 +211,7 @@
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">%s</string>
     <string name="pa_accessibility_picker_widget_item_add_to_third">%s</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Toque duas vezes para editar.</string>
+    <string name="pa_accessibility_widget_slected_status">%1$s. Status da instalação: %2$s.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
     <string name="pa_app_label">Assistente</string>
     <string name="pa_base_hour12_format_en">hh:mm</string>
@@ -212,7 +225,7 @@
     <string name="pa_base_yesterday">Ontem</string>
     <string name="pa_cancel">Cancelar</string>
     <string name="pa_clear">Limpar</string>
-    <string name="pa_covid_card_title">"COVID-19"</string>
+    <string name="pa_covid_card_title">"Ferramentas diárias"</string>
     <string name="pa_cta_dialog_all_purpose">"Bem-vindo ao Assistente! Este app é um local único para serviços de trabalho, estilo de vida e viagens. "</string>
     <string name="pa_cta_dialog_desc_location">Para fornecer sugestões de deslocamento</string>
     <string name="pa_cta_dialog_desc_phone_state">Para identificar seu dispositivo com base em IMEI</string>
@@ -331,9 +344,13 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_express_widget_logout">Faça login para ver seus pacotes de entrega expressa</string>
     <string name="pa_express_widget_order_42">Digite o número de rastreamento</string>
     <string name="pa_express_widget_post">Enviar pacote</string>
-    <string name="pa_filter_replace_bt">Apply</string>
-    <string name="pa_filter_search_title">Results for \"%s\"</string>
-    <string name="pa_filter_title">More widgets</string>
+    <string name="pa_express_widget_search">Pesquisar</string>
+    <string name="pa_filter_accessibility_filter_item">%s. Toque duas vezes para filtrar outras seleções.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_selected">Toque duas vezes para selecionar %s.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Toque duas vezes para selecionar.</string>
+    <string name="pa_filter_replace_bt">Aplicar</string>
+    <string name="pa_filter_search_title">Resultados para \"%s\"</string>
+    <string name="pa_filter_title">Mais widgets</string>
     <string name="pa_finish">Feito</string>
     <string name="pa_get_installed_app_permission_description">Para instalar apps e adicionar widgets</string>
     <string name="pa_guide_dialog_desc">Pressione e segure um widget para reorganizar. Toque em (+) para adicionar mais widgets.</string>
@@ -350,8 +367,8 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_lite_setting_private_auth">Permitir analisar o uso do aplicativo</string>
     <string name="pa_lite_setting_private_auth_summary">Sugestões de apps serão baseadas em seus dados de uso</string>
     <string name="pa_lite_setting_private_policy">Política de Privacidade</string>
-    <string name="pa_lite_setting_service_covid">"COVID-19"</string>
-    <string name="pa_lite_setting_service_covid_summry">Informações e serviços relacionados a pandemia</string>
+    <string name="pa_lite_setting_service_covid">"Ferramentas diárias"</string>
+    <string name="pa_lite_setting_service_covid_summry">Os recursos que você usa diariamente, tudo em um só lugar</string>
     <string name="pa_lite_setting_service_express">Entrega expressa</string>
     <string name="pa_lite_setting_service_express_summry">Acompanhe seus pacotes de entrega expressa</string>
     <string name="pa_lite_setting_service_management">Gerenciar serviços</string>
@@ -454,24 +471,26 @@ Fique ligado!"</string>
     <string name="pa_picker_no_relevant_content">"Couldn't find results"</string>
     <string name="pa_picker_permission_denied">"O Assistente precisa acessar o status de instalação
 para mostrar widgets."</string>
+    <string name="pa_picker_purchase_order">Comprado</string>
     <string name="pa_picker_request">Configurações</string>
     <string name="pa_picker_retry">Tente novamente</string>
-    <string name="pa_picker_search">Search</string>
-    <string name="pa_picker_search_card_header_accessibility_filter_icon">Filter</string>
-    <string name="pa_picker_search_card_more_all_applications">More apps</string>
-    <string name="pa_picker_search_card_more_all_suits">More widget sets</string>
+    <string name="pa_picker_search">Pesquisar</string>
+    <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtrar</string>
+    <string name="pa_picker_search_card_more_all_applications">Mais apps</string>
+    <string name="pa_picker_search_card_more_all_suits">Mais conjuntos de widgets</string>
     <string name="pa_picker_search_empty">"Não foi possível encontrar resultados"</string>
     <string name="pa_picker_search_error">"Não foi possível conectar-se à rede"</string>
     <string name="pa_picker_search_layout_cancel">Cancelar</string>
-    <string name="pa_picker_search_recommendation_title">Recommended</string>
-    <string name="pa_picker_search_result_empty">"Couldn't find results"</string>
-    <string name="pa_picker_search_result_type_application">Apps</string>
-    <string name="pa_picker_search_result_type_recommend">Recommended</string>
-    <string name="pa_picker_search_result_type_suit">Widget sets</string>
-    <string name="pa_picker_search_result_type_widget">Widgets</string>
+    <string name="pa_picker_search_recommendation_title">Recomendado</string>
+    <string name="pa_picker_search_result_empty">"Não foi possível encontrar resultados"</string>
+    <string name="pa_picker_search_result_type_application">"Apps"</string>
+    <string name="pa_picker_search_result_type_recommend">Recomendado</string>
+    <string name="pa_picker_search_result_type_suit">Conjuntos de widgets</string>
+    <string name="pa_picker_search_result_type_widget">"Widgets"</string>
     <string name="pa_picker_suit_list_activity_title">Pacotes de personalização.</string>
-    <string name="pa_picker_tab_title_category">Categories</string>
-    <string name="pa_picker_tab_title_recommend">Recommended</string>
+    <string name="pa_picker_tab_title_category">Categorias</string>
+    <string name="pa_picker_tab_title_fun">Descobrir</string>
+    <string name="pa_picker_tab_title_recommend">Apresentou</string>
     <string name="pa_picker_tips_count_limit_forbidden">"Não é possível adicionar mais widgets. Exclua os widgets mais antigos para adicionar novos."</string>
     <string name="pa_picker_toast_add_successfully">Adicionado com sucesso</string>
     <string name="pa_picker_toast_count_limit_forbidden">"Não é possível adicionar mais widgets"</string>
@@ -507,7 +526,10 @@ para mostrar widgets."</string>
     <string name="pa_setting_app_usage_auth_dialog_message">"Você não poderá usar o widget \"Sugestões do app\" depois de desligar esse recurso. Desligar mesmo assim?"</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atenção</string>
     <string name="pa_setting_bugreport">"Feedback"</string>
-    <string name="pa_setting_privacy_auth">Permitir analisar o uso do aplicativo</string>
+    <string name="pa_setting_perm_empty">Nada aqui ainda</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_summary">Obtenha recomendações de widgets com base em seus interesses</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_title">Recomendações personalizadas</string>
+    <string name="pa_setting_privacy_auth">Permitir analisar o uso do app</string>
     <string name="pa_setting_privacy_auth_summary">"Você receberá sugestões com base em seus hábitos de uso"</string>
     <string name="pa_setting_privacy_category_perm">Permissões</string>
     <string name="pa_setting_privacy_category_priv">Política de Privacidade</string>
@@ -617,7 +639,8 @@ para mostrar widgets."</string>
     <string name="pa_sports_fav_league">Meus eventos</string>
     <string name="pa_sports_fav_title">Minhas equipes.</string>
     <string name="pa_sports_followed">Seguindo</string>
-    <string name="pa_sports_league_detail_download_douyu">Baixar D Encontro para ver</string>
+    <string name="pa_sports_jump_error">"Não foi possível abrir a página devido a um erro."</string>
+    <string name="pa_sports_league_detail_download_douyu">Baixar Douyu para ver</string>
     <string name="pa_sports_league_detail_download_hupu">Baixar link para ver</string>
     <string name="pa_sports_league_detail_view">Visualizar</string>
     <string name="pa_sports_match_league_title">Todos os eventos</string>

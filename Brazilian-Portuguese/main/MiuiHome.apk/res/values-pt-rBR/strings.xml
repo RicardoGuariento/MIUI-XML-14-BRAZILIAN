@@ -449,6 +449,7 @@
     <string name="gadget_weather_title_14">Clima</string>
     <string name="gadget_weather_title_24">Clima</string>
     <string name="garbage_count">Existem %1$s instâncias antigas</string>
+    <string name="global_search">Pesquisar</string>
     <string name="global_search_hint">Pesquisar</string>
     <string name="got_it_botton">Entendi</string>
     <string name="group_folder">Nova pasta</string>
@@ -463,8 +464,11 @@
     <string name="home_gesture_content_center">Centro de Conteúdo</string>
     <string name="home_gesture_global_search">Pesquisar</string>
     <string name="home_gesture_no_action">Nenhum</string>
+    <string name="home_gesture_notification_and_control_center">Sombra de notificação e Centro de controle</string>
     <string name="home_gesture_notification_bar">Notificações</string>
     <string name="home_pull_down_action">Deslizar para baixo na Tela inicial</string>
+    <string name="home_pull_down_know">Entendi</string>
+    <string name="home_pull_up_content">Agora você pode abrir a pesquisa deslizando para baixo na Tela inicial.</string>
     <string name="home_screen">Tela inicial</string>
     <string name="home_slide_up_action">Deslizar para cima na Tela inicial</string>
     <string name="home_switch_personal_assistant">Assistente da Tela inicial</string>
@@ -881,6 +885,7 @@
     <string name="resource_canary_leak_tip">tem vazamento!</string>
     <string name="resource_canary_wait_for_heapdump_message">Descarregando instantâneo de heap...</string>
     <string name="restore_icon_successful">Adicionado com sucesso</string>
+    <string name="risk_app_report">Denunciar este app</string>
     <string name="russia_preinstall_folder_name">Rússia</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>

@@ -35,6 +35,7 @@
     <string name="am">"AM"</string>
     <string name="app_name">Configurações de entrada da Miui</string>
     <string name="app_switch_key">Recentes</string>
+    <string name="application_label">Configurações de entrada</string>
     <string name="au_pay">au PAY</string>
     <string name="auto_disable_screenbuttons_ask">Pedir para desativar</string>
     <string name="auto_disable_screenbuttons_auto">Sempre desativar</string>
@@ -222,6 +223,7 @@ You can view generated logs in File Manager."</string>
     <string name="ks_dialog_conflict">This shortcut is already used for \"%s\"</string>
     <string name="ks_dialog_modify_text">Enter a key combination to edit this shortcut.</string>
     <string name="ks_dialog_reset_btn">Restore</string>
+    <string name="ks_dialog_reset_conflict_text">"Não é possível redefinir. Esta combinação já foi definida."</string>
     <string name="ks_dialog_reset_text_app">Default shortcut preferences for opening apps will be restored. Your custom shortcuts will be deleted. Restore anyway?</string>
     <string name="ks_dialog_reset_text_system">Restore default system shortcut preferences now?</string>
     <string name="ks_dialog_title">Open %s</string>
