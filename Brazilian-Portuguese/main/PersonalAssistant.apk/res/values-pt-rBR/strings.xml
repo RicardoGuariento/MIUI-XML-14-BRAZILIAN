@@ -177,7 +177,8 @@ Toque duas vezes para começar."</string>
 Pressione duas vezes para ver a página de detalhes. 
 Pressione duas vezes e segure para arrastar."</string>
     <string name="pa_accessibility_picker_home_search">Pesquisar widgets</string>
-    <string name="pa_accessibility_picker_home_smallBanner_slected">%1$s selecionado, linha %2$d, número %3$d. Toque duas vezes para começar.</string>
+    <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s.
+Toque duas vezes para começar."</string>
     <string name="pa_accessibility_picker_home_title">Adicionar widget</string>
     <string name="pa_accessibility_picker_home_widget_replace">Selected %s. Switching widgets.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
