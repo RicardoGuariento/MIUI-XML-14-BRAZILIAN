@@ -8437,11 +8437,13 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="shoulder_key_sound_text_wind">Motor</string>
     <string name="shoulder_key_switch_status_close">Desativado</string>
     <string name="shoulder_key_switch_status_open">Ativado</string>
+    <string name="show_alarm_icon_title">Mostrar ícone do alarme</string>
     <string name="show_all_anrs">Mostrar todos os ANRS</string>
     <string name="show_all_anrs_summary">Mostrar \"App não responde\" para apps em seg. plano</string>
     <string name="show_all_apps">Mostrar uso total do dispositivo</string>
     <string name="show_background_processes">Mostrar processo em cache</string>
     <string name="show_badge_notifications_short">Selos</string>
+    <string name="show_bt_icon_title">Mostrar ícone do Bluetooth</string>
     <string name="show_carrier_under_keyguard_title">Mostrar operadora na Tela de bloqueio</string>
     <string name="show_charging_in_non_lockscreen_animation">Mostrar animação de carregamento após o desbloqueio</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Continuar mostrando a animação de carregamento após desbloquear o seu dispositivo ocultando apenas para reprodução de vídeo</string>
@@ -8463,7 +8465,9 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="show_ime_summary">Manter na tela enquanto o teclado físico estiver ativo</string>
     <string name="show_magnifier_when_input">Lupa para texto</string>
     <string name="show_menu">Mostrar o menu</string>
+    <string name="show_mute_icon_title">Mostrar ícone do Modo silencioso</string>
     <string name="show_network_speed_title">Mostrar velocidade da conexão</string>
+    <string name="show_nfc_icon_title">Mostrar ícone NFC</string>
     <string name="show_non_rect_clip">Depurar operações de corte não retangulares</string>
     <string name="show_notification_channel_warnings">Mostrar alertas no canal de notificações</string>
     <string name="show_notification_channel_warnings_summary">Exibe alertas na tela quando um app publicar uma notificação sem um canal válido</string>
