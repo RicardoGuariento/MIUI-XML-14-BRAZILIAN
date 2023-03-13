@@ -881,8 +881,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%d app malicioso detectado</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Pesquisar %d apps</item>
-        <item quantity="one">Pesquisar %d app</item>
+        <item quantity="other">Pesquisar entre %d apps</item>
+        <item quantity="one">Pesquisar entre %d app</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d apps bloqueados aguardando serem limpos</item>

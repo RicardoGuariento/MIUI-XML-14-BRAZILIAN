@@ -164,6 +164,7 @@
     <string name="morning">"AM"</string>
     <string name="night">"PM"</string>
     <string name="no_apps">Sem apps</string>
+    <string name="no_icons">Sem ícones</string>
     <string name="noon">"PM"</string>
     <string name="pm">"PM"</string>
     <string name="reset">Redefinir</string>
@@ -174,6 +175,7 @@
     <string name="select_app">Escolha um app</string>
     <string name="select_apps">Selecionar apps</string>
     <string name="send">Enviar</string>
+    <string name="status_bar_icons">Ícones da barra de status</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

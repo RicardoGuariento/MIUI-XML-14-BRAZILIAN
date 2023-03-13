@@ -8863,6 +8863,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_bar_app_enable_keyguard">Tela de bloqueio</string>
     <string name="status_bar_app_enable_message">Ícone de notificação</string>
     <string name="status_bar_carrier_settings_no_sim_card">Nenhum cartão SIM</string>
+    <string name="status_bar_icons_title">Ícones da barra de status</string>
     <string name="status_bar_settings">Notificações e barra de status</string>
     <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
     <string name="status_bar_settings_carrier_sim">"Cartão SIM %1$s: "</string>
