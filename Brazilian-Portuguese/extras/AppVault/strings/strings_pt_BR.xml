@@ -23,6 +23,9 @@
     <string name="app_gallery">Galeria</string>
     <string name="app_google">"Google"</string>
     <string name="app_health">Mi Saúde</string>
+    <string name="app_midrop">"ShareMe"</string>
+    <string name="app_mifitness">"Mi Fitness"</string>
+    <string name="app_mihome">"Mi Home"</string>
     <string name="app_mipay">Carteira</string>
     <string name="app_mivideo">Mi Vídeo</string>
     <string name="app_notes">Notas</string>
@@ -99,8 +102,10 @@
     <string name="widget_health_stats_desc">Veja suas estatísticas de atividade</string>
     <string name="widget_health_steps">Passos</string>
     <string name="widget_health_steps_desc">Veja as passos de hoje e o progresso da meta</string>
+    <string name="widget_mipay_wallet">Assistente de serviço</string>
+    <string name="widget_mipay_wallet_desc">Visualize rapidamente informações financeiras, de crédito e de seguro e lembretes importantes de tarefas</string>
     <string name="widget_mivideo_local">Vídeos locais</string>
-    <string name="widget_mivideo_local_desc">Acesse rapidamente arquivos de áudio e vídeo locais</string>
+    <string name="widget_mivideo_local_desc">Acesse rapidamente arquivos offline de áudio e vídeo</string>
     <string name="widget_notes_quick">Atalhos</string>
     <string name="widget_notes_quick_desc">Crie e acesse notas e tarefas rapidamente</string>
     <string name="widget_notes_quick_note">Criar notas</string>
