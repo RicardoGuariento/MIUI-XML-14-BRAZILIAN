@@ -716,7 +716,7 @@ A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da ope
     <string name="cit_tool_prx_drx_stop_test">Parar o teste</string>
     <string name="cit_tool_rf_ant">Ferramentas RF/Antena</string>
     <string name="cit_tool_sar_test_tool_title">FERRAMENTA DE TESTE SAR</string>
-    <string name="cit_tool_select_all">Selecionar tudo</string>
+    <string name="cit_tool_select_all">Selecionar todos</string>
     <string name="cit_tool_select_none">Desmarcar</string>
     <string name="cit_tool_select_opposite">Selecionar o oposto</string>
     <string name="cit_tool_setting_expired">Configuração expirada, por favor tente novamente!</string>
@@ -1018,7 +1018,7 @@ Após a calibração ser concluída, controle o acessório perto e longe do disp
     <string name="screen_confirm">Ativar</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="select">Selecionar</string>
-    <string name="select_all">Selecionar tudo</string>
+    <string name="select_all">Selecionar todos</string>
     <string name="select_automatic">Selecionar Automaticamente</string>
     <string name="select_manual">Selecione o Manualmente</string>
     <string name="select_none">Selecione nenhum</string>

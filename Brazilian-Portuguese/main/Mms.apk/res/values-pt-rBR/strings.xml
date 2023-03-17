@@ -143,7 +143,7 @@ adicionado à lista de bloqueio"</string>
     <string name="charge_link">Verificar transação</string>
     <string name="chatbot_list_title">Mensagens 5G</string>
     <string name="chatbot_main_title">"Mini apps"</string>
-    <string name="check_all">Selecionar tudo</string>
+    <string name="check_all">Selecionar todos</string>
     <string name="check_pnr">Verificar PNR</string>
     <string name="class_0_message_activity">Mensagem classe 0</string>
     <string name="classifing">Agrupando mensagens…</string>
@@ -550,7 +550,7 @@ Verifique seu cartão SIM."</string>
     <string name="millionbyte">MB</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecione os itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
@@ -560,11 +560,12 @@ Verifique seu cartão SIM."</string>
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
-    <string name="miuix_appcompat_select_all">Selecionar tudo</string>
+    <string name="miuix_appcompat_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_indexer_collect">Coleções</string>
@@ -693,7 +694,7 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mx_filter_message_from_stranger">Bloquear Mi Mensagens de números desconhecidos</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Você ainda receberá mensagens de números desconhecidos. Você pode ativar ou desativar este recurso a qualquer momento em Mensagens &gt; Configurações.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mi Mensagens de números desconhecidos</string>
-    <string name="mx_filter_message_from_stranger_summary">Você ainda receberá mensagens de números desconhecidos</string>
+    <string name="mx_filter_message_from_stranger_summary">Permitir apenas Mi Mensagens de seus contatos</string>
     <string name="mx_main_purpose">"O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da internet sem a cobrança de tarifas.
 Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela sua operadora."</string>
     <string name="mx_main_purpose_short">O Mi Mensagens permite que usuários da MIUI enviem e recebam mensagens SMS e MMS gratuitamente.</string>

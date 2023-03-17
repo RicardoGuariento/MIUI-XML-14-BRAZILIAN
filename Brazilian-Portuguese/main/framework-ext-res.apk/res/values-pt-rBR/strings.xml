@@ -450,7 +450,7 @@
     <string name="security_permission_xiaomi_account_missed_text">Digite sua ID da Conta Mi</string>
     <string name="security_share_text">Proteção de Privacidade</string>
     <string name="select">Selecionar</string>
-    <string name="select_all">Selecionar tudo</string>
+    <string name="select_all">Selecionar todos</string>
     <string name="send_files_by">Compartilhar arquivos via</string>
     <string name="send_files_to">Enviar itens para</string>
     <string name="service_not_subscribed">SEM ASSINATURA DO SERVIÇO -33-</string>

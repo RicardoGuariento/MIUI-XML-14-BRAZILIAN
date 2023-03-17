@@ -286,7 +286,7 @@
     <string name="public_secre_dialog_tips_agree">Se você aceitar os termos e condições do nosso Contrato do Usuário e a Política de Privacidade, toque em \"Aceitar\" para começar a usar nossos serviços.</string>
     <string name="public_secre_dialog_tips_small">Bem-vindo ao Visualizador de Documentos Mi (Fornecido por WPS)! Você pode usar este app para ver documentos no seu dispositivo.</string>
     <string name="public_secre_dialog_title">Declaração de privacidade</string>
-    <string name="public_selectAll">Selecionar tudo</string>
+    <string name="public_selectAll">Selecionar todos</string>
     <string name="public_selectText">Selecionar</string>
     <string name="public_sensor_ratation_land_tip">Modo paisagem</string>
     <string name="public_sensor_ratation_port_tip">Modo retrato</string>

@@ -3,7 +3,7 @@
     <string name="abc_action_bar_home_description">Navegar para o início</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="action_mode_deselect_all">Desmarcar</string>
-    <string name="action_mode_select_all">Selecionar tudo</string>
+    <string name="action_mode_select_all">Selecionar todos</string>
     <string name="action_mode_title_empty">Selecionar itens</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="actionbar_immersion_button_more_description">Mais</string>
@@ -409,7 +409,7 @@
     <string name="search_action_mode_cancel">Cancelar</string>
     <string name="search_input_description">Pesquisar</string>
     <string name="search_mode_button_back_description">Voltar</string>
-    <string name="select_all">Selecionar tudo</string>
+    <string name="select_all">Selecionar todos</string>
     <string name="select_all_description">Marcar todas</string>
     <string name="select_item">Selecionar itens</string>
     <string name="send">Enviar</string>
