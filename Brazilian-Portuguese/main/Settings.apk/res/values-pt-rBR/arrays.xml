@@ -294,12 +294,12 @@
         <item>Otimizado para qualidade de áudio</item>
         <item>Qualidade de áudio e conexão balanceados</item>
         <item>Otimizado para qualidade de conexão</item>
-        <item>Melhor desempenho (Taxa de bits automática)</item>
+        <item>Melhor empenho (Taxa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
-        <item>Qualidade balanceada de áudio e conexão (660kbps/606kbps)</item>
-        <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
+        <item>Otimizado para qualidade de áudio (990 kbps/909 kbps)</item>
+        <item>Qualidade balanceada de áudio e conexão (660 kbps/606 kbps)</item>
+        <item>Otimizado para qualidade de conexão (330 kbps/303 kbps)</item>
         <item>Melhor efeito (Taxa de bits adaptável)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
@@ -317,14 +317,14 @@
         <item>Otimizado para qualidade da conexão</item>
         <item>Qualidade balanceada de áudio e conexão</item>
         <item>Otimizado para qualidade de áudio</item>
-        <item>Melhor desempenho (Taxa de bits automática)</item>
+        <item>Melhor empenho (Taxa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Otimizado para baixa latência (256kbps)</item>
-        <item>Otimizado para qualidade da conexão (400kbps)</item>
-        <item>Qualidade balanceada de áudio e conexão (500/560kbps)</item>
-        <item>Otimizado para qualidade de áudio (900kbps)</item>
-        <item>Melhor desempenho (Taxa de bits automática)</item>
+        <item>Otimizado para baixa latência (256 kbps)</item>
+        <item>Otimizado para qualidade da conexão (400 kbps)</item>
+        <item>Qualidade balanceada de áudio e conexão (500/560 kbps)</item>
+        <item>Otimizado para qualidade de áudio (900 kbps)</item>
+        <item>Melhor empenho (Taxa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usar seleção do sistema (Padrão)</item>

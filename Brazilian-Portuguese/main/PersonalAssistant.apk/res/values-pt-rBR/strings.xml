@@ -404,6 +404,8 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_olympic_label">Medalhas</string>
     <string name="pa_olympic_medal_count">Total de medalhas</string>
     <string name="pa_olympic_medals_description">Confira o ranking de medalhas olímpicas</string>
+    <string name="pa_open_personal_assistant_dialog_desc">"Se você desativar o Assistente, não poderá usar widgets ou acessá-los deslizando para a direita na Tela inicial. Desativar mesmo assim?"</string>
+    <string name="pa_open_personal_assistant_dialog_title">Desativar o Assistente?</string>
     <string name="pa_operation_switch_summary">Ver widgets populares recentes</string>
     <string name="pa_operation_switch_title">Promoções populares</string>
     <string name="pa_pad_privacy_text">Widgets da Tela inicial</string>
@@ -523,8 +525,8 @@ para mostrar widgets."</string>
     <string name="pa_search_summary">Exibir a barra de pesquisa</string>
     <string name="pa_search_title">Procurar</string>
     <string name="pa_setting">Configurações</string>
-    <string name="pa_setting_app_usage_auth_close_auth">Desligar</string>
-    <string name="pa_setting_app_usage_auth_dialog_message">"Você não poderá usar o widget \"Sugestões do app\" depois de desligar esse recurso. Desligar mesmo assim?"</string>
+    <string name="pa_setting_app_usage_auth_close_auth">Desativar</string>
+    <string name="pa_setting_app_usage_auth_dialog_message">"Você não poderá usar o widget \"Sugestões do app\" depois de desativar esse recurso. Desativar mesmo assim?"</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atenção</string>
     <string name="pa_setting_bugreport">"Feedback"</string>
     <string name="pa_setting_perm_empty">Nada aqui ainda</string>

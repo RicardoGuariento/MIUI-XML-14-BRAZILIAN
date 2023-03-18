@@ -46,15 +46,15 @@ e reproduzir áudio e vídeo neles"</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Ative o Bluetooth</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_3">Ative o Wi-Fi</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_3_global">Ative o Wi-Fi</string>
-    <string name="appcirculate_fragment_circulate_device_card_title">"Can't find
-your devices?"</string>
-    <string name="appcirculate_fragment_circulate_device_content_description">Open on another device: %1$s</string>
-    <string name="appcirculate_fragment_circulate_device_list_app_deliver">Open \"%1$s\" on another device</string>
+    <string name="appcirculate_fragment_circulate_device_card_title">"Não consegue encontrar
+seus dispositivos?"</string>
+    <string name="appcirculate_fragment_circulate_device_content_description">Abra em outro dispositivo: %1$s</string>
+    <string name="appcirculate_fragment_circulate_device_list_app_deliver">Abrir \"%1$s\" em outro dispositivo</string>
     <string name="appcirculate_fragment_circulate_device_list_button_cancel">Cancelar</string>
-    <string name="appcirculate_fragment_circulate_device_list_button_confirm">Search again</string>
-    <string name="appcirculate_fragment_circulate_device_list_text_none"><u>"Can't find your devices?"</u></string>
-    <string name="appcirculate_fragment_circulate_device_list_text_searching">Searching for devices nearby…</string>
-    <string name="appcirculate_toast_busy">Looks like the other device is transferring files now. Wait until the transfer is complete and try again.</string>
+    <string name="appcirculate_fragment_circulate_device_list_button_confirm">Pesquise novamente</string>
+    <string name="appcirculate_fragment_circulate_device_list_text_none"><u>Não consegue encontrar seus dispositivos?</u></string>
+    <string name="appcirculate_fragment_circulate_device_list_text_searching">Procurando por dispositivos próximos…</string>
+    <string name="appcirculate_toast_busy">Parece que o outro dispositivo está transferindo arquivos agora. Aguarde até que a transferência seja concluída e tente novamente.</string>
     <string name="appcirculate_toast_cancel">Cancelado</string>
     <string name="appcirculate_toast_connected">Transmissão iniciada</string>
     <string name="appcirculate_toast_fail">"Não foi possível alternar para outro dispositivo"</string>
@@ -79,16 +79,16 @@ Sign in to your Xiaomi Account in Settings > Xiaomi Account to sync permissions.
     <string name="ball_hint_text_loading">Aguarde…</string>
     <string name="ball_hint_text_success">Connected successfully</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
-    <string name="cast_image_des">Casting tutorial</string>
+    <string name="cast_image_des">Tutorial de transmião</string>
     <string name="casting_tips">Transmitindo…</string>
-    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="chip_text">Chip text</string>
     <string name="circulate_audio_group_title">Playing…</string>
-    <string name="circulate_back_button_content_description">Back</string>
-    <string name="circulate_card_mirror_device_button">Stop</string>
-    <string name="circulate_card_mirror_device_pad_subtitle">"Showing tablet's screen…"</string>
-    <string name="circulate_card_mirror_device_subtitle">"Showing phone's screen…"</string>
+    <string name="circulate_back_button_content_description">Voltar</string>
+    <string name="circulate_card_mirror_device_button">Parar</string>
+    <string name="circulate_card_mirror_device_pad_subtitle">"Mostrando a tela do tablet…"</string>
+    <string name="circulate_card_mirror_device_subtitle">"Mostrando a tela do telefone…"</string>
     <string name="circulate_card_mirror_device_title_laptop">"Computador"</string>
     <string name="circulate_card_mirror_device_title_pad">"Tablet"</string>
     <string name="circulate_card_mirror_device_title_television">"TV"</string>
@@ -98,22 +98,22 @@ Sign in to your Xiaomi Account in Settings > Xiaomi Account to sync permissions.
     <string name="circulate_card_mirror_phone_subtitle">"Arraste \"Tela do dispositivo\" para outro dispositivo
 para espelhar a tela"</string>
     <string name="circulate_card_mirror_phone_title">"Tela do dispositivo"</string>
-    <string name="circulate_card_mirror_subtitle_active_format">Mirroring screen on %1$s</string>
-    <string name="circulate_card_mirror_subtitle_normal">Drag to mirror screen</string>
-    <string name="circulate_card_mirror_subtitle_pad_normal">"Drag to another device
-to mirror this tablet's screen"</string>
+    <string name="circulate_card_mirror_subtitle_active_format">Espelhamento de tela ativada %1$s</string>
+    <string name="circulate_card_mirror_subtitle_normal">Arraste para espelhar a tela</string>
+    <string name="circulate_card_mirror_subtitle_pad_normal">"Arraste para outro dispositivo
+para espelhar a tela deste tablet"</string>
     <string name="circulate_card_mirror_tv_button_1">Janela flutuante</string>
     <string name="circulate_card_mirror_tv_button_2">Tela desligada</string>
     <string name="circulate_card_mirror_tv_button_3">Privacidade</string>
     <string name="circulate_card_sticker">"Stickers"</string>
-    <string name="circulate_card_sticker__remote_control_expend_contentDescription">Show remotes</string>
-    <string name="circulate_card_sticker_access">Double tap to activate</string>
+    <string name="circulate_card_sticker__remote_control_expend_contentDescription">Mostrar controles remotos</string>
+    <string name="circulate_card_sticker_access">Toque duas vezes para ativar</string>
     <string name="circulate_card_sticker_add">Adicionar stickers</string>
-    <string name="circulate_card_sticker_blank_contentDescription">Double tap the blank area to exit</string>
-    <string name="circulate_card_sticker_complete">Done</string>
-    <string name="circulate_card_sticker_control_contentDescription">Control panel</string>
+    <string name="circulate_card_sticker_blank_contentDescription">Toque duas vezes na área em branco para sair</string>
+    <string name="circulate_card_sticker_complete">Concluído</string>
+    <string name="circulate_card_sticker_control_contentDescription">Painel de controle</string>
     <string name="circulate_card_sticker_dressing_equipment">Personalizar dispositivo</string>
-    <string name="circulate_card_sticker_expend_contentDescription">Show customized devices</string>
+    <string name="circulate_card_sticker_expend_contentDescription">Mostrar dispositivos personalizados</string>
     <string name="circulate_card_sticker_no">Sem stickers</string>
     <string name="circulate_card_sticker_remote_control">TV remote</string>
     <string name="circulate_card_sticker_remote_control_bottom">Down</string>
@@ -146,7 +146,7 @@ to mirror this tablet's screen"</string>
     <string name="circulate_cta_premission_wlan_title">Ativar e desativar o Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Leia e aceite o nosso &lt;txt href=\"%1$s\">Contrato do Usuário&lt;/txt> e a nossa &lt;txt href=\"%2$s\">Política de Privacidade&lt;/txt> antes de continuar.</string>
     <string name="circulate_device_type_name_pad">"Tablet"</string>
-    <string name="circulate_device_type_name_pc">Computador</string>
+    <string name="circulate_device_type_name_pc">"Computador"</string>
     <string name="circulate_device_type_name_phone">Telefone</string>
     <string name="circulate_device_type_name_tv">"TV"</string>
     <string name="circulate_device_type_name_wifi_speaker">Alto-falante</string>
