@@ -520,7 +520,6 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="mtrl_picker_a11y_next_month">Mudar para o próximo mês</string>
     <string name="mtrl_picker_a11y_prev_month">Mudar para o mês anterior</string>
     <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">"OK"</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecionar Data</string>
@@ -849,7 +848,6 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_security_none_owe">Nenhum/aprimorado aberto</string>
     <string name="wifi_security_owe">Aprimorado aberto</string>
     <string name="wifi_security_passpoint">passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">WPA3-Personal</string>
     <string name="wifi_security_short_eap">802.1x</string>
@@ -858,7 +856,6 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">None/OWE</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">WPA3</string>
     <string name="wifi_security_short_wep">WEP</string>

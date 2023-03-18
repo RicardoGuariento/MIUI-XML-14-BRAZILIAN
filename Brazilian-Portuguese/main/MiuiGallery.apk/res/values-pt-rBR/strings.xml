@@ -2271,18 +2271,13 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="screen_editor_btn_save">Salvar</string>
     <string name="screen_editor_btn_shell_off">Remover moldura do dispositivo</string>
     <string name="screen_editor_btn_shell_on">Adicionar moldura do dispositivo</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">Não é possível recortar capturas de tela com moldura de dispositivo</string>
     <string name="screen_editor_delete_dialog_msg">Excluir esta captura de tela?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Concluído</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Não é possível adicionar a moldura do dispositivo em capturas de tela recortadas</string>
     <string name="screen_editor_shell_net_error">Conecte-se à rede para baixar a moldura do dispositivo</string>
     <string name="screen_editor_shell_res_downloading">Baixando a moldura do dispositivo…</string>
     <string name="screen_editor_shell_storage_insufficient">Não é possível baixar a moldura do dispositivo devido ao armazenamento ser insuficiente</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Cancelar</string>
     <string name="screen_save_dialog_btn_delete">Excluir captura de tela</string>
     <string name="screen_save_dialog_btn_save">Salvar na Galeria</string>
@@ -2516,7 +2511,6 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="share_with_family">Compartilhar com familiares</string>
     <string name="sharer_quota_fulfiled">Você já compartilhou este álbum com o número máximo de pessoas permitido.</string>
     <string name="show_cloud_albumlist_summary">Novos itens de álbuns selecionados não serão enviados para a nuvem após você desativar a sincronização.</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Gerencie e visualize álbuns ocultos</string>
     <string name="show_hidden_album_title">Ver álbuns ocultos</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Removido com sucesso. Agora você pode visualizar este item entre os \"Álbuns\".</string>
@@ -2929,7 +2923,6 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="to_enable_sync_dialog_message">Ative a sincronização primeiro</string>
     <string name="to_enable_sync_dialog_positive_button_text">Ir às Configurações</string>
     <string name="to_enable_sync_dialog_title">Sincronizar</string>
-    <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="toast_download_with_metered_network_btn_continue">Baixar</string>
     <string name="toast_download_with_metered_network_msg">Parece que o seu dispositivo não está conectado ao Wi-Fi. Baixar itens usando dados móveis?</string>
     <string name="toast_download_with_metered_network_title">Aviso sobre o uso de dados</string>

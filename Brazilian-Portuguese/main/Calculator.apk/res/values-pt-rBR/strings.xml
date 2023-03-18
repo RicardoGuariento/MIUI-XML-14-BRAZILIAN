@@ -709,7 +709,6 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="unit_data_display_currency_btn">Ngultrum Butanês</string>
     <string name="unit_data_display_currency_bwp">Pula Botsuanesa</string>
     <string name="unit_data_display_currency_byn">Rublo Bielorrusso</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Dólar Canadense</string>
     <string name="unit_data_display_currency_cdf">Franco Congolês</string>
     <string name="unit_data_display_currency_chf">Franco Suíço</string>
