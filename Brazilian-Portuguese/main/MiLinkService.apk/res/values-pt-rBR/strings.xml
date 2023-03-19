@@ -79,7 +79,7 @@ Sign in to your Xiaomi Account in Settings > Xiaomi Account to sync permissions.
     <string name="ball_hint_text_loading">Aguarde…</string>
     <string name="ball_hint_text_success">Connected successfully</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
-    <string name="cast_image_des">Tutorial de transmião</string>
+    <string name="cast_image_des">Tutorial de transmissão</string>
     <string name="casting_tips">Transmitindo…</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
