@@ -9147,6 +9147,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="string_kHz_2">"%.1f kHz"</string>
     <string name="string_kHz_3">"%.1f kHz"</string>
     <string name="string_kHz_4">"%.1f kHz"</string>
+    <string name="string_kHz_5">"%.1f kHz"</string>
     <string name="string_never">Nunca</string>
     <string name="string_off">Desativado</string>
     <string name="string_offed">Desativado</string>
