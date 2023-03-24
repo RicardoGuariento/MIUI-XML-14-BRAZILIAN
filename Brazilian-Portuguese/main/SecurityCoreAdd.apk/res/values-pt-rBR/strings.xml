@@ -445,9 +445,9 @@ Ou então você não será capaz de entrar no Segundo espaço a partir da Tela d
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="scanner_fingerprint">Lendo impressão digital…</string>
-    <string name="scanner_fingerprint_enter_second">"Leia a impressão digital do Segundo espaço
-para acessar o Segundo espaço através da Tela de bloqueio"</string>
+    <string name="scanner_fingerprint">Verificando impressão digital…</string>
+    <string name="scanner_fingerprint_enter_second">"Use sua impressão digital do Segundo espaço
+para pode acessá-lo através da Tela de bloqueio"</string>
     <string name="scanner_fingerprint_error_tips_desc">Não foi encontrada uma impressão digital correspondente. Adicionar impressão digital do Segundo espaço?</string>
     <string name="scanner_fingerprint_error_tips_title">Não foi encontrada uma impressão digital correspondente</string>
     <string name="scanner_fingerprint_tips_desc">Selecionar impressão digital existente para acessar o Segundo espaço. Não será possível usaá-la no Primeiro espaço.</string>

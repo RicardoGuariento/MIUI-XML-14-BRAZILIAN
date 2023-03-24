@@ -1791,15 +1791,15 @@ monitoramento de terremotos"</string>
     <string name="exo_controls_playback_speed">Velocidade</string>
     <string name="exo_controls_playback_speed_normal">"Normal"</string>
     <string name="exo_controls_previous_description">Anterior</string>
-    <string name="exo_controls_repeat_all_description">Repetir tudo</string>
-    <string name="exo_controls_repeat_off_description">Não repetir</string>
-    <string name="exo_controls_repeat_one_description">Repetir uma</string>
+    <string name="exo_controls_repeat_all_description">Modo atual: Repetir tudo. Alternar modo de repetição.</string>
+    <string name="exo_controls_repeat_off_description">Modo atual: Não repetir. Alternar modo de repetição.</string>
+    <string name="exo_controls_repeat_one_description">Modo atual: Repetir uma. Alternar modo de repetição.</string>
     <string name="exo_controls_rewind_description">Retroceder</string>
     <string name="exo_controls_seek_bar_description">Andamento da reprodução</string>
     <string name="exo_controls_settings_description">Configurações</string>
     <string name="exo_controls_show">Mostrar controles do player</string>
-    <string name="exo_controls_shuffle_off_description">Reprodução aleatória desativada</string>
-    <string name="exo_controls_shuffle_on_description">Reprodução aleatória ativada</string>
+    <string name="exo_controls_shuffle_off_description">Ativar reprodução aleatória</string>
+    <string name="exo_controls_shuffle_on_description">Desativar reprodução aleatória</string>
     <string name="exo_controls_stop_description">Parar</string>
     <string name="exo_controls_time_placeholder">00:00:00</string>
     <string name="exo_controls_vr_description">Modo RV</string>
@@ -2010,20 +2010,20 @@ monitoramento de terremotos"</string>
     <string name="function_auto_reject_detail_new">"Sobre este recurso:
 %1$d. Enquanto você estiver jogando, todas as chamadas recebidas para o cartão SIM sem serviço de dados móveis serão rejeitadas automaticamente.
 %2$d. Você verá notificações sobre chamadas perdidas e a outra pessoa ouvirá uma mensagem de áudio informando que você está ocupado no momento.
-%3$d. Esse recurso é suportado apenas por operadoras de celular na China."</string>
+%3$d. Esse recurso é suportado apenas por operadoras de celular no Continente Chinês.."</string>
     <string name="function_auto_reject_title">Rejeitar chamadas VoLTE para cartões SIM sem serviço de dados</string>
     <string name="function_close">Desativado</string>
     <string name="function_gwsd_detail">"Sobre este recurso:
- 1. Quando você estiver usando dados móveis em um SIM de dados ou em um SIM normal conectado a uma rede VoLTE, a conexão não será interrompida por chamadas recebidas até você atender.
- 2. Quando este recurso está ativado, a outra pessoa não ouvirá o tom de chamada a não ser que você esteja usando um cartão SIM normal. Chamadas recebidas serão rejeitadas automaticamente após 7-10 segundos de inatividade.
- 3. Cartões SIM de dados fornecidos pela China Mobile e China Unicom são suportados. Cartões SIM normais fornecidos pela China Mobile, China Unicom e China Telecom são suportados."</string>
+1. Quando você estiver usando dados móveis em um SIM de dados ou em um SIM normal conectado a uma rede VoLTE, a conexão não será interrompida por chamadas recebidas até você atender.
+2. Quando este recurso está ativado, a outra pessoa não ouvirá o tom de chamada a não ser que você esteja usando um cartão SIM normal. Chamadas recebidas serão rejeitadas automaticamente após 7-10 segundos de inatividade.
+3. Cartões SIM de dados fornecidos pela China Mobile e China Unicom são suportados. Cartões SIM normais fornecidos pela China Mobile, China Unicom e China Telecom são suportados."</string>
     <string name="function_gwsd_detail_new">"Sobre este recurso:
- %1$d. Quando você estiver usando dados móveis em um SIM de dados ou um cartão SIM comum conectado a uma rede VoLTE, a conexão não será interrompida por chamadas recebidas até que você atenda.
- %2$d. Quando esse recurso estiver ativado, a outra pessoa não poderá ouvir seus tons de retorno de chamada, a menos que você esteja usando um cartão SIM comum. As chamadas recebidas serão rejeitadas automaticamente após %3$d-%4$d segundos de inatividade.
- %5$d. Cartões SIM de dados emitidos pela China Mobile e China Unicom são suportados. Cartões SIM regulares emitidos pela China Mobile, China Unicom e China Telecom são suportados."</string>
+%1$d. Quando você estiver usando dados móveis em um SIM de dados ou um cartão SIM comum conectado a uma rede VoLTE, a conexão não será interrompida por chamadas recebidas até que você atenda.
+%2$d. Quando esse recurso estiver ativado, a outra pessoa não poderá ouvir seus tons de retorno de chamada, a menos que você esteja usando um cartão SIM comum. As chamadas recebidas serão rejeitadas automaticamente após %3$d-%4$d segundos de inatividade.
+%5$d. Cartões SIM de dados emitidos pela China Mobile e China Unicom são suportados. Cartões SIM regulares emitidos pela China Mobile, China Unicom e China Telecom são suportados."</string>
     <string name="function_gwsd_title">Não permitir que chamadas recebidas interrompam a conexão de dados do SIM</string>
     <string name="function_oncall_not_close_network">"Não desconectar para chamadas"</string>
-    <string name="function_oncall_not_close_network_detail">"Sobre este recurso
+    <string name="function_oncall_not_close_network_detail">"Sobre este recurso: 
 %1$d. Este recurso permite que você fique online durante as sessões de jogo sem ser interrompido por chamadas recebidas quando este dispositivo estiver conectado a redes 5G específicas.
 %2$d. Se nenhum dos seus cartões SIM estiver conectado a uma rede 5G, as chamadas recebidas serão rejeitadas automaticamente pelo seu cartão SIM principal.
 %3$d. Este recurso é suportado apenas no continente Chinês.
@@ -2512,6 +2512,7 @@ das suas sessões de jogos"</string>
     <string name="gtb_brightness_adjust">Brilho da tela</string>
     <string name="gtb_brightness_dialog_right_btn">Continuar</string>
     <string name="gtb_brightness_dialog_sub_message">• Você pode ativar e desativar esse recurso nas Configurações.</string>
+    <string name="gtb_casual_guide_toast">Descubra ainda mais em Jogos</string>
     <string name="gtb_content_switch">Recomendações de conteúdo</string>
     <string name="gtb_content_switch_summary">Receba recomendações de conteúdo relacionado a jogos</string>
     <string name="gtb_deep_garbage_cleaning">Fazendo limpeza profunda…</string>
@@ -2727,11 +2728,11 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
     <string name="lock_screen_warning_switch_title">Mostrar alertas na Tela de bloqueio</string>
     <string name="lock_screen_warning_value">Aviso sobre o uso de dados</string>
     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Não foi possível reconhecer a impressão digital, tente novamente.</string>
-    <string name="lockpattern_access_need_to_unlock_wrong_pattern">A senha está incorreta, tente novamente.</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_pattern">A senha que você digitou está incorreta</string>
     <string name="lockpattern_confirm_button_text">"OK"</string>
     <string name="lockpattern_continue_button_text">Avançar</string>
     <string name="lockpattern_need_to_confirm">Desenhe o padrão novamente para confirmá-lo</string>
-    <string name="lockpattern_need_to_unlock_wrong">As senhas não correspondem, tente novamente.</string>
+    <string name="lockpattern_need_to_unlock_wrong">As senhas não correspondem. Tente novamente.</string>
     <string name="lockpattern_pattern_confirmed_header">Novo padrão de desbloqueio</string>
     <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
     <string name="lockpattern_recording_inprogress">Levante o dedo ao terminar</string>
@@ -3429,6 +3430,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_battery_history_show_imei">"IMEI:"</string>
     <string name="pc_battery_history_total_consumption_title">Total de consumo de energia</string>
     <string name="pc_battery_history_usetime_title">Ativo</string>
+    <string name="pc_close_notifi_action">Desativar</string>
     <string name="pc_endurance_calculation">Calculando…</string>
     <string name="pc_entered_extreme_mode">O Modo hibernação está ativado</string>
     <string name="pc_entered_extreme_mode_summary">"Seu dispositivo está sem bateria e entrou no Modo hibernação. Os apps serão executados em segundo plano e não enviarão notificações."</string>
@@ -5775,6 +5777,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="vb_video_effects_dolby_headset">" (Apenas fones de ouvido)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos ativado</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Estéreo expandido</string>
+    <string name="vb_video_effects_dolby_tips">"O Diálogo aprimorado e o Estéreo expandido não funcionarão quando o Som imersivo estiver ativado"</string>
     <string name="vb_video_effects_liquid_summary">Aumente a clareza do diálogo em vídeos</string>
     <string name="vb_video_effects_only_headphone">Só funciona com fones de ouvido</string>
     <string name="vb_video_effects_setting_black_white">Preto e branco</string>
@@ -5798,6 +5801,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="vb_video_effects_spatial">Rastreie o movimento da cabeça</string>
     <string name="vb_video_effects_spatial_summary">"Ajuste o som imersivo com base no movimento da cabeça
 • Suportado apenas em modelos de fone de ouvido para jogos"</string>
+    <string name="vb_video_effects_spatial_summary_new">Experimente uma sensação aprimorada de espaço e direção para áudio compatível ao usar fones de ouvido</string>
     <string name="vb_video_effects_srs_premium_sound">Som</string>
     <string name="vb_video_super_division">Interpolação</string>
     <string name="vb_video_super_division_desc">"Interpolar a resolução automaticamente quando for ≤720p.

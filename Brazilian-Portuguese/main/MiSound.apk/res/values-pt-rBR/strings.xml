@@ -407,6 +407,9 @@
     <string name="now_here">E agora?</string>
     <string name="original_sound">Reproduzir som original</string>
     <string name="password_toggle_content_description">Exibir senha</string>
+    <string name="permission_go_to_settings">Configurações</string>
+    <string name="permission_requesr_content">Permita que este app se conecte a dispositivos próximos em Configurações.</string>
+    <string name="permission_requesr_title">Permissões necessárias</string>
     <string name="personal_sound">Reproduzir com a predefinição aplicada</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>

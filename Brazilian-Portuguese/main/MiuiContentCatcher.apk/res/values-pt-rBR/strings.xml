@@ -32,7 +32,7 @@
     <string name="am">"AM"</string>
     <string name="app_name">Serviço de extensão de App</string>
     <string name="auth_activity_label">Códigos de verificação</string>
-    <string name="auth_fingerprint_content">Lendo impressão digital…</string>
+    <string name="auth_fingerprint_content">Verificando impressão digital…</string>
     <string name="auth_fingerprint_content_message">Coloque o dedo no sensor</string>
     <string name="auth_fingerprint_content_message_error">"Não foi possível ler a impressão digital, tente novamente"</string>
     <string name="auth_fingerprint_title">Verifique sua impressão digital</string>

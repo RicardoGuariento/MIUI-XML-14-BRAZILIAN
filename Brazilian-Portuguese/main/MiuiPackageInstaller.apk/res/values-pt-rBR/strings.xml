@@ -87,6 +87,10 @@
     <string name="app_store_missing_title">App Store não instalada</string>
     <string name="app_version_format">Versão: %1$s</string>
     <string name="application_detail_tips">Configurações de permissões e detalhes do app</string>
+    <string name="auth_type_face">Rosto</string>
+    <string name="auth_type_finger">Impressão digital</string>
+    <string name="auth_type_screen_lock">Bloqueio de tela</string>
+    <string name="auth_type_security_verify">Verificação de Identidade</string>
     <string name="auto_startup_dialog_msg">Este app não pode iniciar sem sua permissão.</string>
     <string name="btn_text_full_scan">Verificação completa</string>
     <string name="btn_text_install_new_version">Última versão</string>
@@ -106,6 +110,10 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="cllapsible_text_state">Ocultar</string>
     <string name="close">Fechar</string>
+    <string name="close_mi_protected_second_tip_dialog_cancel">Não, obrigado</string>
+    <string name="close_mi_protected_second_tip_dialog_msg">Você pode usar métodos de verificação alternativos em vez de um bloqueio de tela normal</string>
+    <string name="close_mi_protected_second_tip_dialog_ok">Adicionar</string>
+    <string name="close_mi_protected_second_tip_dialog_title">Adicionar mais métodos de verificação?</string>
     <string name="close_safe_mode">Desativar</string>
     <string name="comment_count_wan">%1$s avaliações</string>
     <string name="copy">Copiar</string>
@@ -575,6 +583,10 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="risk_app_install_manager">Apps com possíveis riscos</string>
     <string name="risk_close_tip">Desativar a autorização</string>
     <string name="risk_close_tip_des">"Se você desativar esse recurso, os apps de risco serão instalados diretamente sem sua autorização. Teremos que verificar seu bloqueio de tela ou impressão digital se você os definiu anteriormente"</string>
+    <string name="risk_install_already_open">Ativado</string>
+    <string name="risk_install_no_open">Desativado</string>
+    <string name="risk_verification">Verificação de risco</string>
+    <string name="risk_verification_des">Riscos foram detectados com este app. Realize a verificação de risco primeiro para instalá-lo de qualquer maneira ou cancele a instalação.</string>
     <string name="risk_warning_bottom_button">Instalar apps em uma fonte confiável</string>
     <string name="risk_warning_msg">"A assinatura neste pacote de instalação não parece genuína. Para evitar possíveis riscos, instale este app da GetApps."</string>
     <string name="risk_warning_title">Riscos detectados</string>
@@ -582,6 +594,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="safe_des_once">Quando o Modo seguro está ativado, apenas os apps que passaram os testes de segurança da Xiaomi poderão ser instalados no seu dispositivo.</string>
     <string name="safe_des_two">"Evite instalar apps que não passarem nos testes de segurança da Xiaomi."</string>
     <string name="safe_guard_support">Suporte técnico oferecido por %1$s</string>
+    <string name="safe_guard_title_text">Ative o Mi Protect para sua segurança e tranquilidade.</string>
     <string name="safe_high_speed_installing">Instalando versão segura…</string>
     <string name="safe_install">Instalar</string>
     <string name="safe_mode">Modo segurança</string>
@@ -722,6 +735,8 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="user_is_not_allowed_dlg_title">Não permitido</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
+    <string name="verification_word">Verificar</string>
+    <string name="verify_account_default_title">Verifique sua identidade</string>
     <string name="verify_account_title">Verifique sua identidade</string>
     <string name="verify_failed">Falha na verificação</string>
     <string name="verify_to_sure_close">Desativar</string>

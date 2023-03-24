@@ -2373,7 +2373,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="confirm_password_with_fingerprint">Usar impressão digital</string>
     <string name="confirm_password_with_password">Inserir a senha</string>
     <string name="confirm_privacy_password">Insira a Senha de proteção de privacidade</string>
-    <string name="confirm_privacy_password_fingerprint">Leia a impressão digital ou insira a Senha de proteção de privacidade</string>
+    <string name="confirm_privacy_password_fingerprint">Use sua impressão digital ou insira a Senha de proteção de privacidade</string>
     <string name="confirm_reset_aaid">"OK"</string>
     <string name="confirm_sim_deletion_description">Confirmea sua identidade antes de apagar um SIM transferido por download</string>
     <string name="confirm_sim_deletion_title">Confirmar a exclusão do SIM</string>
@@ -3694,7 +3694,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fingerprint_gesture_screen_title">Usar impressão digital</string>
     <string name="fingerprint_gxzw_add_fingerprint_finish">Salvo como \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Inserir senha</string>
-    <string name="fingerprint_identify_msg">Lendo impressão digital…</string>
+    <string name="fingerprint_identify_msg">Verificando impressão digital…</string>
     <string name="fingerprint_identify_try_again_msg">Não foi possível ler a impressão digital, tente novamente</string>
     <string name="fingerprint_intro_error_max">Você adicionou o número máximo de impressões digitais</string>
     <string name="fingerprint_intro_error_unknown">Não é possível adicionar mais impressões digitais</string>

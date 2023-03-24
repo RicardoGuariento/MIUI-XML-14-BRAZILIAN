@@ -425,8 +425,9 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_picker_detail_bottom_bt_text_to_minus">Adicionar ao Assistente</string>
     <string name="pa_picker_detail_bottom_bt_text_un_install">Instale o app para usar seus widgets</string>
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Atualize o app para usar seus widgets</string>
-    <string name="pa_picker_detail_bottom_download_app_and_add_widget">Install app</string>
-    <string name="pa_picker_detail_bottom_update_app_and_add_widget">Update app</string>
+    <string name="pa_picker_detail_bottom_download_app_and_add_widget">Instalar app</string>
+    <string name="pa_picker_detail_bottom_update_app_and_add_widget">Atualizar app</string>
+    <string name="pa_picker_detail_bt_loading">Aguarde…</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Abra o Assistente para adicionar widgets de lá.</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Use o Assistente.</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Cancelar</string>
@@ -449,8 +450,12 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_picker_detail_net_error">Erro de rede. Toque para tentar novamente.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Só um segundo…</string>
     <string name="pa_picker_detail_small_widget">"Widgets"</string>
+    <string name="pa_picker_detail_state_error_retry">Algo deu errado. Tente novamente.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Comprado</string>
     <string name="pa_picker_detail_theme_app_cta">Configurações</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Para poder usar este widget, permita que temas possam se conectarem à Internet primeiro."</string>
+    <string name="pa_picker_detail_theme_app_need_login">Entrar</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Faça login na sua Conta Mi primeiro. "</string>
     <string name="pa_picker_detail_vp2_indicator">Página selecionada: %1$d de %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Este item será baixado via Wi-Fi</string>
     <string name="pa_picker_empty">"Os widgets não estão disponíveis nesta versão do app.
@@ -703,6 +708,7 @@ para mostrar widgets."</string>
     <string name="pa_vertical_center">Layout vertical. Centro alinhado.</string>
     <string name="pa_vertical_left">Layout vertical. Esquerda alinhada.</string>
     <string name="pa_vertical_right">Layout vertical. Direito alinhado.</string>
+    <string name="pa_widget_advert_loading_dialog_message">Aguarde…</string>
     <string name="pa_widget_menu_edit">Editar</string>
     <string name="pa_widget_menu_remove">Remover</string>
     <string name="pa_widget_menu_replace">Alternar</string>
