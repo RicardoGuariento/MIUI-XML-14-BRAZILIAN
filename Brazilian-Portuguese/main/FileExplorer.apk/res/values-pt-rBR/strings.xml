@@ -635,7 +635,6 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="operation_file_downloading_err">"Não foi possível concluir esta ação. Aguarde o download deste arquivo terminar e tente novamente."</string>
     <string name="operation_file_exist_err">"Não foi possível concluir esta ação. Este arquivo já existe."</string>
     <string name="operation_file_not_found_err">"Não foi possível concluir esta ação. Não foi possível encontrar o arquivo original."</string>
-    <string name="operation_favorite">Adicionar aos favoritos</string>
     <string name="operation_gallary">Ver na Galeria</string>
     <string name="operation_hide_sys">Não mostrar arquivos ocultos</string>
     <string name="operation_info">Detalhes</string>
