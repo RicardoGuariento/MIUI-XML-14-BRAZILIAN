@@ -3695,7 +3695,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fingerprint_gxzw_add_fingerprint_finish">Salvo como \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Inserir senha</string>
     <string name="fingerprint_identify_msg">Verificando impressão digital…</string>
-    <string name="fingerprint_identify_try_again_msg">Não foi possível ler a impressão digital, tente novamente</string>
+    <string name="fingerprint_identify_try_again_msg">Não foi possível verificar sua impressão digital, tente novamente</string>
     <string name="fingerprint_intro_error_max">Você adicionou o número máximo de impressões digitais</string>
     <string name="fingerprint_intro_error_unknown">Não é possível adicionar mais impressões digitais</string>
     <string name="fingerprint_last_delete_confirm">Sim, remover</string>
@@ -3709,7 +3709,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fingerprint_manage">Gerenciar impressões digitais</string>
     <string name="fingerprint_manage_category_title">Gerenciar impressões digitais</string>
     <string name="fingerprint_manage_tittle">Impressão digital</string>
-    <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Insira sua senha</string>
+    <string name="fingerprint_not_identified_msg">Não foi possível verificar sua impressão digital. Insira sua senha</string>
     <string name="fingerprint_not_recognized">Não reconhecido</string>
     <string name="fingerprint_others_title">Outros</string>
     <string name="fingerprint_password_unlock">Impressões digitais e bloqueio de tela</string>
@@ -5772,6 +5772,8 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_special_feature">Recursos especiais</string>
     <string name="miui_touch_filtered_touchassistant_warning">A caixa de diálogo de permissões está coberta pelo Acesso rápido. Mova o Acesso rápido ou o desative.</string>
     <string name="miui_touch_filtered_warning">Se um app estiver bloqueando a caixa de permissões, arraste o item que está obstruindo-o ou feche o app.</string>
+    <string name="miui_type_style_summary">Estilo de digitação aplicado quando o leitor de tela está ativado</string>
+    <string name="miui_type_style_title">Estilo de digitação</string>
     <string name="miui_updater">Atualização do sistema</string>
     <string name="miui_userguide">Guia do usuário</string>
     <string name="miuix_access_state_desc">Selecionado</string>
@@ -7152,7 +7154,7 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_password_exit_account_info">A conta será removida automaticamente quando você sair dela</string>
     <string name="privacy_password_fingerprint_confirm_failed">Não foi possível verificar a impressão digital</string>
     <string name="privacy_password_fingerprint_confirm_succes">Impressão digital verificada</string>
-    <string name="privacy_password_fingerprint_dialog_error_title">Não foi possível ler a impressão digital, tente novamente</string>
+    <string name="privacy_password_fingerprint_dialog_error_title">Não foi possível verificar sua impressão digital, tente novamente</string>
     <string name="privacy_password_fingerprint_dialog_message">Coloque seu dedo no sensor</string>
     <string name="privacy_password_fingerprint_dialog_title">Leia sua impressão digital</string>
     <string name="privacy_password_login_and_add_account">Fazer login e adicionar</string>
@@ -8446,7 +8448,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="show_bt_icon_title">Mostrar ícone do Bluetooth</string>
     <string name="show_carrier_under_keyguard_title">Mostrar operadora na Tela de bloqueio</string>
     <string name="show_charging_in_non_lockscreen_animation">Mostrar animação de carregamento após o desbloqueio</string>
-    <string name="show_charging_in_non_lockscreen_animation_summary">Continuar mostrando a animação de carregamento após desbloquear o seu dispositivo ocultando apenas para reprodução de vídeo</string>
+    <string name="show_charging_in_non_lockscreen_animation_summary">Continua exibindo a animação de carregamento após desbloquear seu dispositivo, ocultando-o apenas para reprodução de vídeo e outras cenas semelhantes em tela cheia</string>
     <string name="show_clip_access_notification">Mostrar acesso à prancheta</string>
     <string name="show_clip_access_notification_summary">Mostrar uma mensagem quando os apps acessam texto, imagens ou outro conteúdo que você copiou</string>
     <string name="show_connected_devices_summary">Ver dispositivos conectados</string>

@@ -79,7 +79,7 @@ adicionado à lista de bloqueio"</string>
     <string name="attach_rcs_file">Arquivo</string>
     <string name="attach_rcs_location">Localização</string>
     <string name="attach_record_sound">Gravar áudio</string>
-    <string name="attach_record_video">Capturar vídeo</string>
+    <string name="attach_record_video">Gravar vídeo</string>
     <string name="attach_slideshow">Apresentação de slides</string>
     <string name="attach_sound">Áudio</string>
     <string name="attach_subject">Assunto</string>
@@ -1223,8 +1223,8 @@ Dê uma olhada nos recomendados!"</string>
     <string name="select_different_picture">Escolha uma imagem diferente.</string>
     <string name="select_different_video">Escolha um vídeo diferente.</string>
     <string name="select_link_title">Escolher ação</string>
-    <string name="select_local_audio">Selecionar áudio</string>
-    <string name="select_local_video">Selecionar vídeo</string>
+    <string name="select_local_audio">Selecione o áudio</string>
+    <string name="select_local_video">Selecione o vídeo</string>
     <string name="select_message_send_sim">Escolha o cartão SIM</string>
     <string name="select_phone_number">Selecione um número de telefone</string>
     <string name="select_recipient">Escolher destinatários</string>

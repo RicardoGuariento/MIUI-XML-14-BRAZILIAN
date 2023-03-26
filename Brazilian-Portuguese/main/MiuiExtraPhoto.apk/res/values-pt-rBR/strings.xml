@@ -29,14 +29,11 @@
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
-    <string name="am">""AM""</string>
+    <string name="am">"AM"</string>
     <string name="app_name">Editor de foto MIUI</string>
     <string name="cancel">Cancelar</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
-    <string name="close">Desativar</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
+    <string name="close">"Off"</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="doc_photo_adjust_section_talkback">Recortar e editar</string>
@@ -81,7 +78,6 @@
     <string name="doc_photo_toast_undistortion_open">Antidistorção ativada</string>
     <string name="doc_photo_view_effect">Pré-visualização</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">"PM"</string>
@@ -216,7 +212,7 @@
     <string name="night">"PM"</string>
     <string name="noon">"PM"</string>
     <string name="ok">"OK"</string>
-    <string name="open">On</string>
+    <string name="open">Ativo</string>
     <string name="pm">"PM"</string>
     <string name="refocus_discard_confirm_message">Salvar alterações?</string>
     <string name="refocus_discard_negative_btn">Descartar</string>

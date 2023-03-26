@@ -464,7 +464,7 @@ Fique ligado!"</string>
     <string name="pa_picker_home_group_more">Tudo</string>
     <string name="pa_picker_home_request_failed">Erro de rede</string>
     <string name="pa_picker_home_search_hint">Procurar</string>
-    <string name="pa_picker_home_title">Adicionar widgets.</string>
+    <string name="pa_picker_home_title">Adicionar widgets</string>
     <string name="pa_picker_item_retry">"Não pôde carregar itens. Tente novamente."</string>
     <string name="pa_picker_list_app_footer_classic_widget">Widgets Android</string>
     <string name="pa_picker_list_app_title">Apps com widgets.</string>
@@ -475,7 +475,7 @@ Fique ligado!"</string>
     <string name="pa_picker_list_loading">Aguarde…</string>
     <string name="pa_picker_list_recommend">Recomendado</string>
     <string name="pa_picker_loading">Aguarde…</string>
-    <string name="pa_picker_maml_list_activity_title">Adicionar widgets.</string>
+    <string name="pa_picker_maml_list_activity_title">Adicionar widgets</string>
     <string name="pa_picker_no_relevant_content">"Couldn't find results"</string>
     <string name="pa_picker_permission_denied">"O Assistente precisa acessar o status de instalação
 para mostrar widgets."</string>

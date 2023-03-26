@@ -143,7 +143,7 @@
     <string name="widget_smarthome_environment">Informações do ambiente</string>
     <string name="widget_smarthome_environment_desc">Veja a temperatura, humidade e qualidade do ar da sua casa</string>
     <string name="widget_weather_aqi">Qualidade do ar</string>
-    <string name="widget_weather_aqi_desc">Veja o IQAr nos locais que você selecionar</string>
+    <string name="widget_weather_aqi_desc">Veja o IQA nos locais que você selecionar</string>
     <string name="widget_weather_forecast">Previsão</string>
     <string name="widget_weather_forecast_desc">Veja a previsão do tempo</string>
     <string name="widget_weather_forecast_detail">Previsão</string>

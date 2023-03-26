@@ -70,7 +70,7 @@ seus dispositivos?"</string>
     <string name="audio_record_des">Para transmitir áudio do seu dispositivo móvel para monitores externos</string>
     <string name="auth_MIUI_and_phone_model">"This page is only available to
 MIUI 13 Beta testers."</string>
-    <string name="auth_check_loading">Just a sec…</string>
+    <string name="auth_check_loading">Aguarde…</string>
     <string name="auth_no_user">"This page is only available to Beta testers.
 Sign in to your Xiaomi Account in Settings > Xiaomi Account to sync permissions."</string>
     <string name="auth_phone_model">"This page can't be viewed on this device."</string>
