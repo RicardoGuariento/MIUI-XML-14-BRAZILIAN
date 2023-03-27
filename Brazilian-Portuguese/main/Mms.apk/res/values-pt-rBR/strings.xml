@@ -692,7 +692,7 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mx_enable_ex">Mi Mensagens e Voz</string>
     <string name="mx_enable_popup_msg">O Mi Mensagens permite que você envie mensagens para outros dispositivos com MIUI sem a cobrança de tarifas.</string>
     <string name="mx_filter_message_from_stranger">Bloquear Mi Mensagens de números desconhecidos</string>
-    <string name="mx_filter_message_from_stranger_dialog_desc">Você ainda receberá mensagens de números desconhecidos. Você pode ativar ou desativar este recurso a qualquer momento em Mensagens &gt; Configurações.</string>
+    <string name="mx_filter_message_from_stranger_dialog_desc">Você ainda receberá mensagens SMS de números desconhecidos. Você pode ativar ou desativar este recurso a qualquer momento em Mensagens &gt; Configurações.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mi Mensagens de números desconhecidos</string>
     <string name="mx_filter_message_from_stranger_summary">Permitir apenas Mi Mensagens de seus contatos</string>
     <string name="mx_main_purpose">"O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da internet sem a cobrança de tarifas.

@@ -539,9 +539,9 @@ mm"</string>
     <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
     <string name="silent_alarm_summary">Silencioso</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
-    <string name="skip_alarm_once_hint">Desativar uma vez em %s</string>
+    <string name="skip_alarm_once_hint">Desativar apenas em: %s</string>
     <string name="sleep_analysis">Estatísticas</string>
-    <string name="sleep_analysis_chart_date_format">dd/MM</string>
+    <string name="sleep_analysis_chart_date_format">"dd/MM"</string>
     <string name="sleep_date_provider_text">Os dados do sono são fornecidos pelo Mi Saúde</string>
     <string name="sleep_date_provider_text_new">Os dados do sono são fornecidos pela Mi Fitness</string>
     <string name="sleep_duration">"Duração do sono: "</string>

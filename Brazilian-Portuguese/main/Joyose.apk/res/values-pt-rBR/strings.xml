@@ -95,7 +95,7 @@
     <string name="fmt_weekday_short">E</string>
     <string name="forbidden_fakecell">Não conecte a estações-base falsas</string>
     <string name="forbidden_fakecell_summary">Impedir que seu telefone se conecte a estações-base falsas</string>
-    <string name="foreground_text">Use serviços em primeiro plano para aumentar o nível de prioridade</string>
+    <string name="foreground_text">Usa os serviços em primeiro plano para aumentar o nível de prioridade</string>
     <string name="foreground_title">Serviços em primeiro plano</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>

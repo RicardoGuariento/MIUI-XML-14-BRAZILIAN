@@ -1378,7 +1378,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_enableCarMode">Permite que o app ative o modo Carro.</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">Isenta o app de restrições para gravar áudio.</string>
     <string name="permdesc_expandStatusBar">Permite que o app expanda ou recolha a barra de status.</string>
-    <string name="permdesc_foregroundService">Permite que o app use serviços em primeiro plano.</string>
+    <string name="permdesc_foregroundService">Permite que o app use os serviços em primeiro plano.</string>
     <string name="permdesc_fullScreenIntent">Permite que o app exiba notificações como atividades em tela inteira em um dispositivo bloqueado</string>
     <string name="permdesc_getAccounts">Permite que o app obtenha a lista de contas conhecidas pelo telefone. Isso pode incluir todas as contas criadas pelos apps instalados.</string>
     <string name="permdesc_getPackageSize">Permite que o app recupere o código, os dados e os tamanhos de cache</string>

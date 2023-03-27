@@ -111,7 +111,7 @@
     <string name="HIPS_Perm_recognition">Acessar informações de atividade</string>
     <string name="HIPS_Perm_recognition_Desc">Permite que o app acesse suas informações de atividade</string>
     <string name="HIPS_Perm_service_foreground">Serviços em primeiro plano</string>
-    <string name="HIPS_Perm_service_foreground_Desc">serviços em primeiro plano</string>
+    <string name="HIPS_Perm_service_foreground_Desc">Serviços em primeiro plano</string>
     <string name="HIPS_Perm_show_when_locked">Mostrar na Tela de bloqueio</string>
     <string name="HIPS_Perm_show_when_locked_Desc">ser exibido na Tela de bloqueio</string>
     <string name="HIPS_Perm_tencentControl">Acessar mensagens em apps de rede social</string>
