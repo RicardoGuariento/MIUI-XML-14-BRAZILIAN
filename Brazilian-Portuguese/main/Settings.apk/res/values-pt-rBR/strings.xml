@@ -5180,6 +5180,9 @@ Conecte pelo menos 4 pontos."</string>
     <string name="lockscreen_settings_what_to_show_category">O que mostrar</string>
     <string name="lockscreen_sidepanel_shortcuts_summary">Personalize os apps exibidos no painel lateral da Tela de bloqueio</string>
     <string name="lockscreen_sidepanel_shortcuts_title">Atalhos do painel lateral</string>
+    <string name="lockscreen_trivial_controls_setting_toggle">Controle a partir do dispositivo bloqueado</string>
+    <string name="lockscreen_trivial_controls_summary">Controle dispositivos externos sem desbloquear seu telefone ou tablet, se permitido pelo aplicativo de controle do dispositivo</string>
+    <string name="lockscreen_trivial_disabled_controls_summary">Para utilizar, primeiro ative \"Mostrar controles do dispositivo\"</string>    
     <string name="login_account_dialog_message">Faça o login na sua Conta Mi e ative a sincronização com a nuvem.</string>
     <string name="login_account_dialog_title">Fazer login com a Conta Mi</string>
     <string name="login_account_summary">Gerenciar contas, serviços da nuvem, pagamentos e mais</string>
