@@ -5368,7 +5368,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tc_web_correct_error">Não foi possível calibrar</string>
     <string name="ten_percent_total_pkg">%s (10%% do plano mensal)</string>
     <string name="terminal_privacy">Proteção de privacidade no dispositivo</string>
-    <string name="terminal_privacy_ability">Features and mechanisms</string>
+    <string name="terminal_privacy_ability">Características e mecanismos</string>
     <string name="terminal_privacy_ability_img">Características e mecanismos</string>
     <string name="terminal_privacy_ability_img_summary">Edição inteligente e reconhecimento de fotos e vídeos em Câmera, Galeria e Taplus</string>
     <string name="terminal_privacy_ability_model">Reconhecer como seu dispositivo interage com o ambiente</string>
