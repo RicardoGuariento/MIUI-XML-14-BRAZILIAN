@@ -795,6 +795,8 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="privacy_runtime_perm_contacts_title">Acessar e editar contatos</string>
     <string name="privacy_runtime_perm_external_storage_desc">Para sincronizar fotos de perfil de contato e anexos de mensagens</string>
     <string name="privacy_runtime_perm_external_storage_title">Acessar o armazenamento</string>
+    <string name="privacy_runtime_perm_notification_desc">Para enviar notificações de serviços MiCloud</string>
+    <string name="privacy_runtime_perm_notification_title">Notificações</string>
     <string name="privacy_runtime_perm_phone_state_desc">Para acessar o número de telefone e o status do dispositivo</string>
     <string name="privacy_runtime_perm_phone_state_title">Acessar informações do dispositivo</string>
     <string name="privacy_runtime_perm_sms_desc">Para sincronizar mensagens</string>

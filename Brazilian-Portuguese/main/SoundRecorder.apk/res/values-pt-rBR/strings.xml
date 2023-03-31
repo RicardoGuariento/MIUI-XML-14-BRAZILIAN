@@ -174,6 +174,10 @@
     <string name="high_bit_rate">"MP3, ~%1$d kbps, ~%2$d MB/h"</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>
     <string name="invalid_argument">Argumento inválido</string>
+    <string name="invisible_mode_dialog_message">Não é possível usar o microfone quando você está anônimo. Desative o Modo anônimo primeiro.</string>
+    <string name="invisible_mode_dialog_negative">Cancelar</string>
+    <string name="invisible_mode_dialog_positive">Desativar</string>
+    <string name="invisible_mode_dialog_title">Você está anônimo</string>
     <string name="invisible_mode_error_tip">Desative o Modo anônimo nas Configurações para poder usar o microfone</string>
     <string name="item_view_role_description">Guia</string>
     <string name="keywords_search_call_record">Gravar chamadas;Gravar chamada;Gravação de chamada;Gravação de chamadas</string>
