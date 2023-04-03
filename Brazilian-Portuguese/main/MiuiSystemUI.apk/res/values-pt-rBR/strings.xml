@@ -1322,10 +1322,6 @@ prioridades"</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Aumentando a velocidade de carregamento %s</string>
     <string name="keyguard_charging_info_battery_used_time_text">Na bateria</string>
     <string name="keyguard_charging_info_click_to_detail">Ver detalhes</string>
-    <string name="keyguard_charging_info_data_c">"%s °C"</string>
-    <string name="keyguard_charging_info_data_ma">"%s mA"</string>
-    <string name="keyguard_charging_info_data_percent">"%s%%"</string>
-    <string name="keyguard_charging_info_data_v">"%s V"</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descarregou</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Hoje %s</string>
@@ -1343,7 +1339,6 @@ prioridades"</string>
     <string name="keyguard_enter_your_password">Digite sua senha</string>
     <string name="keyguard_enter_your_pattern">Desenhe seu padrão</string>
     <string name="keyguard_enter_your_pin">Digite seu PIN</string>
-    <string name="keyguard_fancy_colon" />
     <string name="keyguard_indication_charging_time">%2$s • Carregando (%1$s até completar)</string>
     <string name="keyguard_indication_charging_time_fast">%2$s • Carregamento rápido (%1$s até completar)</string>
     <string name="keyguard_indication_charging_time_slowly">%2$s • Carregando lentamente (%1$s até completar)</string>
@@ -2173,7 +2168,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="private_dns_mode_provider">Nome do host do provedor de DNS</string>
     <string name="private_dns_mode_provider_failure">Não foi possível conectar</string>
     <string name="private_dns_mode_provider_hostname_hint">Digite o nome do host do provedor de DNS</string>
-    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema na conexão. Desligue o dispositivo e ligue novamente</string>
     <string name="profile_info_settings_title">Informações de perfil</string>
     <string name="profile_owned_footer">O perfil pode ser monitorado</string>
@@ -2353,7 +2347,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_sim_disabled">" (Desativado)"</string>
     <string name="quick_settings_sync_label">Sincronizar</string>
     <string name="quick_settings_tethering_label">Ancoragem</string>
-    <string name="quick_settings_tiles">padrão</string>
     <string name="quick_settings_time_label">Hora</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Para adicionar um item, pressione-o e segure-o, e então arraste-o para a parte de cima do painel.</string>
     <string name="quick_settings_ui_mode_night_label">Tema escuro</string>
@@ -2973,7 +2966,6 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="using_microphone">Este app está acessando o microfone</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
-    <string name="velocity_tracker_impl">plataforma</string>
     <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo em apps instalados via ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Verificar apps por USB</string>
     <string name="video_status">Assistindo</string>

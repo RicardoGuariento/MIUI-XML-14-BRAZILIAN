@@ -367,7 +367,6 @@ adicionado à lista de bloqueio"</string>
     <string name="file_size">Tamanho:</string>
     <string name="file_title">Nome:</string>
     <string name="file_width_height">Tamanho:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="flight">Voo</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -789,9 +788,6 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="playing_failed">Não é possível reproduzir</string>
     <string name="pm">"PM"</string>
     <string name="pnr">PNR</string>
-    <string name="prefDefault_vibrateWhen">nunca</string>
-    <string name="prefDefault_vibrate_false">nunca</string>
-    <string name="prefDefault_vibrate_true">sempre</string>
     <string name="pref_advanced_settings_title">Configurações adicionais</string>
     <string name="pref_allow_network_access_summary">Obtenha as últimas informações em entregas e outros serviços</string>
     <string name="pref_cell_broadcast">Alertas de emergência</string>

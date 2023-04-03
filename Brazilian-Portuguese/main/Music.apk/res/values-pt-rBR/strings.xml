@@ -155,7 +155,6 @@
     <string name="app_description_content">Música é um app de sistema que combina um reprodutor de áudio e permite que você gerencie arquivos de áudio. Você ainda poderá reproduzir arquivos de áudio após remover o atalho da Tela inicial.</string>
     <string name="app_description_title">Remover \"Música\" da Tela inicial?</string>
     <string name="app_label">"Downloads"</string>
-    <string name="app_name">Música</string>
     <string name="app_permission_confirm">Entendi</string>
     <string name="app_permission_optional">Permissões opcionais</string>
     <string name="app_permission_require">Permissões obrigatórias</string>
@@ -808,9 +807,7 @@ Send this code to the supervisor."</string>
     <string name="exo_media_action_repeat_all_description">Repetir tudo</string>
     <string name="exo_media_action_repeat_off_description">Não repetir</string>
     <string name="exo_media_action_repeat_one_description">Repetir uma</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">"Mono"</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternativo</string>
     <string name="exo_track_role_closed_captions">Legendas</string>
     <string name="exo_track_role_commentary">Comentário</string>
@@ -1154,7 +1151,6 @@ Send this code to the supervisor."</string>
     <string name="impunity_declaration_summary">Mostrar Termos de Serviço sempre que o app de Música for aberto</string>
     <string name="impunity_declaration_title">Termos de Serviço</string>
     <string name="in_searching_please_wait">Procurando…</string>
-    <string name="include_sensitive_extra">falso</string>
     <string name="inconsistent_pwd">"Passwords don't match"</string>
     <string name="individuation_card_login_button">Fazer login</string>
     <string name="individuation_card_login_message">Faça o login para encontrar mais músicas que você vai adorar</string>
@@ -1900,7 +1896,6 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="privacy_dialog_desc">&lt;Data>Hi, welcome to GoGo Voice Room, come here to enjoy music with friends. Please agree to the &lt;a href=\"%1$s\">GoGo User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using&lt;/Data></string>
     <string name="privacy_dialog_disapproval">Disapproval</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="privacy_policy_url">https://privacy.mi.com/all/pt_BR/</string>
     <string name="privacy_request_desc"><Data>"O Música precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode saber mais sobre como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt;. Você pode retirar o seu consentimento da Política de Privacidade do Música nas Configurações a qualquer momento.
 Leia e aceite o nosso &lt;a href=\"%2$s\"&gt;Contrato do Usuário&lt;/a&gt; e a &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt; antes de usar o Música.
 Se você não aceitar em usar os serviços acima mencionados, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
@@ -2454,7 +2449,6 @@ Seja feliz"</string>
     <string name="user_agreement_hint_with_mobile"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
     <string name="user_agreement_hint_with_telecom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
     <string name="user_agreement_hint_with_unicom"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=pt_br</string>
     <string name="user_already_seated">You are already on the microphone, this operation is invalid~</string>
     <string name="user_avatar_update_title">Change profile photo</string>
     <string name="user_avatar_uploading">Just a sec…</string>
@@ -2620,7 +2614,6 @@ Toque em %s para iniciar este download da próxima vez que você estiver conecta
     <string name="withdraw_toast3">Only coins left in the account can be withdrawn</string>
     <string name="withdraw_toast4">The withdrawal amount must not be less than 1,000 coins</string>
     <string name="withdraw_toast5">Withdrawals must be in multiples of 10</string>
-    <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
@@ -2628,8 +2621,6 @@ Tamanho: %2$s"</string>
 Tamanho de atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s atualização!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
     <string name="yes">yes</string>
     <string name="yesterday">Ontem</string>
     <string name="you">you</string>

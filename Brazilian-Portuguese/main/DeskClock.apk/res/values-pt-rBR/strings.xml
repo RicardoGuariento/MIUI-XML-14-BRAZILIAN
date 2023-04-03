@@ -538,7 +538,6 @@ mm"</string>
     <string name="shutdown_alarm_enable_summary">O alarme tocará se for definido para pelo menos 10 minutos após você desligar seu dispositivo</string>
     <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
     <string name="silent_alarm_summary">Silencioso</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Desativar apenas em: %s</string>
     <string name="sleep_analysis">Estatísticas</string>
     <string name="sleep_analysis_chart_date_format">"dd/MM"</string>

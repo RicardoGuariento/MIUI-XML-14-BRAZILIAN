@@ -189,8 +189,6 @@
     <string name="feedback_custom_hint">Descreva os problemas que você encontrou aqui. Se está sugerindo algo, agradecemos pelo seu esclarecimento com mais detalhes!</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_dspt_provision">Se você perder seu dispositivo, acesse &lt;font color=#0097FF>%s&lt;/font> para localizá-lo, bloqueá-lo ou apagá-lo. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com/?_locale=pt_BR</string>
-    <string name="find_device_dspt_provision_2_int">https://i.mi.com/?_locale=pt_BR</string>
     <string name="find_device_error_network">Verifique sua conexão de dados e tente novamente.</string>
     <string name="find_device_error_server">Erro no servidor</string>
     <string name="find_device_gdpr_prompt">"Ao ativar o Encontrar dispositivo, você concorda com a nossa <u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a></u>. Desative este recurso se quiser retirar seu consentimento."</string>
@@ -434,14 +432,11 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_find_device_open_fail">"Não foi possível ativar o 'Encontrar dispositivo'"</string>
     <string name="micloud_find_device_opened">Encontrar dispositivo está ativado</string>
     <string name="micloud_find_device_opened_content">Encontre seu dispositivo em %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com/?_locale=pt_BR</string>
     <string name="micloud_find_device_sms_alert">Um SMS pode ser necessário para ativar este serviço. A sua operadora poderá cobrar por este SMS. Quando você troca de cartão SIM, uma mensagem pode ser enviada automaticamente apra reativar este recurso.</string>
     <string name="micloud_find_device_verify_button">Reativar o Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_close">Desativar o Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_fail">Não foi possível ativar o Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_progress">Reativando o Encontrar dispositivo…</string>
-    <string name="micloud_footer_international_url">i.mi.com/?_locale=pt_BR</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">A sincronização foi cancelada. Tente novamente.</string>
     <string name="micloud_main_head_menu_cloud_backup">"Backups"</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Configurações do sistema e layout da Tela inicial</string>

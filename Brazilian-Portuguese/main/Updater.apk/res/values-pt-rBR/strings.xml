@@ -19,7 +19,6 @@
     <string name="channel_service">Serviço em segundo plano das atualizações</string>
     <string name="channel_update">Nova versão disponível</string>
     <string name="check_new_version">Procurar por atualizações</string>
-    <string name="chengelog">%1$s</string>
     <string name="default_filedownloader_notification_content">FileDownloader está em execução.</string>
     <string name="default_filedownloader_notification_title">FileDownloader</string>
     <string name="dialog_3g_desc">Lembre-se de que o uso de dados móveis para baixar ROMs pode exigir uma quantia significativa do seu pacote.</string>
@@ -61,7 +60,6 @@ Seus dados não serão apagados."</string>
     <string name="menu_title_recovery">Reiniciar para o Modo recovery</string>
     <string name="menu_title_recovery_mode">Alternar para o Modo recovery</string>
     <string name="menu_title_show_notifications">Mostrar notificações</string>
-    <string name="message">%1$s</string>
     <string name="message_checkbox">Ocultar mensagens futuras do time da Xiaomi.eu</string>
     <string name="message_checkbox_device">Não mostrar novamente</string>
     <string name="message_title">IMPORTANTE!</string>

@@ -723,7 +723,6 @@ taxa de amostragem"</string>
     <string name="private_dns_mode_provider">Nome do host do provedor de DNS particular</string>
     <string name="private_dns_mode_provider_failure">Não foi possível conectar</string>
     <string name="private_dns_mode_provider_hostname_hint">Informe o nome do host do provedor de DNS</string>
-    <string name="process_kernel_label">Sistema operacional Android</string>
     <string name="profile_connect_timeout_subtext">Ocorreu um problema na conexão. Desligue o dispositivo e ligue-o novamente</string>
     <string name="profile_info_settings_title">Informações do perfil</string>
     <string name="remaining_length_format">%1$s restante(s)</string>

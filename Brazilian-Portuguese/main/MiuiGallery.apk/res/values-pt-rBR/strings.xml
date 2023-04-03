@@ -378,7 +378,6 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="by_sms">"SMS"</string>
     <string name="byteShort">"B"</string>
     <string name="camera_needs_auto_backup_tip">O álbum da câmera precisa ser sincronizado</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="can_authorize_owner_albums_share_to_tv">Autorize ver os álbuns na sua TV</string>
     <string name="can_not_transfer_when_screening">Não é possível transmitir durante transferências</string>
     <string name="cancel">Cancelar</string>
@@ -400,7 +399,6 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="card_description_annual_peoples">Rostos, histórias, lugares</string>
     <string name="card_description_annual_pets">Caudas, patas e bigodes</string>
     <string name="card_description_annual_travel">Coisas que viu enquanto viajava</string>
-    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Eventos</string>
     <string name="card_title_annual_babys">A gracinha em %1$s</string>
     <string name="card_title_annual_events">As minhas festas em %1$s</string>
@@ -415,7 +413,6 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="card_title_pastyear_party">Festas do ano passado</string>
     <string name="card_title_pastyear_sports">Treinos do ano passado</string>
     <string name="card_title_recent_memory">Memórias recentes</string>
-    <string name="card_title_somewhere">%1$s</string>
     <string name="card_title_sports">Treinos</string>
     <string name="card_title_three_month_baby">O tempo voa</string>
     <string name="cast_devices_unavailable_desc">Certifique-se de que este dispositivo e o projetor estão conectados na mesma rede Wi-Fi</string>
@@ -866,7 +863,6 @@ Tire mais fotos de seus amigos!"</string>
     <string name="face_name_edit">Editar</string>
     <string name="face_name_input">Inserir nome</string>
     <string name="face_recommend">Recomendações</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Não foi possível concluir a operação</string>
     <string name="fail_reason_migrate">Processing items… Wait a minute or two and try again.</string>
     <string name="fail_to_pick_email">Endereço de e-mail inválido</string>
@@ -881,7 +877,6 @@ estão disponíveis"</string>
     <string name="feedback_my_reports">"Feedback"</string>
     <string name="feedback_problem">Informar um problema</string>
     <string name="feedback_suggest">Envie uma sugestão</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">Não é possível imprimir este item.</string>
     <string name="file_cannot_screen_throw">Não é possível transmitir este item.</string>
     <string name="file_sending">Baixando arquivos…</string>
@@ -1150,7 +1145,6 @@ estão disponíveis"</string>
     <string name="grant_permission_go_and_set">Configurar</string>
     <string name="grant_permission_go_and_set_2">Configurações</string>
     <string name="grant_permission_go_and_set_3">Configurações</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Permissões necessárias</string>
     <string name="grant_permission_manage_storage_unlock">Desbloqueie seu dispositivo e permita que este app acesse todos os arquivos para poder visualizar os itens.</string>
     <string name="grant_permission_shortcut">Primeiro permita que este app crie atalhos para à Tela inicial.</string>
@@ -1839,7 +1833,6 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="people_mark_mode_title_no_mark_name">Selecione uma pessoa</string>
     <string name="people_page_label">Pessoas</string>
     <string name="people_page_unname">Sem nome</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Para fazer login e gerenciar a conta do sistema</string>
     <string name="permission_account_name">Acessar contas</string>
     <string name="permission_clipboard_desc">Para acessar e salvar itens na área de transferência</string>

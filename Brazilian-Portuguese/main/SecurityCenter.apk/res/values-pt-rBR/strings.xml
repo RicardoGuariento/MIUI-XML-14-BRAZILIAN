@@ -1810,7 +1810,6 @@ monitoramento de terremotos"</string>
     <string name="exo_download_notification_channel_name">"Downloads"</string>
     <string name="exo_download_removing">Removendo downloads</string>
     <string name="exo_track_mono">"Mono"</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternar</string>
     <string name="exo_track_role_closed_captions">Legendas</string>
     <string name="exo_track_role_commentary">Comentário</string>
@@ -3672,11 +3671,6 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_dialog_msg_top">Quando a Economia de bateria está ativada, a MIUI efetuará as seguintes otimizações:</string>
     <string name="power_center_hints_scan_danger_result">Você pode corrigir problemas de bateria agora</string>
     <string name="power_center_list_item_auto_brightness">Ajustar brilho da tela automaticamente</string>
-    <string name="power_center_list_item_battery_health_model_temperature">"%d ℃"</string>
-    <string name="power_center_list_item_battery_health_model_voltage">"%s V"</string>
-    <string name="power_center_list_item_battery_health_model_volume">"%s mAh"</string>
-    <string name="power_center_list_item_battery_status_capacity">"mAh"</string>
-    <string name="power_center_list_item_battery_status_temperature">"℃"</string>
     <string name="power_center_list_item_battery_status_time">"h"</string>
     <string name="power_center_list_item_close_bluetooth">Desativar Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Configurações avançadas</string>
@@ -4350,7 +4344,6 @@ Retirar consentimento agora?"</string>
     <string name="privacy_using_record">Gravar áudio</string>
     <string name="privacyapp_number_masked_text">O conteúdo da notificação está oculto</string>
     <string name="privacyapp_number_unmasked_text">O conteúdo da notificação pode ser oculto</string>
-    <string name="process_kernel_label">"Android"</string>
     <string name="process_mediaserver_label">Servidor de mídia</string>
     <string name="process_vpnsdkmanager_label">"Game Turbo"</string>
     <string name="promotion">Anúncio</string>

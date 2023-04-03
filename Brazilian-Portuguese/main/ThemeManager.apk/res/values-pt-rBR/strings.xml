@@ -344,9 +344,7 @@
     <string name="exo_download_paused_for_wifi">Downloads aguardando WiFi</string>
     <string name="exo_download_removing">Removendo downloads</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2fMbps</string>
     <string name="exo_track_mono">"Mono"</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternar</string>
     <string name="exo_track_role_closed_captions">"CC"</string>
     <string name="exo_track_role_commentary">Comentário</string>

@@ -217,7 +217,6 @@
     <string name="advanced_mobile_settings">Configurações avançadas</string>
     <string name="advanced_options_title">Avançado</string>
     <string name="advanced_settings">Configurações opcionais</string>
-    <string name="advanced_settings_container">contêiner de configurações avançadas</string>
     <string name="advanced_settings_hide">▽ Toque para ocultar tudo</string>
     <string name="advanced_settings_show">▷ Toque para mostrar tudo</string>
     <string name="advertisements_disable">Anúncios desativados</string>
@@ -1903,7 +1902,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="overlay_display_devices_title">Simular telas secundárias</string>
     <string name="overseas_roaming_setting">Roaming de dados</string>
     <string name="pane_title_emergency_dialpad">Teclado de emergência</string>
-    <string name="password">Senha</string>
     <string name="password_changed">Senha alterada</string>
     <string name="password_title">Senha</string>
     <string name="password_toggle_content_description">Mostar senha</string>
@@ -1999,9 +1997,7 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="pointer_location">Localização do cursor</string>
     <string name="pointer_location_summary">Exibir dados de toque</string>
     <string name="police_type_description">Polícia</string>
-    <string name="port">Porta</string>
     <string name="port_title">Número da porta</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s até a carga completa</string>
     <string name="power_charging_limited">%1$s - Carregamento temporariamente limitado</string>
     <string name="power_discharge_by">Deve durar até por volta de %1$s (%2$s)</string>
@@ -2123,7 +2119,6 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="private_dns_mode_provider_hostname_hint">Informe o nome do host do provedor de DNS</string>
     <string name="private_num">Número privado</string>
     <string name="private_num_kr">Identificação de chamadas restrita</string>
-    <string name="process_kernel_label">Sistema operacional Android</string>
     <string name="profile_connect_timeout_subtext">Ocorreu um problema na conexão. Desligue o dispositivo e ligue-o novamente</string>
     <string name="profile_info_settings_title">Informações do perfil</string>
     <string name="progress_dialog_exiting_ecm">Saindo do Modo de Retorno de Chamada de Emergência</string>
@@ -2696,7 +2691,6 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="transcode_settings_title">Configurações de transcodificação de mídia</string>
     <string name="transcode_user_control">Substituir padrões de transcodificação</string>
     <string name="transition_animation_scale_title">Escala anim. de transição</string>
-    <string name="transport">Protocolo</string>
     <string name="transport_title">Tipo de transporte</string>
     <string name="trigger_carrier_provisioning">Acionar fornecimento da operadora</string>
     <string name="tts_default_lang_summary">Define a voz específica do idioma para o texto falado</string>
@@ -2793,7 +2787,6 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="user_setup_dialog_title">Configurar o usuário agora?</string>
     <string name="user_setup_profile_dialog_message">Configurar perfil agora?</string>
     <string name="user_switch_to_user">Mudar para %s</string>
-    <string name="username">Nome de usuário</string>
     <string name="username_title">Nome de usuário</string>
     <string name="ussdRunning">Código USSD em execução…</string>
     <string name="ut_not_support">O UT não está disponível</string>

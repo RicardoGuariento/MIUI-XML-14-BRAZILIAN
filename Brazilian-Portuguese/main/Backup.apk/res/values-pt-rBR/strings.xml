@@ -1041,11 +1041,8 @@ Não feche a página antes da conexão ser estabelecida."</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="wifi_title">Configurações de Wi-Fi</string>
-    <string name="xiaomi_bytes_unit">"%1$s B"</string>
     <string name="xiaomi_connect_download_manager_fail">Não foi possível iniciar o download. Certifique-se que o Gerenciador de Downloads está funcionando normalmente.</string>
     <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique seu cartão SD.</string>
-    <string name="xiaomi_kilobytes_unit">"%1$s KB"</string>
-    <string name="xiaomi_megabytes_unit">"%1$s MB"</string>
     <string name="xiaomi_router">Roteador Mi</string>
     <string name="xiaomi_router_location">Roteador Mi %s</string>
     <string name="xiaomi_update_dialog_message">"Introduzindo a versão %1$s

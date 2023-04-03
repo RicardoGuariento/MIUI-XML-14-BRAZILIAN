@@ -35,7 +35,6 @@
     <string name="about_lasted_version">Essa é a última versão</string>
     <string name="account_add_other_sub_des">Outras contas</string>
     <string name="account_add_title">Selecione um serviço de e-mail</string>
-    <string name="account_cache_provider">Provedor de cache da conta</string>
     <string name="account_change">Mudar de conta</string>
     <string name="account_child_dialog_neg_text">Sair</string>
     <string name="account_child_dialog_pos_text">Responsável aceita</string>
@@ -307,7 +306,6 @@ IMAP"</string>
     <string name="back">Voltar</string>
     <string name="bank_card_detail">Detalhes do cartão de crédito</string>
     <string name="bcc">Cco</string>
-    <string name="bcc_heading">"Cco: "</string>
     <string name="bill_center_setting">Configuração de faturas</string>
     <string name="bill_center_setting_head">Importar informações destas contas</string>
     <string name="bill_cycle_text">Ciclo de faturamento</string>
@@ -337,7 +335,6 @@ IMAP"</string>
     <string name="cancel_pop3_attchemt_downloading">Não é possível cancelar downloads em andamento para anexos em contas POP3</string>
     <string name="cant_move_or_change_labels">Não é possível mover itens de várias contas ao mesmo tempo.</string>
     <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Cco</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">Não foi possível adicionar certificado \"%s\"</string>
@@ -442,7 +439,6 @@ IMAP"</string>
     <string name="conversation_cert_info_tips">Este e-mail foi assinado com um certificado confiável</string>
     <string name="conversation_cert_info_title">Assinado</string>
     <string name="conversation_cert_trust">Confiar</string>
-    <string name="conversation_content_provider">Provedor de conteúdo de conversa</string>
     <string name="conversation_detail_hide">Ocultar</string>
     <string name="conversation_detail_show">Detalhes</string>
     <string name="conversation_folder_moved">Mensagem movida para a pasta %1$s</string>
@@ -753,7 +749,6 @@ IMAP"</string>
     <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
     <string name="forward_download_failed_ticker">Não foi possível encaminhar todos os anexos.</string>
     <string name="forward_download_failed_title">Anexo não encaminhado</string>
-    <string name="forward_subject_label">Enc:</string>
     <string name="free_period_text">Período sem juros</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
@@ -903,14 +898,6 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="mailbox_name_display_starred">Com estrela</string>
     <string name="mailbox_name_display_trash">Lixeira</string>
     <string name="mailbox_name_display_unread">Não lido</string>
-    <string name="mailbox_name_server_all_unread">Não lido</string>
-    <string name="mailbox_name_server_drafts">Rascunhos</string>
-    <string name="mailbox_name_server_inbox">Caixa de entrada</string>
-    <string name="mailbox_name_server_junk">Spam</string>
-    <string name="mailbox_name_server_outbox">Caixa de saída</string>
-    <string name="mailbox_name_server_sent">Enviado</string>
-    <string name="mailbox_name_server_starred">Favoritos</string>
-    <string name="mailbox_name_server_trash">Lixo</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sincronização desativada</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sincronização ativada</string>
     <string name="mailbox_settings_activity_title">Configurações de sincronização</string>
@@ -1330,7 +1317,6 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="policy_require_smime">Exigir mensagens em SMIME</string>
     <string name="policy_text_truncation">Restringir o tamanho do e-mail em texto</string>
     <string name="pop3_name">"POP3"</string>
-    <string name="prefDefault_autoAdvance">lista</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preference_eas_tips">Toque em \"Ativar\" para definir um servidor de e-mail.</string>
     <string name="preference_imap_tips" />
@@ -1421,7 +1407,6 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="reply_add_bodycontent">Adicionar a resposta ao corpo da mensagem?</string>
     <string name="reply_all">Resp. a todos</string>
     <string name="reply_attribution">%2$s escreveu em %1$s:</string>
-    <string name="reply_subject_label">"Re:"</string>
     <string name="report_phishing">Reportar phishing</string>
     <string name="report_spam">Reportar spam</string>
     <string name="request_copy_db_to_disk">O E-mail está pedindo para copiar seu banco de dados em um arquivo</string>
