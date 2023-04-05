@@ -515,7 +515,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="headset_read_fw_state">"Não foi possível obter informações de atualização"</string>
     <string name="headset_update_failed">"Não foi possível atualizar"</string>
     <string name="headset_update_ok">Concluído</string>
-    <string name="headset_updating">Atualizando</string>
+    <string name="headset_updating">"Atualizando "</string>
     <string name="help_feedback_label">Ajuda e feedback</string>
     <string name="help_label">Ajuda e feedback</string>
     <string name="help_url_imsi_protection" />

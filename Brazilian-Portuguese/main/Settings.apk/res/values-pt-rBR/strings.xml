@@ -1810,7 +1810,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bluetooth_unpair_dialog_title">Esquecer dispositivo?</string>
     <string name="bluetooth_untether_blank">%1$s será vinculado.</string>
     <string name="bluetooth_untethered_unpair_dialog_body">O %1$s não será mais pareado com nenhum dispositivo vinculado a essa conta</string>
-    <string name="bluetooth_version">Versão Bluetooth.</string>
+    <string name="bluetooth_version">Versão do Bluetooth</string>
     <string name="bluetooth_version_message">Atualizar</string>
     <string name="bluetooth_visibility_timeout">Tempo limite de visibilidade</string>
     <string name="bluetooth_wake">Ligar tela com Áudio Bluetooth</string>
