@@ -492,7 +492,7 @@
     <string name="global_wa_shortcut_dialog_cancel">Cancelar</string>
     <string name="global_wa_shortcut_dialog_checkbox_hint">Não mostrar novamente</string>
     <string name="global_wa_shortcut_dialog_confirm">Criar</string>
-    <string name="global_wa_shortcut_dialog_content">Crie um atalho na Tela inicial para a limpeza do WhatsApp para deixar este recurso facilmente acessível.</string>
+    <string name="global_wa_shortcut_dialog_content">Crie um atalho na Tela inicial para a limpeza do WhatsApp, e assim deixar este recurso facilmente acessível.</string>
     <string name="global_wa_shortcut_dialog_title">Atalho na Tela inicial</string>
     <string name="global_wa_shortcut_toast">Atalho na Tela inicial criado com sucesso</string>
     <string name="global_wa_wrapper">Planos de fundo</string>

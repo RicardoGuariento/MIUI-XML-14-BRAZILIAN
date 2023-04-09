@@ -74,12 +74,12 @@
         <item quantity="one">Usado por %1$d minuto até %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual">
-        <item quantity="other">Retornou %3$d mensagens em branco entre %1$s e %2$s</item>
-        <item quantity="one">Retornou %3$d mensagem em branco entre %1$s e %2$s</item>
+        <item quantity="other">O sistema retornou %3$d mensagens em branco entre %1$s e %2$s</item>
+        <item quantity="one">O sistema retornou %3$d mensagem em branco entre %1$s e %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual_minute">
-        <item quantity="other">Retornou %2$d mensagens em branco às %1$s</item>
-        <item quantity="one">Retornou %2$d mensagem em branco às %1$s</item>
+        <item quantity="other">O sistema retornou %2$d mensagens em branco às %1$s</item>
+        <item quantity="one">O sistema retornou %2$d mensagem em branco às %1$s</item>
     </plurals>
     <plurals name="app_behavior_notification_audio_more">
         <item quantity="other">%2$d apps incluindo %1$1s estão gravando áudio</item>

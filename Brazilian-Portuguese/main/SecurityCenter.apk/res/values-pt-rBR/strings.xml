@@ -3453,7 +3453,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_fast_charge_notifi_title_on">Pare de aumentar a velocidade de carregamento</string>
     <string name="pc_fast_charge_switch_summary">Ative para acelerar o processo de carregamento. A MIUI irá priorizar a velocidade de carregamento, garantindo a segurança do seu dispositivo. Quanto menor for a capacidade da bateria, mais rápido ela será carregada. Este recurso pode aquecer seu dispositivo.</string>
     <string name="pc_fast_charge_switch_title">Aumente a velocidade de carregamento</string>
-    <string name="pc_fast_charge_switch_toast_message">As alterações serão aplicadas na próxima vez que você carregar este dispositivo</string>
+    <string name="pc_fast_charge_switch_toast_message">As alterações serão aplicadas no próximo carregamento do dispositivo</string>
     <string name="pc_fast_charge_title">Aumente a velocidade de carregamento</string>
     <string name="pc_going_to_exit_extreme_mode">Saindo do Modo hibernação</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Seu dispositivo está carregando. O Modo hibernação está desativado.</string>

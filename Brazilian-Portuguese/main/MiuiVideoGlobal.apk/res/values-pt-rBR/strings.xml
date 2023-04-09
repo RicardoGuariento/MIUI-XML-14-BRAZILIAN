@@ -1652,6 +1652,16 @@ Aumentar a segurança da sua conta."</string>
     <string name="send_email_activate_message">E-mail de verificação enviado com sucesso</string>
     <string name="sending">Enviando…</string>
     <string name="service_error">Erro no servidor</string>
+    <string name="settings_inline_auto_play">Sempre reproduzir automaticamente</string>
+    <string name="settings_inline_auto_play_close">Reprodução automática desativada</string>
+    <string name="settings_inline_auto_play_tip_close_forever">Sempre desativado</string>
+    <string name="settings_inline_auto_play_tip_close_month">Desativado por um mês</string>
+    <string name="settings_inline_auto_play_tip_open">Ativado</string>
+    <string name="settings_inline_auto_play_tip_title">Lembretes de uso de dados móveis</string>
+    <string name="settings_inline_auto_play_title">Reprodução automática</string>
+    <string name="settings_inline_auto_play_wify">Reprodução automática apenas em Wi-Fi</string>
+    <string name="settings_inline_title">Reprodução automática da página inicial</string>
+    <string name="settings_manager_hidden_folder">Gerenciar vídeos ocultos</string>
     <string name="set_success">Alterado com sucesso</string>
     <string name="settings_manager_hidden_folder">Gerenciar vídeos ocultos</string>
     <string name="share">Compartilhar</string>
