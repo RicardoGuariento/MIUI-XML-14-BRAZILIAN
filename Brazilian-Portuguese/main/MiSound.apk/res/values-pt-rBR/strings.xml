@@ -66,9 +66,12 @@
     <string name="effect_3dsurround">Som imersivo</string>
     <string name="effect_3dsurround_summary">Aumenta a profundidade da reprodução de sons para fones de ouvido e alto-falantes</string>
     <string name="effect_3dsurround_summary_headphone">Aumenta a profundidade da reprodução de sons para fones de ouvido</string>
+    <string name="effect_dolby">"Dolby"</string>
+    <string name="effect_misound">Som Mi</string>
+    <string name="effect_none">Nenhum</string>
+    <string name="effect_selection">Efeitos sonoros</string>
     <string name="effect_virtual_surround">Som virtual imersivo</string>
     <string name="effect_virtual_surround_summary">"Enriqueçe a profundidade do som para reprodução de áudio e vídeo em fones de ouvido (este recurso não funcionará quando o áudio %.1f for reproduzido)"</string>
-    <string name="empty" />
     <string name="end_wireless_transmission">Parar</string>
     <string name="eq_auto">Personalizado</string>
     <string name="eq_blues">"Blues"</string>
@@ -381,7 +384,7 @@
     <string name="music_headset_settings">Efeitos sonoros</string>
     <string name="music_hifi_summary">Reduz o ruído e distorção e aumenta a qualidade do áudio</string>
     <string name="music_hifi_title">Áudio Hi-Fi</string>
-    <string name="music_mi_effect_summary">Use o Mi Sound Enhancer com alto-falantes</string>
+    <string name="music_mi_effect_summary">Use o amplificador Mi Sound com alto-falantes</string>
     <string name="music_mi_effect_title">Amplificador Mi Sound</string>
     <string name="music_open_customized_sound_summary">Personalize o volume de acordo com a sua percepção auditiva</string>
     <string name="music_open_customized_sound_title">Ajuste de volume</string>
@@ -447,7 +450,7 @@
     <string name="sound_id_effect_edit_delete">Excluir som personalizado</string>
     <string name="sound_id_effect_null">Desativado</string>
     <string name="sound_id_effect_rename_note">Nome</string>
-    <string name="sound_id_function_description">Personalize a curva de EQ com base em suas preferências</string>
+    <string name="sound_id_function_description">Personalize a curva EQ com base em suas preferências</string>
     <string name="sound_id_function_name">Som personalizado</string>
     <string name="sound_id_headset_status">Fones de ouvido atual</string>
     <string name="sound_id_hz_high">"Agudo
@@ -506,7 +509,8 @@
     <string name="sound_transmission_stop">Pausar</string>
     <string name="sound_transmission_title">Microfone sem fios</string>
     <string name="spatial_audio">Rastreie o movimento da cabeça</string>
-    <string name="spatial_audio_summary">Ajuste o Som imersivo com base no movimento de sua cabeça</string>
+    <string name="spatial_audio_summary">Experimente imersão e sensação de espaço quando o áudio é reproduzido por meio de fones de ouvido</string>
+    <string name="spatial_audio_summary_spk">Experimente imersão e sensação de espaço quando o áudio é reproduzido</string>
     <string name="speaker_scenario_resume">Restaurar efeitos originais</string>
     <string name="start_test_sound">Iniciar o teste</string>
     <string name="sunday">Domingo</string>

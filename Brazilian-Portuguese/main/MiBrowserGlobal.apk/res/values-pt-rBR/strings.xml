@@ -747,7 +747,8 @@ Envie este código para o supervisor."</string>
     <string name="download_keep_queued_download">Manter</string>
     <string name="download_list_no_items_tip">Nenhum item aqui ainda.</string>
     <string name="download_list_open_xl_ok">"OK"</string>
-    <string name="download_memory_info_avai">"    %s disponível |"</string>
+    <string name="download_live_unsupported">"Não é possível baixar transmissões ao vivo"</string>
+    <string name="download_memory_info_avai">" %s disponível |"</string>
     <string name="download_memory_info_total">" total ​%s"</string>
     <string name="download_menu_title_clear_all">Limpar tudo</string>
     <string name="download_menu_title_open_file_management">Abrir Gerenciador de Arquivos</string>
@@ -1375,15 +1376,16 @@ Envie este código para o supervisor."</string>
     <string name="miuishare_title_share">Compartilhar</string>
     <string name="miuix_access_state_desc">Selected</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -1768,7 +1770,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">Geral</string>
     <string name="notification_category_media">Mídia</string>
-    <string name="notification_category_stickcard">StickCard</string>
+    <string name="notification_category_stickcard">Ferramentas rápidas</string>
     <string name="notification_download_completed">Baixado com sucesso</string>
     <string name="notification_download_failed">Não foi possível baixar.</string>
     <string name="notification_wechat_expired_empty">O WeChat já excluiu estes vídeos.</string>
@@ -2672,6 +2674,7 @@ Try to modify your keyword?"</string>
     <string name="readmode_recommend">Ver recomendados</string>
     <string name="readmode_recommend_message">Você já leu este livro. :)</string>
     <string name="readmode_refresh">Atualizar</string>
+    <string name="readmode_tips">Ativar o Modo somente texto</string>
     <string name="readmodelist_bookmarks_to_show">Lista de leitura</string>
     <string name="reboot">Reiniciar</string>
     <string name="recent_apk_status_install">INSTALADO</string>
@@ -2776,6 +2779,7 @@ Try to modify your keyword?"</string>
     <string name="save_to_camera_failed">Não é possível salvar a imagem</string>
     <string name="save_to_camera_success">Salvo na Galeria</string>
     <string name="save_to_private_folder">Adicionar aos arquivos ocultos</string>
+    <string name="scan_type_empty_folder">Pasta vazia</string>
     <string name="scanner_uninstalled_text">Instale o Scanner para continuar</string>
     <string name="scanner_uninstalled_title">O Scanner foi desinstalado</string>
     <string name="scanning_info">Found items: TXT (%1$d), EPUB (%2$d), PDF (%3$d)</string>
@@ -3496,6 +3500,7 @@ Tamanho de atualização delta: %2$s"</string>
     <string name="year_month_day_format">"dd 'de' MMMM 'de' yyyy"</string>
     <string name="yes">Sim</string>
     <string name="yesterday">Ontem</string>
+    <string name="youtube_dialog_content">"Você está prestes a sair do Navegador Mi e abrir o YouTube. Continuar?"</string>
     <string name="ytb_added_subscription">Inscrito com sucesso</string>
     <string name="ytb_cancel">Cancelar</string>
     <string name="ytb_deleted_subscription">Desinscrito com sucesso</string>

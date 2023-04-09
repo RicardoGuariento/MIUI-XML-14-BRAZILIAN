@@ -5138,7 +5138,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="summary_condition_close_absorbed_mode">Após desativar o Modo foco</string>
     <string name="summary_condition_in_charge">Ao carregar</string>
     <string name="summary_condition_insert_headset">Conecte seus fones de ouvido</string>
-    <string name="summary_condition_missing_call">Chamada perdida</string>
+    <string name="summary_condition_missing_call">Chamada não atendida</string>
     <string name="summary_condition_no_in_charge">Quando não está carregando</string>
     <string name="summary_condition_open_absorbed_mode">Após ativar o Modo foco</string>
     <string name="summary_condition_reduce_to_target">Quando a bateria estiver no nível definido</string>

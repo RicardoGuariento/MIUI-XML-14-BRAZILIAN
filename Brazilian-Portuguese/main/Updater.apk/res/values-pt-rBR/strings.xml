@@ -35,6 +35,7 @@
     <string name="download_fail_desc">A soma do MD5 não combina…</string>
     <string name="downloading">Baixando:</string>
     <string name="downloading_desc">O download está em progresso, verifique seu status na área de notificações.</string>
+    <string name="fastboot_desc">Agora o dispositivo será reinicializado no Modo fastboot. Se você não estiver familiarizado com este modo, cancele ações futuras. Continuar?</string>
     <string name="fastboot_mode">Agora você está no Modo fastboot, você só pode fazer flash da ROM através do Terminal no PC!</string>
     <string name="fastboot_update_warning">Esta atualização é apenas para instalação via fastboot!</string>
     <string name="fetch_notification_default_channel_name">"Downloads"</string>
@@ -55,6 +56,7 @@
 Seus dados não serão apagados."</string>
     <string name="install_title">Tem certeza que deseja continuar?</string>
     <string name="menu_title_current_version_log">O que há de novo?</string>
+    <string name="menu_title_fastboot">Reiniciar para o Modo fastboot</string>
     <string name="menu_title_fastboot_mode">Alternar para o Modo fastboot</string>
     <string name="menu_title_pick_rom_file">Escolher pacote de atualização</string>
     <string name="menu_title_recovery">Reiniciar para o Modo recovery</string>
@@ -83,7 +85,7 @@ Atualizações não estão disponíveis pra você!"</string>
     <string name="permlab_reboot">Acesso à reinicialização</string>
     <string name="pick_not_found">Nenhum gerenciador de arquivos adequado foi encontrado.</string>
     <string name="pick_title">Escolha usando:</string>
-    <string name="recovery_desc">O dispositivo será reiniciado agora no Modo recovery, se você não estiver familiarizado com este modo, cancele as ações futuras. Continuar?</string>
+    <string name="recovery_desc">Agora o dispositivo será reiniciado no Modo recovery. Se você não estiver familiarizado com este modo, cancele as ações futuras. Continuar?</string>
     <string name="recovery_mode">Agora você está no Modo recovery, você pode atualizar sua ROM pela Atualização!</string>
     <string name="server_error">O servidor não está respondendo, o app pode não funcionar corretamente!</string>
     <string name="share_desc">A versão da sua MIUI foi atualizada para %1$s, veja a última lista de alterações em: %2$s</string>

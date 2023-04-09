@@ -1610,7 +1610,7 @@ captura de tela estendida"</string>
     <string name="mic_recording_announcement">Microfone está gravando</string>
     <string name="mic_stopped_recording_announcement">Microfone parou de gravar</string>
     <string name="midnight">"AM"</string>
-    <string name="missed_call">Chamada perdida</string>
+    <string name="missed_call">Chamada não atendida</string>
     <string name="miui_clock_city_name_local">"Local"</string>
     <string name="miui_clock_city_name_second">Segundo relógio</string>
     <string name="miui_guide_dialog_button_negative_text">Configurações</string>

@@ -228,7 +228,7 @@ Disponível apenas hoje"</item>
     </plurals>
     <plurals name="plus_local_edit_delete_confirm_text">
         <item quantity="other">Excluir permanentemente %s arquivos agora?</item>
-        <item quantity="one">Excluir permanentemente o arquivo %s agora?</item>
+        <item quantity="one">Excluir permanentemente %s arquivo agora?</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Tamanho do arquivo: %.2fKB</item>

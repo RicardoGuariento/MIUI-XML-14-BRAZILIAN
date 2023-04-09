@@ -43,8 +43,8 @@
     <string name="account_empty_user_name">Insira o nome de usuário de sua Conta Mi</string>
     <string name="account_error_all_space_user_name">O nome não pode conter apenas espaços</string>
     <string name="account_error_invalid_user_name">O nome não pode conter &lt;, >, /</string>
-    <string name="account_error_longer_user_name">O nome não pode exceder 20 caracteres</string>
-    <string name="account_error_shorter_user_name">O nome deve ser maior que 2 caracteres</string>
+    <string name="account_error_longer_user_name">O nome não pode exceder %d caracteres</string>
+    <string name="account_error_shorter_user_name">O nome deve ser maior que %d caracteres</string>
     <string name="account_error_user_birthday">O aniversário inserido é inválido</string>
     <string name="account_error_user_name">O nome inserido é inválido</string>
     <string name="account_global_region">Exterior</string>
@@ -91,7 +91,7 @@ ID da sua conta: %s"</string>
     <string name="action_retry">Tentar novamente</string>
     <string name="action_update_phone">Alterar número de telefone</string>
     <string name="actionbar_button_up_description">Voltar</string>
-    <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de 24 horas</string>
+    <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de %d horas</string>
     <string name="activity_not_found_notice">Não é possível encontrar o app</string>
     <string name="add_account">Conectar conta</string>
     <string name="afternoon">"PM"</string>
@@ -320,8 +320,8 @@ Envie este código para o supervisor."</string>
     <string name="get_back_pwd">Redefinindo senha</string>
     <string name="get_device_list_failed">Não é possível obter dispositivos</string>
     <string name="get_identity_auth_url_failed">Não foi possível verificar a ID</string>
-    <string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi a um número de telefone. Não é possível adicionar mais contas.</string>
-    <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
+    <string name="get_phone_bind_exceed_limit">Você pode associar até %d Contas Mi a um número de telefone. Não é possível adicionar mais contas.</string>
+    <string name="get_phone_verifycode_exceed_limit">Não é possível enviar mais códigos de verificação para este número.</string>
     <string name="google">"Google"</string>
     <string name="google_login">Fazer o login com o Google</string>
     <string name="goto_accept">"OK"</string>
@@ -478,7 +478,7 @@ Envie este código para o supervisor."</string>
     <string name="notify_verify_security_phone">Telefone</string>
     <string name="oauth_get_scopes_failed">Não foi possível obter informações da conta</string>
     <string name="oauth_getting_scopes">Verificando a conta…</string>
-    <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> receberá as seguintes permissões:&lt;br> &lt;br> %3$s</string>
+    <string name="oauth_scopes_intro">" &lt;font color=#%1$s>%2$s&lt;/font> receberá as seguintes permissões:&lt;br> &lt;br> %3$s "</string>
     <string name="oauth_title">Fazer login na Conta Mi</string>
     <string name="ok">"OK"</string>
     <string name="operator_mobile">"China Mobile"</string>
@@ -575,7 +575,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_google_login_failed">Não foi possível fazer o login com o Google. Entre diretamente com sua Conta Mi.</string>
     <string name="passport_i_know">Entendi</string>
     <string name="passport_identification_expired">Código de verificação expirado, tente novamente</string>
-    <string name="passport_imei_permission_denied_message">A MIUI está solicitando permissão para obter o IMEI do seu dispositivo. A Conta Mi usa seu IMEI para identificar os dispositivos em que você faz o login ou se registra, ajudando a manter sua Conta Mi mais segura.</string>
+    <string name="passport_imei_permission_denied_message">Estamos solicitando permissão para acessar o IMEI do seu dispositivo. A conta Xiaomi usa o IMEI para identificar o dispositivo no qual você faz login ou se registra para manter sua conta mais segura.</string>
     <string name="passport_imei_permission_denied_title">Solicitação de acesso ao IMEI</string>
     <string name="passport_input_captcha_hint">Digite o código</string>
     <string name="passport_input_password_for_login">Este número está associado a uma conta existente, insira a sua senha</string>
@@ -606,7 +606,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_no">Não</string>
     <string name="passport_notification_title">Erro de login para %1$s</string>
     <string name="passport_password_phone_login">Fazer login na Conta Mi</string>
-    <string name="passport_password_req_notice">A senha deve ter de 8 a 16 caracteres e incluir letras e números (sensível a maiúsculas e minúsculas).</string>
+    <string name="passport_password_req_notice">A senha deve ter de %1$d-%2$d caracteres e incluir letras e números (sensível a maiúsculas e minúsculas).</string>
     <string name="passport_phone_num_hint_text">Número do telefone</string>
     <string name="passport_phone_ticket_login">Fazer login com SMS</string>
     <string name="passport_prev">Voltar</string>
@@ -672,7 +672,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_select_the_login_account">Selecione a conta para login</string>
     <string name="passport_select_the_recycle_phone_login">Selecione sua conta</string>
     <string name="passport_select_the_register_phone">Selecione o número de telefone para criar uma conta</string>
-    <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
+    <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para este número. Aguarde %d horas e tente novamente.</string>
     <string name="passport_send_vcode_failed">Não foi possível enviar o código</string>
     <string name="passport_sending_vcode">Enviando código…</string>
     <string name="passport_set">Definir</string>
@@ -701,7 +701,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_tz_invalid">Riscos de segurança encontrados. Este dispositivo pode ter sido enraizado ou atualizado. Experimente outras opções de login.</string>
     <string name="passport_uplink_reg">Usar número de telefone</string>
     <string name="passport_uplink_send_sms_hint">"Toque \"Enviar\" depois de ser redirecionado para a página com uma mensagem composta."</string>
-    <string name="passport_uplink_slot1_reg">Usar SIM 1</string>
+    <string name="passport_uplink_slot1_reg">Usar SIM %d</string>
     <string name="passport_uplink_slot2_reg">Usar SIM 2</string>
     <string name="passport_uplink_sms_send_cancel">Envio do link SMS cancelado</string>
     <string name="passport_uplink_sms_send_confirm">Enviado</string>
@@ -899,9 +899,9 @@ Envie este código para o supervisor."</string>
     <string name="unbind_sns_description">Após você desconectar esta conta, você não será capaz de usar sua conta %s para fazer o login em sua Conta Mi.</string>
     <string name="unknown_error_info">Erro desconhecido</string>
     <string name="unlock_help_notice">"Ajuda:
-1. Se você esqueceu a sua senha, acesse id.mi.com para redefini-la.
-2. Se você não puder redefinir a sua senha ou se alguém bloqueou o seu dispositivo, acesse i.mi.com para desbloqueá-lo.
-3. Seu número de desbloqueio: %s"</string>
+%1$d. Se você esqueceu a sua senha, acesse id.mi.com para redefini-la.
+%2$d. Se você não puder redefinir a sua senha ou se alguém bloqueou o seu dispositivo, acesse i.mi.com para desbloqueá-lo.
+%3$d. Seu número de desbloqueio: %4$s"</string>
     <string name="update_apk_version_later">Agora não</string>
     <string name="update_apk_version_now">Atualizar</string>
     <string name="update_email_address_dialog_message">Você precisa verificar sua identidade antes de atualizar o e-mail.</string>

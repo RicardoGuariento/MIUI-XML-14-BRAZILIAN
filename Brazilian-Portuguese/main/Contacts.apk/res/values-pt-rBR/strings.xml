@@ -510,7 +510,7 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
     <string name="deleting_sim_entry_miui_prepare">Preparando contatos…</string>
     <string name="description_call_log_incoming_call">Chamada recebida</string>
     <string name="description_call_log_incoming_forwarding_call">Recebendo chamada encaminhada</string>
-    <string name="description_call_log_missed_call">Chamada perdida</string>
+    <string name="description_call_log_missed_call">Chamada não atendida</string>
     <string name="description_call_log_missed_forwarding_call">Chamada encaminhada perdida</string>
     <string name="description_call_log_outgoing_call">Chamada efetuada</string>
     <string name="description_call_log_voicemail">Mensagem de voz</string>

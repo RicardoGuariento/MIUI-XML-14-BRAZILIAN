@@ -2323,7 +2323,7 @@ Interface UT: %5$s"</string>
     <string name="screen_zoom_summary_small">Pequena</string>
     <string name="screen_zoom_summary_very_large">Muito grande</string>
     <string name="search_antispam_setting">Lista de bloqueio</string>
-    <string name="search_app_name">Telefone;Gravação de chamadas;Encaminhar chamadas;encaminhamento;Chamada em espera;Lista de bloqueio;Código do país;Código de área;Códigos do país;Códigos de área;Gravar chamadas;Gravar chamada;Discador;Chamada;Chamadas;Telefonia;VoIP;VoLTE;Chamada perdida;Chamadas perdidas;SIP;T9;Telefonia IP;FDN</string>
+    <string name="search_app_name">Telefone;Gravação de chamadas;Encaminhar chamadas;encaminhamento;Chamada em espera;Lista de bloqueio;Código do país;Código de área;Códigos do país;Códigos de área;Gravar chamadas;Gravar chamada;Discador;Chamada;Chamadas;Telefonia;VoIP;VoLTE;Chamada não atendida;Chamadas perdidas;SIP;T9;Telefonia IP;FDN</string>
     <string name="search_menu">Configurações de pesquisa</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="selectContact">selecionar contato</string>

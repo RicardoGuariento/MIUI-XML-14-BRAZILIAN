@@ -655,12 +655,12 @@ taxa de amostragem"</string>
     <string name="notification_incallservice_not_responding_title">%s parou de responder</string>
     <string name="notification_incoming_call">Chamada %1$s de %2$s</string>
     <string name="notification_incoming_video_call">Vídeo chamada %1$s de %2$s</string>
-    <string name="notification_missedCallTicker">Chamada perdida de %s</string>
-    <string name="notification_missedCallTitle">Chamada perdida</string>
+    <string name="notification_missedCallTicker">Chamada não atendida de %s</string>
+    <string name="notification_missedCallTitle">Chamada não atendida</string>
     <string name="notification_missedCall_call_back">Retornar chamada</string>
     <string name="notification_missedCall_call_back_miui">Ligar</string>
     <string name="notification_missedCall_message">Mensagem</string>
-    <string name="notification_missedCallsMsg">%s chamada(s) perdida(s)</string>
+    <string name="notification_missedCallsMsg">%s chamada(s) não atendida(s)</string>
     <string name="notification_missedCallsTitle">Chamadas perdidas</string>
     <string name="notification_missedWorkCallTitle">Chamada de trabalho perdida</string>
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>

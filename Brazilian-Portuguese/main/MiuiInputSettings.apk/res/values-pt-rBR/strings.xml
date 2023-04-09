@@ -278,7 +278,7 @@ If you hold the button for %s seconds, you'll open the shutdown menu instead."</
     <string name="long_press_power_key_tips">&lt;Data>Long pressing the Power button is &lt;font color=#999999>faster and more convenient&lt;/font>&lt;/Data></string>
     <string name="long_press_volume_down">Long press Volume down</string>
     <string name="material_clock_display_divider">:</string>
-    <string name="material_clock_toggle_content_description">Select AM or PM</string>
+    <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Select hour</string>
     <string name="material_hour_suffix">"%1$s o'clock"</string>
     <string name="material_minute_selection">Select minutes</string>
