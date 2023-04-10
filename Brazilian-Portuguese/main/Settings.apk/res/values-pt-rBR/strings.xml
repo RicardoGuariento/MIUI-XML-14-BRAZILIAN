@@ -4017,8 +4017,6 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="gigabyteShort">"GB"</string>
     <string name="global_change_warning">Esta configuração afeta todos os usuários neste telefone.</string>
     <string name="global_locale_change_title">Alterar idioma</string>
-    <string name="global_stylus_summary" />
-    <string name="global_stylus_title" />
     <string name="gmscore_settings_title">Serviços básicos do Google</string>
     <string name="go_back_button_label">Voltar</string>
     <string name="go_to_sleep">Desligar tela</string>
@@ -4026,7 +4024,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="google_assistant_guide_cancel">Cancelar</string>
     <string name="google_assistant_guide_message">Você pode pressionar e segurar o botão [Liga/Desliga] por %s segundos para começar a falar com o Google Assistente. Definir este atalho agora?</string>
     <string name="google_assistant_guide_ok">Definir</string>
-    <string name="google_assistant_guide_tip">*Pressione e segure o botão [Liga/Desliga] por %s segundos para abrir o menu de desligamento.</string>
+    <string name="google_assistant_guide_tip">• Pressione e segure o botão [Liga/Desliga] por %s segundos para abrir o menu de desligamento.</string>
     <string name="google_assistant_guide_title">Google Assistente</string>
     <string name="google_assistant_label">Google Assistente</string>
     <string name="google_backup_enable">Ativar backups</string>
@@ -4458,7 +4456,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="invalid_location">O local de instalação não é válido.</string>
     <string name="invalid_size_value">Não foi possível calcular o tamanho do pacote.</string>
     <string name="item_system_app">Apps do sistema</string>
-    <string name="item_view_role_description">Haba</string>
+    <string name="item_view_role_description">Aba</string>
     <string name="join_two_items">%1$s e %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
     <string name="kddi_nfc_category_title">NFC</string>
@@ -4488,8 +4486,6 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="key_gesture_function_optional">Botões e gestos opcionais</string>
     <string name="key_gesture_function_preview">Visualização de botões e gestos</string>
     <string name="key_gesture_function_shortcut">Atalhos de função</string>
-    <string name="key_handwriting_input_summary" />
-    <string name="key_handwriting_input_title" />
     <string name="key_none">Nenhum</string>
     <string name="key_operation_diagram">Pré-visualização</string>
     <string name="key_position_cat">Posição dos botões</string>
@@ -4671,11 +4667,11 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="knock_guide_sub_title">Você pode acionar o Mi AI ou tirar capturas de tela tocando na tela com o nó dos dedos</string>
     <string name="knock_guide_title">Toque duplo com o nó dos dedos</string>
     <string name="knock_long_press_horizontal_slid">Pressionar e deslizar horizontalmente com um nó dos dedos</string>
-    <string name="knock_slide_shape">Desenhe um círculo com o nó dos dedos</string>
+    <string name="knock_slide_shape">Desenhe um círculo com o nó do dedo</string>
     <string name="knock_slide_v">Desenhe um V com o nó do dedo</string>
     <string name="ks_add_title">Adicionar atalho</string>
     <string name="ks_back_home">Tela inicial</string>
-    <string name="ks_category_app">Apps abertos</string>
+    <string name="ks_category_app">Abrir apps</string>
     <string name="ks_category_key">Atalhos do teclado</string>
     <string name="ks_category_system">Atalhos do sistema</string>
     <string name="ks_dialog_add_text">Digite uma combinação de teclas para adicionar um atalho.</string>
@@ -5192,7 +5188,7 @@ Conecte pelo menos 4 pontos."</string>
     <string name="long_press_menu_key_when_lock">Pressionar e segurar o botão Menu na Tela de bloqueio</string>
     <string name="long_press_power_key">Pressionar e segurar o botão [Liga/Desliga]</string>
     <string name="long_press_power_key_half_of_second">Pressione e segure o botão [Liga/Desliga] por 0.5s para acionar o Google Assistente</string>
-    <string name="long_press_power_key_half_second">Pressione e segure o botão [Liga/Desliga] por %s s</string>
+    <string name="long_press_power_key_half_second">Pressione e segure o botão [Liga/Desliga] por %s seg</string>
     <string name="long_press_power_key_tips">&lt;Data>Pressionar e segurar o botão [Liga/Desliga] é &lt;font color=#999999>mais rápido e conveniente&lt;/font>&lt;/Data></string>
     <string name="long_press_volume_down">Pressionar e segurar [Volume -]</string>
     <string name="long_time">30 minutos</string>
@@ -6988,7 +6984,7 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="preferred_app_settings_not_selected">Não selecionado</string>
     <string name="preferred_app_settings_reset">Redefinir padrões</string>
     <string name="preferred_app_settings_reset_button">Redefinir</string>
-    <string name="preferred_app_settings_reset_message">Redefinir todos os apps para as configurações de fábrica.</string>
+    <string name="preferred_app_settings_reset_message">Redefinir todos os apps para as configurações de fábrica?</string>
     <string name="preferred_application_title">Preferido: %s</string>
     <string name="preferred_application_warning_message">Substituir o app padrão %1$s poderá aumentar o consumo de energia, reduzir o desempenho e até mesmo colocar o conteúdo do telefone em risco. É recomendado manter o app %2$s como padrão.</string>
     <string name="preferred_application_warning_replace">Substituir</string>
