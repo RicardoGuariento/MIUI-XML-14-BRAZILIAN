@@ -64,7 +64,7 @@
     <string name="camera_key_action_shortcut_wake">Bloquear dispositivo</string>
     <string name="camera_key_action_title">Botão Mi</string>
     <string name="camera_key_action_toggle_title">Acionar atalho</string>
-    <string name="change_brightness">Adjust brightness</string>
+    <string name="change_brightness">Ajustar o brilho</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
     <string name="chip_text">Texto do chip</string>
@@ -287,10 +287,10 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecione o horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
-    <string name="media_button">Media button</string>
+    <string name="media_button">Botão de mídia</string>
     <string name="menu_key">"Menu"</string>
     <string name="mi_pay">Carteira Mi</string>
-    <string name="mi_pay_summary">Transport card/Mi Pay/Key card</string>
+    <string name="mi_pay_summary">Cartão de transporte/Mi Pay/Cartão-chave</string>
     <string name="mi_pay_summary_without_nfc">"Mi Pay"</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
@@ -403,7 +403,7 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="other_advanced_settings">Configurações adicionais</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="pm">"PM"</string>
-    <string name="pointer_settings_category">Mouse/track pad</string>
+    <string name="pointer_settings_category">Mouse/trackpad</string>
     <string name="pointer_speed">Velocidade do cursor</string>
     <string name="power_key_how_power_force_off">Como forçar a reinicialização do dispositivo</string>
     <string name="power_key_how_power_force_off_detail">Pressione e segure o botão [Liga/Desliga] até o dispositivo reiniciar</string>
@@ -466,6 +466,7 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="stylus_language_summary">Reconhecer numerais e texto manuscrito em Inglês e mais um idioma selecionado</string>
     <string name="stylus_language_title">Idioma</string>
     <string name="stylus_not_connect_message">"A caneta está desconectada"</string>
+    <string name="stylus_not_connect_message_new">Anexe sua caneta para parear</string>
     <string name="stylus_ota_check_failed_battery">Não foi possível verificar. A bateria da sua caneta está acabando.</string>
     <string name="stylus_ota_check_failed_info">Não foi possível verificar a versão do firmware. Anexe sua caneta novamente.</string>
     <string name="stylus_ota_check_update">Verificar atualizações</string>
