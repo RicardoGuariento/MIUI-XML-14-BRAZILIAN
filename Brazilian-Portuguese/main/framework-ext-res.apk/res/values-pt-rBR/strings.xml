@@ -228,7 +228,7 @@
     <string name="key_combination_power_back">Ligar + Voltar</string>
     <string name="key_combination_power_home">Ligar + Home</string>
     <string name="key_combination_power_menu">Ligar + Menu</string>
-    <string name="key_combination_power_volume_down">Diminuir volume + Ligar</string>
+    <string name="key_combination_power_volume_down">[Volume -] + Ligar</string>
     <string name="key_none">Nenhum</string>
     <string name="keyboard_connect_failed">"Não foi possível conectar o teclado. Anexe novamente."</string>
     <string name="keyboard_identity_reject_confirm">Entendi</string>
@@ -404,7 +404,6 @@
     <string name="rescueparty_package_tips">Corrupção do serviço do sistema {0} detectada</string>
     <string name="rescuepartyplus_config_reset_context">Alguns dados podem ter sido apagados. Toque para ver os detalhes.</string>
     <string name="rescuepartyplus_config_reset_title">Reparação do sistema concluída</string>
-    <string name="rescuepartyplus_config_reset_url">https://new.c.mi.com/global/post/109818</string>
     <string name="resolver_app_recommend_flag">Recomendado</string>
     <string name="resolver_checkbox_always">Sempre</string>
     <string name="resolver_checkbox_once">Uma vez</string>
@@ -465,7 +464,7 @@
     <string name="sim_added_reboot_confirm">Reiniciar</string>
     <string name="sim_added_reboot_title">O cartão SIM será ativado após você reiniciar seu dispositivo.</string>
     <string name="sim_lock_non_ais_msg">"Seu cartão SIM não está totalmente operacional com este telefone porque ele não se enquadra nos termos e condições de seu cadastro. Se você tiver qualquer dúvida ou precisar de mais informações sobre isso, entre em contato com os centros de serviços Xiaomi ou com a loja que lhe vendeu o produto."</string>
-    <string name="sim_lock_now_ais_title">"SIM%1$d"</string>
+    <string name="sim_lock_now_ais_title">"SIM %1$d"</string>
     <string name="slatoast">Usar dados móveis para aumentar a velocidade pode gerar cobranças adicionais da operadora</string>
     <string name="slavewifi">"Wi-Fi dual band"</string>
     <string name="slavewifi_disconnect">Desconectar</string>
@@ -539,8 +538,7 @@
     <string name="throwing_screen">Transmitir</string>
     <string name="tip_close_screen_phone" />
     <string name="tip_for_phone_and_camera">Dobre seu dispositivo para usar o alto-falante embutido ou a câmera frontal</string>
-    <string name="tip_use_front_camera">Dobre seu dispositivo para
-usar a câmera frontal"</string>
+    <string name="tip_use_front_camera">"Dobre seu dispositivo para usar a câmera frontal"</string>
     <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
     <string name="total">Não perturbe</string>
     <string name="total_description">Silenciar sons e desativar vibração para todos os itens exceto o alarme</string>
