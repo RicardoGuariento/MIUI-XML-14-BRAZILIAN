@@ -119,6 +119,10 @@
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">"O SMS não pode ter mais de %d destinatários."</item>
+        <item quantity="one">"O SMS não pode ter mais de %d destinatário."</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
