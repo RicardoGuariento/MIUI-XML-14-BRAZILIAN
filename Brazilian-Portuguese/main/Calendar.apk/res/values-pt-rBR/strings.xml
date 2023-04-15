@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
@@ -57,6 +55,8 @@
     <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
     <string name="agenda_view">Eventos</string>
     <string name="alarm_label">Dispensar</string>
+    <string name="alarm_open_reminder">Ativar lembrete</string>
+    <string name="alarm_reminder_already">O lembrete está ativado</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Expirado</string>
     <string name="alert_title">Notificações da Agenda</string>
@@ -91,7 +91,9 @@
     <string name="birthday_saved">Aniversário salvo</string>
     <string name="birthday_term">Aniversário</string>
     <string name="button_record_menstruation">Registrar</string>
+    <string name="calendar_account_settings">Configurações de Conta</string>
     <string name="calendar_permission_desc">Gerenciar eventos</string>
+    <string name="calendar_privacy_policy">Política de Privacidadey</string>
     <string name="can_not_create_long_event">O nome do evento é muito extenso</string>
     <string name="can_not_modify_allday_event">Não é possível alterar evento de dia inteiro</string>
     <string name="can_not_modify_event">Não é possível alterar o evento</string>
@@ -112,6 +114,7 @@
     <string name="change_response_title">Alterar resposta</string>
     <string name="change_zodiac">Alterar signo do zodíaco</string>
     <string name="character_counter_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
+    <string name="check_new_version">Verifique se há atualizações</string>
     <string name="chips_action_cancel">Cancelar</string>
     <string name="chips_action_copy">Copiar</string>
     <string name="chips_permission_text">Permitir sugestões de contatos</string>
@@ -196,6 +199,7 @@
     <string name="description_calendar_subscribe_group" />
     <string name="directory_searching_fmt">Pesquisando %s…</string>
     <string name="discard_label">Cancelar</string>
+    <string name="display_to_calendar">Mostrar no Agenda</string>
     <string name="does_not_repeat">Evento único</string>
     <string name="done">Retornar</string>
     <string name="dropdown_delete_button_desc">Remover %s dos destinatários</string>
@@ -219,8 +223,10 @@
     <string name="edit_event_label">Detalhes</string>
     <string name="edit_event_no_reminder_value">Não lembrar</string>
     <string name="edit_event_reminder_3_days_before">E lembrar %d dias antes</string>
+    <string name="edit_event_reminder_3_days_before_time">Também lembre %d dias antes</string>
     <string name="edit_event_reminder_summary">No dia do evento às %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d dias de antecedência e no dia às %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d dias antes e às %1$s do dia definido</string>
     <string name="edit_event_reminder_text">%1$s às %2$s</string>
     <string name="edit_event_reminder_time">Hora do lembrete</string>
     <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s às %3$s</string>
@@ -229,6 +235,14 @@
     <string name="edit_event_tab_birthday">Aniversário</string>
     <string name="edit_event_tab_countdown">Contagem regressiva</string>
     <string name="edit_event_tab_event">Evento</string>
+    <string name="edit_event_title_create_agenda">Criar evento</string>
+    <string name="edit_event_title_create_anniversary">Criar aniversário</string>
+    <string name="edit_event_title_create_birthday">Criar aniversário</string>
+    <string name="edit_event_title_create_countdown">Criar contagem regressiva</string>
+    <string name="edit_event_title_edit_agenda">Editar evento</string>
+    <string name="edit_event_title_edit_anniversary">Editar aniversário</string>
+    <string name="edit_event_title_edit_birthday">Editar aniversário</string>
+    <string name="edit_event_title_edit_countdown">Editar contagem regressiv</string>
     <string name="edit_event_to_label">Às</string>
     <string name="edit_your_long_holidays">Editar feriados</string>
     <string name="ee_dd_short_month">"EEE, dd 'de' MMM"</string>
@@ -367,6 +381,7 @@
     <string name="horoscope_card_title">Horóscopo de hoje</string>
     <string name="horoscope_partner" />
     <string name="horoscope_select_activity_label">Selecionar signo do zodíaco</string>
+    <string name="hour_1">%d hora</string>
     <string name="image_processing">A imagem ainda não está pronta</string>
     <string name="import_action">Importar</string>
     <string name="import_birthday">Importar aniversário</string>
@@ -429,6 +444,10 @@
     <string name="mesens_card_title_today_begin">O seu período pode iniciar hoje</string>
     <string name="mesens_card_title_tomorrow_begin">O seu período pode iniciar amanhã</string>
     <string name="midnight">"AM"</string>
+    <string name="minutes_10">%d minutos</string>
+    <string name="minutes_15">%d minutos</string>
+    <string name="minutes_30">%d minutos</string>
+    <string name="minutes_5">%d minutos</string>
     <string name="missing_name">(Sem nome)</string>
     <string name="missing_required_permission">Você restringiu permissões necessárias.</string>
     <string name="miuix_access_state_desc">Selecionado</string>
@@ -544,6 +563,7 @@
     <string name="no_internet_dialog_message">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="no_internet_dialog_title">Ocorreu um erro</string>
     <string name="no_long_holidays">Nenhum feriado prolongado chegando</string>
+    <string name="no_more_events">Não há mais eventos para exibir</string>
     <string name="no_network">"Não foi possível conectar-se à rede.
 Verifique suas configurações de rede e tente novamente."</string>
     <string name="no_network_btn">Tente novamente</string>
@@ -611,15 +631,20 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="pref_title_no_remind">Nenhum lembrete</string>
     <string name="pref_title_notification_remind">Notificação dos lembretes</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
-    <string name="preferences_additional_cal_default">0</string>
+    <string name="preferences_alarms_category_title">Lembretes de alarme</string>
+    <string name="preferences_alarms_sound">Som</string>
+    <string name="preferences_alarms_vibrateWhen">Vibrar</string>
     <string name="preferences_alerts_ringtone_title">Som</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
     <string name="preferences_alerts_vibrate_title">Vibrar e tocar</string>
+    <string name="preferences_allow_remind">Permitir lembretes</string>
     <string name="preferences_default_allday_reminder_title">Hora padrão de lembretes do dia todo</string>
     <string name="preferences_default_reminder_dialog">Hora padrão de lembretes</string>
     <string name="preferences_default_reminder_title">Hora padrão de lembretes</string>
     <string name="preferences_home_tz_title">Fuso horário local</string>
     <string name="preferences_notification_ringtone_title">Som</string>
+    <string name="preferences_popup_alert_smart_summary_new">Eventos sensíveis ao tempo são eventos com uma hora exata</string>
+    <string name="preferences_popup_alert_title">Lembretes pop-up</string>
     <string name="preferences_show_indic_date_title">Mostrar Agenda Índica</string>
     <string name="preferences_title">Agenda</string>
     <string name="preferences_use_home_tz_descrip">Mostrar a agenda e o horário de eventos em seu fuso horário doméstico quando em viagens</string>
@@ -631,12 +656,17 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="premission_description_log">Para salvar logs</string>
     <string name="premission_description_notice">Para enviar notificações sobre eventos e feriados</string>
     <string name="premission_description_ringtone">Para definir toques</string>
+    <string name="privacy_and_permissions">Privacidade e permissões</string>
     <string name="privacy_card_description">Aceite nossa Política de Privacidade para acessar todos os recursos.</string>
     <string name="privacy_policy_dialog_agree">Aceitar</string>
     <string name="privacy_policy_dialog_dont_agree">Não aceitar</string>
     <string name="privacy_policy_dialog_message"><Data>Bem-vindo à Agenda!&lt;br/>Você pode usar este app para criar e gerenciar eventos, definir lembretes, e receber informações adicionais específicas à sua localização.&lt;br/>A Agenda precisa coletar informações pessoais necessárias para lhe fornecer serviços básicos. Você pode saber mais sobre como tratamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;br/>Leia e aceite nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar a Agenda. Você pode retirar seu consentimento à Política de Privacidade da Agenda nas Configurações a qualquer momento.&lt;br/> Se você não aceitar nossa Política de Privacidade, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você.</Data></string>
     <string name="privacy_policy_dialog_title">Termos e condições</string>
     <string name="privacy_revoke_switch_text">Retirada de consentimento</string>
+    <string name="pull_refresh_events">Exibir %d eventos</string>
+    <string name="pull_refresh_progress_load_finish">Carregado com sucesso</string>
+    <string name="pull_refresh_progress_loading">Aguarde…</string>
+    <string name="pull_refresh_progress_release_to_load">Solte para carregar</string>
     <string name="pull_to_refresh_hint">Puxe para carregar eventos de %1$d</string>
     <string name="receive_net_mock_success">Simulação de rede com sucesso</string>
     <string name="recorded_menstruation">Período registrado</string>
@@ -697,6 +727,8 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">Agenda;Calendário;Lembrete</string>
     <string name="search_calendar_subscribe_group" />
+    <string name="search_events">Pesquisar eventos</string>
+    <string name="search_history">Histórico de busca</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="second_saturday_holiday">Todo 2º Sábado é um dia de folga</string>
     <string name="select_date">Pular para a data</string>
@@ -716,7 +748,9 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="setting_features_title">Configuração de funções</string>
     <string name="setting_holiday_display_desc">Cartões de feriado são exibidos abaixo de sua agenda na página inicial</string>
     <string name="setting_holiday_reminder">Lembrete de feriado</string>
+    <string name="setting_import_events">Importar eventos</string>
     <string name="setting_others">Adicional</string>
+    <string name="setting_show_reject_agenda">Mostrar eventos recusados</string>
     <string name="setting_title_about">Sobre</string>
     <string name="setting_title_holiday_display">Mostrar feriados</string>
     <string name="setting_title_import_todo">Importar tarefas</string>
@@ -730,6 +764,9 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="share_image_label">Compartilhar via</string>
     <string name="share_title">Compartilhar</string>
     <string name="short_date_format">dd/MMM</string>
+    <string name="shortcut_new_event">Adicionar evento</string>
+    <string name="shortcut_next_agenda">Próximo evento</string>
+    <string name="shortcut_settings">Configurações</string>
     <string name="show_day_view">Mostrar dia</string>
     <string name="show_indic_date_summary">A Agenda Índica está disponível quando um dos idiomas da Índia está definido como idioma do sistema</string>
     <string name="show_menstruation_info">Mostrar informações de menstruação</string>
@@ -766,6 +803,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="subtitle_mi_calendar_predict_menstruation">Registre uma estimativa de próximos períodos usando a Agenda</string>
     <string name="subtitle_record_and_start_predict">Registre um período para estimar quando o próximo começará</string>
     <string name="subtitle_stick_record">Registre seus períodos para obter previsões mais precisas</string>
+    <string name="suggestions_and_feedback">"Feedback"</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -775,6 +813,10 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="tab_title_day">Dia</string>
     <string name="tab_title_month">Mês</string>
     <string name="tab_title_week">Semana</string>
+    <string name="tab_view_day">Dia</string>
+    <string name="tab_view_month">Mês</string>
+    <string name="tab_view_week">Semana</string>
+    <string name="tab_view_year">Ano</string>
     <string name="talk_back_read_date">%1$s (%2$s de acordo com o calendário lunar).</string>
     <string name="talk_back_setting">Configurações</string>
     <string name="talk_back_tab_switch">Alternar entre modos</string>

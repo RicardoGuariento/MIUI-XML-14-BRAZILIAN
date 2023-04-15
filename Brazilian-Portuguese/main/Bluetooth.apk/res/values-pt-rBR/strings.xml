@@ -118,7 +118,6 @@
     <string name="download_success">%1$s recebido</string>
     <string name="download_title">Transferência de arquivos</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="enabling_progress_content">Ativando o Bluetooth…</string>
     <string name="enabling_progress_title">Por favor, aguarde…</string>
     <string name="eras_ad">d.C</string>

@@ -80,6 +80,14 @@
         <item quantity="other">Alta prioridade: %d apps</item>
         <item quantity="one">Alta prioridade: %d app</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Backup de %d apps</item>
+        <item quantity="one">Backup de %d app</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">%d apps restaurados</item>
+        <item quantity="one">%d app restaurado</item>
+    </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">Cerca de %s minutos restantes</item>
         <item quantity="one">Cerca de %s minuto restante</item>

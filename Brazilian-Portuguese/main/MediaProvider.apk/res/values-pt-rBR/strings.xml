@@ -46,6 +46,7 @@
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="delete_ringtone_text">Excluir</string>
     <string name="deny">Recusar</string>
+    <string name="deselect">Desmarcar</string>
     <string name="deselect_all">Desmarcar</string>
     <string name="deselected">Desmarcado</string>
     <string name="error_icon_content_description">Erro</string>

@@ -57,6 +57,10 @@
         <item quantity="few">%1$d dias atrás</item>
         <item quantity="many">%1$d dias atrás</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">Excluir %1$d arquivos de todos os seus dispositivos e da nuvem? Os arquivos do Mi Drive podem ser recuperados de seus itens excluídos recentemente.</item>
+        <item quantity="one">Excluir %1$d arquivo de todos os seus dispositivos e da nuvem? Os arquivos do Mi Drive podem ser recuperados de seus itens excluídos recentemente.</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">Excluir %1$d arquivos?</item>
         <item quantity="one">Excluir %1$d arquivo?</item>
@@ -167,6 +171,18 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novas notificações</item>
         <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"Não foi possível sincronizar %1$s arquivos"</item>
+        <item quantity="one">"Não foi possível sincronizar %1$s arquivo"</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"%1$s arquivos sincronizados | "</item>
+        <item quantity="one">"%1$s arquivo sincronizado | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Aguardando conexão de rede. %1$s arquivos restantes.</item>
+        <item quantity="one">Aguardando conexão de rede. %1$s arquivo restante.</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">Itens selecionados: %1$d</item>

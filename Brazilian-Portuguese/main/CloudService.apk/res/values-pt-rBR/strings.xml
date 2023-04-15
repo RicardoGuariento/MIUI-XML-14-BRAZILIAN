@@ -155,6 +155,8 @@
     <string name="dialog_title_prompt">Atenção</string>
     <string name="disable_find_device_error">"Não é possível desativar o 'Encontrar dispositivo'. %1$s"</string>
     <string name="do_not_merge">Cancelar</string>
+    <string name="download_gallery_data_summary">Vá para i.mi.com para baixar fotos e vídeos sincronizados para o seu dispositivo.</string>
+    <string name="download_gallery_data_title">Baixar itens para o seu dispositivo</string>
     <string name="early_morning">"AM"</string>
     <string name="empty" />
     <string name="enable_find_device_error">"Não é possível ativar o 'Encontrar dispositivo'. %1$s"</string>
@@ -252,6 +254,13 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="gallery_auto_sync_fail_noti_content">Não há espaço de armazenamento suficiente na nuvem. Atualize seu plano de armazenamento para sincronizar fotos e vídeos.</string>
+    <string name="gallery_data_transfer_ddl">Prazo final: %s</string>
+    <string name="gallery_data_transfer_summary">"Os itens da Galeria não podem mais ser sincronizados com o MiCloud. Recomendamos transferir fotos e vídeos que você sincronizou com a nuvem para o Google Fotos e usá-lo para fazer backup de seus itens."</string>
+    <string name="gallery_data_transfer_title">Transfira fotos e vídeos sincronizados para o Google Fotos</string>
+    <string name="gallery_service_termination_announcement">Aviso: os itens da Galeria não podem mais ser sincronizados com o MiCloud</string>
+    <string name="gallery_service_termination_announcement_title">"Os itens da Galeria não podem mais ser sincronizados com o MiCloud. Recomendamos transferir fotos e vídeos que você sincronizou com a nuvem para o Google Fotos ou visitar i.mi.com para baixar fotos e vídeos sincronizados do seu dispositivo. Os serviços de transferência e download estarão disponíveis até %s, momento em que todos os itens da Galeria sincronizados com sua Conta Mi da MiCloud serão excluídos permanentemente."</string>
+    <string name="gallery_service_termination_btn_continue">Continuar</string>
+    <string name="gallery_service_termination_more_info">Para mais detalhes, consulte \"%s\"</string>
     <string name="help_and_feedback">Ajuda e feedback</string>
     <string name="hybrid_provider">Fornecido por %1$s</string>
     <string name="i_know">"OK"</string>
@@ -334,6 +343,7 @@
     <string name="member_menu_vipname_ultra">"Ultra"</string>
     <string name="menu_add_feedback">"Feedback"</string>
     <string name="menu_add_short_cut">Criar atalho na Tela inicial</string>
+    <string name="menu_migrate_to_google_photos">Transferir dados para o Google Fotos</string>
     <string name="merge">Mesclar</string>
     <string name="mi_drive_not_publish_toast">O Mi Drive estará disponível em breve</string>
     <string name="mi_drive_summary">Acesse documentos da MiCloud em vários dispositivos</string>
@@ -730,7 +740,9 @@ Esta função criptografa e envia a ID do seu dispositivo para os servidores da 
     <string name="permission_status_allow">Permitido</string>
     <string name="permission_status_deny">Não permitido</string>
     <string name="permission_status_loading">Acessando o status do dispositivo…</string>
+    <string name="phone_guarantee_service_description" formatted="false">A proteção contra danos à tela e acidentes pode ser adquirida em %d dias após a ativação. A garantia estendida pode ser adquirida em %d dias após a ativação.</string>
     <string name="phone_number_required_dspt_provision">"Este serviço requer o número do seu telefone. "</string>
+    <string name="phone_guarantee_service_name">Garantia do dispositivo</string>
     <string name="picker_list_empty">Nenhum contato aqui</string>
     <string name="picker_search_empty">Nenhum contato encontrado</string>
     <string name="picker_search_hint">Pesquisar</string>
@@ -941,6 +953,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="soundrecorder_sync_records">Sincronizar com a MiCloud</string>
     <string name="special_func_title">Recursos especiais</string>
     <string name="starred_contact">Favoritos</string>
+    <string name="start_transfer_gallery_data">Tranferir dados</string>
     <string name="storage_manage_cloud_data_title">Ver itens na nuvem</string>
     <string name="storage_manage_expansion">Obter mais</string>
     <string name="storage_manage_full_summary">O armazenamento na nuvem está cheio. Faça o upgrade do seu plano.</string>

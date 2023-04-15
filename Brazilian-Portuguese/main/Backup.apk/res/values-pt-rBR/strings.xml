@@ -210,7 +210,6 @@ https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="disable_local_backup_and_restore">Desative backups locais</string>
     <string name="disable_local_backup_tips">Depois de desativar esse recurso, todos os backups locais serão excluídos. As configurações de backup serão apagadas e os itens não serão mais copiados automaticamente. Você ainda poderá usar seu dispositivo normalmente. Desativar mesmo assim?</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="enable_encrypt">Ativar criptografia</string>
     <string name="enable_encrypt_description">Criptografar</string>
     <string name="enable_encrypt_fail">Erro de criptografia</string>

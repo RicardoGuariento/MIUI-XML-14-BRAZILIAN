@@ -298,7 +298,6 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="err_toast_msg_audio_support_support_only">This device only supports transferring audio playback. Try dragging the audio card.</string>
-    <string name="err_toast_msg_default">"This action isn't supported"</string>
     <string name="err_toast_msg_mirror_and_bluetooth_support_only">"Can't transfer audio playback"</string>
     <string name="err_toast_msg_mirror_support_support_only">"This device only supports screen mirroring. Try dragging the card with this device's screen."</string>
     <string name="err_toast_msg_not_support">"This action isn't supported"</string>
@@ -307,6 +306,7 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="err_toast_msg_retry_later">"Couldn't perform this action. Wait a minute or two and try again."</string>
     <string name="err_toast_msg_try_switch_network">Connect both your mobile device and computer to the same Wi-Fi network</string>
     <string name="err_toast_msg_upgrade_pc_version">Update MIUI+ on your computer to be able to use this feature</string>
+    <string name="error_icon_content_description">Erro</string>
     <string name="evening">"PM"</string>
     <string name="expand_button_title">Avançado</string>
     <string name="file_read_des">Para exibir fotos e outros arquivos em monitores externos</string>
@@ -366,6 +366,7 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="global_privacy_main">Projeção dos itens da tela do seu dispositivo em um monitor externo.</string>
     <string name="global_privacy_negative">Não aceitar</string>
     <string name="global_privacy_positive">Aceitar</string>
+    <string name="global_privacy_screencast">Durante a gravação ou transmissão, o serviço que fornece esse recurso pode capturar qualquer informação confidencial exibida na tela ou reproduzida no dispositivo, isso inclui informações, como áudio, senhas, informações de pagamento, fotos e mensagens.</string>
     <string name="global_privacy_tip"><Data>Nós precisamos coletar informações pessoais necessárias para lhe fornecer os serviços básicos e otimizar o processo de transmissão. Você pode saber mais sobre como lidamos com as informações coletadas em nossa &lt;a href=%1$s>Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento à Política de Privacidade nas Configurações a qualquer momento.</Data></string>
     <string name="guide_confirm_button_text">Iniciar</string>
     <string name="guide_exit_button_content_description">Sair</string>
@@ -471,15 +472,29 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="help_page_text_55_global">"Se você não conseguir se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fios, Screen Mirroring ou Múltiplas telas.
 %1$d. Se encontrar algum problema, você pode relatá-lo usando nosso aplicativo \"Serviços e feedback\"."</string>
     <string name="help_page_text_end">Se o modelo do seu dispositivo não estiver listado aqui, entre em contato com o fabricante para saber mais sobre a funcionalidade de transmissão.</string>
+    <string name="icon_content_description">Ícone de diálogo</string>
     <string name="invisible_mode_dialog_content">"Não é possível usar a transmissão quando você está no Modo anônimo. Desative o Modo anônimo primeiro."</string>
     <string name="invisible_mode_dialog_content_audio_relay">"Não é possível transferir a reprodução quando você está no no Modo anônimo. Desative o Modo anônimo primeiro."</string>
     <string name="invisible_mode_dialog_pos">Desativar</string>
     <string name="invisible_mode_dialog_title">"Você está anônimo"</string>
+    <string name="item_view_role_description">Guia</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
     <string name="midnight">"AM"</string>
+    <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
+    <string name="material_hour_selection">Selecione a hora</string>
+    <string name="material_hour_suffix">"%1$s horas</string>
+    <string name="material_minute_selection">Selecione os minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_slider_range_end">Fim do intervalo,</string>
+    <string name="material_slider_range_start">Início do intervalo,</string>
+    <string name="material_timepicker_am">"AM"</string>
+    <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">"PM"</string>
+    <string name="material_timepicker_select_time">Selecione o horário</string>
+    <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="mipaly_server_exit_touping">Saia do screencast atual primeiro</string>
-    <string name="miplay_service_timeout_toast">A conexão expirou, tente novamente mais tarde</string>
-    <string name="miui_main_ota_end_bottom_desc">Deslize para cima para entrar no sistema</string>
     <string name="miplay_accessibility_cast">Selecione o dispositivo</string>
     <string name="miplay_accessibility_cover">Cover</string>
     <string name="miplay_accessibility_next">Next song</string>
@@ -496,7 +511,9 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="miplay_mini_card_no_song_pad_title">Tablet audio</string>
     <string name="miplay_mini_card_no_song_subtitle">Sem reprodução</string>
     <string name="miplay_mini_card_no_song_title">Áudio do telefone</string>
-    <string name="miplay_song_title_empty">No items here</string>
+    <string name="miplay_service_timeout_toast">A conexão expirou, tente novamente mais tarde</string>
+    <string name="miplay_song_title_empty">Nenhum item aqui</string>
+    <string name="miui_main_ota_end_bottom_desc">Deslize para cima para entrar no sistema</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
@@ -584,7 +601,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="mr_controller_stop">Stop</string>
     <string name="mr_controller_stop_casting">Stop casting</string>
     <string name="mr_controller_volume_slider">Volume slider</string>
-    <string name="mr_dialog_default_group_name">Group</string>
+    <string name="mr_dialog_default_group_name">Grupo</string>
     <string name="mr_dialog_groupable_header">Add a device</string>
     <string name="mr_dialog_transferable_header">Play on a group</string>
     <string name="mr_system_route_name">System</string>
@@ -648,6 +665,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="paipai_connect_tv2_text">Dados transferidos</string>
     <string name="paipai_error_dialog_msg">Verifique suas configurações de rede e tente novamente.</string>
     <string name="paipai_error_dialog_negative">Entendi</string>
+    <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="path_setting_cast">Conexão e compartilhamento/Transmissão</string>
     <string name="path_setting_cast_demo">Conexão e compartilhamento/Transmissão/Demonstrações</string>
     <string name="path_setting_cast_demo_document">Conexão e compartilhamento/Transmissão/Demonstrações/Documentos</string>

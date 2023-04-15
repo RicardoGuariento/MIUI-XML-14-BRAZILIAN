@@ -370,6 +370,7 @@
     <string name="callrecordview_menu_show_missed">Chamadas perdidas</string>
     <string name="callrecordview_menu_show_sim">Chamadas do %s</string>
     <string name="callrecordview_menu_show_stranger">Cham. de números desconhecidos</string>
+    <string name="callrecordview_menu_xiaoaiphone">Assistente de chamada Mi AI</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_confirmation_dialog_message">Descartar as alterações?</string>
     <string name="cancel_confirmation_dialog_title">Cancelar</string>
@@ -955,6 +956,10 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="not_set">Não definido</string>
     <string name="notification_click_detail">Toque para ver detalhes</string>
     <string name="notification_micloudsync_delete_contact">A MiCloud deseja excluir alguns dos seus contatos</string>
+    <string name="notification_missedCallTitle">Chamada não atendida</string>
+    <string name="notification_missedCall_call_back">Retornar</string>
+    <string name="notification_missedCall_message">Enviar SMS</string>
+    <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
     <string name="open_contact">Ver contato</string>
     <string name="open_dial_pad_description">Abrir teclado de discagem</string>
     <string name="option_delete_contact">Excluir</string>
@@ -1287,7 +1292,6 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="status_busy">Ocupado</string>
     <string name="strequentList">Favoritos</string>
     <string name="success_message_import_from_account">Importação concluída</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

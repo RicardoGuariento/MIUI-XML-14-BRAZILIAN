@@ -160,7 +160,6 @@
     <string name="download_to">"Salvar em "</string>
     <string name="downloading">Baixando</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_filename_contain_illegal_char">"O nome do arquivo não pode conter caracteres especiais"</string>

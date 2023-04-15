@@ -230,6 +230,10 @@
         <item quantity="other">%d seguidores</item>
         <item quantity="one">%d seguidor</item>
     </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d horas atrás</item>
         <item quantity="one">%1$d hora atrás</item>
@@ -281,6 +285,10 @@
     <plurals name="mins_ago">
         <item quantity="other">%1$d minutos atrás</item>
         <item quantity="one">%1$d minuto atrás</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d itens selecionados</item>

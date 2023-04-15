@@ -261,10 +261,8 @@
     <string name="continue_check">Selecionar</string>
     <string name="continue_to_do">Continuar</string>
     <string name="copy">Copiar</string>
+    <string name="copy_toast_msg">Link copiado para a área de transferência</string>
     <string name="data_selected">Itens selecionados</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dc_activity_title">Limpeza Profunda</string>
@@ -391,6 +389,9 @@
     <string name="facebook_group_gif">"GIFs"</string>
     <string name="facebook_group_image">Imagens</string>
     <string name="facebook_group_video">Vídeos</string>
+    <string name="fallback_menu_item_copy_link">Copiar link</string>
+    <string name="fallback_menu_item_open_in_browser">Abrir no navegador</string>
+    <string name="fallback_menu_item_share_link">Compartilhar link</string>
     <string name="file">Arquivos</string>
     <string name="file_not_found">Arquivo não encontrado</string>
     <string name="flow_rank_title">Uso de dados</string>
@@ -475,9 +476,9 @@
     <string name="global_wa_setting_alert_pref_size_title">Tamanho do lixo</string>
     <string name="global_wa_setting_alert_pref_switch_title">Lembrar de limpar itens</string>
     <string name="global_wa_setting_alert_pref_time_title">Frequência</string>
-    <string name="global_wa_setting_alert_size_1_GB">1GB</string>
-    <string name="global_wa_setting_alert_size_200_MB">200MB</string>
-    <string name="global_wa_setting_alert_size_500_MB">500MB</string>
+    <string name="global_wa_setting_alert_size_1_GB">1 GB</string>
+    <string name="global_wa_setting_alert_size_200_MB">200 MB</string>
+    <string name="global_wa_setting_alert_size_500_MB">500 MB</string>
     <string name="global_wa_setting_alert_size_dialog_title">Tamanho do lixo do WhatsApp</string>
     <string name="global_wa_setting_alert_time_dialog_title">Frequência</string>
     <string name="global_wa_setting_alert_time_every_day">Diariamente</string>
@@ -551,7 +552,6 @@
     <string name="hints_list_item_unlock">Limpar</string>
     <string name="hints_loading_text">Carregando…</string>
     <string name="hints_memory_header_left">Memória</string>
-    <string name="hints_num">0</string>
     <string name="hints_privacy_header_left">Privacidade: %d</string>
     <string name="hints_quick_cleanning">Limpando…</string>
     <string name="hints_quick_cleanuping">Otimizando…</string>
@@ -704,9 +704,8 @@
     <string name="no_network">Não foi possível conectar-se à rede, tente novamente mais tarde</string>
     <string name="no_network_btn">Repetir</string>
     <string name="noon">"PM"</string>
-    <string name="not_selected_tips">Primeiro selecione os apps .</string>
+    <string name="not_selected_tips">Primeiro selecione os apps.</string>
     <string name="not_set">Não definido</string>
-    <string name="nothing" />
     <string name="notification_apk_clean_button_text">Limpar</string>
     <string name="notification_checker_installed_apk_hint">Não há necessidade de manter APKs depois da instalação</string>
     <string name="notification_checker_picture_hint_a">Imagens em cache podem ocupar muito espaço de armazenamento</string>
@@ -950,7 +949,6 @@
     <string name="storage_space_release_hint">Precisa de mais espaço de armazenamento?</string>
     <string name="storage_system_log">Logs do sistema</string>
     <string name="summary_auto_cleaner">Receber notificações quando o tamanho do lixo atingir 100MB?</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_delete_apk">Excluir APKs selecionados permanentemente?</string>
     <string name="summary_delete_cache">Limpar cache dos apps selecionados?</string>
     <string name="summary_delete_large_file">Excluir os arquivos selecionados permanentemente?</string>
