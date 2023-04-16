@@ -46,10 +46,10 @@
     <string name="auto_disable_screenbuttons_summary">Desative automaticamente os botões de navegação ao usar apps selecionados. Toque duas vezes em qualquer botão de navegação para reativar.</string>
     <string name="auto_disable_screenbuttons_title">Desativar automaticamente os botões de navegação</string>
     <string name="back_button">Voltar</string>
-    <string name="back_double_tap">Toque duplo na parte detrás</string>
+    <string name="back_double_tap">Toque duplo na parte traseira</string>
     <string name="back_key">Voltar</string>
-    <string name="back_tap">Toque na parte detrás</string>
-    <string name="back_triple_tap">Toque triplo na parte detrás</string>
+    <string name="back_tap">Toque na parte traseira</string>
+    <string name="back_triple_tap">Toque triplo na parte traseira</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="builtin_keyboard_settings_title">Teclado físico</string>
     <string name="camera_key_action_app_title">Abrir app</string>
