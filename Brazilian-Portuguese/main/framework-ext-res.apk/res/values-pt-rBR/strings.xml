@@ -243,7 +243,7 @@
     <string name="ks_back_home">Tela inicial</string>
     <string name="ks_close_window">Fechar janela atual</string>
     <string name="ks_launch_control_center">Centro de controle</string>
-    <string name="ks_launch_notification_center">Sombra de notificação</string>
+    <string name="ks_launch_notification_center">Área de notificação</string>
     <string name="ks_launch_recents_tasks">Abrir recentes</string>
     <string name="ks_lock_screen">Tela de bloqueio</string>
     <string name="ks_regional_screen_shot">Captura de tela (parcial)</string>
@@ -257,7 +257,7 @@
     <string name="launch_camera">Iniciar câmera</string>
     <string name="launch_control_center">Centro de controle</string>
     <string name="launch_google_search">Iniciar o Google Assistente</string>
-    <string name="launch_notification_center">Sombra de notificação</string>
+    <string name="launch_notification_center">Área de notificação</string>
     <string name="launch_recents">Iniciar os recentes</string>
     <string name="launch_smarthome">Controle Mágico Xiaomi</string>
     <string name="launch_voice_assistant">Iniciar assistente de voz</string>

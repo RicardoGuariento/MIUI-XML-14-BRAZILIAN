@@ -4682,7 +4682,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="ks_dialog_reset_text_system">Restaurar as preferências padrão de atalho do sistema?</string>
     <string name="ks_dialog_title">Abrir %s</string>
     <string name="ks_launch_control_center">Centro de controle</string>
-    <string name="ks_launch_notification_center">Sombra de notificação</string>
+    <string name="ks_launch_notification_center">Área de notificação</string>
     <string name="ks_reset_title">Restaurar preferências padrão</string>
     <string name="ks_screenshot">Capturar tela</string>
     <string name="ks_search_summary">Pesquisar</string>
@@ -5613,8 +5613,8 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_multi_connect_mode_summary">Conecte-se a vários dispositivos ao mesmo tempo</string>
     <string name="miheadset_network_not_available">Verifique suas configurações de rede e tente novamente</string>
     <string name="miheadset_next">Próximo</string>
-    <string name="miheadset_notification_summary">Mostra o widget de sombra de notificação quando os fones de ouvido estiverem conectados</string>
-    <string name="miheadset_notification_title">Show on Notification shade</string>
+    <string name="miheadset_notification_summary">Mostra o widget da Área de notificação quando os fones de ouvido estiverem conectados</string>
+    <string name="miheadset_notification_title">Mostrar na Área de notificação</string>
     <string name="miheadset_ok_device">"OK"</string>
     <string name="miheadset_openAnc">Cancelamento de ruído</string>
     <string name="miheadset_openAnc2">Cancelamento de ruído</string>

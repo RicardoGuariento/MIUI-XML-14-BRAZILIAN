@@ -189,7 +189,7 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="accessibility_shortcut_toogle_warning">Quando o atalho estiver ativado, pressione os dois botões de volume por três segundos para iniciar um recurso de acessibilidade.</string>
     <string name="accessibility_shortcut_warning_dialog_title">Usar atalho de Acessibilidade?</string>
     <string name="accessibility_system_action_back_label">Voltar</string>
-    <string name="accessibility_system_action_dismiss_notification_shade">Dispensar sombra de notificação</string>
+    <string name="accessibility_system_action_dismiss_notification_shade">Dispensar Área de notificação</string>
     <string name="accessibility_system_action_dpad_center_label">Dpad Centro</string>
     <string name="accessibility_system_action_dpad_down_label">Dpad Baixo</string>
     <string name="accessibility_system_action_dpad_left_label">Dpad Esquerda</string>
