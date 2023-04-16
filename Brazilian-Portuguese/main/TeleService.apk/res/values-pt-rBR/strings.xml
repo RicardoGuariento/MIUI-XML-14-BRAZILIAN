@@ -1456,14 +1456,14 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="material_minute_selection">Selecione minutos</string>
     <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Intervalo final,</string>
-    <string name="material_slider_range_start">I ntervalo inicial</string>
+    <string name="material_slider_range_start">Intervalo inicial</string>
     <string name="material_timepicker_am">"AM"</string>
-    <string name="material_timepicker_clock_mode_description">Mude para o modo do relógio para a entrada de tempo.</string>
+    <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
     <string name="material_timepicker_hour">Hora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecione tempo</string>
-    <string name="material_timepicker_text_input_mode_description">Mude para o modo de entrada de texto para a entrada de tempo.</string>
+    <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="media_category">Mídia</string>
     <string name="media_transfer_this_device_name">Alto-falante do smartphone</string>
     <string name="media_transfer_this_phone">Este dispositivo</string>

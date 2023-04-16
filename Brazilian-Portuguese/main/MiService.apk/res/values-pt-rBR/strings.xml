@@ -89,6 +89,7 @@
     <string name="icon_remove_description_content">\"Serviços e feedback\" é um app do sistema. Você ainda poderá usá-lo através das Configurações após remover o atalho da Tela inicial.</string>
     <string name="icon_remove_description_title">Remover \"Serviços e feedback\" da Tela inicial?</string>
     <string name="mi_service_app_name">Serviços e feedback</string>
+    <string name="mi_service_back">Voltar</string>
     <string name="midnight">"AM"</string>
     <string name="miservice_channel_boot_name">"boot"</string>
     <string name="miservice_channel_guide_name">guia</string>
@@ -208,6 +209,10 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_main_control_center_desc">Ou alterne para a versão antiga em Configurações &gt; Notificações e Centro de controle</string>
     <string name="miui_main_control_center_open">Novo Centro de controle</string>
     <string name="miui_main_control_center_title">Deslize para alternar entre a Área de notificações e o Centro de controle</string>
+    <string name="miui_main_icon_callback">Atalho da Tela inicial</string>
+    <string name="miui_main_icon_callback_create">Criar</string>
+    <string name="miui_main_icon_callback_desc">Criar um atalho na Tela inicial agora?</string>
+    <string name="miui_main_icon_callback_nocreate">Cancelar</string>
     <string name="miui_main_mirror_tab_desc1">Conectar automaticamente</string>
     <string name="miui_main_mirror_tab_desc2">Veja imagens em uma tela maior</string>
     <string name="miui_main_mirror_tab_desc3">Compartilhe arquivos rapidamente</string>

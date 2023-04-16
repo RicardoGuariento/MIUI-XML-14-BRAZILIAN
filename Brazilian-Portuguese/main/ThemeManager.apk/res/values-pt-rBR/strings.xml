@@ -574,14 +574,14 @@ Toque para desativar."</string>
     <string name="material_minute_selection">Selecione minutos</string>
     <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Intervalo final,</string>
-    <string name="material_slider_range_start">I ntervalo inicial</string>
+    <string name="material_slider_range_start">Intervalo inicial</string>
     <string name="material_timepicker_am">"AM"</string>
-    <string name="material_timepicker_clock_mode_description">Mude para o modo do relógio para a entrada de tempo.</string>
+    <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
     <string name="material_timepicker_hour">Hora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecione tempo</string>
-    <string name="material_timepicker_text_input_mode_description">Mude para o modo de entrada de texto para a entrada de tempo.</string>
+    <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="mi_wallpaper">Fundos da MIUI</string>
     <string name="midnight">"AM"</string>
     <string name="mine_tab_not_login">"Entre para ver os itens.

@@ -87,7 +87,6 @@
     <string name="download_succeeded_title">Recebidos %1$s</string>
     <string name="downloading">Baixando…</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="enable_power_save_mode_notification_fail_action">Tente novamente</string>
     <string name="enable_power_save_mode_notification_fail_content">Tente novamente ou ative a Economia de bateria no smartphone</string>
     <string name="enable_power_save_mode_notification_fail_title">"Não foi possível ativar"</string>

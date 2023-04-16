@@ -29,6 +29,10 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">%2$d minutos restantes para \"%1$s\" hoje</item>
+        <item quantity="one">%2$d minuto restante para \"%1$s\" hoje</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
@@ -64,9 +68,21 @@
         <item quantity="other">Você usou seu dispositivo por %d minutos sem interrupções</item>
         <item quantity="one">Você usou seu dispositivo por %d minuto sem interrupções</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Descanse por %d minutos</item>
+        <item quantity="one">Descanse por %d minuto</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">"Você já está usando este dispositivo há %d minutos"</item>
+        <item quantity="one">"Você já está usando este dispositivo há %d minuto"</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Você pode adicionar até %d intervalos</item>
+        <item quantity="one">Você pode adicionar até %d intervalo</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">O tempo de tela de hoje é igual à sua média de %d dias</item>

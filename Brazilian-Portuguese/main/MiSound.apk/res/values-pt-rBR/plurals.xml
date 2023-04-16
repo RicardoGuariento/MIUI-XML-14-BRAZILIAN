@@ -60,4 +60,8 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="rename_error_longer_effect_name">
+        <item quantity="other">Você pode inserir até %d caracteres aqui</item>
+        <item quantity="one">Você pode inserir até %d caractere aqui</item>
+    </plurals>
 </resources>
