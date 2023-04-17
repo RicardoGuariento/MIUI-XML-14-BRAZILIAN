@@ -227,7 +227,7 @@
     <string name="gb_gpu_tips_texture">Priorize o desempenho ou a qualidade da imagem</string>
     <string name="gb_gputuner_lod_deviation">Polarização de Mipmap LOD</string>
     <string name="gb_gputuner_multi_render">Renderização multithread</string>
-    <string name="gb_not_support_on_device">"Este aplicativo não pode ser usado na tela externa"</string>
+    <string name="gb_not_support_on_device">"Este app não pode ser usado na tela externa"</string>
     <string name="gb_pannel_control_mode_balance">Equilibrado</string>
     <string name="gb_pannel_control_mode_custom">Personalizado</string>
     <string name="gb_pannel_control_mode_high_quality">Alta qualidade</string>

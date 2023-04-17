@@ -197,7 +197,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="delete_folders">Excluir %1$d pastas?</string>
     <string name="des_hide_pwd">Ocultar a senha</string>
     <string name="des_show_pwd">Exibir a senha</string>
-    <string name="dialog_account_permission_denied_msg">Permita que este aplicativo acesse as contas do dispositivo para poder fazer login no Mi Drive. Você pode conceder essa permissão em Configurações.</string>
+    <string name="dialog_account_permission_denied_msg">Permita que este app acesse as contas do dispositivo para poder fazer login no Mi Drive. Você pode conceder essa permissão em Configurações.</string>
     <string name="dialog_account_permission_denied_negative_button">Cancelar</string>
     <string name="dialog_account_permission_denied_positive_button">Configurações</string>
     <string name="dialog_account_permission_denied_title">Permissões necessárias</string>

@@ -19,6 +19,16 @@
         <item>Alterar senha da Conta Mi</item>
         <item>Alterar senha;Atualizar senha;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Espaço de armazenamento familiar</item>
+        <item>Visualizar/ativar o espaço de armazenamento familiar</item>
+        <item>Espaço de armazenamento familiar; Compartilhamento de armazenamento</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Serviços familiares</item>
+        <item>Exibir/ativar os serviços familiares</item>
+        <item>Família;Serviços familiares;Compartilhamento familiar</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>Ajuda</item>
         <item>Obtenha ajuda e suporte para a Conta Mi</item>

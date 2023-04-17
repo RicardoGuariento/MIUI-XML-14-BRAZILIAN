@@ -748,7 +748,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="virus_install_confirm_msg">O app que você está prestes a instalar contém vírus que podem colocar seus dados pessoais em risco de exposição ou impor deduções maliciosas.</string>
     <string name="virus_install_confirm_title">Confirme a instalação</string>
     <string name="virus_safe_install_mode_security_tips">Se você confia neste app, poderá autorizar sua instalação nas configurações > Apps > Modo Seguro.</string>
-    <string name="virus_safe_install_mode_security_tips_pi">Se você confiar neste aplicativo, toque no ícone Configurações e selecione \"Modo Seguro\" Para autorizar sua instalação.</string>
+    <string name="virus_safe_install_mode_security_tips_pi">Se você confiar neste app, toque no ícone Configurações e selecione \"Modo Seguro\" Para autorizar sua instalação.</string>
     <string name="virus_scan_caller_unknown">Desconhecido</string>
     <string name="virus_scan_clear">Remover</string>
     <string name="virus_scan_install"><u>Instalar mesmo assim</u></string>

@@ -73,6 +73,7 @@
     <string name="PERSOSUBSTATE_SIM_NETWORK_IN_PROGRESS">Solicitando desbloqueio da rede SIM…</string>
     <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_ENTRY">Insira o PUK</string>
     <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_ERROR">Desbloqueio PUK falhou.</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_IN_PROGRESS">Solicitando desbloqueio PUK…</string>
     <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_SUCCESS">PUK desbloqueado.</string>
     <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ENTRY">PIN de desbloqueio de subconjunto da rede SIM</string>
     <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ERROR">Falha na solicitação de desbloqueio de subconjunto de rede SIM.</string>
@@ -234,9 +235,17 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="alarms_and_reminders_title">Alarmes e lembretes</string>
     <string name="alert_dialog_close">Feche o perfil</string>
     <string name="alert_dialog_dismiss">Descartar</string>
+    <string name="alert_dialog_exit_ecm">{count, plural, =1 {O telefone ficará no Modo chamada de emergência por um minuto. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?} other {O telefone estará no Modo chamada de emergência por %s minutos. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?} }</string>
+    <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {O telefone ficará no Modo chamada de emergência por um minuto.
+Deseja sair agora?} other {O telefone estará em Modo chamada de emergência por %s minutos.
+Deseja sair agora?} }"</string>
+    <string name="alert_dialog_exit_scm">O telefone está no Modo retorno de SMS. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?</string>
     <string name="alert_dialog_in_ecm_call">A ação selecionada não está disponível durante uma chamada de emergência.</string>
+    <string name="alert_dialog_in_scm_call">"A ação selecionada não está disponível durante uma chamada de emergência."</string>
     <string name="alert_dialog_no">Não</string>
     <string name="alert_dialog_ok">"OK"</string>
+    <string name="alert_dialog_not_avaialble_in_ecm">"{count, plural, =1 {A ação selecionada não está disponível no Modo chamada de emergência. O telefone ficará neste modo por um minuto. Deseja sair agora?} other {A ação selecionada não está disponível no Modo chamada de retorno de emergência. O telefone ficará neste modo por %s minutos. Deseja sair agora?} }"</string>
+    <string name="alert_dialog_not_avaialble_in_scm">"A ação selecionada não está disponível no Modo retorno de SMS. Deseja sair agora?"</string>
     <string name="alert_dialog_yes">Sim</string>
     <string name="alertdialogtitle">Resultados</string>
     <string name="all_day">" O dia todo "</string>
@@ -522,6 +531,7 @@ Seleção"</string>
     <string name="callFailed_requested_facility_not_subscribed">Serviço solicitado não inscrito</string>
     <string name="callFailed_resources_unavailable_or_unspecified">Recursos indisponíveis, não especificado</string>
     <string name="callFailed_resp_to_status_enquiry">Resposta a STATUS INQUIRY</string>
+    <string name="callFailed_secure_mode">Não é possível fazer uma chamada não emergencial no Modo seguro.</string>
     <string name="callFailed_semantically_incorrect_message">Mensagem semanticamente incorreta</string>
     <string name="callFailed_server_error">Erro de servidor. Tente mais tarde.</string>
     <string name="callFailed_server_unreachable">Servidor inacessível</string>
@@ -1359,6 +1369,7 @@ aguardando a entrada do código de desbloqueio"</string>
     <string name="labelCDMAMore">Configurações de chamada CDMA</string>
     <string name="labelCF">Encam. de chamadas</string>
     <string name="labelCFB">Encaminhar quando ocupado</string>
+    <string name="labelCFNL">Quando não está logado</string>
     <string name="labelCFNRc">Encaminhar quando inacessível</string>
     <string name="labelCFNRy">Encaminhar quando não atendida</string>
     <string name="labelCFType">Encaminhamento de chamadas</string>
@@ -1476,6 +1487,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="menu_new_display_open">Abrir em uma nova janela</string>
     <string name="menu_pc_open">Abra com um programa de computador</string>
     <string name="messageCFB">Encaminhar chamadas para</string>
+    <string name="messageCFNL">Número quando não está logado</string>
     <string name="messageCFNRc">Encaminhar chamadas para</string>
     <string name="messageCFNRy">Encaminhar chamadas para</string>
     <string name="messageCFU">Encaminhar chamadas para</string>
@@ -1796,6 +1808,7 @@ A rede preferencial será usada."</string>
 Entre em contato com suas operadoras"</string>
     <string name="no_vm_number">Número do correio de voz ausente</string>
     <string name="no_vm_number_msg">Não há um número de correio de voz armazenado no cartão SIM.</string>
+    <string name="no_voice_capability">"Não foi possível entrar em contato com a operadora. Espere um pouco e tente novamente."</string>
     <string name="no_voip">Chamadas SIP não são suportadas</string>
     <string name="no_volte_call_service_notification_content2_for_cbn">"Não é possível fazer chamadas. O serviço de voz HD não está registrado para o SIM %d (China Broadnet)."</string>
     <string name="no_volte_call_service_notification_content_for_cbn">"Não é possível fazer chamadas. O serviço de voz HD não está registrado para China Broadnet SIM."</string>
@@ -1960,12 +1973,16 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="phone_accounts_make_sip_calls_with">Fazer chamadas SIP com</string>
     <string name="phone_accounts_selection_header">Contas do telefone</string>
     <string name="phone_accounts_settings_header">Configurações</string>
-    <string name="phone_entered_ecm_text">Entrou no Modo de Retorno de Chamada de Emergência</string>
+    <string name="phone_entered_ecm_text">Entrou no Modo chamada de emergência</string>
+    <string name="phone_entered_scm_text">Entrou no Modo retorno de chamada SMS</string>
     <string name="phone_in_ecm_call_notification_text">Conexão de dados desativada</string>
-    <string name="phone_in_ecm_call_notification_text_without_data_restriction_hint">O telefone está em modo de retorno de chamada de emergência</string>
+    <string name="phone_in_ecm_call_notification_text_without_data_restriction_hint">O telefone está em Modo chamada de emergência</string>
     <string name="phone_in_ecm_notification_complete_time">Sem conexão de dados até %s</string>
     <string name="phone_in_ecm_notification_complete_time_without_data_restriction_hint">Até %s</string>
-    <string name="phone_in_ecm_notification_title">Modo de Retorno de Chamada de Emergência</string>
+    <string name="phone_in_ecm_notification_title">Modo chamada de emergência</string>
+    <string name="phone_in_scm_call_notification_text_without_data_restriction_hint">O telefone está no Modo de retorno de chamada SMS</string>
+    <string name="phone_in_scm_notification_complete_time">Desde %s</string>
+    <string name="phone_in_scm_notification_title">Modo retorno de chamada SMS</string>
     <string name="phone_index_label">Selecione o índice do telefone</string>
     <string name="phone_info_label">"Informação do telefone "</string>
     <string name="phone_report_title">Ler informações de chamadas recebidas</string>
@@ -2121,7 +2138,8 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="private_num_kr">Identificação de chamadas restrita</string>
     <string name="profile_connect_timeout_subtext">Ocorreu um problema na conexão. Desligue o dispositivo e ligue-o novamente</string>
     <string name="profile_info_settings_title">Informações do perfil</string>
-    <string name="progress_dialog_exiting_ecm">Saindo do Modo de Retorno de Chamada de Emergência</string>
+    <string name="progress_dialog_exiting_ecm">Saindo do Modo chamada de emergência</string>
+    <string name="progress_dialog_exiting_scm">Saindo do Modo de retorno de chamada SMS</string>
     <string name="prompt_to_suggest_no_call_service_notification_content">Não é possível fazer e receber chamadas. O serviço VoLTE está desativado para o seu SIM (China Telecom) agora.</string>
     <string name="prompt_to_suggest_no_call_service_notification_content2">Não é possível fazer e receber chamadas. O serviço VoLTE está desativado para SIM %d (China Telecom) agora.</string>
     <string name="prompt_to_suggest_no_call_service_notification_title">Não é possível fazer e receber chamadas"</string>
@@ -2180,6 +2198,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="radio_info_dcnr_restricted">DCNR restrito:</string>
     <string name="radio_info_dds">Subcódigo do chip de dados padrão:</string>
     <string name="radio_info_dl_kbps">Largura de banda DL (kbps):</string>
+    <string name="radio_info_dsda_state_label">Status DSDA:</string>
     <string name="radio_info_endc_available">EN-DC disponível:</string>
     <string name="radio_info_gprs_service_label">Serviço de dados:</string>
     <string name="radio_info_gsm_service_label">Serviço de voz:</string>
@@ -2201,6 +2220,7 @@ Interface UT: %5$s"</string>
     <string name="radio_info_nr_available">NR disponível:</string>
     <string name="radio_info_nr_frequency">Frequência NR:</string>
     <string name="radio_info_nr_state">Status NR:</string>
+    <string name="radio_info_override_network_type_label">Substituir tipo de rede:</string>
     <string name="radio_info_phone_number_label">Número de telefone:</string>
     <string name="radio_info_phy_chan_config">Configuração do canal físico de LTE:</string>
     <string name="radio_info_ping_hostname_v4">Ping Hostname(www.google.com) IPv4:</string>
@@ -2249,6 +2269,7 @@ Interface UT: %5$s"</string>
     <string name="relay_call_released_due_to_connect_lost">A conexão foi perdida. Continue com a chamada em seu outro dispositivo.</string>
     <string name="relay_connection_service_label">Chamada de RETRANSMISSÃO integrada</string>
     <string name="remaining_length_format">%1$s restante(s)</string>
+    <string name="removable_esim_string">Definir eSIM removível como padrão</string>
     <string name="remove">Remover</string>
     <string name="remove_sip_account">Remover conta</string>
     <string name="removing_account">Removendo a conta…</string>
@@ -2472,11 +2493,16 @@ Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="smart_forwarding_settings_menu">Encaminhamento inteligente</string>
     <string name="smart_forwarding_settings_menu_summary">Quando um número não estiver acessível, sempre encaminhe as chamadas para o outro número</string>
     <string name="smart_multinetwork_acceleration_title">Aceleração de rede inteligente</string>
+    <string name="smart_switch_dual_sim_diag_cancel">Cancelar</string>
+    <string name="smart_switch_dual_sim_diag_message">"Parece que seu chip de dados atual não fornece uma conexão de rede estável. Alternar entre cartões SIM de dados automaticamente pode melhorar a qualidade da conexão. Você pode ativar esse recurso em Configurações."</string>
+    <string name="smart_switch_dual_sim_diag_ok">Configurações</string>
+    <string name="smart_switch_dual_sim_diag_title">Atenção!</string>
     <string name="smart_switch_dual_sim_prompt">Conectar-se à rede de dados móveis usando o SIM %1$s pode gerar taxas de dados adicionais. Defina um limite de uso de dados para evitar taxas adicionais.</string>
     <string name="smart_switch_dual_sim_summary">Alterne entre os cartões SIM de dados automaticamente com base na qualidade da conexão de rede e no status do dispositivo</string>
     <string name="smart_switch_dual_sim_title">Alternar entre cartões SIM de dados</string>
     <string name="sms_messages_title">"SMS"</string>
     <string name="smsc_dialog_message">Certifique-se de que o número inserido está correto. Caso contrário, você não conseguirá enviar ou receber SMS. Entre em contato com a sua operadora para confirmar o número SMSC.</string>
+    <string name="sports_news_settings">Notícias de esportes</string>
     <string name="srvcc_message">A chamada de voz 4G foi rebaixada para 2G/3G porque a rede 4G não está disponível.</string>
     <string name="srvcc_video_message">A videochamada foi rebaixada para 2G/3G chamada de voz porque a rede 4G não está disponível.</string>
     <string name="speed_label_fast">Rápida</string>
@@ -2485,9 +2511,8 @@ Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="speed_label_slow">Lenta</string>
     <string name="speed_label_very_fast">Muito rápida</string>
     <string name="speed_label_very_slow">Muito lenta</string>
-    <string name="sports_news_settings">Notícias de esportes</string>
+    <string name="speed_limit_card_toast">"Você usou todos os dados com a velocidade total. A velocidade de conexão será limitada agora."</string>
     <string name="standby_bucket_summary">Estado em espera do app: %s</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_hint_label_incoming_wifi_call">Chamada Wi-Fi de</string>
     <string name="status_hint_label_wifi_call">Chamada Wi-Fi</string>
     <string name="status_unavailable">Indisponível</string>
@@ -2507,6 +2532,8 @@ Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="sum_cdma_call_settings">Configurações adicionais de chamadas CDMA</string>
     <string name="sum_cfb_disabled">Desativado</string>
     <string name="sum_cfb_enabled">Encaminhando para {0}</string>
+    <string name="sum_cfnl_disabled">Desativado</string>
+    <string name="sum_cfnl_enabled">Encaminhando para {0}</string>
     <string name="sum_cfnrc_disabled">Desativado</string>
     <string name="sum_cfnrc_enabled">Encaminhando para {0}</string>
     <string name="sum_cfnry_disabled">Desativado</string>
@@ -2789,6 +2816,7 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="user_switch_to_user">Mudar para %s</string>
     <string name="username_title">Nome de usuário</string>
     <string name="ussdRunning">Código USSD em execução…</string>
+    <string name="ussdinitiated_title">USSD Iniciado</string>
     <string name="ut_not_support">O UT não está disponível</string>
     <string name="ut_unavailable_to_set_video_cf_toast">O UT não está disponível para definir o encaminhamento de chamadas para vídeo, feche esta página e saia.</string>
     <string name="v7_preference_off">DESATIVADO</string>
@@ -2798,6 +2826,8 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="vibrating_for_outgoing_call_accepted_summary">Ativar vibração para chamadas efetuadas</string>
     <string name="vibrating_for_outgoing_call_accepted_title">Vibração para chamadas efetuadas</string>
     <string name="vice_card_data_in_use_alert">Tarifas adicionais de dados podem ser cobradas.</string>
+    <string name="vice_slot_volte_data_dialog_message"><Data>Parece que sua conexão de rede atual está instável. Você pode tentar alternar entre cartões SIM de dados automaticamente. &lt;font color=#ff0000>&lt;b>O uso desse recurso pode gerar taxas adicionais da operadora&lt;/b>&lt;/font>.</Data></string>
+    <string name="vice_slot_volte_data_dialog_open">Ativar</string>
     <string name="vice_slot_volte_data_switch_prompt">Seu dispositivo se conectará a uma rede de dados móveis usando o SIM 2 durante chamadas VoLTE em andamento. Isto poderá gerar custos adicionais. Entre em contato com sua operadora para mais detalhes sobre o seu plano de dados.</string>
     <string name="vice_slot_volte_data_switch_summary">Durante chamadas VoLTE, o dispositivo se conectará à rede de dados móveis usando o SIM 2</string>
     <string name="vice_slot_volte_data_switch_title">Usar dados móveis durante chamadas VoLTE no SIM 2</string>
@@ -3036,6 +3066,7 @@ O armazenamento de credenciais pode não estar ativo"</string>
     <string name="wrong_password">A senha inserida está incorreta</string>
     <string name="xcap_setting_summary">Restrição de chamadas, correio de voz e encaminhamento de chamadas e chamada em espera</string>
     <string name="xcap_setting_title">Configurações dos serviços de chamada</string>
+    <string name="xiaoai_assistant_setting_title">Assistente de chamada Mi AI</string>
     <string name="yesterday">Ontem</string>
     <string name="zen_alarm_warning">Você não ouvirá o próximo alarme %1$s</string>
     <string name="zen_alarm_warning_indef">Você não ouvirá o próximo alarme %1$s, a menos que desative essa opção antes desse horário</string>

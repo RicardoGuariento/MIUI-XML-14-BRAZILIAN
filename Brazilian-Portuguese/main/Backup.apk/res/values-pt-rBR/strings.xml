@@ -83,7 +83,7 @@
     <string name="backup_hint_pad">Mantenha seu dispositivo ligado</string>
     <string name="backup_is_running">Fazendo o backup do dispositivo</string>
     <string name="backup_new">Novo:</string>
-    <string name="backup_notice_content">"Seus backups não serão criptografados, o que significa que eles podem ser acessados ​​ou adulterados por aplicativos de terceiros. Outros riscos de segurança também podem surgir. Certifique-se de armazenar os itens de backup em um ambiente bem protegido."</string>
+    <string name="backup_notice_content">"Seus backups não serão criptografados, o que significa que eles podem ser acessados ​​ou adulterados por apps de terceiros. Outros riscos de segurança também podem surgir. Certifique-se de armazenar os itens de backup em um ambiente bem protegido."</string>
     <string name="backup_notice_title">Atenção!</string>
     <string name="backup_notification_title">\"Backup\" em progresso…</string>
     <string name="backup_progress">Fazendo backup…</string>
@@ -601,7 +601,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="permission_management_entrance">Gerenciar permissões</string>
     <string name="permission_not_admit">Não permitido</string>
     <string name="permission_purpose">Esse recurso permite fazer backup e restaurar itens usando seus dispositivos móveis, computadores e unidades USB.</string>
-    <string name="permission_read_apps">Acesse a lista de aplicativos instalados neste dispositivo</string>
+    <string name="permission_read_apps">Acesse a lista de apps instalados neste dispositivo</string>
     <string name="permission_read_calendar">Acessar eventos de calendário</string>
     <string name="permission_read_calllog">Acessar Histórico de chamadas</string>
     <string name="permission_read_contacts">Acessar Contatos</string>
@@ -619,8 +619,8 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="permission_restore_calllog_desc">Para poder restaurar o histórico de chamadas, permita que este app edite primeiro seu histórico de chamadas.</string>
     <string name="permission_restore_contacts">Para restaurar contatos</string>
     <string name="permission_restore_contacts_desc">Para poder restaurar contatos, permita que este app edite primeiro os seus contatos.</string>
-    <string name="permission_show_all_apps">Para exibir os aplicativos que podem ser backup</string>
-    <string name="permission_show_all_apps_desc">Para poder visualizar os aplicativos que podem ser backup, permita que este app acesse a lista de aplicativos instalados neste dispositivo primeiro.</string>
+    <string name="permission_show_all_apps">Para exibir os apps que podem ser backup</string>
+    <string name="permission_show_all_apps_desc">Para poder visualizar os apps que podem ser backup, permita que este app acesse a lista de apps instalados neste dispositivo primeiro.</string>
     <string name="permission_write_calllog">Editar histórico de chamadas</string>
     <string name="permission_write_contacts">Editar contatos</string>
     <string name="permission_write_storage">Salvar itens no armazenamento</string>

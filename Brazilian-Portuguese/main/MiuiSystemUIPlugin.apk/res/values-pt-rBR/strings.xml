@@ -132,7 +132,7 @@
     <string name="controls_removed">removido</string>
     <string name="controls_seeding_in_progress">Carregando recomendações</string>
     <string name="controls_structure_tooltip">Deslize para ver mais</string>
-    <string name="controls_unsupport_toggle_toast">"Não é possível controlar este dispositivo daqui. Pressione e segure para abrir o aplicativo."</string>
+    <string name="controls_unsupport_toggle_toast">"Não é possível controlar este dispositivo daqui. Pressione e segure para abrir o app."</string>
     <string name="copy">Copiar</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />

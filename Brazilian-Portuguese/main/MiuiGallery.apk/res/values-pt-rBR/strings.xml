@@ -613,7 +613,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="crop_label">Fotos cortadas</string>
     <string name="cta_agreement_declare"><Data>Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este app.</Data></string>
     <string name="cta_network_declare">Para sincronizar fotos e vídeos com nuvem, este app precisa se conectar à internet.</string>
-    <string name="cta_screenthrow_declare">"Para poder transmitir a tela deste dispositivo para monitores externos, este aplicativo precisa se conectar à Internet."</string>
+    <string name="cta_screenthrow_declare">"Para poder transmitir a tela deste dispositivo para monitores externos, este app precisa se conectar à Internet."</string>
     <string name="custom_select_title_deselect_all">Desmarcar</string>
     <string name="custom_select_title_quickly_share">Compartilhar</string>
     <string name="custom_select_title_select_all">Selecionar todos</string>

@@ -137,6 +137,14 @@
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
     </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Uma atualização está disponível para %1$d Super ícones</item>
+        <item quantity="one">Uma atualização está disponível para %1$d Super ícone</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Atualizando %1$d Super ícones</item>
+        <item quantity="one">Atualizando %1$d Super ícone</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora</item>
     </plurals>
@@ -151,6 +159,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Pague %1$s Mi Créditos</item>
+        <item quantity="one">Pague %1$s Mi Crédito</item>
     </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d comentários</item>

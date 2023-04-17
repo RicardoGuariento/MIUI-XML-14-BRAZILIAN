@@ -88,6 +88,7 @@
     <string name="adb_wireless_verifying_qrcode_text">Pareando dispositivo…</string>
     <string name="adbwifi_warning_message">A depuração por Wi-Fi serve apenas para fins de desenvolvimento. Use para copiar dados entre o computador e o dispositivo, instalar apps no seu aparelho sem notificação e ler dados de registro.</string>
     <string name="adbwifi_warning_title">Permitir a depuração por Wi-Fi?</string>
+    <string name="add_guest_failed">Falha ao criar um novo convidado</string>
     <string name="add_user_failed">Falha ao criar um novo usuário</string>
     <string name="alarm_template">às %1$s</string>
     <string name="alarm_template_far">%1$s</string>
@@ -100,6 +101,8 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="all_traces_will_be_deleted">Todos os rastros serão excluídos de /data/local/traces</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
+    <string name="allow_turn_screen_on">Permitir ativar a tela</string>
+    <string name="allow_turn_screen_on_description">Permitir que um app ative a tela. Se concedido, o app pode ativar a tela a qualquer momento sem sua intenção explícita.</string>
     <string name="animator_duration_scale_title">Escala de duração do Animator</string>
     <string name="apn_settings_not_available">As configurações do Nome do ponto de acesso não estão disponíveis para este usuário</string>
     <string name="app_process_limit_title">Limite do processamento em 2º plano</string>
@@ -113,12 +116,17 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="available_via_app">Disponível via %1$s</string>
     <string name="available_via_carrier">Disponível via %1$s</string>
     <string name="available_via_passpoint">Disponível via %1$s</string>
+    <string name="avatar_picker_title">Escolha uma foto de perfil</string>
+    <string name="back_navigation_animation">Animações de retorno preditivos</string>
+    <string name="back_navigation_animation_dialog">Essa configuração permite animações do sistema para animação preditiva de gestos. Requer configuração por app enableOnBackInvokedCallback para true no arquivo de manifesto.</string>
+    <string name="back_navigation_animation_summary">Habilite animações do sistema para retorno preditivo.</string>
     <string name="battery_info_status_charging">Carregando</string>
     <string name="battery_info_status_charging_fast">Carregando rápido</string>
     <string name="battery_info_status_charging_slow">Carregando devagar</string>
     <string name="battery_info_status_charging_wireless">Carregando sem fio</string>
     <string name="battery_info_status_discharging">Não está carregando</string>
     <string name="battery_info_status_full">Carregada</string>
+    <string name="battery_info_status_full_charged">Completamente carregado</string>
     <string name="battery_info_status_not_charging">Conectado. Não é possível carregar no momento</string>
     <string name="battery_info_status_unknown">Desconhecido</string>
     <string name="blob_expires_text">Expira em %s</string>
@@ -130,6 +138,8 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="bluetooth_active_no_battery_level">Ativo</string>
     <string name="bluetooth_battery_level">%1$s de bateria</string>
     <string name="bluetooth_battery_level_untethered">E: Bateria do %1$s, D: Bateria do %2$s</string>
+    <string name="bluetooth_bc_profile_summary_connected">Conectado ao servidor BA</string>
+    <string name="bluetooth_bc_profile_summary_use_for">Use para BA</string>
     <string name="bluetooth_connected">Conectado a %1$s</string>
     <string name="bluetooth_connected_battery_level">Conectado, %1$s%2$s de bateria</string>
     <string name="bluetooth_connected_no_a2dp">Conectado (sem mídia) a %1$s</string>
@@ -150,14 +160,19 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="bluetooth_enable_gabeldorsche_summary">Ativa a pilha de recursos Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do smartphone</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usar para áudio do smartphone</string>
+    <string name="bluetooth_hearing_aid_left_active">Ativo, apenas o esquerdo</string>
+    <string name="bluetooth_hearing_aid_left_and_right_active">Ativo, esquerdo e direito</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado a aparelhos auditivos</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Usar para aparelhos auditivos</string>
+    <string name="bluetooth_hearing_aid_right_active">Ativo, apenas o direito</string>
     <string name="bluetooth_hearingaid_left_battery_level">Esquerdo: %1$s de bateria</string>
     <string name="bluetooth_hearingaid_left_pairing_message">Pareando aparelho auditivo esquerdo…</string>
     <string name="bluetooth_hearingaid_right_battery_level">Direito: %1$s de bateria</string>
     <string name="bluetooth_hearingaid_right_pairing_message">Pareando aparelho auditivo direito…</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectado ao dispositivo de entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">Usar para entrada</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Conectado a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Use para LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Conectado ao mapa</string>
     <string name="bluetooth_map_profile_summary_use_for">Usar para mapa</string>
     <string name="bluetooth_opp_profile_summary_connected">Conectado ao servidor de transferência de arquivo</string>
@@ -178,6 +193,8 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="bluetooth_profile_a2dp">Áudio da mídia</string>
     <string name="bluetooth_profile_a2dp_high_quality">Áudio HD: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Áudio HD</string>
+    <string name="bluetooth_profile_bc">Perfil BC</string>
+    <string name="bluetooth_profile_broadcast">Transmissão</string>
     <string name="bluetooth_profile_dun">Acesso à rede discada</string>
     <string name="bluetooth_profile_headset">Chamadas telefônicas</string>
     <string name="bluetooth_profile_hearing_aid">Aparelhos auditivos</string>
@@ -189,6 +206,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="bluetooth_profile_pbap">Compartilhar contatos</string>
     <string name="bluetooth_profile_pbap_summary">Usar para compartilhar contatos</string>
     <string name="bluetooth_profile_sap">Acesso ao chip</string>
+    <string name="bluetooth_profile_vcp">Controle de volume</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectado a SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Use para acesso ao chip</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits por amostra do áudio Bluetooth</string>
@@ -215,6 +233,7 @@ Taxa de amostra"</string>
     <string name="bluetooth_show_devices_without_names_summary">Dispositivos Bluetooth sem nomes (somente endereços MAC) serão exibidos</string>
     <string name="bluetooth_talkback_bluetooth">"Bluetooth"</string>
     <string name="bluetooth_talkback_computer">Computador</string>
+    <string name="bluetooth_talkback_group">Grupo de dispositivos</string>
     <string name="bluetooth_talkback_headphone">"Fone de ouvido"</string>
     <string name="bluetooth_talkback_headset">Fone de ouvido</string>
     <string name="bluetooth_talkback_imaging">Imagem</string>
@@ -223,6 +242,10 @@ Taxa de amostra"</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="bt_hci_snoop_log">Ativar registro de rastreamento Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Capturar pacotes de Bluetooth. Ative o Bluetooth depois de alterar essa configuração.</string>
+    <string name="bt_le_audio_broadcast_dialog_different_output">Alterar saída</string>
+    <string name="bt_le_audio_broadcast_dialog_sub_title">Se você transmitir %1$s ou alterar a saída, sua transmissão atual será interrompida</string>
+    <string name="bt_le_audio_broadcast_dialog_switch_app">Transmitir %1$s</string>
+    <string name="bt_le_audio_broadcast_dialog_title">Parar de transmitir %1$s?</string>
     <string name="buffer_size">Tamanho do buffer por CPU</string>
     <string name="bugreport_in_power">Atalho para relatório de bugs</string>
     <string name="bugreport_in_power_summary">Mostrar um botão para gerar relatórios de bugs no menu do botão liga/desliga</string>
@@ -265,6 +288,7 @@ Taxa de amostra"</string>
     <string name="convert_to_file_encryption_done">Já criptografado com base em arquivos</string>
     <string name="convert_to_file_encryption_enabled">Converter…</string>
     <string name="copy">Copiar</string>
+    <string name="creating_new_guest_dialog_message">Criando novo convidado…</string>
     <string name="creating_new_user_dialog_message">Criando novo usuário…</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
     <string name="daltonizer_mode_disabled">Desativado</string>
@@ -307,7 +331,14 @@ Taxa de amostra"</string>
     <string name="disabled">Desativado</string>
     <string name="disabled_by_admin">Desativado pelo administrador</string>
     <string name="disabled_by_admin_summary_text">Controlada pelo admin</string>
+    <string name="disabled_by_app_ops_text">Controlado por Configuração Restrita</string>
+    <string name="done">Concluído</string>
     <string name="dont_show_again">Não mostrar novamente</string>
+    <string name="dream_complication_title_aqi">Qualidade do ar</string>
+    <string name="dream_complication_title_cast_info">Informações do Cast</string>
+    <string name="dream_complication_title_date">Data</string>
+    <string name="dream_complication_title_time">Tempo</string>
+    <string name="dream_complication_title_weather">Clima</string>
     <string name="eight_hours">8 horas</string>
     <string name="eight_thousand_kb">8.192KB</string>
     <string name="enable_adb">Depuração USB</string>
@@ -331,6 +362,10 @@ Taxa de amostra"</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="external_source_trusted">Permitido</string>
     <string name="external_source_untrusted">Não permitido</string>
+    <string name="failed_attempts_now_wiping_device">"Muitas tentativas incorretas. Os dados deste dispositivo serão excluídos."</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Recusar</string>
+    <string name="failed_attempts_now_wiping_profile">Muitas tentativas incorretas. Este perfil de trabalho e seus dados serão excluídos.</string>
+    <string name="failed_attempts_now_wiping_user">Muitas tentativas incorretas. Este usuário será excluído.</string>
     <string name="failed_to_open_app_settings_toast">Falha ao abrir as configurações de %1$s</string>
     <string name="five_gb">5GB</string>
     <string name="force_allow_on_external">Forçar permissão de apps em armazenamento externo</string>
@@ -345,6 +380,8 @@ Taxa de amostra"</string>
     <string name="guest_exit_guest">Remover convidado</string>
     <string name="guest_new_guest">Adicionar convidado</string>
     <string name="guest_nickname">Convidado</string>
+    <string name="guest_remove_guest_confirm_button">Remover</string>
+    <string name="guest_remove_guest_dialog_title">Remover convidado?</string>
     <string name="guest_reset_guest">Reiniciar convidado</string>
     <string name="guest_reset_guest_confirm_button">Reiniciar</string>
     <string name="guest_reset_guest_dialog_title">Reiniciar convidado?</string>
@@ -369,6 +406,7 @@ Taxa de amostra"</string>
     <string name="item_view_role_description">Guia</string>
     <string name="keep_screen_on">Permanecer ativo</string>
     <string name="keep_screen_on_summary">A tela nunca entrará em suspensão enquanto estiver carregando</string>
+    <string name="keyboard_layout_dialog_title">Escolha o layout do teclado</string>
     <string name="keywords">systrace, trace, desempenho</string>
     <string name="keywords_adb_wireless">adb, debug, dev</string>
     <string name="keywords_alarms_and_reminders">cronograma, alarme, lembrete, relógio</string>
@@ -422,6 +460,7 @@ Taxa de amostra"</string>
     <string name="local_backup_password_toast_validation_failure">Falha ao definir a senha de backup</string>
     <string name="long_traces">Traços longos</string>
     <string name="long_traces_summary">Salvo continuamente no armazenamento do dispositivo</string>
+    <string name="long_traces_summary_betterbug">Salvo continuamente no armazenamento do dispositivo (não será anexado automaticamente a relatórios de bugs)</string>
     <string name="managed_user_title">Todos os apps de trabalho</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione horas</string>
@@ -481,6 +520,7 @@ Taxa de amostra"</string>
     <string name="mtrl_picker_a11y_next_month">Mudar para o próximo mês</string>
     <string name="mtrl_picker_a11y_prev_month">Mudar para o mês anterior</string>
     <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+    <string name="mtrl_picker_confirm">"OK"</string>
     <string name="mtrl_picker_date_header_title">Selecione a Data</string>
     <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
@@ -508,10 +548,12 @@ Taxa de amostra"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar e selecionar um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mude para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para selecionar um ano</string>
+    <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="no_application">Nada</string>
-    <string name="no_debuggable_apps">Nenhum aplicativo depurável disponível</string>
+    <string name="no_debuggable_apps">Nenhum app depurável disponível</string>
     <string name="not_default_data_content_description">Não definido para usar dados</string>
     <string name="not_set">Não definido</string>
+    <string name="num_categories_selected">{count, plural, =1 {# selecionado} other {# selecionado} }</string>
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
     <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
     <string name="okay">"Ok"</string>
@@ -525,6 +567,7 @@ Taxa de amostra"</string>
     <string name="osu_sign_up_failed">Não foi possível concluir a inscrição. Toque para tentar novamente.</string>
     <string name="overlay_display_devices_title">Simular telas secundárias</string>
     <string name="password_toggle_content_description">Mostar senha</string>
+    <string name="physical_keyboard_title">Teclado físico</string>
     <string name="picture_color_mode">Modo de cor da imagem</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="pointer_location">Localização do cursor</string>
@@ -635,7 +678,9 @@ Taxa de amostra"</string>
     <string name="storage_category">Armazenamento</string>
     <string name="strict_mode">Modo restrito ativado</string>
     <string name="strict_mode_summary">Piscar tela se apps demorarem no processo principal</string>
-    <string name="summary_separator">" / "</string>
+    <string name="sud_back_button_label">Voltar</string>
+    <string name="sud_more_button_label">Mais</string>
+    <string name="sud_next_button_label">Próximo</string>
     <string name="system_trace_sensitive_data">Os arquivos de rastreamento do sistema podem incluir dados confidenciais do sistema e do app (como o uso). Compartilhe rastros do sistema apenas com pessoas e apps confiáveis.</string>
     <string name="system_traces_storage_title">Rastros do sistema</string>
     <string name="system_tracing">Rastreamento do sistema</string>
@@ -697,6 +742,7 @@ Taxa de amostra"</string>
     <string name="tts_status_ok">%1$s é totalmente suportado</string>
     <string name="tts_status_requires_network">%1$s requer conexão de rede</string>
     <string name="tts_status_title">Status de idioma padrão</string>
+    <string name="turn_screen_on_title">Ativar a tela</string>
     <string name="twelve_hours">12 horas</string>
     <string name="twenty_gb">20GB</string>
     <string name="twentyfour_hours">24 horas</string>
@@ -708,6 +754,7 @@ Taxa de amostra"</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usa idiomas do sistema</string>
     <string name="user_add_profile_item_summary">É possível restringir o acesso a apps e conteúdo a partir de sua conta</string>
     <string name="user_add_profile_item_title">Perfil restrito</string>
+    <string name="user_add_user">Adicionar usuário</string>
     <string name="user_add_user_item_summary">Usuários padrão têm seus próprios apps e conteúdo</string>
     <string name="user_add_user_item_title">Usuário</string>
     <string name="user_add_user_message_long">"Você pode compartilhar este dispositivo com outras pessoas, adicionando usuários. Cada usuário tem o próprio espaço, que pode ser personalizado com apps, planos de fundo, etc. Os usuários também podem ajustar as configurações do dispositivo, como o Wi‑Fi, que afetam a todos.
@@ -777,8 +824,8 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="wifi_disconnected">Desconectada</string>
     <string name="wifi_display_certification">Certificação de Display sem fio</string>
     <string name="wifi_display_certification_summary">Mostrar opções de certificação de Display sem fio</string>
-    <string name="wifi_enhanced_mac_randomization">MAC aleatório melhorado por Wi-Fi</string>
-    <string name="wifi_enhanced_mac_randomization_summary">Quando esse modo está ativado, o endereço MAC do dispositivo pode mudar a cada vez que ele se conecta a uma rede com ordem aleatória de MAC.</string>
+    <string name="wifi_enhanced_mac_randomization">Randomização do endereço MAC</string>
+    <string name="wifi_enhanced_mac_randomization_summary">Quando este modo está ativado, o endereço MAC deste dispositivo pode mudar sempre que ele se conectar a uma rede que tenha a randomização de MAC ativa.</string>
     <string name="wifi_fail_to_scan">Não é possível procurar redes</string>
     <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
     <string name="wifi_hotspot_switch_off_text">Desativado</string>
@@ -787,6 +834,8 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="wifi_metered_label">Limitada</string>
     <string name="wifi_no_internet">Sem acesso à Internet</string>
     <string name="wifi_no_internet_no_reconnect">Não se conectará automaticamente</string>
+    <string name="wifi_non_persistent_mac_randomization">Randomização do endereço MAC</string>
+    <string name="wifi_non_persistent_mac_randomization_summary">Quando este modo está ativado, o endereço MAC deste dispositivo pode mudar sempre que ele se conectar a uma rede que tenha a randomização de MAC ativa.</string>
     <string name="wifi_not_in_range">Fora do alcance</string>
     <string name="wifi_passpoint_expired">Expirada</string>
     <string name="wifi_remembered">Salva</string>
@@ -798,6 +847,7 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="wifi_status_mac_randomized">O MAC é aleatório</string>
     <string name="wifi_status_no_internet">Sem Internet</string>
     <string name="wifi_status_sign_in_required">Autenticação necessária</string>
+    <string name="wifi_tether_connected_summary">{count, plural, =0 {0 dispositivo conectado} =1 {1 dispositivo conectado} other {# dispositivos conectados} }</string>
     <string name="wifi_unmetered_label">Ilimitada</string>
     <string name="wifi_verbose_logging">Ativar registro detalhado do Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">Aumentar o nível de reg. do Wi-Fi, mostrar conforme o RSSI do SSID no seletor do Wi-Fi</string>
@@ -810,6 +860,7 @@ Verifique a validade dos certificados"</string>
 O armazenamento de credenciais podem estar desativados"</string>
     <string name="wifi_wapi_psk_type">Tipo de senha</string>
     <string name="wifi_wapi_user_certificate">Certificado do usuário</string>
+    <string name="wifitrackerlib_admin_restricted_network">Não permitido pela sua organização</string>
     <string name="wifitrackerlib_auto_connect_disable">Autoconexão desativada</string>
     <string name="wifitrackerlib_available_via_app">Disponível via %1$s</string>
     <string name="wifitrackerlib_connected_via_app">Connectado via %1$s</string>

@@ -683,6 +683,8 @@ taxa de amostragem"</string>
     <string name="phone_settings_payphone_txt">Telefone público</string>
     <string name="phone_settings_private_num_summary_txt">"Bloquear ligações que não divulgam seu número"</string>
     <string name="phone_settings_private_num_txt">Privado</string>
+    <string name="phone_settings_unavailable_summary_txt">Bloquear chamadas onde o número não está disponível</string>
+    <string name="phone_settings_unavailable_txt">Indisponível</string>
     <string name="phone_settings_unknown_summary_txt">Bloquear chamadas de números não identificados</string>
     <string name="phone_settings_unknown_txt">Desconhecido</string>
     <string name="phone_strings_call_blocking_turned_off_notification_text_txt">O bloqueio de chamadas está desativado</string>

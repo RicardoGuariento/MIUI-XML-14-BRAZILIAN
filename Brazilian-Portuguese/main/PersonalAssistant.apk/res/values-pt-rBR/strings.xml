@@ -365,7 +365,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_install">Instalar</string>
     <string name="pa_lite_cell_layout_empty">Nenhum widgets aqui ainda</string>
     <string name="pa_lite_setting_others">Configurações adicionais</string>
-    <string name="pa_lite_setting_private_auth">Permitir analisar o uso do aplicativo</string>
+    <string name="pa_lite_setting_private_auth">Permitir analisar o uso do app</string>
     <string name="pa_lite_setting_private_auth_summary">Sugestões de apps serão baseadas em seus dados de uso</string>
     <string name="pa_lite_setting_private_policy">Política de Privacidade</string>
     <string name="pa_lite_setting_service_covid">"Ferramentas diárias"</string>
@@ -380,7 +380,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_lite_setting_service_note">Notas</string>
     <string name="pa_lite_setting_service_note_summary">Veja suas notas</string>
     <string name="pa_lite_setting_service_quick_func">Atalhos</string>
-    <string name="pa_lite_setting_service_quick_func_summary">Abrir aplicativos e serviços usados com frequência</string>
+    <string name="pa_lite_setting_service_quick_func_summary">Abrir apps e serviços usados com frequência</string>
     <string name="pa_lite_setting_service_search">Procurar</string>
     <string name="pa_lite_setting_service_search_summary">Pesquise na web e este dispositivo</string>
     <string name="pa_lite_setting_service_sports">Esportes</string>
@@ -616,7 +616,7 @@ para mostrar widgets."</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Agree to the Shopping Privacy Policy to be able to use this feature. Tap to view.</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Configurações</string>
     <string name="pa_shopping_widget_title">"Shopping"</string>
-    <string name="pa_shortcut_accessibility_description">"Assistente fornece atalhos para aplicativos terceirizados selecionados. Esses atalhos não funcionam se você desativar o recurso."</string>
+    <string name="pa_shortcut_accessibility_description">"Assistente fornece atalhos para apps terceirizados selecionados. Esses atalhos não funcionam se você desativar o recurso."</string>
     <string name="pa_shortcut_accessibility_service">Assistente.</string>
     <string name="pa_shortcut_add_limit">Você pode adicionar a %1$d atalhos</string>
     <string name="pa_shortcut_apps">"Apps"</string>

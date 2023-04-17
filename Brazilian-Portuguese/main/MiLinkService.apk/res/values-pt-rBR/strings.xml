@@ -135,7 +135,7 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_controlphone_title">Gerenciar dispositivo</string>
     <string name="circulate_cta_agree">Aceitar</string>
     <string name="circulate_cta_app_name">"Mi Smart Hub"</string>
-    <string name="circulate_cta_desc_phone">Bem-vindo ao Mi Smart Hub! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução multimídia entre dispositivos, usar Mi Smart Play, MIUI+ e transferência de apps. Este aplicativo precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:</string>
+    <string name="circulate_cta_desc_phone">Bem-vindo ao Mi Smart Hub! Você pode usar este app para transmitir conteúdo da tela, transferir reprodução multimídia entre dispositivos, usar Mi Smart Play, MIUI+ e transferência de apps. Este app precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:</string>
     <string name="circulate_cta_exit">"Discordo"</string>
     <string name="circulate_cta_premission_sound_subtitle">Para transferir a reprodução de áudio para dispositivos conectados</string>
     <string name="circulate_cta_premission_sound_title">Gravar áudio</string>
@@ -468,9 +468,9 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="help_page_text_52">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode ativar este recurso em Configurações > Redes > Várias telas > Display sem fios.</string>
     <string name="help_page_text_53">Suporte ao cliente LeEco: 10109000</string>
     <string name="help_page_text_55">"Se você não conseguir se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fios, Screen Mirroring ou Múltiplas telas. Veja as informações abaixo para saber como ativar o Miracast.
-%1$d. Se encontrar algum problema, você pode relatá-lo usando nosso aplicativo \"Serviços e feedback\"."</string>
+%1$d. Se encontrar algum problema, você pode relatá-lo usando nosso app \"Serviços e feedback\"."</string>
     <string name="help_page_text_55_global">"Se você não conseguir se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fios, Screen Mirroring ou Múltiplas telas.
-%1$d. Se encontrar algum problema, você pode relatá-lo usando nosso aplicativo \"Serviços e feedback\"."</string>
+%1$d. Se encontrar algum problema, você pode relatá-lo usando nosso app \"Serviços e feedback\"."</string>
     <string name="help_page_text_end">Se o modelo do seu dispositivo não estiver listado aqui, entre em contato com o fabricante para saber mais sobre a funcionalidade de transmissão.</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="invisible_mode_dialog_content">"Não é possível usar a transmissão quando você está no Modo anônimo. Desative o Modo anônimo primeiro."</string>

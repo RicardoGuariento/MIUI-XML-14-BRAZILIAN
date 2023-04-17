@@ -192,6 +192,7 @@
     <string name="public_cut">Recortar</string>
     <string name="public_decryptDocument">Descriptografar</string>
     <string name="public_displayPasswd">Mostrar senha</string>
+    <string name="public_display_privacy_policy">Ver Política de Privacidade</string>
     <string name="public_doc_end_preview_tip">Fornecido por WPS Office</string>
     <string name="public_edit">Editar</string>
     <string name="public_enter_phonemode">Visualização móvel ativada</string>
@@ -219,6 +220,7 @@
     <string name="public_lite_update_cloud_dialog_message">Atualize o WPS Office e desfrute do serviço %s</string>
     <string name="public_lite_update_right_now">Atualizar agora</string>
     <string name="public_lite_use_right_now">Usar agora</string>
+    <string name="public_loadDocumentError">"O arquivo não existe ou não pode ser aberto"</string>
     <string name="public_loadDocumentFormatError">Erro no formato do arquivo, não é possível abri-lo.</string>
     <string name="public_loadDocumentLackOfStorageError">Espaço insuficiente, não é possível abrir o arquivo.</string>
     <string name="public_loadDocumentOutOfMemoryError">Espaço insuficiente, não é possível abrir o arquivo.</string>
@@ -260,6 +262,7 @@
     <string name="public_picture_savefail">A imagem está danificada e não pode ser salva</string>
     <string name="public_play">Reproduzir</string>
     <string name="public_ppt_label">Visualizador de Apresentações Mi</string>
+    <string name="public_privacy_update">&lt;Data>Para entender completamente seus direitos como usuário, bem como as formas como usamos seus dados, leia e concorde com a nova versão da nossa &lt;a href=\"%s\">Política de Privacidade&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="public_re_licensing">Conceder autorização</string>
     <string name="public_readOnlyMode">Somente leitura</string>
     <string name="public_recory_edit_not_save_tips">O conteúdo não salvo já foi recuperado para você.</string>
@@ -268,6 +271,10 @@
     <string name="public_refuse_jurisdiction">Permissões necessárias</string>
     <string name="public_replace">Substituir</string>
     <string name="public_request_senior_password">Insira uma senha com mais permissões</string>
+    <string name="public_revoke">Retirar %s</string>
+    <string name="public_revoke_privacy_content">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Visualizador Mi (Powered by WPS). Deixaremos de coletar suas informações pessoais e as informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma. Sua retirada de consentimento será vista como uma recusa em aceitar os serviços fornecidos pelo Visualizador Mi (Powered by WPS)."</string>
+    <string name="public_revoke_privacy_desc">Retire seu consentimento para a Política de Privacidade do Visualizador Mi (Powered by WPS)</string>
+    <string name="public_revoke_privacy_title">Retirada de consentimento</string>
     <string name="public_ribbon_font">Fonte</string>
     <string name="public_rotate">Girar a tela</string>
     <string name="public_save">Salvar</string>

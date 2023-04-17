@@ -1087,8 +1087,8 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="btn_text_stop">Parar</string>
     <string name="bubble_app_empty_page">Não foi possível encontrar apps compatíveis com conversa em bolhas neste dispositivo</string>
     <string name="bubble_app_manage">Gerenciar conversas em bolhas</string>
-    <string name="bubble_mode_barrage_switch_tips">Ative para mostrar bolhas de conversa para aplicativos minimizados como comentários na tela</string>
-    <string name="bubble_mode_barrage_tips">Bolhas de conversa para aplicativos minimizados serão exibidos como comentários na tela</string>
+    <string name="bubble_mode_barrage_switch_tips">Ative para mostrar bolhas de conversa para apps minimizados como comentários na tela</string>
+    <string name="bubble_mode_barrage_tips">Bolhas de conversa para apps minimizados serão exibidos como comentários na tela</string>
     <string name="bubble_notification">Conversas em bolhas</string>
     <string name="bubble_notification_switch">Mostrar conversas em bolhas</string>
     <string name="bubble_notification_switch_desc">Quando um app de mensagens em uma janela flutuante estiver oculto na borda da tela, as mensagens recebidas serão exibidas em bolhas</string>
@@ -1293,7 +1293,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cta_dialog_negative">Sair</string>
     <string name="cta_dialog_positive">Aceitar</string>
     <string name="cta_dialog_title">Conexão com a internet</string>
-    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança MIUI, serviços do sistema, e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança MIUI se conectarão à Internet e realizarão verificações de segurança enquanto você instala aplicativos e faz pagamentos.</string>
+    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança MIUI, serviços do sistema, e Joyose) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança MIUI se conectarão à Internet e realizarão verificações de segurança enquanto você instala apps e faz pagamentos.</string>
     <string name="cta_settings">Permita o acesso à internet e à localização</string>
     <string name="current_network_state_not_need_diagnose">A conexão com a internet está normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar a lista de bloqueio e fazer chamadas para contatos de emergência quando avisos de terremoto forem emitidos</string>

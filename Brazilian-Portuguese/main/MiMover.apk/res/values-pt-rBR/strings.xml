@@ -54,7 +54,7 @@
     <string name="apps_cannot_be_transfered_confirm_button">Iniciar</string>
     <string name="apps_cannot_be_transfered_next_button">Próximo</string>
     <string name="apps_cannot_be_transfered_summary">"Esses apps de 64-bits não podem ser transferidos para um dispositivo de 32-bits. Você pode baixá-los diretamente do GetApps após a transferência."</string>
-    <string name="apps_cannot_be_transfered_title">"Não é possível transferir estes aplicativos"</string>
+    <string name="apps_cannot_be_transfered_title">"Não é possível transferir estes apps"</string>
     <string name="audio">Áudio</string>
     <string name="audio_video_document">Áudio, vídeo e documentos</string>
     <string name="back">Voltar</string>
@@ -169,7 +169,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="dialog_rating_title">Avalie o Mi Mover</string>
     <string name="dialog_request_network_btn_negative">Sair</string>
     <string name="dialog_request_network_btn_positive">Concordar</string>
-    <string name="dialog_request_permission_message">Bem-vindo ao Mi Mover! Você pode usar este app para transferir dados do seu antigo dispositvo para um novo. Os dados serão transferidos entre os dois dispositivos e não serão enviados aos nossos servidores. Este aplicativo precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
+    <string name="dialog_request_permission_message">Bem-vindo ao Mi Mover! Você pode usar este app para transferir dados do seu antigo dispositvo para um novo. Os dados serão transferidos entre os dois dispositivos e não serão enviados aos nossos servidores. Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="dialog_request_permission_message_buttom_content">Permita que este app se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="dialog_request_permission_message_extra_summary">Estas permissões são necessárias para disponibilizar os recursos e serviços básicos deste app.</string>
     <string name="dialog_request_permission_message_extra_title">"Permissões obrigatórias "</string>

@@ -145,6 +145,11 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="cloud_member_vipname_premium">Premium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">MiCloud</string>
+    <string name="cloud_service_cloud_open">Ativar</string>
+    <string name="cloud_service_space_full">Armazenamento cheio</string>
+    <string name="cloud_service_space_not_enough">Armazenamento insuficiente</string>
+    <string name="cloud_service_space_used">Ocupado</string>
+    <string name="cloud_service_state_error">"Não foi possível carregar"</string>
     <string name="cloud_service_status_backup_not_open">Backup desativado</string>
     <string name="cloud_service_status_cloud_not_open">Desativado</string>
     <string name="cloud_service_status_storage_full">Armazenamento cheio</string>
@@ -193,6 +198,8 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="common_signin_button_text_long">Fazer o login com o Google</string>
     <string name="completed">Tudo pronto!</string>
     <string name="confirm_activate_email">Verificado</string>
+    <string name="confirm_bundled_phone_dialog_confirm">Confirmar</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Confirmar (%ds)</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
     <string name="confirm_new_pwd">Confirme a nova senha</string>
     <string name="confirm_phone_number_dialog_message">O código de verificação será enviado para %s.</string>
@@ -203,6 +210,7 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="copy">Copiar</string>
     <string name="copy_link">Copiar URL</string>
     <string name="copy_to_clipboard_successful">Copiado com sucesso</string>
+    <string name="current_account_can_use_pwd_login">Insira sua senha para entrar</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -248,6 +256,8 @@ Envie este código para o supervisor."</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Fazer o login com o Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi.</string>
+    <string name="family_service">Serviços familiares</string>
+    <string name="family_service_not_open">Convidar membros</string>
     <string name="family_share">Compartilhamento familiar</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_access_denied">Não é possível obter o status, acesso negado</string>
@@ -360,6 +370,7 @@ Envie este código para o supervisor."</string>
     <string name="io_error_title">Confirme sua rede</string>
     <string name="item_view_role_description">Aba</string>
     <string name="just_a_second">Aguarde…</string>
+    <string name="keep_phone_ticket_login">Entrar com código de verificação</string>
     <string name="kr_license_desc">Você deve aceitar nosso Contrato do Usuário e a Política de Privacidade antes de usar a Conta Mi e os serviços MiCloud.</string>
     <string name="kr_permission_contacts_desc">Para acessar informações de contato</string>
     <string name="kr_permission_desc">Permissões necessárias</string>
@@ -391,6 +402,8 @@ Envie este código para o supervisor."</string>
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecione o horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
+    <string name="messenger_send_button_text">Enviar</string>
+    <string name="mi_account">Minha conta</string>
     <string name="mi_account_identity_title">Verifique sua identidade</string>
     <string name="mi_finance">Minhas finanças</string>
     <string name="mi_finance_info">Bônus para novos usuários</string>
@@ -1103,6 +1116,7 @@ Envie este código para o supervisor."</string>
     <string name="update_email_address_dialog_title">Atualizar e-mail</string>
     <string name="update_phone_notice">Alterar configurações de segurança</string>
     <string name="update_phone_number_notice_message">Você precisa verificar sua identidade antes de atualizar o número de telefone.</string>
+    <string name="use_google_account_login">Faça login no Google</string>
     <string name="used_cloud_storage_info">%s em uso</string>
     <string name="user_agreement_device_permission_desc">Para garantir a segurança do ambiente de login</string>
     <string name="user_agreement_device_permission_title">Acessar informações do dispositivo</string>
@@ -1137,6 +1151,7 @@ Envie este código para o supervisor."</string>
     <string name="weixin">"WeChat"</string>
     <string name="weixin_login">Faça login com o WeChat</string>
     <string name="xiao_mi_vip">"Mi VIP"</string>
+    <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>

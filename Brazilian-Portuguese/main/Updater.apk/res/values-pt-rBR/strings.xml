@@ -19,8 +19,6 @@
     <string name="channel_service">Serviço em segundo plano das atualizações</string>
     <string name="channel_update">Nova versão disponível</string>
     <string name="check_new_version">Procurar por atualizações</string>
-    <string name="default_filedownloader_notification_content">FileDownloader está em execução.</string>
-    <string name="default_filedownloader_notification_title">FileDownloader</string>
     <string name="dialog_3g_desc">Lembre-se de que o uso de dados móveis para baixar ROMs pode exigir uma quantia significativa do seu pacote.</string>
     <string name="dialog_3g_title">Aviso!</string>
     <string name="dialog_ab">Seu dispositivo oferece suporte a \"Atualizações de sistema contínuas\", lembre-se de selecionar \"Slot A\" quando solicitado no TWRP!</string>

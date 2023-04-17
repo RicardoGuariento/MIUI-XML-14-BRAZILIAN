@@ -150,7 +150,7 @@
     <string name="cta_confirm">"OK"</string>
     <string name="cta_dialog_content">Este app precisa se conectar à internet para funcionar corretamente.</string>
     <string name="cta_dialog_title">Conexão com a Internet</string>
-    <string name="cta_message"><Data>Para poder funcionar normalmente, o Feedback precisa se conectar à internet. Este aplicativo também pode solicitar permissão para acessar sua localização. Leia e concorde com nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de continuar.</Data></string>
+    <string name="cta_message"><Data>Para poder funcionar normalmente, o Feedback precisa se conectar à internet. Este app também pode solicitar permissão para acessar sua localização. Leia e concorde com nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de continuar.</Data></string>
     <string name="cta_not_show_again">Não mostrar novamente</string>
     <string name="customer_service_apply">Solicitar suporte ao cliente</string>
     <string name="customer_service_complain">Reportar suporte ao cliente</string>

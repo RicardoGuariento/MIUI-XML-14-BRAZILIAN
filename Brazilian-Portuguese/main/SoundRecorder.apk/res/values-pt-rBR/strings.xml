@@ -93,7 +93,6 @@
     <string name="duration_format_minute">%s min</string>
     <string name="duration_format_second">%s s</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="empty_recognition_tip">Vazio</string>
     <string name="empty_tips">Toque no botão para iniciar a gravação</string>
     <string name="eras_ad">d.C</string>

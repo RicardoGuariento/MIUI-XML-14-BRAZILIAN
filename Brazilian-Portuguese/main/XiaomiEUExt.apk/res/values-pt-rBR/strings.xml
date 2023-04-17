@@ -172,6 +172,7 @@
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="search">Pesquisar</string>
+    <string name="search_menu_title">Pesquisar</string>
     <string name="select_app">Escolha um app</string>
     <string name="select_apps">Selecionar apps</string>
     <string name="send">Enviar</string>

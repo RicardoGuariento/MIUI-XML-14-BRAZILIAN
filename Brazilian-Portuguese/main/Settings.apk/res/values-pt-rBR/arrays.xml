@@ -1414,6 +1414,11 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Rápida</item>
         <item>Mais rápida</item>
     </string-array>
+    <string-array name="typing_style_entries">
+        <item>Padrão</item>
+        <item>Tocar</item>
+        <item>Toque direto</item>
+    </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>"GSM"</item>
         <item>"TDSCDMA"</item>
@@ -1443,6 +1448,13 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Perguntar na conexão</item>
         <item>Apenas carregar</item>
         <item>Montar cartão SD</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Ascendente</item>
+        <item>Humano</item>
+        <item>Neanderthal</item>
+        <item>Chimpanzé</item>
+        <item>Macaco</item>
     </string-array>
     <string-array name="vip_mode_text">
         <item>De qualquer pessoa</item>

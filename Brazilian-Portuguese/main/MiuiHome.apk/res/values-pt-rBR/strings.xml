@@ -479,7 +479,7 @@
     <string name="icon_size">Tamanho do ícone</string>
     <string name="icon_style">Estilo</string>
     <string name="image_too_small_message">A imagem original não é grande o suficiente.</string>
-    <string name="in_app_result_by">Resultados no aplicativo por</string>
+    <string name="in_app_result_by">Resultados no app por</string>
     <string name="install">Instalar</string>
     <string name="intelligent_exposed_button_summary_text">Use sugestões inteligentes com base no uso do app para destacar apps em pastas ampliadas</string>
     <string name="invalid_contact_shortcut">Contato inválido</string>

@@ -105,6 +105,7 @@
     <string name="help">Ajuda</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="item_view_role_description">Guia</string>
+    <string name="lable_sim_not_ready">O SIM Toolkit não está pronto ou não é suportado</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione a hora</string>
     <string name="material_hour_suffix">"%1$s horas</string>
@@ -224,6 +225,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
+    <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="night">"PM"</string>
     <string name="no_sim_card_inserted">Insira um cartão SIM para iniciar os Serviços.</string>
     <string name="noon">"PM"</string>

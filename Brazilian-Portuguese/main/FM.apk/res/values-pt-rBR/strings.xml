@@ -34,7 +34,7 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="dialog_saf_btn">Autorizar</string>
-    <string name="dialog_saf_desc">Este aplicativo precisa de permissões do gerenciador de Arquivos para poder salvar o conteúdo gravado.</string>
+    <string name="dialog_saf_desc">Este app precisa de permissões do gerenciador de Arquivos para poder salvar o conteúdo gravado.</string>
     <string name="dialog_saf_step_one">Toque em \"Autorizar\"</string>
     <string name="dialog_saf_step_two">Na próxima página, toque no botão na parte inferior da página para conceder permissões</string>
     <string name="dialog_saf_title">Permissões necessárias</string>

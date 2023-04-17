@@ -985,7 +985,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="permission_notice_desc_access_fine_location">Para importar contatos de outros dispositivos via Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Para usar a funcionalidade do correio de voz e mensagem de áudio</string>
     <string name="permission_notice_desc_call_phone">Para fazer chamadas por meio de atalhos da Tela inicial</string>
-    <string name="permission_notice_desc_call_phone_for_pad">Para fazer chamadas em aplicativos de terceiros</string>
+    <string name="permission_notice_desc_call_phone_for_pad">Para fazer chamadas em apps de terceiros</string>
     <string name="permission_notice_desc_camera">Para tirar fotos do perfil</string>
     <string name="permission_notice_desc_read_call_logs">Para visualizar o histórico de chamadas</string>
     <string name="permission_notice_desc_read_contacts">Para ver os contatos</string>
