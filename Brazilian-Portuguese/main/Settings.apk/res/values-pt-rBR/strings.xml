@@ -4930,7 +4930,6 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="lights_title">LED de notificações</string>
     <string name="line_breaking_summary">Otimizar quebra de texto em parágrafos</string>
     <string name="line_breaking_title">Otimizar texto</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="link_turbo_prompt">As estatísticas nesta página mostram apenas a quantidade de dados usada para acelerar a velocidade de conexão do Wi-Fi. Estas estatísticas não refletem o seu uso de dados real.</string>
     <string name="link_turbo_settings_all_app_display_loading">Aguarde…</string>
     <string name="link_turbo_settings_all_app_reach_max">Você pode selecionar até 15 apps</string>
