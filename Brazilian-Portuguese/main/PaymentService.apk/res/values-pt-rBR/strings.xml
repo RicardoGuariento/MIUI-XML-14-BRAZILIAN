@@ -59,6 +59,7 @@
     <string name="account_user_phone">Telefone de recuperação</string>
     <string name="account_user_region">Região</string>
     <string name="action_add_phone">Adicionar número de telefone</string>
+    <string name="action_settings">Configurações</string>
     <string name="action_update_phone">Alterar o número de telefone</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="activate_email_notice">Certifique-se de ativar a sua conta dentro de 24 horas</string>
@@ -91,7 +92,6 @@
 ID: %s
 Envie este código para o supervisor."</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>

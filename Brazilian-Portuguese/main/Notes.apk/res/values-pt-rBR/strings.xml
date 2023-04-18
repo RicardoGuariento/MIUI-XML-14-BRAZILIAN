@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="access_denied_info">Muitas tentativas. Aguarde um ou dois minutos e tente novamente.</string>
+    <string name="access_photos_and_videos">Acesse fotos e vídeos</string>
     <string name="action_collapse">Ocultar</string>
     <string name="action_expand">Mostrar mais</string>
     <string name="action_folder_description">Ver pastas</string>
@@ -61,6 +62,9 @@
     <string name="app_name">Notas</string>
     <string name="app_notification_info">O app Notas está executando em segundo plano</string>
     <string name="app_widget">Notas</string>
+    <string name="app_widget_name_create_note">Criar notas</string>
+    <string name="app_widget_name_create_todo">Criar tarefas</string>
+    <string name="app_widget_name_fast_entry">Atalhos</string>
     <string name="app_widget_name_new">Notas</string>
     <string name="application_icon">Ícone do app</string>
     <string name="audio_btn_mode_meeting">Reunião</string>
@@ -586,6 +590,7 @@
     <string name="new_audio_create_guide_tip">Pressione e segure para criar uma nota de voz</string>
     <string name="new_audio_create_talkback_des">Toque para criar uma nota em texto. Pressione e segure para criar uma nota de voz. Solte o botão para parar a gravação e criar uma nota, ou deslize para cima para cancelar.</string>
     <string name="new_data_empty_note">Sem itens</string>
+    <string name="new_lite_audio_create_talkback_des">Toque para criar uma nota</string>
     <string name="night">"PM"</string>
     <string name="no_network">Não é possível conectar-se à rede</string>
     <string name="noon">"PM"</string>
@@ -610,9 +615,11 @@
     <string name="note_mindnote_entrance_hint_newversion">"Comece a escrever "</string>
     <string name="note_mindnote_entrance_icon_text">Criar um mapa mental</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crie um mapa mental</string>
+    <string name="note_mindnote_not_support_in_phone_model">"Não é possível editar mapas mentais neste dispositivo"</string>
     <string name="note_module_name">Notas</string>
     <string name="note_not_text_stub">Nenhum texto</string>
     <string name="note_sort_way">Organizar</string>
+    <string name="note_write_hint">Comece a escrever</string>
     <string name="notealert_enter">Abrir nota</string>
     <string name="notealert_ok">Dispensar</string>
     <string name="notes_description_content">Notas é um app do sistema. Você não poderá usar este app após desinstalá-lo.</string>
@@ -675,6 +682,8 @@
     <string name="permission_microphone_desc">Para gravar notas de voz</string>
     <string name="permission_network_for_cloud_desc">Para sincronizar notas com a nuvem, você precisa se conectar à Internet. Os dados móveis podem ser usados para sincronizar itens. Conectar agora?</string>
     <string name="permission_phone_state_desc">Para parar de gravar notas de voz durante chamadas</string>
+    <string name="permission_photos_desc">Para adicionar imagens às notas</string>
+    <string name="permission_photos_desc_pad">Para adicionar imagens às notas</string>
     <string name="permission_read_contact_desc">Associar notas criadas durante chamadas com contatos</string>
     <string name="permission_storage_desc">Para salvar notas como imagens</string>
     <string name="permission_storage_desc_new_v12">Para adicionar imagens às notas e salvar notas como imagens</string>
@@ -789,6 +798,7 @@
     <string name="select_account_prompt">Sincronizar notas</string>
     <string name="select_up_limit_toast">Selecione até %d itens</string>
     <string name="send">Enviar</string>
+    <string name="send_notifications_for_reminder">Para enviar lembretes</string>
     <string name="set_alarm_description">Definir alarme</string>
     <string name="setting_big_screen_layout_columns">Barra Lateral</string>
     <string name="setting_big_screen_layout_flat">Ladrilhos</string>
@@ -931,6 +941,7 @@ Permita que o app Notas leia seus contatos e encontre contas no seu dispositivo.
 Permita que o app Notas leia o conteúdo do seu cartão SD."</string>
     <string name="toast_refuse_to_use_phone_state">"As permissões de telefone estão restritas.
 Permita que o app Notas leia o status do telefone e sua identidade."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Permita que este app acesse suas fotos para poder adicionar imagens às notas</string>
     <string name="toast_refuse_to_use_record_audio">"As permissões do microfone estão restritas.
 Permita que o app Notas grave áudio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permita que o Notas acesse o armazenamento para poder adicionar imagens às suas notas</string>
@@ -1040,6 +1051,9 @@ Permita que o app Notas grave áudio."</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
+    <string name="widget_all_notes_name">Todas as notas</string>
+    <string name="widget_all_todo_name">Todas as tarefas</string>
+    <string name="widget_click_check">Toque para ver</string>
     <string name="widget_content_loading">Aguarde…</string>
     <string name="widget_create_select_size">Selecione o tamanho</string>
     <string name="widget_empty_content">Toque para selecionar uma nota</string>
@@ -1052,5 +1066,8 @@ Permita que o app Notas grave áudio."</string>
     <string name="widget_size_item_super_big">Enorme</string>
     <string name="widget_size_not_support">Widgets extragrandes não são compatíveis com este dispositivo</string>
     <string name="widget_take_notes_title">Notas</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="yesterday">Ontem</string>
 </resources>

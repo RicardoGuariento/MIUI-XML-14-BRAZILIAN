@@ -85,7 +85,6 @@
     <string name="disconnected_peripheral">%1$s desconectado</string>
     <string name="disconnecting_peripheral">Desconectando o %1$s…</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">"PM"</string>
@@ -129,6 +128,8 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
+    <string name="mi_pay">Carteira Mi</string>
+    <string name="mi_pay_desc">Carteira Mi</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -146,8 +147,8 @@
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
-    <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_indexer_collect">Coleções</string>
+    <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -214,6 +215,8 @@
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="send">Enviar</string>
+    <string name="sim_wallet">Carteira SIM</string>
+    <string name="sim_wallet_desc">Carteira SIM</string>
     <string name="status_unable_to_connect">Não foi possível conectar à rede</string>
     <string name="status_wifi_connected">Conectado</string>
     <string name="summary_confirm_url_open">"O seu dispositivo recebeu um link através do NFC: "</string>

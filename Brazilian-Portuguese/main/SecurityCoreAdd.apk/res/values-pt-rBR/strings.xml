@@ -138,7 +138,6 @@ para visualizá-las a qualquer momento"</string>
     <string name="dual_animation">Animação de início</string>
     <string name="dual_animation_description">Exibe uma animação sempre que um dual app for iniciado</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="enable">Ativar</string>
     <string name="ent_activating">Ativando…</string>
     <string name="ent_activation">Ativar</string>
@@ -255,6 +254,8 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="greenguard_install_confirm">Instalar</string>
     <string name="greenguard_install_message">O Segurança Familiar é um app do sistema. Você não precisa de internet para instalá-lo.</string>
     <string name="greenguard_install_title">Instalar o Segurança Familiar</string>
+    <string name="greenguard_new_install_message">Segurança Familiar é um app do sistema. Você pode instalar este aplicativo sem baixá-lo.</string>
+    <string name="greenguard_new_install_title">Instalar Segurança Familiar</string>
     <string name="greenguard_parent_des">Gerencie dispositivos de amigos e familiares</string>
     <string name="greenguard_parent_des_title">Use o Kite Guard para adicionar dispositivos</string>
     <string name="guide_contact_sub_title_desc">"Contatos adicionados no Segundo espaço serão privados.
@@ -463,6 +464,7 @@ para pode acessá-lo através da Tela de bloqueio"</string>
     <string name="second_space_desktop_tips_dialog_title">Atualização importante</string>
     <string name="second_space_finger_printf_desc">Adicionar uma impressão digital para ser usada especificamente para entrar no Segundo espaço</string>
     <string name="second_space_finger_printf_title">Impressão digital do Segundo espaço</string>
+    <string name="second_space_setting_search_label">Proteção de privacidade/Proteção/Recursos de proteção de privacidade</string>
     <string name="secondspace_homepage">"Defina um bloqueio de tela para o Segundo espaço.
 Separe e proteja seus dados."</string>
     <string name="select_existed_fingerprint">Selecionar impressão digital</string>

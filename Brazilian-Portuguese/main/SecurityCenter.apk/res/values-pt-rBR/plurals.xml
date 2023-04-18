@@ -101,6 +101,10 @@
         <item quantity="other">Você será notificado sobre ações sensíveis executadas por %1$d apps</item>
         <item quantity="one">Você será notificado sobre ações sensíveis executadas por %1$d app</item>
     </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Os registros de comportamento do app são armazenados neste dispositivo por %d dias. Se você desativar esse recurso, novos registros não aparecerão mais e os antigos serão excluídos. Desativar mesmo assim?</item>
+        <item quantity="one">Os registros de comportamento do app são armazenados neste dispositivo por %d dia. Se você desativar esse recurso, novos registros não aparecerão mais e os antigos serão excluídos. Desativar mesmo assim?</item>
+    </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s iniciou %2$d apps</item>
         <item quantity="one">%1$1s iniciou %2$d app</item>

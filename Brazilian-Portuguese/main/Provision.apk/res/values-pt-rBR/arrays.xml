@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="other_settings_auto_update_entries">
-        <item>Wi-Fi e dados móveis</item>
+    <string-array name="other_settings_auto_update_at_no_simslot_entries">
         <item>Apenas Wi-Fi</item>
         <item>Desativado</item>
     </string-array>
-    <string-array name="other_settings_auto_update_at_no_simslot_entries">
+    <string-array name="other_settings_auto_update_entries">
+        <item>Wi-Fi e dados móveis</item>
         <item>Apenas Wi-Fi</item>
         <item>Desativado</item>
     </string-array>

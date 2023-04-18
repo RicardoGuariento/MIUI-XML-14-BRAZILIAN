@@ -98,8 +98,8 @@
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
-    <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_indexer_collect">Coleções</string>
+    <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -587,6 +587,7 @@ para mostrar widgets."</string>
     <string name="pa_setting_privacy_revoke_positive">Entendi</string>
     <string name="pa_setting_privacy_third_parties">Declaração sobre como compartilhar dados com terceiros</string>
     <string name="pa_setting_privacy_view_priv">Ver Política de Privacidade</string>
+    <string name="pa_setting_simplify_title_bar">Assistente</string>
     <string name="pa_setting_version">Versão: %1$s</string>
     <string name="pa_shopping_dialog_privacy_authorize_message">Welcome to Shopping! You can use this widget to get discounts and shopping offers. Read and agree to our Statement on Third-Party Services and Privacy Policy before you continue.</string>
     <string name="pa_shopping_dialog_privacy_authorize_title">Terms and conditions</string>

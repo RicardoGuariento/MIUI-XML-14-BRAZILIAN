@@ -69,7 +69,6 @@
     <string name="destination_default_text">Selec. impressora</string>
     <string name="disabled_services_title">Serviços desativados</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="enable_print_service">Selecione para ativar</string>
     <string name="enabled_services_title">Serviços ativados</string>
     <string name="eras_ad">d.C</string>

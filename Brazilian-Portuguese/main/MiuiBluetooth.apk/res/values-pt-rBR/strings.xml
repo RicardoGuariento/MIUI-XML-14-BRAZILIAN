@@ -1232,7 +1232,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_tap_to_sign_up">Toque para se inscrever</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Verifique a senha e tente novamente</string>
-    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Conectado ao dispositivo. Não é possível fornecer internet."</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Conectado ao dispositivo, mas não há acesso a internet."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Desativado</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Falha de configuração de IP</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Problema de autenticação</string>

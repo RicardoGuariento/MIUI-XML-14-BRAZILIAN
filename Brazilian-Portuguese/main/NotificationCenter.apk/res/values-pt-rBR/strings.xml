@@ -56,11 +56,12 @@
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_list_type">Ordenar por hora de recebimento</string>
+    <string name="disable_description_content">"Notificações é um app do sistema. Se você desativá-lo, não poderá gerenciar as notificações do app. Desativar mesmo assim?"</string>
+    <string name="disable_description_title">Desativar app do sistema?</string>
     <string name="disable_float_notification">Notificações flutuantes não permitidas</string>
     <string name="disable_lockscreen_notification">Notificações na Tela de bloqueio não permitidas</string>
     <string name="disable_show_badge_notification">Ícones de notificação não permitidos</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="enable_float_notification">Notificações flutuantes permitidas</string>
     <string name="enable_lockscreen_notification">Notificações na Tela de bloqueio permitidas</string>
     <string name="enable_show_badge_notification">Ícones de notificação permitidos</string>

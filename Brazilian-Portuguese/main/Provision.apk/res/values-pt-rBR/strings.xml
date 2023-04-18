@@ -65,8 +65,15 @@
     <string name="calculator_introduction">Você pode usar este app para cálculos, conversão de unidades e de moedas, e estimar as parcelas de sua hipoteca.</string>
     <string name="camera_application_introduction">Você pode usar este app para tirar fotos e vídeos.</string>
     <string name="camera_introduction">Você pode usar a Câmera para tirar fotos e capturar vídeos.</string>
+    <string name="carousel_cookies_content"><Data>Ao tocar em imagens e histórias no Carrossel de planos de fundo, suas versões completas serão abertas em seu navegador. Nosso provedor de conteúdo terceirizado confiável pode recomendar conteúdo e anúncios adicionais adequados aos seus interesses. Se você concordar em ativar este recurso, eles colocarão cookies em seu navegador, conforme descrito neste &lt;a href=\"%1$s\">Política de Cookies&lt;/a>. Se você recusar cookies, o Carrossel de planos de fundo ainda funcionará, mas seu conteúdo e recomendações podem deixar de ser relevantes para você. Você sempre pode alterar suas preferências em Configurações.</Data></string>
+    <string name="carousel_cookies_subtitle">Os cookies nos permitem personalizar sua experiência na Tela de bloqueio.</string>
+    <string name="carousel_cookies_title">Conteúdo personalizado e cookies</string>
+    <string name="carousel_privacy"><Data>"Leia e concorde com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> dos nossos provedores de serviços terceirizados confiáveis, antes de usar o Carrossel de planos de fundo."</Data></string>
+    <string name="carousel_setting">Configurar sua Tela de bloqueio</string>
+    <string name="carousel_setting_sub">O Carrossel de planos de fundo mostrará novas histórias toda vez que você desbloquear seu dispositivo</string>
     <string name="carrier_introduction">Para lhe fornecer melhores serviços, o seu dispositivo pode enviar periodicamente informações sobre a versão do dispositivo, dados de identificação do dispositivo (incluindo o endereço IMEI/IMSI/MSISDN/MAC, MEID/ICCID) e informações aproximadas de localização (incluindo ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS grátis. A operadora se compromete a analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas, e não divulgará informações relevantes a terceiros de nenhuma forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo do uso deste serviço.</string>
     <string name="carrier_introduction_china">Para lhe fornecer melhores serviços, os processos em execução no seu dispositivo (incluindo SystemHelper, RegService e Carrier Services) podem enviar periodicamente as informações relacionadas do seu dispositivo e cartão SIM (incluindo IMEI, IMSI, MSISDN, MEID, ICCID, endereço MAC, versão da MIUI, versão do Android, modelo do dispositivo e especificações básicas de hardware), bem como informações de localização aproximada (incluindo região, coordenadas, identificador de área e ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS gratuito. A operadora promete analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas e não divulgará informações relevantes a terceiros de qualquer forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo de utilização deste serviço.</string>
+    <string name="check_box_label"><Data>"Ao ativar esse recurso, você concorda com a &lt;a href=%1$s>Política de Privacidade dos Serviços de Interconectividade da Xiaomi&lt;/a >."</Data></string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="clock_introduction">Você pode usar este app para ver as horas, bem como usar o timer, relógio mundial, cronômetro, definir alarmes, entre outros.</string>
     <string name="close">Fechar</string>
@@ -76,6 +83,8 @@
     <string name="cm_terms_title">Acordo com a Operadora de rede móvel</string>
     <string name="compass_introduction">Você pode usar este app para navegação, assim como ver coordenadas, pressão atmosférica e altitude.</string>
     <string name="congratulation_label">Você está pronto para começar!</string>
+    <string name="congratulation_pre_label">Aguarde…</string>
+    <string name="congratulation_pre_title">Preparando o sistema…</string>
     <string name="congratulation_swipe">Deslize para cima para acessar o sistema</string>
     <string name="congratulation_title">Configuração concluída</string>
     <string name="content_description_complete">Concluído</string>
@@ -187,6 +196,38 @@
     <string name="install_preinstall_app">Carregando apps…</string>
     <string name="intent_filter_verification_service">Serviço de verificação de filtro de intenção</string>
     <string name="interconnection_communication_introduction">Os Serviços de comunicação da Internet da Xiaomi, permite que você descubra, conecte e se comunique com outros dispositivos Xiaomi.</string>
+    <string name="interconnection_service_summary">"Os Serviços de Interconectividade da Xiaomi permitem que seus dispositivos interajam uns com os outros sem fio. Esses serviços incluem Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Compartilhamento Mi e transmição.
+Para poder funcionar normalmente, esses serviços precisam se conectar à internet e exigir as seguintes permissões:
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Ativar e desativar o Wi-Fi
+\u0009\u0009Para transferir itens por Wi-Fi
+\u0009\u0009Gravar áudio
+\u0009\u0009Para transferir a reprodução de áudio para dispositivos conectados durante a transmissão ou espelhamento de tela
+\u0009\u0009Acessar armazenamento
+\u0009\u0009Para transferir e receber arquivos sem fio
+\u0009\u0009Compartilhamento Mi:
+\u0009\u0009Acessar e salvar arquivos e fotos no seu dispositivo
+\u0009\u0009Para transferir e receber arquivos sem fio
+\u0009\u0009Acessar a localização
+\u0009\u0009Para transferir itens para dispositivos próximos por Wi-Fi e Bluetooth
+\u0009\u0009Ativar e desativar o Bluetooth
+\u0009\u0009Para encontrar dispositivos próximos
+\u0009\u0009Ativar e desativar o Wi-Fi
+\u0009\u0009Para encontrar dispositivos próximos e transferir arquivos sem fio
+\u0009\u0009Conecte-se a dispositivos próximos
+\u0009\u0009Para encontrar dispositivos próximos e conectar-se a eles
+\u0009\u0009Transmissão:
+\u0009\u0009Ativar e desativar o Bluetooth
+\u0009\u0009Para encontrar dispositivos próximos
+\u0009\u0009Ativar e desativar o Wi-Fi
+\u0009\u0009Para encontrar dispositivos próximos
+\u0009\u0009Acessar a localização
+\u0009\u0009Para obter informações sobre dispositivos próximos
+\u0009\u0009Gravar áudio
+\u0009\u0009Para transferir a reprodução de áudio para dispositivos conectados durante a transmissão
+Se você não concordar em conceder tais permissões, não poderá usar os Serviços de Interconectividade da Xiaomi.
+Os recursos estão sujeitos a alterações. Alguns dos recursos acima podem não estar disponíveis em todos os modelos de dispositivos ou para todas as versões do sistema. Consulte o site da MIUI (www.miui.com) para verificar a compatibilidade."</string>
+    <string name="interconnection_service_title">Serviços de Interconectividade Xiaomi</string>
     <string name="item_contents_wwarning">Se seu dispositivo for perdido, você não poderá impedir que outras pessoas o utilizem e acessem seus dados, a menos que defina um bloqueio de tela. Ignorar mesmo assim?</string>
     <string name="item_facerecognition">Desbloqueio facial</string>
     <string name="item_fingerprint">Digital</string>
@@ -212,6 +253,7 @@
     <string name="midnight">"AM"</string>
     <string name="mint_keyboard_oobe_checkbox">Eu li e aceito a Política de Privacidade do Teclado Mint</string>
     <string name="mint_keyboard_oobe_terms">Política de Privacidade do Teclado Mint</string>
+    <string name="miui14_start_up_slogan">Preparar. Estável. Ao vivo.</string>
     <string name="miui_privacy_policy_no_network">Você não tem uma conexão com a internet. Veja a Política de Privacidade em %s.</string>
     <string name="miui_provision">Configuração inicial</string>
     <string name="miui_terms_no_network">Você não tem uma conexão com a internet. Veja o Contrato do Usuário em %s.</string>

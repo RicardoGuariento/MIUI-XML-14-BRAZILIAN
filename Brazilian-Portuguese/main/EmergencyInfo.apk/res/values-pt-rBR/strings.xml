@@ -366,8 +366,8 @@ Seleção"</string>
     <string name="done">Concluído</string>
     <string name="dream_complication_title_aqi">Qualidade do Ar</string>
     <string name="dream_complication_title_cast_info">Cast Info</string>
-    <string name="dream_complication_title_date">Date</string>
-    <string name="dream_complication_title_time">Time</string>
+    <string name="dream_complication_title_date">Data</string>
+    <string name="dream_complication_title_time">Tempo</string>
     <string name="dream_complication_title_weather">Clima</string>
     <string name="edit_info">Editar informações de emergência</string>
     <string name="emergency_action_subtitle">Preparando uma chamada para %1$s</string>
@@ -399,11 +399,11 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="fail_add_contact">Não é possível ler informações de contato corretamente</string>
     <string name="fail_display_contact">"Não é possível exibir o contato"</string>
     <string name="fail_load_contact_picker">"Não foi possível encontrar um selecionador de contato"</string>
-    <string name="failed_attempts_now_wiping_device">"Too many incorrect attempts. This device's data will be deleted."</string>
-    <string name="failed_attempts_now_wiping_dialog_dismiss">Dismiss</string>
-    <string name="failed_attempts_now_wiping_profile">Too many incorrect attempts. This work profile and its data will be deleted.</string>
-    <string name="failed_attempts_now_wiping_user">Too many incorrect attempts. This user will be deleted.</string>
-    <string name="failed_to_open_app_settings_toast">Falha ao abrir configurações para %1$s</string>
+    <string name="failed_attempts_now_wiping_device">"Muitas tentativas incorretas. Os dados deste dispositivo serão excluídos."</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Recusar</string>
+    <string name="failed_attempts_now_wiping_profile">Muitas tentativas incorretas. Este perfil de trabalho e seus dados serão excluídos.</string>
+    <string name="failed_attempts_now_wiping_user">Muitas tentativas incorretas. Este usuário será excluído.</string>
+    <string name="failed_to_open_app_settings_toast">Falha ao abrir as configurações de %1$s</string>
     <string name="fallback_emergency_number">112</string>
     <string name="force_allow_on_external">Força permitir apps no externo</string>
     <string name="force_allow_on_external_summary">Faz qualquer app elegível para ser escrito em armazenamento externo, independentemente dos valores manifestos</string>
@@ -913,7 +913,7 @@ O armazenamento de credenciais pode não ativar"</string>
     <string name="wifitrackerlib_tap_to_sign_up">Toque para se inscrever</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Verifique a senha e tente novamente</string>
-    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Conectado ao dispositivo. Não é possível fornecer internet."</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Conectado ao dispositivo, mas não há acesso a internet."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Desativado</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Falha de configuração IP.</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Problema de autenticação</string>
