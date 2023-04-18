@@ -99,7 +99,6 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Insira a senha do Bloqueio de apps</string>
     <string name="accessibility_gameboosterservice_description">Ative para silenciar chamadas do WeChat quando você estiver jogando</string>
-    <string name="accessibility_service_description" />
     <string name="action_button_text_100">Otimizar</string>
     <string name="action_button_text_60">Corrigir</string>
     <string name="action_button_text_60_80">Corrigir</string>
@@ -1356,9 +1355,6 @@ A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móve
     <string name="data_usage_warning_title_notify">Você ultrapassou seu limite de dados</string>
     <string name="databooster_tips_message">Ative para restringir todos os cartões SIM exceto o chip de dados. Desative este recurso se ocorrerem erros durante a partida.</string>
     <string name="databooster_tips_title">Atenção</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="day_overflow_tips">Aviso sobre o uso de dados diários</string>
@@ -1645,7 +1641,6 @@ cartão médico"</string>
     <string name="ew_first_start_network_title">Termos e Condições</string>
     <string name="ew_get_location">Localizar</string>
     <string name="ew_global_default_signature">EEWS BMKG</string>
-    <string name="ew_global_service_scope_external_link" />
     <string name="ew_global_signature">"Informações fornecidas por EEWS BMKG
 Suporte técnico por Xiaomi e ICL"</string>
     <string name="ew_global_signature_template">"Informações fornecidas por %s
@@ -4503,7 +4498,6 @@ Retirar consentimento agora?"</string>
     <string name="risk_app_install_history">Histórico de autorização</string>
     <string name="risk_app_install_item_des">Versão: %1$s</string>
     <string name="risk_app_install_manager">Apps com possíveis riscos</string>
-    <string name="risk_count_suffix" />
     <string name="risk_detail_app">Apresenta riscos</string>
     <string name="risk_detail_title">Possíveis riscos</string>
     <string name="risk_info_title">Descrição</string>
@@ -5452,7 +5446,6 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tether_over_limit_warning_notify_title">Limite de dados do ponto de acesso atingido</string>
     <string name="text_button">Entendi</string>
     <string name="text_cycle_day">%s</string>
-    <string name="text_day" />
     <string name="text_done">"OK"</string>
     <string name="text_security">Privacidade</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>

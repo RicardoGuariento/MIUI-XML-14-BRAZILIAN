@@ -528,9 +528,6 @@ Please check your network"</string>
     <string name="data_usage_warning_summary">Usar sua conexão de dados móveis para streaming de músicas em alta qualidade pode aumentar a tarifa do consumo de dados.</string>
     <string name="data_use_desc">Documentos legais</string>
     <string name="date_format_str">dd-MM-yyyy</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="day">Day</string>
@@ -1727,7 +1724,6 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="passport_account_name">"Account: %1$s "</string>
     <string name="passport_activate_token_expired">Verification code expired. Try again.</string>
     <string name="passport_area_code_title">Area code</string>
-    <string name="passport_auth_title" />
     <string name="passport_bad_authentication">Invalid username or password</string>
     <string name="passport_barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
     <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
@@ -1920,7 +1916,6 @@ Se você não aceitar em usar os serviços acima mencionados, você não poderá
     <string name="purchase">Purchase</string>
     <string name="push_family_link">Go>></string>
     <string name="push_task_finish_title">Task completed</string>
-    <string name="qq_application_id" />
     <string name="qq_login_btn_content_description">Sign in with QQ</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="queue_is_empty">A fila de reprodução está vazia.</string>
@@ -2591,9 +2586,7 @@ time"</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="weibo_application_id" />
     <string name="weibo_login_btn_content_description">Sign in with Weibo</string>
-    <string name="weibo_redirect_uri" />
     <string name="weixin_login_btn_content_description">Sign in with WeChat</string>
     <string name="whats_app">WhatsApp</string>
     <string name="welcome_to_entertainment">Confira o novo recurso Entretenimento para jogos de música e muito mais</string>

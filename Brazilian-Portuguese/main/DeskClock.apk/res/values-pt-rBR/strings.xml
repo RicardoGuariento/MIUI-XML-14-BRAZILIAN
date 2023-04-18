@@ -154,9 +154,6 @@
     <string name="copy">Copiar</string>
     <string name="current_stopwatch_time">Tempo atual</string>
     <string name="custom_ringtone_lost_permissions">"Não é possível acessar este som."</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="day_concat">", "</string>

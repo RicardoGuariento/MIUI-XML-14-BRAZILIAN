@@ -485,9 +485,6 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
     <string name="customLabelPickerTitle">Rótulo personalizado</string>
     <string name="custom_list_filter">Definir visualização personalizada</string>
     <string name="custom_nickname_hint">Inserir apelido</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="date_year_toggle">Informe um ano</string>
@@ -719,7 +716,6 @@ Motivo: \"%s\""</string>
     <string name="heduohao_popup_txt">Sub %d</string>
     <string name="hide_app_description_content">Contatos é um app do sistema. Você ainda poderá usá-lo através do app Telefone ao remover o seu atalho da Tela inicial.</string>
     <string name="hide_app_description_title">Remover \"Contatos\" da Tela inicial?</string>
-    <string name="hint_distance" />
     <string name="hint_findContacts">Localizar contatos</string>
     <string name="hint_more_contact">Unir contatos duplicados</string>
     <string name="hybrid_check_network">Configurações de rede</string>
@@ -1179,7 +1175,6 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
 	<string name="scan_not_installed_china">Instale o Mi AI Scanner primeiro</string>
     <string name="scan_not_installed_global">Instale o Scanner primeiro</string>
     <string name="scan_qrcode_card_hint1">Digitalize o código QR acima</string>
-    <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
     <string name="scanning_sdcard_failed_title">O armazenamento não pôde ser verificado</string>
     <string name="sdnContacts_empty">Nenhum SDN</string>

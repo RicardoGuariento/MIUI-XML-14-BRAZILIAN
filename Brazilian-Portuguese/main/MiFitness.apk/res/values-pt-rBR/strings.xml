@@ -500,15 +500,10 @@ Se você mudar de ideia, antes de usar nossos serviços, você precisará concor
     <string name="date_pattern_yyyy_m_d">dd/MM/yyyy</string>
     <string name="date_pattern_yyyy_mm_dd">dd/MM/yyyy</string>
     <string name="date_pattern_yyyy_mm_dd_hh_mm">dd/MM/yyyy HH:mm</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_range">%1$s–%2$s</string>
-    <string name="date_simple_separator" />
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="date_to_now">Iniciado %1$s</string>
-    <string name="day" />
     <string name="decive_settings_hint_most_count">Você pode adicionar até 20 relógios</string>
     <string name="device_add">Adicionar</string>
     <string name="device_add_device">Adicionar</string>
@@ -1211,7 +1206,6 @@ Envie este código para o supervisor."</string>
     <string name="doing_register">Criando conta…</string>
     <string name="download_background">Baixar</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
@@ -2600,7 +2594,6 @@ Obtenha esta medalha"</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
-    <string name="month" />
     <string name="month_april">Abril</string>
     <string name="month_april_short">Abr</string>
     <string name="month_april_shortest">Abr</string>
@@ -3512,7 +3505,6 @@ Este passo é requerido para pagar com seu dispositivo."</string>
     <string name="trail_choose_posture">Estilo</string>
     <string name="trail_complete_operation">Conclua em 20s</string>
     <string name="trail_data_activity_calorie">Kcal ativa</string>
-    <string name="trail_data_rate_distribute0" />
     <string name="trail_data_rate_distribute1">Leve</string>
     <string name="trail_data_rate_distribute2">Intensivo</string>
     <string name="trail_data_rate_distribute3">Aeróbico</string>

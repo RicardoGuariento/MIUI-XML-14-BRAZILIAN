@@ -618,9 +618,6 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="custom_select_title_quickly_share">Compartilhar</string>
     <string name="custom_select_title_select_all">Selecionar todos</string>
     <string name="custom_select_title_select_item">Selecionar itens</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="datetimepicker_dialog_title">Alterar hora</string>
@@ -730,7 +727,6 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="editphoto_datetime_needdownload_origin_subtitle">Baixe o arquivo original da MiCloud para poder alterar a hora.</string>
     <string name="editphoto_datetime_needdownload_origin_title">Baixar original</string>
     <string name="email_picker_title">Adicionar e-mail</string>
-    <string name="empty" />
     <string name="empty_album_cloud_list_title">Nenhum álbum para sincronizar</string>
     <string name="empty_album_hidden_list_title">Nenhum álbum oculto</string>
     <string name="empty_album_other_list_title">Nenhum álbum aqui</string>

@@ -134,9 +134,6 @@
     <string name="controls_structure_tooltip">Deslize para ver mais</string>
     <string name="controls_unsupport_toggle_toast">"Não é possível controlar este dispositivo daqui. Pressione e segure para abrir o app."</string>
     <string name="copy">Copiar</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="disabled">Indisponível</string>
@@ -145,7 +142,6 @@
     <string name="dolby_atoms_sound_effect_label">"Dolby Atmos"</string>
     <string name="drag_to_add_tiles">Pressione e segure para adicionar ou reorganizar itens</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Erro</string>

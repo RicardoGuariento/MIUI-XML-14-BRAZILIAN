@@ -396,7 +396,6 @@ Desative o seletor para parar a sincronização."</string>
     <string name="branch_viewpage_title_local">Instalado</string>
     <string name="browser">Navegador Mi</string>
     <string name="browserFrameFileErrorLabel">Erro no arquivo</string>
-    <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">A página que você está tentando acessar contém dados que já foram enviados. Se você reenviar estes dados, ações anteriores (ex.: pesquisas ou compras) serão repetidas.</string>
     <string name="browserFrameNetworkErrorLabel">Erro de conexão</string>
     <string name="btn_agree">Aceitar</string>
@@ -618,9 +617,6 @@ Páginas que você visitar não aparecerão no histórico."</string>
     <string name="data_traffic_prompt_message">Usar a conexão de dados móveis para navegar entre vídeos aumentará seu consumo de dados móveis. Caso você exceda seu limite de uso de dados, sua operadora poderá cobrar tarifas adicionais.</string>
     <string name="data_traffic_prompt_title">Você está usando dados móveis</string>
     <string name="data_traffic_stop">Parar</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="debug_crash">Habilitar depuração de falha</string>

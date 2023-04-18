@@ -211,9 +211,6 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="copy_link">Copiar URL</string>
     <string name="copy_to_clipboard_successful">Copiado com sucesso</string>
     <string name="current_account_can_use_pwd_login">Insira sua senha para entrar</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_error_message">Entrada inválida</string>

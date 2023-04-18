@@ -40,9 +40,6 @@
     <string name="close_panel">Desativar botões de Acesso rápido</string>
     <string name="copy">Copiar</string>
     <string name="customize_entries">Selecionar atalhos</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="early_morning">"AM"</string>

@@ -44,14 +44,12 @@
     <string name="act_weather_find_city_no_result">Nenhum resultado</string>
     <string name="act_weather_find_city_searching">Pesquisando…</string>
     <string name="actionbar_button_up_description">Voltar</string>
-    <string name="activity_alert_detail_title" />
     <string name="activity_find_city_dialog_cancel">Cancelar</string>
     <string name="activity_find_city_dialog_message">Permita que o Clima acesse sua localização para obter informações de localização precisas.</string>
     <string name="activity_find_city_dialog_message_global">Ative os serviços de localização e permita que o seu dispositivo determine sua localização usando as redes móveis.</string>
     <string name="activity_find_city_dialog_message_location_service">Para obter informações relevantes sobre o clina, permita que o app Clima acesse sua localização.</string>
     <string name="activity_find_city_dialog_set">Configurações</string>
     <string name="activity_find_city_dialog_title">Acesso à localização</string>
-    <string name="activity_main_one_alert" />
     <string name="activity_main_pub_time">Publicado às %1$s</string>
     <string name="activity_main_time_format">"E"</string>
     <string name="activity_main_update_time">Atualizado: %1$s</string>
@@ -559,11 +557,6 @@
     <string name="tts_best_aqi">Melhor qualidade do ar</string>
     <string name="tts_hour_weather_date_time">De %2$s a %1$s até %4$s a %3$s</string>
     <string name="tts_max_wind_power">Velocidade de vento máxima</string>
-    <string name="tts_report_aqi" />
-    <string name="tts_report_defautl_head" />
-    <string name="tts_report_split" />
-    <string name="tts_report_weather_desc" />
-    <string name="tts_report_wind" />
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>

@@ -54,9 +54,6 @@
     <string name="cta_btn_disagree">"Não concordo"</string>
     <string name="cta_main_purpose">Bem-vindo ao Editor de Capturas de Tela! Você pode usar este app para cortar e editar suas capturas de tela.</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para salvar capturas de tela</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="device_list_all">Todos os dispositivos</string>

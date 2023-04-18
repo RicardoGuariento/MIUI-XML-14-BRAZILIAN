@@ -275,9 +275,6 @@
     <string name="country_name_zm">ZM</string>
     <string name="country_name_zw">ZW</string>
     <string name="date_picker_dialog_title">Definir data</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Chinês Tradicional</string>
     <string name="date_time_done">Concluído</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>

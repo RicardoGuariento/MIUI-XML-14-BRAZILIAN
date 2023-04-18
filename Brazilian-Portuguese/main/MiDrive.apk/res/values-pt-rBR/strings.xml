@@ -108,9 +108,6 @@
     <string name="create_other_pdf">Novo PDF</string>
     <string name="create_pdf_manual">Novo PDF</string>
     <string name="current_speed_content">Velocidade atual: %1$s</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="delete_file_success">Excluído com sucesso</string>

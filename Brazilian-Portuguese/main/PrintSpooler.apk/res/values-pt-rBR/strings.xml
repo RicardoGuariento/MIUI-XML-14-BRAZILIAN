@@ -60,9 +60,6 @@
     <string name="copies_increase">Mais uma cópia</string>
     <string name="copy">Copiar</string>
     <string name="could_not_create_file">Não foi possível criar o arquivo</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="delete_saved_printer_content">Excluir impressoras selecionadas agora?</string>

@@ -819,7 +819,6 @@ Alterar as configurações agora?"</string>
     <string name="app_names_concatenation_template_2">%1$s, %2$s</string>
     <string name="app_names_concatenation_template_3">%1$s, %2$s, %3$s</string>
     <string name="app_not_found_dlg_text">O app não foi encontrado na lista de apps instalados.</string>
-    <string name="app_not_found_dlg_title" />
     <string name="app_notification_block_summary">Nunca mostrar essas notificações</string>
     <string name="app_notification_block_title">Bloquear tudo</string>
     <string name="app_notification_field">Configurações do app</string>
@@ -1112,7 +1111,6 @@ Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse
     <string name="backup_difference_title">Como os backups locais são diferentes dos backups na nuvem?</string>
     <string name="backup_disabled">Backup desativado</string>
     <string name="backup_erase_dialog_message">Interromper o backup de suas senhas de redes Wi-Fi, favoritos, outras configurações e dados de apps e apagar todas as cópias nos servidores do Google?</string>
-    <string name="backup_erase_dialog_title" />
     <string name="backup_inactive_title">O serviço de backup não está ativo</string>
     <string name="backup_more_settings">Configurações</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
@@ -1235,7 +1233,6 @@ Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse
     <string name="battery_manager_summary_unsupported">Detectando quando os apps drenam a bateria</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_missing_link_a11y_message">Toque para saber mais sobre este erro</string>
-    <string name="battery_missing_link_message" />
     <string name="battery_missing_message">Problemas para ler o medidor de bateria.</string>
     <string name="battery_msg_unaccounted">O uso da bateria é uma estimativa do uso de energia e não inclui todas as fontes de consumo de bateria. \"Diversos\" refere-se à diferença entre a estimativa de uso de energia calculada e a utilização real observada na bateria.</string>
     <string name="battery_not_usage">Nenhum uso da última carga completa</string>
@@ -1293,7 +1290,6 @@ Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse
     <string name="battery_sugg_display">Reduzir o brilho e/ou o tempo limite da tela</string>
     <string name="battery_sugg_radio">Alternar para o modo avião para economizar energia nas áreas sem cobertura celular</string>
     <string name="battery_sugg_wifi">Desativar Wi-Fi quando não estiver em uso ou disponível</string>
-    <string name="battery_suggestion_summary" />
     <string name="battery_suggestion_title">Melhorar a duração da bateria do telefone</string>
     <string name="battery_summary">%1$s de uso desde a última carga completa</string>
     <string name="battery_summary_24hr">%1$s usado nas últimas 24 horas</string>
@@ -1654,7 +1650,6 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_enter_passkey_msg">Digite o código de pareamento e pressione \"Return\" ou \"Enter\"</string>
     <string name="bluetooth_enter_passkey_other_device">Talvez seja necessário digitar esta senha no outro dispositivo.</string>
     <string name="bluetooth_enter_pin_other_device">Talvez seja necessário digitar este PIN no outro dispositivo.</string>
-    <string name="bluetooth_error_title" />
     <string name="bluetooth_fastConnect_key_device_id">ID do dispositivo</string>
     <string name="bluetooth_fastConnect_resource_load">Carregamento de recurso Bluetooth fastConnect</string>
     <string name="bluetooth_find_broadcast">Encontrar transmissões</string>
@@ -2495,7 +2490,6 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="condition_zen_summary_phone_muted">Smartphone silenciado</string>
     <string name="condition_zen_summary_with_exceptions">Com exceções</string>
     <string name="condition_zen_title">O \"Não perturbe\" está ativado</string>
-    <string name="config_backup_settings_label" />
     <string name="config_charging_function_name">carregando</string>
     <string name="config_list_label">Redes configuradas</string>
     <string name="config_mtp_function_name">mtp</string>
@@ -2930,9 +2924,6 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="date_and_time_settings_summary">Definir data, hora, fuso horário e formatos</string>
     <string name="date_and_time_settings_title">Data e hora</string>
     <string name="date_and_time_settings_title_setup_wizard">Configurar data e hora</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_picker_title">Data</string>
     <string name="date_time_24hour">Formato de 24 horas</string>
@@ -3266,7 +3257,6 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dlg_confirm_unmount_title">Desconectar cartão USB?</string>
     <string name="dlg_delete">Excluir</string>
     <string name="dlg_error_unmount_text">Não é possível desconectar o cartão USB. Tente novamente mais tarde.</string>
-    <string name="dlg_error_unmount_title" />
     <string name="dlg_ok">"OK"</string>
     <string name="dlg_remove_locales_error_message">Mantenha pelo menos um idioma preferencial</string>
     <string name="dlg_remove_locales_error_title">Não é possível remover todos os idiomas</string>
@@ -3364,7 +3354,6 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="double_tap_power_for_camera_suggestion_title">Abrir a câmera rapidamente</string>
     <string name="double_tap_power_for_camera_summary">Para abrir a câmera rapidamente, pressione o botão [Liga/Desliga] duas vezes. O recurso funciona em qualquer tela.</string>
     <string name="double_tap_power_for_camera_title">Abrir a câmera</string>
-    <string name="double_twist_for_camera_mode_summary" />
     <string name="double_twist_for_camera_mode_title">Inverter a câmara para selfie</string>
     <string name="double_twist_for_camera_suggestion_title">Tirar selfies com mais rapidez</string>
     <string name="download_current_rom">Obter a última versão da MIUI</string>
@@ -3683,7 +3672,6 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="error_mcc_not3">O campo MCC deve ter 3 dígitos.</string>
     <string name="error_mnc_not23">O campo MNC deve ter 2 ou 3 dígitos.</string>
     <string name="error_name_empty">O campo Nome não pode ficar vazio.</string>
-    <string name="error_title" />
     <string name="error_xcap_not_add">Não é possível usar XCAP como o tipo de nome do ponto de acesso.</string>
     <string name="estimated_charging_time_left">Até a carga completa</string>
     <string name="estimated_time_description">A estimativa pode mudar conforme o uso</string>
@@ -4344,7 +4332,6 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="gxzw_quick_open_fast_title">Swipe rápido (avançado)</string>
     <string name="gxzw_quick_open_slow_summary">Pressione e segure o ícone de impressão digital para abrir o menu de atalho. Deslize para usar um atalho.</string>
     <string name="gxzw_quick_open_slow_title">pressione e segure</string>
-    <string name="gxzw_quick_open_title" />
     <string name="gxzw_vibrate_summary">A vibração não ocorrerá quando nenhuma animação de impressão digital for selecionada</string>
     <string name="gxzw_vibrate_title">Vibrar ao desbloquear</string>
     <string name="handy_mode">Modo para uma só mão</string>
@@ -4938,9 +4925,6 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="label_mi_stats">Mi Analytics</string>
     <string name="language_and_input_for_work_category_title">Teclados e ferramentas de perfil de trabalho</string>
     <string name="language_empty_list_user_restricted">Você não tem permissão para alterar o idioma do dispositivo.</string>
-    <string name="language_input_gesture_summary_off" />
-    <string name="language_input_gesture_summary_on_non_assist" />
-    <string name="language_input_gesture_summary_on_with_assist" />
     <string name="language_input_gesture_title">Idiomas, entrada e gestos</string>
     <string name="language_keyboard_settings_title">Idiomas e entrada</string>
     <string name="language_picker_title">Idiomas</string>
@@ -6178,7 +6162,6 @@ Alternar para %1$s não cancelará o serviço da operadora %2$s."</string>
     <string name="morning">"AM"</string>
     <string name="move_app">Mover</string>
     <string name="move_app_failed_dlg_text">Não foi possível mover o app. %1$s</string>
-    <string name="move_app_failed_dlg_title" />
     <string name="move_app_to_internal">Mover para telefone</string>
     <string name="move_app_to_sdcard">Mover para USB</string>
     <string name="move_error_device_admin">Não é possível instalar o administrador do dispositivo em uma mídia externa</string>
@@ -7071,7 +7054,6 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="phone_backup_title">Dispositivo móvel</string>
     <string name="phone_call_noise_suppression">Redução de ruído durante chamadas</string>
     <string name="phone_language">Idiomas</string>
-    <string name="phone_language_summary" />
     <string name="photo_data">Fotos e vídeos</string>
     <string name="physical_keyboard_title">Teclado físico</string>
     <string name="pick_up_gesture_wakeup_title">Levantar para ligar tela</string>
@@ -7441,7 +7423,6 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_password_settings_titles_second_space">A Senha de proteção de privacidade protege suas mensagens, fotos e notas.</string>
     <string name="privacy_password_title">Senha de proteção de privacidade</string>
     <string name="privacy_password_toggle_summary">Exige a senha sempre que itens privados forem acessados.</string>
-    <string name="privacy_password_transparent_tiltle" />
     <string name="privacy_password_use_finger_dialog_mess">Você também pode usar sua impressão digital com a Senha de proteção de privacidade.</string>
     <string name="privacy_password_use_finger_dialog_open">Configurações</string>
     <string name="privacy_password_use_finger_dialog_title">Desbloqueio com impressão digital</string>
@@ -7612,7 +7593,6 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="register_automatically">Registro automático…</string>
     <string name="register_on_network">Registrando na rede %s…</string>
     <string name="registration_done">Registrado na rede.</string>
-    <string name="regulatory_info_text" />
     <string name="regulatory_labels">Informações regulatórias</string>
     <string name="remaining_length_format">%1$s restante(s)</string>
     <string name="remote_media_volume_option_title">Volume da transmissão</string>
@@ -7777,10 +7757,6 @@ Essa configuração afeta todos os usuários do smartphone."</string>
     <string name="rom_total_size">Tamanho total da ROM</string>
     <string name="root">Acesso root</string>
     <string name="rssi_label">"RSSI:"</string>
-    <string name="rtt_settings_always_visible" />
-    <string name="rtt_settings_no_visible" />
-    <string name="rtt_settings_title" />
-    <string name="rtt_settings_visible_during_call" />
     <string name="rule_name">Nome</string>
     <string name="running_frequency">Frequência</string>
     <string name="running_process_item_removed_user_label">Usuário removido</string>
@@ -8053,7 +8029,6 @@ Para usar a fixação de apps: \u0009
     <string name="sd_insert_summary">Insira o cartão USB</string>
     <string name="sd_memory">Armaz. USB</string>
     <string name="sd_mount">Conectar armazenam. USB</string>
-    <string name="sd_mount_summary" />
     <string name="sdcard_changes_instructions">As alterações são aplicadas quando o cabo USB é reconectado.</string>
     <string name="sdcard_format">Apagar armazenamento USB</string>
     <string name="sdcard_setting">Armaz. USB</string>
@@ -8347,8 +8322,6 @@ Para usar a fixação de apps: \u0009
     <string name="security_settings_face_enroll_education_accessibility_dialog_message">Se a Accessibility Face desbloquear estiver desativada, algumas etapas de configuração podem não funcionar corretamente com talkback.</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Volte</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Continue configurado</string>
-    <string name="security_settings_face_enroll_education_message" />
-    <string name="security_settings_face_enroll_education_message_accessibility" />
     <string name="security_settings_face_enroll_education_start">Iniciar</string>
     <string name="security_settings_face_enroll_education_title">Como configurar o desbloqueio facial</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Configurar desbloqueio facial</string>
@@ -8489,7 +8462,6 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Toque no sensor na parte traseira do smartphone. Use o dedo indicador.</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title">Opa, este não é o sensor</string>
     <string name="security_settings_fingerprint_enroll_udfps_title">Tocar e segurar o sensor de impressão digital</string>
-    <string name="security_settings_fingerprint_preference_summary_none" />
     <string name="security_settings_fingerprint_preference_title">Impressão digital</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_already_enrolled">Esta impressão digital já foi adicionada</string>
     <string name="security_settings_fingerprint_v2_enroll_acquire_clean_sensor">Limpe sua tela perto do sensor e tente novamente</string>
@@ -9526,7 +9498,6 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="sud_next_button_label">Próximo</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Estes apps funcionam melhor em Tela cheia</string>
     <string name="suggested_app_locales_title">Idiomas sugeridos</string>
-    <string name="suggested_fingerprint_lock_settings_summary" />
     <string name="suggested_fingerprint_lock_settings_title">Adicionar impressão digital para desbloqueio</string>
     <string name="suggested_lock_settings_summary">Definir bloqueio de tela para proteger o dispositivo</string>
     <string name="suggested_lock_settings_title">Proteger seu dispositivo</string>
@@ -9634,7 +9605,6 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="system_storage">Armazenamento do sistema</string>
     <string name="system_touch">Resposta tátil</string>
     <string name="system_ui_settings">Mostrar sintonizador SystemUI</string>
-    <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Atualizações do sistema</string>
     <string name="tab_text">Aba</string>
     <string name="tablet_screen_application_adaptation_title">Layouts personalizados para tablets</string>
@@ -9889,7 +9859,6 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="transparent_human_voice">Voz</string>
     <string name="transparent_normal">Normal</string>
     <string name="transparent_surroundings">Ambiente</string>
-    <string name="translation_contributors_summary" />
     <string name="translation_contributors_title">Colaboradores</string>
     <string name="trigger_carrier_provisioning">Acionar aprovisionamento da operadora</string>
     <string name="truetone_summary">Ajustar cores à luz ambiente</string>
@@ -10089,7 +10058,6 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_set_unlock_mode_pin">"PIN"</string>
     <string name="unlock_set_unlock_none_summary">Sem segurança</string>
     <string name="unlock_set_unlock_none_title">Nenhum</string>
-    <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">Nenhum</string>
     <string name="unlock_set_unlock_password_none">Nenhum</string>
     <string name="unlock_set_unlock_password_summary">Uma senha de 4 ou mais caracteres para desbloquear o dispositivo</string>
@@ -10260,7 +10228,6 @@ ou com conector de 3.5mm."</string>
     <string name="usb_midi_summary">Permite que apps com MIDI ativado funcionem por meio de USB com o software MIDI no computador.</string>
     <string name="usb_midi_title">MIDI (som)</string>
     <string name="usb_mount">Montar armazenamento USB</string>
-    <string name="usb_mount_summary" />
     <string name="usb_msd_driver_installer_summary">Obter drivers para Windows e macOS</string>
     <string name="usb_msd_driver_installer_title">Disco de instalação de Driver (MSD)</string>
     <string name="usb_msd_summary">Transfira arquivos usando o Windows ou macOS</string>
@@ -10388,7 +10355,6 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
 Toque no + para adicionar palavras."</string>
     <string name="user_dict_settings_for_work_title">Dicionário pessoal para o trabalho</string>
     <string name="user_dict_settings_more_languages">Mais idiomas…</string>
-    <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_title">Dicionário pessoal</string>
     <string name="user_enable_calling">Ativar chamadas telefônicas</string>
     <string name="user_enable_calling_and_sms_confirm_message">O histórico de chamadas e SMS será compartilhado com este usuário.</string>
@@ -10831,7 +10797,6 @@ Veja a política de privacidade da sua operadora para obter detalhes."</string>
     <string name="wifi_calling_mode_wifi_preferred_summary">Se o Wi‑Fi estiver indisponível, use a rede móvel</string>
     <string name="wifi_calling_not_supported">Chamadas no Wi-Fi não são compatíveis com a %1$s</string>
     <string name="wifi_calling_off_explanation">Quando a \"chamada no Wi-Fi\" estiver ativada, seu dispositivo poderá encaminhar chamadas por redes Wi-Fi ou pela rede da sua operadora, dependendo da sua preferência e de qual sinal estiver mais forte. Antes de ativar esse recurso, verifique as taxas e outros detalhes com sua operadora. %1$s</string>
-    <string name="wifi_calling_off_explanation_2" />
     <string name="wifi_calling_pref_managed_by_carrier">Configuração gerenciada pela operadora</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Preferências de roaming</string>
     <string name="wifi_calling_roaming_mode_title">Preferências de roaming</string>

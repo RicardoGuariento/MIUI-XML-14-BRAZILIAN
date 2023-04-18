@@ -50,9 +50,6 @@
     <string name="close">Fechar</string>
     <string name="confirm">"OK"</string>
     <string name="copy">Copiar</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_list_type">Ordenar por hora de recebimento</string>

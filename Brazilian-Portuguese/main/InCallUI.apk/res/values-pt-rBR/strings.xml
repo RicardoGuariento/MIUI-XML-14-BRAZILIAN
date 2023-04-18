@@ -144,9 +144,6 @@
     <string name="crbt_second_hold_prompt">%s está em espera…</string>
     <string name="crbt_second_hold_prompt_conference">A chamada de conferência está em espera…</string>
     <string name="crbt_second_hold_prompt_no_name">A chamada anterior está em espera…</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="description_icon_sim_card">"SIM %1$d"</string>

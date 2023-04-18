@@ -467,9 +467,6 @@ IMAP"</string>
     <string name="date_heading">"Data: "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Hoje, %1$s</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="db_error">Ocorreu um erro. Faça o login novamente.</string>
@@ -580,7 +577,6 @@ IMAP"</string>
     <string name="email_sync_failed">Não foi possível sincronizar o e-mail</string>
     <string name="emial_filter_create_hint">"Condição não será aplicada aos e-mails existentes"</string>
     <string name="eml_parse_message">Abrindo arquivo EML…</string>
-    <string name="empty" />
     <string name="empty_account_tip">Não foi possível localizar a conta</string>
     <string name="empty_email_tip">Não é possível enviar uma mensagem em branco</string>
     <string name="empty_spam">Esvaziar Spam</string>
@@ -1319,7 +1315,6 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="pop3_name">"POP3"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preference_eas_tips">Toque em \"Ativar\" para definir um servidor de e-mail.</string>
-    <string name="preference_imap_tips" />
     <string name="preference_pop_tips">O anexo será baixado com o e-mail. Isso pode usar dados móveis significativos. Baixar mesmo assim?</string>
     <string name="preferences_signature_dialog_title">Assinatura</string>
     <string name="preferences_signature_title">Assinatura</string>
@@ -1692,10 +1687,6 @@ Remover conta?"</string>
     <string name="user_privacy_settings_title">Declaração de privacidade do E-mail</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
-    <string name="veiled_address" />
-    <string name="veiled_alternate_text" />
-    <string name="veiled_alternate_text_unknown_person" />
-    <string name="veiled_summary_unknown_person" />
     <string name="verify_code">Código de verificação</string>
     <string name="version_string">Versão: %s</string>>
     <string name="view_more_conversations">Ver mais conversas</string>

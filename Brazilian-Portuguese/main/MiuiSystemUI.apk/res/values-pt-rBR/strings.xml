@@ -724,7 +724,6 @@ Taxa de amostra"</string>
     <string name="clipboard">Área de transferência</string>
     <string name="clock">Relógio</string>
     <string name="clock_city_name_local">"Local"</string>
-    <string name="clock_component_name" />
     <string name="clock_seconds">Mostrar segundos no relógio</string>
     <string name="clock_seconds_desc">Mostrar segundos do relógio na barra de status. Pode afetar a duração da bateria.</string>
     <string name="clock_title_analog">Analógico</string>
@@ -827,9 +826,6 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="data_usage_ota">Atualizações do sistema</string>
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
     <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="days_timestamp">%1$s dias atrás</string>
@@ -910,7 +906,6 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">A Tela dividida não é suportada na Tela de bloqueio.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">O app não suporta Tela dividida.</string>
     <string name="download_lock_wallpaper">Toque duas vezes para baixar o Carrossel de Planos de fundo</string>
-    <string name="doze_brightness_sensor_type" />
     <string name="drag_to_add_tiles">Pressione e segure para adicionar ou reordenar os itens</string>
     <string name="drag_to_rearrange_tiles">Segure e arraste para organizar os atalhos</string>
     <string name="drag_to_remove_disabled">Você precisa de pelo menos %1$d atalhos</string>
@@ -921,7 +916,6 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="drive_mode_tip_notch">Modo Carro</string>
     <string name="early_morning">"AM"</string>
     <string name="emergency_call_string">Emergência</string>
-    <string name="empty" />
     <string name="empty_shade_text">Nenhuma notificação</string>
     <string name="empty_status">Vamos conversar esta noite!</string>
     <string name="empty_user_name">Amigos</string>
@@ -1142,7 +1136,6 @@ Digite seu PIN para desbloquear."</string>
     <string name="gxzw_quick_open_qr_code">Código QR</string>
     <string name="gxzw_quick_open_qr_code_sub">"Scanner"</string>
     <string name="gxzw_quick_open_search">Pesquisar</string>
-    <string name="gxzw_quick_open_search_sub" />
     <string name="gxzw_quick_open_skip_teach">Pular tutorial</string>
     <string name="gxzw_quick_open_title">Menu de atalhos aberto</string>
     <string name="gxzw_quick_open_wechat_pay">Código de pagamento</string>
@@ -1173,7 +1166,6 @@ Digite seu PIN para desbloquear."</string>
     <string name="high_temp_alarm_notify_message">Há um problema ao carregar este dispositivo. Desconecte o adaptador de energia e tome cuidado, pois o cabo pode estar quente.</string>
     <string name="high_temp_alarm_title">Retire o carregador</string>
     <string name="high_temp_dialog_help_text">Veja as etapas de cuidado</string>
-    <string name="high_temp_dialog_help_url" />
     <string name="high_temp_dialog_message">"Seu dispositivo tentará ser resfriado automaticamente. Você ainda pode usar o dispositivo, mas ele poderá funcionar mais lentamente.
 
 Assim que ele tiver resfriado, ele voltará ao normal."</string>
@@ -1897,7 +1889,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="no_weather_description">Obtenha informações de clima ></string>
     <string name="not_default_data_content_description">Não definido para usar dados</string>
     <string name="not_set">Não definido</string>
-    <string name="notice_header" />
     <string name="notif_inline_reply_remove_attachment_description">Remover anexo</string>
     <string name="notification_alert_title">Padrão</string>
     <string name="notification_app_settings">Personalizar</string>
@@ -2000,7 +1991,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="notification_unblockable_desc">"Essas notificações não podem ser modificadas."</string>
     <string name="notification_vpn_connected">VPN conectada</string>
     <string name="notification_vpn_disconnected">VPN desconectada</string>
-    <string name="oem_preferred_feedback_reporter" />
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
     <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
     <string name="okay">"OK"</string>
@@ -2659,7 +2649,6 @@ Deslize para baixo para bloquear"</string>
     <string name="status_bar_recent_guide_top">Deslize para cima para fechar</string>
     <string name="status_bar_recent_inspect_item_title">Info. do app</string>
     <string name="status_bar_recent_memory_info1">%1$s B de %2$s B disponível</string>
-    <string name="status_bar_recent_memory_info2" />
     <string name="status_bar_recent_remove_item_title">Remover da lista</string>
     <string name="status_bar_recording_back">Retornar ao Gravador</string>
     <string name="status_bar_recording_pause">Gravação em pausa</string>
@@ -3149,7 +3138,6 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_connected_via_app">Conectado via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Conectado automaticamente via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
-    <string name="wifitrackerlib_help_url_imsi_protection" />
     <string name="wifitrackerlib_imsi_protection_warning">Esta rede recebe um ID SIM que pode ser usado para rastrear o local do dispositivo. <annotation id="url">Saiba mais</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Concluindo a inscrição…</string>
     <string name="wifitrackerlib_osu_connect_failed">Não foi possível conectar</string>
