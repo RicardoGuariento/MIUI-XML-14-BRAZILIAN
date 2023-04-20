@@ -91,6 +91,8 @@
     <string name="action_item_play_all">Misturar tudo</string>
     <string name="action_item_play_next">Reproduzir mais tarde</string>
     <string name="action_item_play_video">Reproduzir clipe de música</string>
+    <string name="action_item_podcast">Detalhes do podcast</string>
+    <string name="action_item_podcast_speed">Velocidade de reprodução</string>
     <string name="action_item_remove">Remover</string>
     <string name="action_item_remove_from_favorite">Remover dos favoritos</string>
     <string name="action_item_share">Compartilhar</string>
@@ -206,6 +208,7 @@
     <string name="autoplay_is_off">Reprodução automática desativada</string>
     <string name="autoplay_is_on">Reprodução automática ativada</string>
     <string name="available_playlist_name_format">Nova playlist %d</string>
+    <string name="avatar">Foto de perfil</string>
     <string name="avoid_to_use_traffic_summary">Não usar a rede móvel para o streaming de música</string>
     <string name="avoid_to_use_traffic_title">Perguntar ao usar dados móveis para reproduzir músicas</string>
     <string name="back">Voltar</string>
@@ -786,13 +789,13 @@ Send this code to the supervisor."</string>
     <string name="exo_controls_pause_description">Pausar</string>
     <string name="exo_controls_play_description">Reproduzir</string>
     <string name="exo_controls_previous_description">Faixa anterior</string>
-    <string name="exo_controls_repeat_all_description">Repetir tudo</string>
-    <string name="exo_controls_repeat_off_description">Não repetir</string>
-    <string name="exo_controls_repeat_one_description">Repetir uma</string>
+    <string name="exo_controls_repeat_all_description">Modo atual: Repetir tudo. Alternar modo de repetição.</string>
+    <string name="exo_controls_repeat_off_description">Modo atual: Não repetir. Alternar modo de repetição.</string>
+    <string name="exo_controls_repeat_one_description">Modo atual: Repetir uma .Alternar modo de repetição.</string>
     <string name="exo_controls_rewind_description">Retroceder</string>
     <string name="exo_controls_show">Mostrar controles de reprodução</string>
-    <string name="exo_controls_shuffle_off_description">Aleatório desativado</string>
-    <string name="exo_controls_shuffle_on_description">Aleatório ativado</string>
+    <string name="exo_controls_shuffle_off_description">Ativa Modo aleatório</string>
+    <string name="exo_controls_shuffle_on_description">Desativar Modo aleatório</string>
     <string name="exo_controls_stop_description">Pare</string>
     <string name="exo_controls_vr_description">Modo VR</string>
     <string name="exo_download_completed">Download concluído</string>
@@ -800,6 +803,9 @@ Send this code to the supervisor."</string>
     <string name="exo_download_downloading">Baixando</string>
     <string name="exo_download_failed">Falha ao baixar</string>
     <string name="exo_download_notification_channel_name">"Downloads"</string>
+    <string name="exo_download_paused">Downloads pausados</string>
+    <string name="exo_download_paused_for_network">Downloads aguardando rede</string>
+    <string name="exo_download_paused_for_wifi">Downloads aguardando WiFi</string>
     <string name="exo_download_removing">Removendo downloads</string>
     <string name="exo_media_action_repeat_all_description">Repetir tudo</string>
     <string name="exo_media_action_repeat_off_description">Não repetir</string>
@@ -1561,6 +1567,8 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="my_playlist_set_to_public">Tornar pública</string>
     <string name="nav_app_bar_navigate_up_description">Navegar para cima</string>
     <string name="nav_app_bar_open_drawer_description">Abra a gaveta de navegação</string>
+    <string name="need_to_close">Mostrar menos</string>
+    <string name="need_to_show">Mostrar mais</string>
     <string name="net_work_error_leave_room">Due to the network, you have been disconnected, please re-enter the room~</string>
     <string name="network_disable">Não foi possível conectar-se à rede</string>
     <string name="network_error">Loading failed, please reload</string>
@@ -2156,7 +2164,9 @@ Seja feliz"</string>
     <string name="share_success">Share successfully</string>
     <string name="share_text">We are playing in GoGo! join us now!</string>
     <string name="share_text_list">"Playlist do Música: "</string>
-    <string name="share_text_song">"Música no Música: "</string>
+    <string name="share_text_song">"Som no Música: "</string>
+    <string name="shortcut_get">Visualizar</string>
+    <string name="shortcut_success">Criado com sucesso. Veja em sua Tela inicial.</string>
     <string name="show_float_first_hint">Minimizar reprodutor</string>
     <string name="show_more">Mostrar mais %s</string>
     <string name="shuffle_music">Reprodução aleatória</string>
@@ -2175,6 +2185,7 @@ Seja feliz"</string>
     <string name="signout_popup_title_nopassword">Attention</string>
     <string name="similar_albums">Álbuns similares</string>
     <string name="similar_playlists">Playlists similares</string>
+    <string name="similar_podcasts">Podcasts similares</string>
     <string name="similar_songs">Música similares</string>
     <string name="similar_videos">Vídeos similares</string>
     <string name="skip">Pular</string>

@@ -363,6 +363,7 @@ Envie este código para o supervisor."</string>
     <string name="dialog_video_high">Alta</string>
     <string name="dialog_video_low">Baixa</string>
     <string name="dialog_video_medium">Média</string>
+    <string name="dialog_ytb_content">"Você está prestes a sair do Mi Video e abrir o YouTube. Continuar?"</string>
     <string name="disagree">Não aceitar</string>
     <string name="diy_channels_tips">Você pode personalizar sua lista de canais agora.</string>
     <string name="do_not_show_again">Não mostrar novamente</string>
