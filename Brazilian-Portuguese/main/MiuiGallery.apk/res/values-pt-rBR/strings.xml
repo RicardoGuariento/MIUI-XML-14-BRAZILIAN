@@ -2992,7 +2992,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="user_alias_self">Eu</string>
     <string name="user_avatar_update_title">Alterar foto do perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
-    <string name="user_family">"%1$s meu lar"</string>
+    <string name="user_family">"Casa de %1$s"</string>
     <string name="user_notice_identify_summary_format">&lt;Data>Ao usar este serviço, você concorda com os &lt;a href=\"%1$s\">\"Termos de Serviço\"&lt;/a> e a &lt;a href=\"%2$s\">\"Política de Privacidade\"&lt;/a> da Xiaomi.&lt;/Data></string>
     <string name="user_notice_title">Termos e Condições</string>
     <string name="v7_preference_off">DESATIVADO</string>
