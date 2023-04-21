@@ -453,7 +453,8 @@
     <string name="app_manager_app_version_name">"Versão: "</string>
     <string name="app_manager_appupdate_remind">Notificar sobre atualizações</string>
     <string name="app_manager_as_dlg_msg">Permitir que apps iniciem automaticamente poderá exigir mais recursos de RAM e bateria. Permitir mesmo assim?</string>
-    <string name="app_manager_as_dlg_title">Atenção</string>
+    <string name="app_manager_as_dlg_msg_new">"Permitir que um app inicie automaticamente pode aumentar a quantidade de memória e a duração da bateria que ele usa. A MIUI otimizará as permissões de inicialização automática de apps que você não usa com frequência para melhorar o desempenho do seu dispositivo."</string>
+    <string name="app_manager_as_dlg_title">Atenção!</string>
     <string name="app_manager_back">Voltar</string>
     <string name="app_manager_bipartition">"Dual apps"</string>
     <string name="app_manager_cache_size">"Cache"</string>
@@ -746,6 +747,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="auto_import_games">Coloque todos os seus jogos em um só lugar</string>
     <string name="auto_send_correcting_msg">Deixe em branco para verificar automaticamente com um SMS gratuito</string>
     <string name="auto_set_by_brand">Sincronizar detalhes do plano de dados com sua operadora</string>
+    <string name="auto_start_tips">"A MIUI otimizará as permissões de inicialização automática de apps que você não usa com frequência para melhorar o desempenho do dispositivo."</string>
     <string name="auto_task_allow_suggestion">Sugestões de tarefas inteligentes</string>
     <string name="auto_task_available_device">Dispositivos disponíveis</string>
     <string name="auto_task_condition_choose_battery_level_down">"Quando a bateria atingir um certo nível"</string>
@@ -1398,6 +1400,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_btn_delete_icon">Remover</string>
     <string name="dialog_btn_no_create_icon">Cancelar</string>
     <string name="dialog_btn_yes_create_icon">Adicionar</string>
+    <string name="dialog_btn_yes_install_icon">Instalar</string>
     <string name="dialog_change_package_type_summary">Alterar o tipo do plano de dados redefinirá as configurações de uso de dados (ex.: limites de dados) para seus valores padrão. Alterar o tipo do plano de dados agora?</string>
     <string name="dialog_change_package_type_title">Alterando tipo do plano de dados</string>
     <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações > Apps.</string>
@@ -1409,6 +1412,8 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_msg_delete_icon_title">Remover este atalho da tela inicial?</string>
     <string name="dialog_msg_delete_icon_title_pad">Remover o atalho \"Segurança\" da Tela inicial?</string>
     <string name="dialog_msg_delete_icon_title_phone">Remover o atalho \"Segurança\" da Tela inicial?</string>
+    <string name="dialog_msg_install_manager_content">Instalar Segurança novamente?</string>
+    <string name="dialog_msg_install_manager_content_pad">Instalar Segurança novamente?</string>
     <string name="dialog_msg_stop_virus_scan">Parar verificação de segurança antes de sua conclusão?</string>
     <string name="dialog_no_longer_alert">Não mostrar novamente</string>
     <string name="dialog_restrict_all_mobile_summary">A conexão de dados móveis será restringida para todos os apps depois disso. %s</string>
@@ -1542,8 +1547,8 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="eletric_group_title_two_identification_risk_app_summary">Receive warnings when financial transaction are made after suspicious calls or messages</string>
     <string name="eletric_group_title_two_identification_risk_mms">Receive warnings when verification codes are forwarded</string>
     <string name="eletric_group_title_two_identification_risk_mms_summary">"You'll receive a warning when verification codes from your messages are forwarded to social media"</string>
-    <string name="eletric_group_title_two_identification_risk_screen">Hide private apps</string>
-    <string name="eletric_group_title_two_identification_risk_screen_summary">Casting will be paused if you switch to Alipay, WeChat, Gallery, or Messaging</string>
+    <string name="eletric_group_title_two_identification_risk_screen">Ocultar apps privados</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">Se você abrir apps contendo informações pessoais confidenciais (WeChat, Alipay, Galeria, etc.) enquanto compartilha a tela do seu dispositivo, essas informações não serão exibidas. Você pode começar a compartilhar manualmente novamente.</string>
     <string name="eletric_group_two_identification_risk_app">Warn about risky financial transactions</string>
     <string name="eletric_group_two_identification_risk_mms">Verification code protection</string>
     <string name="eletric_identification_unfamiliar_numbers">Identify unknown numbers</string>
@@ -2390,6 +2395,12 @@ mas também aumenta o consumo de energia e permite que seu dispositivo superaque
     <string name="gb_turbo_time_subtitle">Cronometre seu tempo de jogo</string>
     <string name="gb_turbo_voice_subtitle">Incremente suas conversas</string>
     <string name="gb_turbo_wonder_subtitle">Grave os momentos-chave</string>
+    <string name="gb_vision_enhance">Visuais aprimorados</string>
+    <string name="gb_vision_enhance_desc">Melhore a qualidade e o desempenho da imagem</string>
+    <string name="gb_vision_enhance_smart_frame_insertion">Taxa de quadros inteligente</string>
+    <string name="gb_vision_enhance_smart_frame_insertion_desc">Ajuste a taxa de quadros automaticamente para tornar o movimento mais suave</string>
+    <string name="gb_vision_enhance_super_resolution">Super resolução</string>
+    <string name="gb_vision_enhance_super_resolution_desc">Aumente a resolução para ver detalhes mais finos</string>
     <string name="gb_voice_change_audition_tip">Demonstração</string>
     <string name="gb_voice_change_settinged">Modificador de voz ativado</string>
     <string name="gb_voice_changer_cartoon">Desenho animado</string>
@@ -2996,15 +3007,16 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="miui_optimization_close_title">Este recurso é destinado a desenvolvedores e pode não ser conveniente para usuários em geral. Desativar a otimização MIUI pode acarretar nas seguintes mudanças:</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -3384,9 +3396,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="operator_name_telcom">China Telecom</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_virtual_operator">Operadora virtual</string>
-    <string name="operator_number_cmcc">10086</string>
-    <string name="operator_number_telcom">10000</string>
-    <string name="operator_number_unicom">10010</string>
+    <string name="opt_antivirus_scan_antivirus_notification_summary">O uso de apps maliciosos apresenta riscos de segurança</string>
+    <string name="opt_antivirus_scan_single_antivirus_notification_title">%s pode ser um app malicioso</string>
     <string name="optimize_manage_title">Otimizar velocidade</string>
     <string name="optimize_result_available_memory_info">Memória disponível</string>
     <string name="optimize_result_button_cloudspace">Obter mais espaço na nuvem</string>
@@ -3523,11 +3534,14 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_main_power_manager_hour_minute">%1$s h e %2$s min até carregar totalmente</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s d e %2$s h restante(s)</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s h e %2$s min restante(s)</string>
+    <string name="pc_no_more_remind">"Não lembrar"</string>
     <string name="pc_performance_mode_dialog_summary">Seu dispositivo poderá funcionar por %s no Modo desempenho. Observe que o Modo desempenho aumenta o consumo de energia e pode levar ao superaquecimento.</string>
     <string name="pc_performance_mode_dialog_summary2">"Este modo irá melhorar o desempenho do dispositivo, entretanto isso pode aumentar o consumo de energia e causar problemas de superaquecimento. Ativar mesmo assim?"</string>
     <string name="pc_performance_mode_dialog_title">Modo desempenho</string>
     <string name="pc_performance_mode_noti_summary">Aumenta o consumo de energia e pode levar a problemas de superaquecimento</string>
     <string name="pc_performance_mode_noti_title">Melhor desempenho</string>
+    <string name="pc_remind_close_cover_to_charge_summary">Dobre o dispositivo antes de carregar para uma experiência de carregamento mais rápida e estável.</string>
+    <string name="pc_remind_close_cover_to_charge_title">Dobre para carregar</string>
     <string name="pc_search_keywords_battery">Bateria</string>
     <string name="pc_search_keywords_battery_save">Economia de bateria</string>
     <string name="pc_search_keywords_battery_use">Uso da bateria</string>
@@ -3541,6 +3555,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_temperature_too_high">Dispositivo superaquecido</string>
     <string name="pc_to_phone_install">Instalação de %s via USB bloqueada</string>
     <string name="pc_wait_device_cools_down">Aguarde até que seu dispositivo esfrie para poder usar esse recurso.</string>
+    <string name="pc_wireless_charge_adjust_position_summary">Coloque-o no carregador sem fio</string>
+    <string name="pc_wireless_charge_adjust_position_title">Carregue seu dispositivo mais rápido</string>
     <string name="pc_xiaoai_create_auto_task">Nova tarefa do Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
     <string name="perfermance_optimization_summary">Evita o superaquecimento e problemas relacionados ao hardware</string>
@@ -5281,6 +5297,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="superpower_settins_autoleave_title">Desativar automaticamente</string>
     <string name="superpower_settins_other">Configurações adicionais</string>
     <string name="superpower_settins_switch_summary">Restringe os recursos que consomem mais energia para manter a funcionalidade básica (chamadas, SMS e apps selecionados) disponível pelo máximo de tempo possível</string>
+    <string name="support_app_name_securitycenter">Ferramentas de segurança</string>
     <string name="support_game_booster_tips">Otimizar velocidade e melhorar a experiência em jogos</string>
     <string name="sys_app_prot_cracked_confirm">Entendi</string>
     <string name="sys_cpu_title">Uso da CPU</string>
@@ -5815,6 +5832,16 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="vb_ve_settings_ai_stronger">IA</string>
     <string name="vb_ve_settings_display_style_tips">• Estes efeitos são aplicados em toda a tela</string>
     <string name="vb_ve_settings_display_style_tips_new">• Os efeitos serão aplicados apenas à área de reprodução do vídeo</string>
+    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"• Este efeito só será aplicado à área de reprodução do vídeo.
+
+Este recurso não funciona com vídeos aprimorados.
+
+Ativar um desativará o outro."</string>
+    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"• Este efeito será aplicado a toda a tela.
+
+Este recurso não funciona com vídeos aprimorados.
+
+Ativar um desativará o outro."</string>
     <string name="vb_ve_settings_pic_border_stronger">Contornos aprimorados</string>
     <string name="vb_ve_settings_picture_stronger">Animações aprimoradas</string>
     <string name="vb_video_effects_3d">Sistema surround</string>
@@ -5830,6 +5857,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="vb_video_effects_dolby_tips">"O Diálogo aprimorado e o Estéreo expandido não funcionarão quando o Som imersivo estiver ativado"</string>
     <string name="vb_video_effects_immersion_sound">Som imersivo</string>
     <string name="vb_video_effects_immersion_sound_summary">Experimente imersão e sensação de espaço quando o áudio compatível é reproduzido por meio de fones de ouvido</string>
+    <string name="vb_video_effects_immersion_sound_summary_new">Experimente imersão e sensação de espaço quando o áudio compatível é reproduzido</string>
     <string name="vb_video_effects_liquid_summary">Aumente a clareza do diálogo em vídeos</string>
     <string name="vb_video_effects_only_headphone">Só funciona com fones de ouvido</string>
     <string name="vb_video_effects_setting_black_white">Preto e branco</string>

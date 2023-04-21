@@ -4,13 +4,13 @@
         <item quantity="other">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
+        <item quantity="other">%d hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Em 1 hora</item>
+        <item quantity="other">Em %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
@@ -19,15 +19,15 @@
         <item quantity="other">Imediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minuto</item>
+        <item quantity="other">Em %d minutos</item>
+        <item quantity="one">Em %d minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">1 min atrás</item>
+        <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">Jogos adicionados: %d</item>
@@ -304,6 +304,14 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Entendi (%d s)</item>
         <item quantity="one">Entendi (%d s)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Observação:
+· Visuais aprimorados não estarão disponíveis quando a Economia de bateria estiver ativada ou seu dispositivo estiver superaquecido.
+· A taxa de quadros inteligente mostra melhores resultados quando seu jogo está configurado para exibir pelo menos %d quadros por segundo."</item>
+        <item quantity="one">"Observação:
+· Visuais aprimorados não estarão disponíveis quando a Economia de bateria estiver ativada ou seu dispositivo estiver superaquecido.
+· A taxa de quadros inteligente mostra melhores resultados quando seu jogo está configurado para exibir pelo menos %d quadros por segundo."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Experimente o Modificador de voz agora
@@ -588,6 +596,10 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="other">"%d apps"</item>
         <item quantity="one">"%d app"</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d apps incluindo %1$s podem ser maliciosos</item>
+        <item quantity="one">%2$d app incluindo %1$s pode ser malicioso</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
@@ -711,6 +723,10 @@ Você pode testar gratuitamente por %d dia agora!"</item>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Otimize o uso da bateria em %d cenários</item>
+        <item quantity="one">Otimize o uso da bateria em %d cenário</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Corrigir %d problemas com o uso da bateria</item>

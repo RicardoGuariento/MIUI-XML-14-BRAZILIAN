@@ -60,6 +60,7 @@
     <string name="ad_downloading_tip">Este item está sendo baixado. Você pode ver o progresso na aba Notificação.</string>
     <string name="ad_experience_now">Abrir</string>
     <string name="add">Adicionar</string>
+    <string name="add_home_icon_success">Adicionado com sucesso</string>
     <string name="add_resource_detail_fail">Não é possível adicionar o recurso</string>
     <string name="afternoon">"PM"</string>
     <string name="all_resources">Tudo</string>
@@ -638,7 +639,7 @@ dd 'de' MMM"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
@@ -648,8 +649,9 @@ dd 'de' MMM"</string>
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>

@@ -11,6 +11,7 @@
         <item>Alarme em %1$s, %2$s e %3$s</item>
     </string-array>
     <string-array name="alarm_in_furture_new_array">
+        <item>Alarme em menos de %d minuto</item>
         <item>Alarme em %1$s</item>
         <item>Alarme em %2$s</item>
         <item>Alarme em %1$s e %2$s</item>
@@ -44,6 +45,7 @@
         <item>O alarme tocará em %1$s, %2$s e %3$s.</item>
     </string-array>
     <string-array name="alarm_set_new_array">
+        <item>O alarme tocará em menos de %d minuto.</item>
         <item>O alarme tocará em %1$s.</item>
         <item>O alarme tocará em %2$s.</item>
         <item>O alarme tocará em %1$s e %2$s.</item>

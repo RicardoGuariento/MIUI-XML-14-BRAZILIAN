@@ -236,6 +236,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="art_still_module_loading">Baixando o plugin de \"Arte\"…</string>
     <string name="assistant_page_community">Comunidade</string>
     <string name="assistant_page_discovery">Descubra</string>
+    <string name="assistant_page_image_printing">Imprimir</string>
     <string name="assistant_page_label">Memórias</string>
     <string name="assistant_page_server_error">Verifique suas configurações de rede</string>
     <string name="assistant_today_of_year_function_closed_tip">Ativar</string>
@@ -453,7 +454,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cleaner_empty">Limpar tudo</string>
     <string name="cleaner_empty_value_description">Tudo em ordem</string>
     <string name="cleaner_photo_pick_delete_selected">Excluir fotos selecionadas</string>
-    <string name="cleaner_raw_action">Ver detalhes</string>
+    <string name="cleaner_raw_action">Visualizar</string>
     <string name="cleaner_raw_description">Libere espaço de armazenamento excluindo imagens RAW</string>
     <string name="cleaner_raw_title">Limpar arquivos RAW</string>
     <string name="cleaner_scan_description">Otimizar itens libera espaço de armazenamento no seu dispositivo</string>
@@ -467,7 +468,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cleaner_screen_shot_action">Visualizar</string>
     <string name="cleaner_screen_shot_description">Exclua capturas de tela que você não precisa mais.</string>
     <string name="cleaner_screen_shot_title">Excluir capturas de tela</string>
-    <string name="cleaner_similar_action">Ver detalhes</string>
+    <string name="cleaner_similar_action">Visualizar</string>
     <string name="cleaner_similar_description">Exclua fotos duplicadas</string>
     <string name="cleaner_similar_title">Fotos duplicadas</string>
     <string name="cleaner_size">Limpar itens excluídos recentemente (%s)</string>
@@ -480,7 +481,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cleaner_stop_scan">Parar verificação</string>
     <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s ocupado</string>
     <string name="cleaner_title">Limpeza</string>
-    <string name="cleaner_video_action">Ver detalhes</string>
+    <string name="cleaner_video_action">Visualizar</string>
     <string name="cleaner_video_description">Excluir vídeos ocupando espaço de armazenamento</string>
     <string name="cleaner_video_pick_delete_selected">Excluir vídeos selecionados</string>
     <string name="cleaner_video_title">Excluir vídeos</string>
@@ -1310,7 +1311,7 @@ estão disponíveis"</string>
     <string name="loading_video_fail_sync_without_network">Conecte-se à rede para baixar os metadados</string>
     <string name="loading_video_fail_syncing">Aguarde até os metadados serem baixados e tente novamente</string>
     <string name="loading_video_thumbnail">Baixando a capa do vídeo…</string>
-    <string name="local_secret_tip">Todos os itens privados são sincronizados com a nuvem quando esse recurso está ativado. Você pode alterar suas preferências em Configurações > Sincronizar com a nuvem > Gerenciar álbuns sincronizados > Álbum privado.</string>
+    <string name="local_secret_tip">Você pode manter todos os itens privados neste dispositivo sem sincronizá-los com a nuvem. Você pode alterar suas preferências em Configurações > Sincronizar com a nuvem > Gerenciar álbuns sincronizados.</string>
     <string name="login_and_enable_service">Fazer login com a Conta Mi</string>
     <string name="long_press_to_refocus">Pressione e segure para refocalizar</string>
     <string name="macarons_download_dialog_confirm">"OK"</string>
@@ -1506,15 +1507,16 @@ para personalizar a Galeria"</string>
     <string name="mishare_all_devices">Todos os dispositivos</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -1663,6 +1665,7 @@ para personalizar a Galeria"</string>
     <string name="multi_view_tip_sub_title">Afaste dois dedos ou mova-os um em direção ao outro para ajustar o tamanho dos itens exibidos.</string>
     <string name="multi_view_tip_title">Aumentar e diminuir o zoom</string>
     <string name="must_pick_file">Selecione uma foto</string>
+    <string name="my_family">Meu lar</string>
     <string name="name_split">, </string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="national_day">Dia Nacional</string>
@@ -2987,6 +2990,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="user_agreement2">Termos de Serviço</string>
     <string name="user_agreement4">Política de Privacidade</string>
     <string name="user_alias_self">Eu</string>
+    <string name="user_avatar_update_title">Alterar foto do perfil</string>
+    <string name="user_avatar_uploading">Aguarde…</string>
+    <string name="user_family">"%1$s meu lar"</string>
     <string name="user_notice_identify_summary_format">&lt;Data>Ao usar este serviço, você concorda com os &lt;a href=\"%1$s\">\"Termos de Serviço\"&lt;/a> e a &lt;a href=\"%2$s\">\"Política de Privacidade\"&lt;/a> da Xiaomi.&lt;/Data></string>
     <string name="user_notice_title">Termos e Condições</string>
     <string name="v7_preference_off">DESATIVADO</string>
