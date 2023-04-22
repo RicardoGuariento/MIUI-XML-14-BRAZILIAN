@@ -65,9 +65,9 @@
         <item>ano</item>
         <item>semana</item>
         <item>dia</item>
-        <item>h</item>
+        <item>hora</item>
         <item>min</item>
-        <item>s</item>
+        <item>seg</item>
         <item>ms</item>
         <item>us</item>
         <item>ps</item>

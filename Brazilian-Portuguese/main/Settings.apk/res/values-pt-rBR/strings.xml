@@ -5600,7 +5600,7 @@ Não poderá reverter esta ação."</string>
     <string name="max_cpu4_info">"Quad-core Máx "</string>
     <string name="max_cpu6_info">"Hexa-core Máx "</string>
     <string name="max_cpu8_info">"Octa-core Máx "</string>
-    <string name="max_fingerprint_number_reached">Não é possível adicionar mais de 5 impressões digitais. Para adicionar uma nova impressão digital, remova uma existente primeiro.</string>
+    <string name="max_fingerprint_number_reached">Não é possível adicionar mais de 5 impressões digitais. Para adicionar uma nova impressão digital, primeiro remova uma existente.</string>
     <string name="max_fingerprint_reached_toast">Você pode adicionar até 5 impressões digitais</string>
     <string name="max_number_of_processes">No máximo %d processos</string>
     <string name="maximum_memory_use">Uso máximo de memória</string>
@@ -7383,7 +7383,7 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_factory_reset_dlg_button_text">Redefinir</string>
     <string name="privacy_factory_reset_dlg_message">Se você esquecer sua senha, você precisará fazer uma redefinição para os dados de fábrica para definir uma nova.</string>
     <string name="privacy_factory_reset_dlg_title">Faça backup de seus dados</string>
-    <string name="privacy_failed_need_to_unlock_nofingerprint">Insira a senha antes de usar uma nova impressão digital</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">Insira a senha antes de usar a impressão digital</string>
     <string name="privacy_file">Arquivos</string>
     <string name="privacy_gallery">Fotos</string>
     <string name="privacy_header_text_less_than_half">Muito pequeno. Arraste um pouco mais.</string>

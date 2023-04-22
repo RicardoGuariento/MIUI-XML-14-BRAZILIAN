@@ -85,8 +85,8 @@
         <item quantity="one">%1$d ano (%2$d meses)</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d meses</item>

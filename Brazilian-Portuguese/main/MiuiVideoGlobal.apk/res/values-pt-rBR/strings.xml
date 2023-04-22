@@ -66,6 +66,10 @@
     <string name="account_user_phone">Telefone de recuperação</string>
     <string name="account_user_region">Região</string>
     <string name="action_add_phone">Adicionar número de telefone</string>
+    <string name="action_setting_ab_playing">Looping…</string>
+    <string name="action_setting_ab_reset">Reiniciar</string>
+    <string name="action_setting_ab_set_end">Definir ponto final</string>
+    <string name="action_setting_ab_set_start">Definir ponto de início</string>
     <string name="action_update_phone">Alterar o número de telefone</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="activate_email_notice">Certifique-se de ativar a sua conta dentro de 24 horas</string>
@@ -87,6 +91,7 @@
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
     <string name="agree_and_continue">Aceitar</string>
+    <string name="agree_label">Aceitar</string>
     <string name="ai_animation_music_text">Trilha sonora IA</string>
     <string name="ai_music_save_cancel">Cancelar</string>
     <string name="ai_music_save_dialog_title">Salvar</string>
@@ -785,6 +790,12 @@ para uma melhor experiência de visualização"</string>
     <string name="local_hide_folder_dialog_title">Vídeos ocultos</string>
     <string name="local_hide_folder_setting_goto">Configurações</string>
     <string name="local_hide_folder_setting_tip">Você pode gerenciar seus vídeos ocultos em Perfil > Configurações > Gerenciar vídeos ocultos.</string>
+    <string name="local_play_end_camera_title">Ver mais vídeos</string>
+    <string name="local_play_end_close_tip">"As recomendações não serão exibidas novamente hoje"</string>
+    <string name="local_play_end_download_drag_up_guide">Toque ou deslize para baixar</string>
+    <string name="local_play_end_download_title">Tente baixar seus vídeos favoritos</string>
+    <string name="local_play_end_drag_up_guide">Toque ou deslize para cima para executar Shorts</string>
+    <string name="local_play_recommend_guide_card_bottom">Mais videos</string>
     <string name="local_play_tip">Reproduzindo vídeo local</string>
     <string name="local_push_setting_power_tag">Notificações sobre vídeos locais</string>
     <string name="local_push_title">Popular hoje</string>
