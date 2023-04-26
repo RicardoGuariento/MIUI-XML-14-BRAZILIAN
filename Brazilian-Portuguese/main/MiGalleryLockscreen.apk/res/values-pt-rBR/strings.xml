@@ -34,7 +34,7 @@
     <string name="about_newest">O Carrossel de Planos de fundo está atualizado.</string>
     <string name="about_permission">Permissões</string>
     <string name="about_update">Atualizar</string>
-    <string name="access_denied_info">Muitas tentativas. Aguarde um pouco e tente novamente.</string>
+    <string name="access_denied_info">Muitas tentativas. Aguarde e tente novamente mais tarde.</string>
     <string name="account_bind_secure_email_title">Adicionar e-mail de recuperação</string>
     <string name="account_bind_secure_phone_title">Adicionar número de telefone de recuperação</string>
     <string name="account_crop_user_avatar">Cortar foto</string>

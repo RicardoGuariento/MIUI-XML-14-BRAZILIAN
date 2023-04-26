@@ -625,7 +625,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="operation_deleting">Excluindo…</string>
     <string name="operation_download">Baixar</string>
     <string name="operation_download_error_no_space">Armazenamento insuficiente</string>
-    <string name="operation_download_error_other">Ocorreu um erro de sistema. Aguarde um pouco e tente novamente.</string>
+    <string name="operation_download_error_other">Ocorreu um erro de sistema. Aguarde e tente novamente mais tarde.</string>
     <string name="operation_download_error_title">"Não foi possível baixar"</string>
     <string name="operation_editor">Editar</string>
     <string name="operation_encrypt_summary">"Criptografe os arquivos na pasta privada. A descriptografia de arquivos grandes pode demorar mais do que o esperado."</string>
@@ -660,7 +660,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="operation_set_pic_wallpaper">Definir como Papel de Parede</string>
     <string name="operation_show_privacy_policy">Mostrar Política de Privacidade</string>
     <string name="operation_show_sys">Mostrar arquivos ocultos</string>
-    <string name="operation_sync_cloud_data_error">Ocorreu um erro no servidor. Aguarde um pouco e tente novamente.</string>
+    <string name="operation_sync_cloud_data_error">Ocorreu um erro no servidor. Aguarde e tente novamente mais tarde.</string>
     <string name="operation_unfavorite">Remover dos favoritos</string>
     <string name="operation_unknown_err">"Não foi possível concluir esta ação."</string>
     <string name="operation_upload_buy_space">"Upgrade"</string>
@@ -671,7 +671,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="operation_upload_err_illegal_char">Este nome de arquivo contém caracteres não suportados.</string>
     <string name="operation_upload_err_larger_than_4g">"Não é possível carregar arquivos maiores que %d GB."</string>
     <string name="operation_upload_err_not_support_overseas">Somente usuários no Continente Chinês podem fazer upload de itens no momento.</string>
-    <string name="operation_upload_err_other">Ocorreu um erro de sistema. Aguarde um pouco e tente novamente.</string>
+    <string name="operation_upload_err_other">Ocorreu um erro de sistema. Aguarde e tente novamente mais tarde.</string>
     <string name="operation_upload_error_title">"Não foi possível carregar"</string>
     <string name="operation_upload_retry">Tente novamente</string>
     <string name="operation_upload_save_to_local">Salvar em…</string>
@@ -752,7 +752,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="pull_to_refresh">Puxe para atualizar</string>
     <string name="qq_msg">Devido às restrições do Android 11, o Gerenciador de arquivos não pode acessar e exibir os documentos do QQ.</string>
     <string name="qq_title">Não é possível acessar os documentos do WeChat</string>
-    <string name="query_quota_exception">Ocorreu um erro no servidor. Aguarde um pouco e tente novamente.</string>
+    <string name="query_quota_exception">Ocorreu um erro no servidor. Aguarde e tente novamente mais tarde.</string>
     <string name="query_quota_searching">Aguarde…</string>
     <string name="recent_hide_camera_and_screenshots">Ocultar itens da Galeria e capturas de tela dos arquivos recentes</string>
     <string name="recent_hide_cloud_drive_files">"Não mostrar os arquivos do Mi Drive em Recentes"</string>
