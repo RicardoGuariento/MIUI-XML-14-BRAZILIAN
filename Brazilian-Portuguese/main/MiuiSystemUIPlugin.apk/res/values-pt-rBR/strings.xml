@@ -142,6 +142,7 @@
     <string name="dolby_atoms_sound_effect_label">"Dolby Atmos"</string>
     <string name="drag_to_add_tiles">Pressione e segure para adicionar ou reorganizar itens</string>
     <string name="early_morning">"AM"</string>
+    <string name="emergency_call">Chamada de Emergência</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Erro</string>
