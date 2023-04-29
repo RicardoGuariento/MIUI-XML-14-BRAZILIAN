@@ -1291,6 +1291,8 @@ Você ainda pode fazer chamadas de emergência."</string>
     <string name="incall_number_anonymous_kd">ID não enviada</string>
     <string name="incall_number_unavailable_kd">Não suporta</string>
     <string name="incall_status_dialed_mmi">Iniciando sequência MMI…</string>
+    <string name="intelligent_dual_sim_summary">Usa os dados móveis do SIM secundário para aumentar a velocidade de conexão</string>
+    <string name="intelligent_dual_sim_title">Dual SIM inteligente</string>
     <string name="install_other_apps">Instalar apps desconhecidos</string>
     <string name="international_disable">Notícias internacionais desativadas</string>
     <string name="international_enable">Notícias internacionais ativadas</string>
