@@ -853,7 +853,6 @@ mm"</string>
     <string name="passport_user_id_intro">Insira a senha para %1$s</string>
     <string name="passport_user_name_phone_number">Phone number</string>
     <string name="passport_user_password_hint">Senha</string>
-    <string name="passport_vcode_what_app_send_prompt">Your WhatsApp verification code will be sent to your recovery phone (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para o seu telefone de recuperação (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_v_code_error">Código de verificação incorreto</string>
     <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
