@@ -1166,7 +1166,7 @@ estão disponíveis"</string>
     <string name="hdr_switch_show_title">Exibir alta faixa dinâmica</string>
     <string name="hello_blank_fragment">Olá fragmento em branco</string>
     <string name="help">Não encontrou dispositivos?</string>
-    <string name="help_content">Se você não encontrar o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Mi.</string>
+    <string name="help_content">Caso não encontre o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Mi.</string>
     <string name="hidden_album_display_name">Álbum secreto</string>
     <string name="hide_nearby_photos">Ocultar fotos e vídeos próximos</string>
     <string name="hisense">"Hisense"</string>
@@ -1842,7 +1842,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="permission_contacts_name_2">Acessar contatos</string>
     <string name="permission_custom_cta_network_button_negative">Não aceitar</string>
     <string name="permission_custom_cta_network_button_positive">Aceitar</string>
-    <string name="permission_custom_cta_network_title">Atenção</string>
+    <string name="permission_custom_cta_network_title">Atenção!</string>
     <string name="permission_location">Localização</string>
     <string name="permission_location_desc">Para exibir fotos e vídeos no mapa</string>
     <string name="permission_optional_category">Permissões opcionais</string>
@@ -2552,7 +2552,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="slim_description_dialog_slim_before">Antes: %.2fMB</string>
     <string name="slim_dialog_empty_message">Não foi possível encontrar itens para otimizar.</string>
     <string name="slim_dialog_empty_positive">Entendi</string>
-    <string name="slim_dialog_empty_title">Atenção</string>
+    <string name="slim_dialog_empty_title">Atenção!</string>
     <string name="slim_dialog_message" formatted="false">Substitua fotos e vídeos originais por cópias de alta qualidade em %d dias após os itens serem criados. Os arquivos originais serão armazenados na nuvem. Você poderá liberar cerca de %s de armazenamento local.</string>
     <string name="slim_dialog_positive">Otimize</string>
     <string name="slim_dialog_title">Otimize o armazenamento</string>

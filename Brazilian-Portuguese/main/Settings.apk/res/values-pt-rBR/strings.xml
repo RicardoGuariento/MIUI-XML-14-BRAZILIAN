@@ -1131,7 +1131,7 @@ Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse
     <string name="backup_set_modify_title">Alterar senha do backup</string>
     <string name="backup_set_new_continue">Continuar</string>
     <string name="backup_set_new_exit">Sair</string>
-    <string name="backup_set_new_pw_confirm_hint">Atenção</string>
+    <string name="backup_set_new_pw_confirm_hint">Atenção!</string>
     <string name="backup_set_new_pw_confirm_summary">O backup dos seus itens é feito automaticamente agora. Criar uma senha de backup interromperá os backups automáticos. Continuar mesmo assim?</string>
     <string name="backup_set_new_pw_title">Insira a nova senha do backup</string>
     <string name="backup_set_null_pw">Insira a senha primeiro</string>
@@ -1418,7 +1418,7 @@ para ^2"</string>
     <string name="block_list_dialog_title">Desconectar agora?</string>
     <string name="block_list_no_device">Nenhum dispositivo na lista de bloqueio ainda</string>
     <string name="block_list_remove_dialog_content">%s poderá se conectar ao ponto de acesso novamente</string>
-    <string name="block_list_remove_dialog_title">Atenção</string>
+    <string name="block_list_remove_dialog_title">Atenção!</string>
     <string name="block_list_summary">Visualize dispositivos que não tem permissão para se conectar neste ponto de acesso</string>
     <string name="block_list_title">Lista de bloqueio</string>
     <string name="block_title">Exibir notificações</string>
@@ -2023,7 +2023,7 @@ Você pode desativar este recurso em Configurações > Bluetooth > Dispositivos 
     <string name="bt_aac_open_dialog_title">Alterando para codec ACC</string>
     <string name="bt_aac_pre_title">"AAC"</string>
     <string name="bt_absVolume_open_dialog_summary">Devido a problemas de compatibilidade, alguns dispositivos Bluetooth podem ter um nível de volume anormal, o que pode ser solucionado ao desativar este recurso.</string>
-    <string name="bt_absVolume_open_dialog_title">Atenção</string>
+    <string name="bt_absVolume_open_dialog_title">Atenção!</string>
     <string name="bt_absVolume_pre_title">Volume absoluto</string>
     <string name="bt_absVolume_summary">Mantém o volume dos dispositivos Bluetooth e do telefone estritamente consistente. Você pode ativar e desativar este recurso quando a mídia não estiver tocando em 2º plano.</string>
     <string name="bt_always_show_icon">Sempre mostrar o ícone da barra de status</string>
@@ -2061,7 +2061,7 @@ Você pode desativar este recurso em Configurações > Bluetooth > Dispositivos 
     <string name="bt_le_audio_scan_qr_code_scanner">Para começar a ouvir, centralize o código QR abaixo</string>
     <string name="bt_leaudio_cg_dialog_summary">"Alguns recursos não estarão disponíveis depois que você ativar esse recurso. Esse recurso também não suporta a conexão de vários dispositivos aos fones de ouvido. Se você já se conectou a dois dispositivos diferentes, desconecte-se de um deles primeiro. Ativar o LC3 agora?"</string>
     <string name="bt_leaudio_open_dialog_summary">Você não poderá conectar vários dispositivos ao seu fone de ouvido quando o LC3 estiver ativado. Outros dispositivos conectados serão desconectados se você ativar esse recurso. Ativar LC3 mesmo assim?</string>
-    <string name="bt_leaudio_open_dialog_title">Atenção</string>
+    <string name="bt_leaudio_open_dialog_title">Atenção!</string>
     <string name="bt_leaudio_pre_title">"Codec LC3"</string>
     <string name="bt_leaudio_summary">Experiência de áudio de alta qualidade</string>
     <string name="bt_leaudio_support_multi_dialog_summary">"Alguns recursos não estarão disponíveis depois que você ativar esse recurso. Ativar o LC3 agora?"</string>
@@ -2454,7 +2454,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="color_white">Branco</string>
     <string name="color_yellow">Amarelo</string>
     <string name="colors_viewpager_content_description">Visualização de cores</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
     <string name="common_issue">Perguntas frequentes</string>
     <string name="common_settings">Configurações rápidas</string>
     <string name="complete_parameters">Todas as especificações</string>
@@ -2735,7 +2735,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="dark_mode_alert_dialog_checkbox">"Não mostrar novamente"</string>
     <string name="dark_mode_alert_dialog_confirm">Ativar</string>
     <string name="dark_mode_alert_dialog_message">Este app pode não ser exibido corretamente no modo escuro. Ativar o Modo escuro mesmo assim?</string>
-    <string name="dark_mode_alert_dialog_title">Atenção!!</string>
+    <string name="dark_mode_alert_dialog_title">Atenção!</string>
     <string name="dark_mode_apps_header">Apps individuais</string>
     <string name="dark_mode_auto_time_summary">Ativa e desativa o Modo escuro em horário programado</string>
     <string name="dark_mode_auto_time_title">Personalizado</string>
@@ -3007,7 +3007,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="delete_blob_confirmation_text">Você tem certeza que deseja excluir este dado compartilhado?</string>
     <string name="delete_blob_text">Excluir dados compartilhados</string>
     <string name="delete_fingerprint_confirm_msg">Remover impressão digital?</string>
-    <string name="delete_fingerprint_confirm_title">Atenção</string>
+    <string name="delete_fingerprint_confirm_title">Atenção!</string>
     <string name="delete_fingerprint_text">Remover impressão digital</string>
     <string name="delete_legacy_fingerprint">Excluir</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Excluir esta impressão digital?</string>
@@ -3157,7 +3157,7 @@ Para resolver esse problema, desative a localização para esse app."</string>
     <string name="dialog_speaker_auto_clean_button">Entendi</string>
     <string name="dialog_speaker_auto_clean_content">A limpeza leva 30 segundos. Não saia desta página. Aumente o volume ao máximo para obter o melhor efeito.</string>
     <string name="dialog_speaker_auto_clean_content_new">"Você está prestes a reproduzir o áudio que limpará o alto-falante. Ajuste o volume ao máximo para obter o melhor efeito."</string>
-    <string name="dialog_speaker_auto_clean_title">Atenção</string>
+    <string name="dialog_speaker_auto_clean_title">Atenção!</string>
     <string name="dialog_speaker_auto_clean_title_new">Limpar alto-falante</string>
     <string name="dialog_stop_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o app %1$s o mantém ativado.
 
@@ -3461,7 +3461,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="emergency_gesture_call_for_help_title">Pedir ajuda</string>
     <string name="emergency_gesture_category_call_for_help_title">Notificar para ajuda</string>
     <string name="emergency_gesture_entrypoint_summary">Gerenciado por %1$s</string>
-    <string name="emergency_gesture_number_override_notes">"Se você inserir um número de que não seja de emergência:
+    <string name="emergency_gesture_number_override_notes">"Caso insira um número de que não seja de emergência:
  • Seu dispositivo deve ser desbloqueado para usar o SOS de emergência
  • Pode ser que sua ligação não seja atendida"</string>
     <string name="emergency_gesture_screen_summary">Pressione o botão liga/desliga rapidamente 5 vezes ou mais para iniciar as ações abaixo</string>
@@ -3875,7 +3875,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="finger_add_user_info_dialog_cancel">Cancelar</string>
     <string name="finger_add_user_info_dialog_message">"Para você poder usar o desbloqueio por impressão digital e fazer pagamentos usando a impressão digital, precisamos coletar sua impressão digital. A impressão digital será armazenada localmente neste dispositivo. Para excluí-lo, procure por \"Desbloqueio impressão digital \" nas configurações e selecione Desbloqueio Impressão Digital &gt; Impressão Digital. Você não poderá usar esse recurso se não concordar."</string>
     <string name="finger_add_user_info_dialog_next">Aceitar</string>
-    <string name="finger_add_user_info_dialog_title">Atenção</string>
+    <string name="finger_add_user_info_dialog_title">Atenção!</string>
     <string name="finger_detail_info_text">Alterar o nome da impressão digital</string>
     <string name="fingerprint_add_max">É possível adicionar até %d impressões digitais</string>
     <string name="fingerprint_add_title">Adicionar impressão digital</string>
@@ -3945,7 +3945,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="firewall_permission">Permissões de conexão</string>
     <string name="firewall_restrict_all">Restringir conexão para todos os apps usando o seguinte método</string>
     <string name="firewall_restrict_android_dialog_content">Para garantir o funcionamento normal do seu dispositivo, alguns apps de sistema do Android ainda irão se conectar à Internet. Estes apps usarão a sua conexão de dados móveis e poderão gerar cobranças por sua operadora.</string>
-    <string name="firewall_restrict_android_dialog_title">Atenção</string>
+    <string name="firewall_restrict_android_dialog_title">Atenção!</string>
     <string name="firewall_restrict_data">Restringir uso de dados móveis</string>
     <string name="firewall_restrict_notify_title">%s não pode usar a rede</string>
     <string name="firewall_restrict_wlan">Restringir uso de conexão Wi-Fi</string>
@@ -4414,7 +4414,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="headset_find_query_play">Tocar</string>
     <string name="headset_find_right">Direito</string>
     <string name="headset_find_tip">Seus fones de ouvido devem estar próximos e conectados a este dispositivo para que você os encontre. Tocar o alarme enquanto pelo menos um dos fones de ouvido estiver no seu ouvido pode prejudicar sua audição.</string>
-    <string name="headset_find_tip_title">Atenção</string>
+    <string name="headset_find_tip_title">Atenção!</string>
     <string name="headset_find_title">Encontre seus fones de ouvido</string>
     <string name="headset_find_voice_warning">Aviso de volume alto</string>
     <string name="headset_head_tracking_desc">Ajuste o som imersivo com base no movimento de sua cabeça</string>
@@ -5135,19 +5135,19 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="lock_failed_attempts_now_wiping_user">Excesso de tentativas incorretas. O usuário será excluído.</string>
     <string name="lock_immediately_summary_with_exception">Imediatamente após o tempo limite, exceto quando estiver desbloqueado por %1$s</string>
     <string name="lock_last_attempt_before_wipe_warning_title">Seus dados serão excluídos</string>
-    <string name="lock_last_password_attempt_before_wipe_device">Se você informar uma senha incorreta na próxima tentativa, os dados deste dispositivo serão excluídos</string>
-    <string name="lock_last_password_attempt_before_wipe_profile">Se você digitar uma senha incorreta na próxima tentativa, seu perfil de trabalho e os dados correspondentes serão excluídos</string>
-    <string name="lock_last_password_attempt_before_wipe_user">Se você informar uma senha incorreta na próxima tentativa, este usuário será excluído</string>
-    <string name="lock_last_pattern_attempt_before_wipe_device">Se você informar um padrão incorreto na próxima tentativa, os dados deste dispositivo serão excluídos</string>
-    <string name="lock_last_pattern_attempt_before_wipe_profile">Se você informar um padrão incorreto na próxima tentativa, seu perfil de trabalho e os dados correspondentes serão excluídos</string>
-    <string name="lock_last_pattern_attempt_before_wipe_user">Se você informar um padrão incorreto na próxima tentativa, este usuário será excluído</string>
-    <string name="lock_last_pin_attempt_before_wipe_device">Se você informar um PIN incorreto na próxima tentativa, os dados deste dispositivo serão excluídos</string>
-    <string name="lock_last_pin_attempt_before_wipe_profile">Se você digitar um PIN incorreto na próxima tentativa, seu perfil de trabalho e os dados correspondentes serão excluídos</string>
-    <string name="lock_last_pin_attempt_before_wipe_user">Se você informar um PIN incorreto na próxima tentativa, este usuário será excluído</string>
-    <string name="lock_profile_wipe_warning_content_password">Se você inserir uma senha do seu perfil de trabalho incorreta nesta tentativa, seu perfil de trabalho e dados associados a ele serão excluídos deste dispositivo.</string>
-    <string name="lock_profile_wipe_warning_content_pattern">Se você inserir um padrão de desbloqueio do seu perfil de trabalho incorreto nesta tentativa, seu perfil de trabalho e dados associados a ele serão excluídos deste dispositivo.</string>
-    <string name="lock_profile_wipe_warning_content_pin">Se você inserir um PIN do seu perfil de trabalho incorreto nesta tentativa, seu perfil de trabalho e dados associados a ele serão excluídos deste dispositivo.</string>
-    <string name="lock_screen_action">Mostre itens ao deslizar para baixo na Tela de bloqueio</string>
+    <string name="lock_last_password_attempt_before_wipe_device">Caso informe uma senha incorreta na próxima tentativa, os dados deste dispositivo serão excluídos</string>
+    <string name="lock_last_password_attempt_before_wipe_profile">Caso digite uma senha incorreta na próxima tentativa, seu perfil de trabalho e os dados correspondentes serão excluídos</string>
+    <string name="lock_last_password_attempt_before_wipe_user">Caso informe uma senha incorreta na próxima tentativa, este usuário será excluído</string>
+    <string name="lock_last_pattern_attempt_before_wipe_device">Caso informe um padrão incorreto na próxima tentativa, os dados deste dispositivo serão excluídos</string>
+    <string name="lock_last_pattern_attempt_before_wipe_profile">Caso informe um padrão incorreto na próxima tentativa, seu perfil de trabalho e os dados correspondentes serão excluídos</string>
+    <string name="lock_last_pattern_attempt_before_wipe_user">Caso informe um padrão incorreto na próxima tentativa, este usuário será excluído</string>
+    <string name="lock_last_pin_attempt_before_wipe_device">Caso informe um PIN incorreto na próxima tentativa, os dados deste dispositivo serão excluídos</string>
+    <string name="lock_last_pin_attempt_before_wipe_profile">Caso digite um PIN incorreto na próxima tentativa, seu perfil de trabalho e os dados correspondentes serão excluídos</string>
+    <string name="lock_last_pin_attempt_before_wipe_user">Caso informe um PIN incorreto na próxima tentativa, este usuário será excluído</string>
+    <string name="lock_profile_wipe_warning_content_password">Caso insira uma senha do seu perfil de trabalho incorreta nesta tentativa, seu perfil de trabalho e dados associados a ele serão excluídos deste dispositivo.</string>
+    <string name="lock_profile_wipe_warning_content_pattern">Caso insira um padrão de desbloqueio do seu perfil de trabalho incorreto nesta tentativa, seu perfil de trabalho e dados associados a ele serão excluídos deste dispositivo.</string>
+    <string name="lock_profile_wipe_warning_content_pin">Caso insira um PIN do seu perfil de trabalho incorreto nesta tentativa, seu perfil de trabalho e dados associados a ele serão excluídos deste dispositivo.</string>
+    <string name="lock_screen_action">Itens ao deslizar para baixo na Tela de bloqueio</string>
     <string name="lock_screen_after_fold_screen_summary">Ao usar a câmera frontal ou fone de ouvido, a tela não será bloqueada após você dobrá-la</string>
     <string name="lock_screen_after_fold_screen_title">Bloqueie a tela depois de dobrá-la</string>
     <string name="lock_screen_display_category_name">Tela de bloqueio</string>
@@ -5539,7 +5539,7 @@ Existem outros usuários presentes neste dispositivo.
     <string name="master_clear_all">Apagar todos os dados do armazenamento interno do seu dispositivo? Você não pode reverter esta ação.</string>
     <string name="master_clear_apply_step_1"><b>Redefinir o telefone apagará todos os dados em seu dispositivo</b>, incluindo fotos, músicas, notas, e outros dados pessoais. Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador, por exemplo.</string>
     <string name="master_clear_apply_step_2">Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador. Todos os dados neste dispositivo serão apagados durante a restauração. <b>Você não será capaz de salvar itens dos quais você não fizer o backup.</b></string>
-    <string name="master_clear_apply_title">Atenção</string>
+    <string name="master_clear_apply_title">Atenção!</string>
     <string name="master_clear_button_text">Redefinir telefone</string>
     <string name="master_clear_confirm_title">Redefinir?</string>
     <string name="master_clear_desc">Essa ação apagará todos os dados do <b>armazenamento interno</b>" do seu dispositivo, incluindo:
@@ -5804,7 +5804,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_fitness_check_restart">Recomeçar</string>
     <string name="miheadset_fitness_check_result_dialog1">Por favor, coloque os fones de ouvido em ambos os ouvidos e, em seguida, verifique o ajuste.</string>
     <string name="miheadset_fitness_check_result_dialog2">Encerre a chamada primeiro e, em seguida, execute o teste de ajuste.</string>
-    <string name="miheadset_fitness_check_result_dialog_title">Atenção</string>
+    <string name="miheadset_fitness_check_result_dialog_title">Atenção!</string>
     <string name="miheadset_fitness_check_result_l_not_ok">Reajustar fone de ouvido</string>
     <string name="miheadset_fitness_check_result_not_ok">Ajuste ruim</string>
     <string name="miheadset_fitness_check_result_ok">Bom ajuste</string>
@@ -5906,11 +5906,11 @@ Não poderá reverter esta ação."</string>
     <string name="miui_data_usage_menu_metered">Pontos de acesso móveis</string>
     <string name="miui_experience_optimization">Ativar otimização MIUI</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Cancelar</string>
-    <string name="miui_face_enroll_risk_warning_title_text">Atenção</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Atenção!</string>
     <string name="miui_face_enroll_risk_warning_title_text_cn">Declaração sobre segurança</string>
     <string name="miui_face_enroll_success">"Você pode desbloquear este dispositivo usando seus dados faciais agora.
 Continue para acessar as configurações adicionais."</string>
-    <string name="miui_input_method_attention">Atenção</string>
+    <string name="miui_input_method_attention">Atenção!</string>
     <string name="miui_input_method_settings">Configurações do método de entrada</string>
     <string name="miui_lab_ai_cloud_closed">O pré-carregamento de IA ainda não está disponível.</string>
     <string name="miui_lab_ai_preload_desc">O pré-carregamento de IA aumenta a velocidade de carregamento dos apps</string>
@@ -6001,7 +6001,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_sos_remind_sendinfo">Não se esqueça de dizer a estas pessoas que elas são o seu contato de emergência agora. Assim, elas poderão te ajudar mais rápido no caso de uma emergência.</string>
     <string name="miui_sos_remind_sendnow">Enviar agora</string>
     <string name="miui_sos_remind_sendnow_donot_send">Não enviar</string>
-    <string name="miui_sos_remind_title">Atenção</string>
+    <string name="miui_sos_remind_title">Atenção!</string>
     <string name="miui_sos_settings_alert_contacts_repeat">Não é possível adicionar contatos duplicados.</string>
     <string name="miui_sos_settings_alert_contacts_too_many">Você pode adicionar até 3 contatos de emergência.</string>
     <string name="miui_sos_settings_category">Configurações do SOS</string>
@@ -6265,7 +6265,7 @@ Selecione seu sistema operacional:"</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para selecionar um ano</string>
     <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="muffled_text">As baixas frequências acentuam suavemente as transições visuais e tornam os gestos mais naturais</string>
-    <string name="multi_face_delete_message">Atenção</string>
+    <string name="multi_face_delete_message">Atenção!</string>
     <string name="multi_face_delete_show_message">Excluir dados faciais agora?</string>
     <string name="multi_face_input">Adicionar dados faciais</string>
     <string name="multi_face_input_reach_upper_limit">Não foi possível adicionar dados faciais. Aguarde alguns minutos e tente novamente.</string>
@@ -7002,7 +7002,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
 
 Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="passpoint_r1_privacy_dialog_no">Sair</string>
-    <string name="passpoint_r1_privacy_dialog_title">Atenção</string>
+    <string name="passpoint_r1_privacy_dialog_title">Atenção!</string>
     <string name="passpoint_r1_privacy_dialog_url_text">Política de Privacidade da Exands</string>
     <string name="passpoint_r1_privacy_dialog_yes">Concordar</string>
     <string name="passwordIncorrect">A senha inserida está incorreta</string>
@@ -7374,7 +7374,7 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_authorize_title">Concedendo autorização</string>
     <string name="privacy_close_dlg_button_ok">Desativar</string>
     <string name="privacy_close_dlg_msg">Quando a Senha de proteção de privacidade está desativada, seus itens não estarão mais protegidos.</string>
-    <string name="privacy_close_dlg_title">Atenção</string>
+    <string name="privacy_close_dlg_title">Atenção!</string>
     <string name="privacy_controls_title">Controles</string>
     <string name="privacy_dashboard_summary">Permissões, atividade da conta, dados pessoais</string>
     <string name="privacy_dashboard_title">Privacidade</string>
@@ -7502,7 +7502,7 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="proxy_action_text">Concluído</string>
     <string name="proxy_clear_text">Limpar</string>
     <string name="proxy_defaultView_text">Restaurar padrões</string>
-    <string name="proxy_error">Atenção</string>
+    <string name="proxy_error">Atenção!</string>
     <string name="proxy_error_dismiss">"OK"</string>
     <string name="proxy_error_empty_host_set_port">O campo da porta deverá estar vazio se o campo do host estiver vazio.</string>
     <string name="proxy_error_empty_port">É necessário preencher o campo da porta.</string>
@@ -7691,7 +7691,7 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="restore_device_id_title">Redefinir ID do dispositivo</string>
     <string name="restore_dialog_content">Redefinir a ID do dispositivo atual também redefinirá as personalizações recomendadas. Redefinir agora?</string>
     <string name="restore_dialog_positive">Redefinir</string>
-    <string name="restore_dialog_title">Atenção</string>
+    <string name="restore_dialog_title">Atenção!</string>
     <string name="restore_oaid_content">Redefina sua ID Virtual para limpar seus registros de preferências e comportamentos</string>
     <string name="restore_oaid_dialog_content">Vários apps estão usando sua ID Virtual. Se você redefini-la agora, uma parte dos dados do seu app pode ser perdida ou tornar-se inutilizável. Redefinir a ID Virtual mesmo assim?</string>
     <string name="restore_oaid_positive">Redefinir</string>
@@ -8958,10 +8958,10 @@ Toque duas vezes para abrir os Recentes."</string>
 Para fazer chamadas para seus contatos de emergência
 • Monitorar o status do dispositivo
 Para reproduzir a gravação de SOS quando seus contatos de emergência atenderem
-Se você não concordar em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você pode sempre optar por desativar este recurso."</string>
+Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você pode sempre optar por desativar este recurso."</string>
     <string name="sos_phone_call_privacy_dialog_message_confirm">Permitir</string>
     <string name="sos_phone_log_privacy_dialog_message">"Este app precisa de permissão para acessar o seu histórico de chamadas para poder compartilhá-lo com os seus contatos de emergência.
-Se você não concordar em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível. Você sempre poderá optar por desativar este recurso."</string>
+Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível. Você sempre poderá optar por desativar este recurso."</string>
     <string name="sos_privacy_and_content_policy">Contrato do Usuário e Política de Privacidade</string>
     <string name="sos_privacy_dialog_button_cancel">Cancelar</string>
     <string name="sos_privacy_dialog_button_ok">Aceitar</string>
@@ -8978,7 +8978,7 @@ Para marcar contatos como contatos de emergência
 Para enviar mensagens de texto para contatos de emergência
 • Acesso à localização
 Para compartilhar sua localização com contatos de emergência
-Se você não concordar em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nestes casos.
+Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nestes casos.
 Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
     <string name="sos_privacy_dialog_message_old_version">"O SOS de emergência permite que você compartilhe sua localização em tempo real e envie mensagens de texto para seus contatos de emergência.
 Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.
@@ -8991,7 +8991,7 @@ Para marcar contatos como contatos de emergência
 Para enviar mensagens de texto para contatos de emergência
 • Acessar localização
 Para compartilhar sua localização com contatos de emergência
-Se você não concordar em conceder tais permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nesses casos.
+Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nesses casos.
 Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
     <string name="sos_privacy_dialog_title">Termos e Condições</string>
     <string name="sos_privacy_policy">Política de Privacidade</string>
@@ -9009,7 +9009,7 @@ Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
 Como o SOS de emergência fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será mantida como se recusando a aceitar serviços de segurança.
 
 Retirar o consentimento para %s agora?"</string>
-    <string name="sos_privacy_policy_revoke_title_reject">Atenção</string>
+    <string name="sos_privacy_policy_revoke_title_reject">Atenção!</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Um erro do servidor ocorreu. Espere um minuto ou dois e tente novamente.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">"Não podia retirar o consentimento"</string>
     <string name="sound_assist_summary">Personalize suas configurações de som</string>
@@ -11062,7 +11062,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_off_airplane_on_confirm">"OK"</string>
     <string name="wifi_off_airplane_on_content">Você pode ativar o Wi-Fi manualmente quando o Modo avião estiver ativo.</string>
     <string name="wifi_off_airplane_on_not_remind">Não mostrar novamente</string>
-    <string name="wifi_off_airplane_on_title">Atenção</string>
+    <string name="wifi_off_airplane_on_title">Atenção!</string>
     <string name="wifi_on_time">Tempo de ativação da rede Wi-Fi</string>
     <string name="wifi_other_connection_mode">Outras formas de conexão</string>
     <string name="wifi_p2p_cancel_connect_message">Quer cancelar o convite para se conectar com %1$s?</string>

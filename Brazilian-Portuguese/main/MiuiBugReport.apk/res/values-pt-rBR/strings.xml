@@ -94,8 +94,8 @@
     <string name="catch_full_log_add_photo_dialog_content">Se o problema que você está reportando é relacionado com a qualidade de imagens da câmera, adicione uma foto de exemplo original (sem cortes) para nos ajudar a localizar o problema. Adicionar foto agora?</string>
     <string name="catch_full_log_category">Tipos de registro</string>
     <string name="catch_full_log_dialog_confirm_text">Ir à Tela inicial</string>
-    <string name="catch_full_log_dialog_content">Isto pode afetar o desempenho geral do seu dispositivo. Se você não puder reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
-    <string name="catch_full_log_dialog_content_pad">Isto pode afetar o desempenho geral do seu dispositivo. Se você não puder reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
+    <string name="catch_full_log_dialog_content">Isto pode afetar o desempenho geral do seu dispositivo. Caso não possa reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
+    <string name="catch_full_log_dialog_content_pad">Isto pode afetar o desempenho geral do seu dispositivo. Caso não possa reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
     <string name="catch_full_log_dialog_title">Gerando logs…</string>
     <string name="catch_full_log_dump_hprof_failed">Não foi possível gerar o log de lentidão</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Volte para o recurso que deseja reportar e reproduza o problema.
@@ -694,7 +694,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="protocal_dialog_cancel">Cancelar</string>
     <string name="protocal_dialog_confirm">Aceitar</string>
-    <string name="protocal_dialog_title">Atenção</string>
+    <string name="protocal_dialog_title">Atenção!</string>
     <string name="psw_hint">Senha</string>
     <string name="psw_sign_in">Entrar usando sua senha</string>
     <string name="qq_login_btn_content_description">Entrar com QQ</string>
@@ -708,7 +708,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="reply_successful">Respondido com sucesso</string>
     <string name="report_miui">Reportar erro</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">"Devemos proteger suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concordar em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="request_camera_permission_message">"Devemos proteger suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
@@ -882,7 +882,7 @@ Tamanho: %2$s"</string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
     <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
-    <string name="user_must_known">Atenção</string>
+    <string name="user_must_known">Atenção!</string>
     <string name="user_must_known_content">"Você não poderá continuar usando nossos serviços a menos que concorde com a nova versão da nossa %s. Concorda com a Política de Privacidade atualizada?"</string>
     <string name="user_name_phone_number">Número de telefone</string>
     <string name="v7_preference_off">DESATIVADO</string>

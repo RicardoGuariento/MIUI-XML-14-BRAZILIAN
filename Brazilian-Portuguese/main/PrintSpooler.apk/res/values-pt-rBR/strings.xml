@@ -32,7 +32,7 @@
     <string name="activity_convert_pdf_alert_title">Convertendo aquivo antes da impressão…</string>
     <string name="activity_jump_market_alert_install_message">Instale o WPS Office para converter arquivos e prepará-los antes da impressão. Você precisará reiniciar a impressão após a instalação. Instalar agora?</string>
     <string name="activity_jump_market_alert_install_positive_button">Instalar</string>
-    <string name="activity_jump_market_alert_title">Atenção</string>
+    <string name="activity_jump_market_alert_title">Atenção!</string>
     <string name="activity_jump_market_alert_update_message">Atualize o WPS Office para converter arquivos e prepará-los antes da impressão. Você precisará reiniciar a impressão após a atualização. Atualizar agora?</string>
     <string name="activity_jump_market_alert_update_positive_button">Atualizar</string>
     <string name="add_print_service_label">Adicionar serviço</string>

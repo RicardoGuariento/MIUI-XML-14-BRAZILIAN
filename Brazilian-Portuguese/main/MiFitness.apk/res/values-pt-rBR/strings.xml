@@ -80,12 +80,12 @@ Se você mudar de ideia, antes de usar nossos serviços, você precisará concor
     <string name="about_privacy_revoke_recall">Retirar</string>
     <string name="about_privacy_risk_dialog_negative_text">Cancelar</string>
     <string name="about_privacy_risk_dialog_positive_text">Continuar</string>
-    <string name="about_privacy_risk_dialog_title">Atenção</string>
+    <string name="about_privacy_risk_dialog_title">Atenção!</string>
     <string name="about_privacy_sensitive_protocol">Coleta e Uso de Dados Sensíveis</string>
     <string name="about_privacy_sensitive_protocol_title">Coleta e Uso de Dados Sensíveis</string>
     <string name="about_privacy_unbind_dialog_des">Desemparelhe todos os seus dispositivos primeiro.</string>
     <string name="about_privacy_unbind_dialog_positive_text">Entendido</string>
-    <string name="about_privacy_unbind_dialog_title">Atenção</string>
+    <string name="about_privacy_unbind_dialog_title">Atenção!</string>
     <string name="about_remove">Os arquivos de registro foram transferidos para /storage/emulated/0/Download/wearablelog</string>
     <string name="about_revoke_authorization">Revogar autorização</string>
     <string name="about_risk_dialog_des">Seus dados de treino e de preparo físico serão excluídos permanentemente e você não poderá restaurá-los. A sua conta será desconectada no seu telefone. Continuar?</string>
@@ -272,12 +272,12 @@ Se você mudar de ideia, antes de usar nossos serviços, você precisará concor
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -414,13 +414,13 @@ Se você mudar de ideia, antes de usar nossos serviços, você precisará concor
     <string name="course_audio_dialog_training_btn">Cancelar</string>
     <string name="course_audio_disconnect_content">O curso vai parar de reproduzir. Seus dados de treino serão salvos.</string>
     <string name="course_audio_error_desc">Não foi possível carregar o áudio. Encerrar o seu treino agora?</string>
-    <string name="course_audio_error_title">Atenção</string>
+    <string name="course_audio_error_title">Atenção!</string>
     <string name="course_audio_linechart_xaxis">m</string>
     <string name="course_audio_linechart_yaxis">km/h</string>
     <string name="course_calorie_label">kcal</string>
     <string name="course_cast_desc">Ajuda</string>
     <string name="course_cast_stop_content">Parar de transmitir agora?</string>
-    <string name="course_cast_stop_title">Atenção</string>
+    <string name="course_cast_stop_title">Atenção!</string>
     <string name="course_cast_stop_yes">Parar</string>
     <string name="course_close_show_more">Recolher</string>
     <string name="course_content">Sessões</string>
@@ -433,14 +433,14 @@ Se você mudar de ideia, antes de usar nossos serviços, você precisará concor
     <string name="course_dialog_finish">Encerrar</string>
     <string name="course_difficult">Nível</string>
     <string name="course_error_desc">Não foi possível carregar o vídeo. Encerrar seu treino agora?</string>
-    <string name="course_error_title">Atenção</string>
+    <string name="course_error_title">Atenção!</string>
     <string name="course_firmware_updating">Seu dispositivo está atualizando</string>
     <string name="course_frequency">Frequência</string>
     <string name="course_got_it">Entendido</string>
-    <string name="course_gym_error">Atenção</string>
+    <string name="course_gym_error">Atenção!</string>
     <string name="course_gym_error_desc">Não foi possível iniciar sua esteira. Encerrar seu treino agora?</string>
     <string name="course_hr">Frequência cardíaca</string>
-    <string name="course_hr_dialog_title">Atenção</string>
+    <string name="course_hr_dialog_title">Atenção!</string>
     <string name="course_hr_distribute_acme">VO₂ máximo</string>
     <string name="course_hr_distribute_aerobic">Aeróbico</string>
     <string name="course_hr_distribute_anaerobic">Anaeróbico</string>
@@ -454,7 +454,7 @@ Se você mudar de ideia, antes de usar nossos serviços, você precisará concor
     <string name="course_hr_linked_open">Dispositivo conectado. A sua esteira ajustará a velocidade automaticamente para você.</string>
     <string name="course_hr_more_than">Você está à frente. A esteira vai desacelerar.</string>
     <string name="course_hr_speed_protect">Alta velocidade. Continuar ajustando a velocidade da esteira?</string>
-    <string name="course_hr_speed_protect_title">Atenção</string>
+    <string name="course_hr_speed_protect_title">Atenção!</string>
     <string name="course_hr_stage_relax">Desaquecimento</string>
     <string name="course_hr_stage_title">%1$s: %2$s | BPM alvo: %3$d–⁠%4$d</string>
     <string name="course_hr_stage_training">Corrida</string>
@@ -690,9 +690,9 @@ Para aplicar suas alterações nos seus dispositivos vestíveis, vá em Layout d
     <string name="device_settings_appsort_sync_failed">Não foi possível sincronizar</string>
     <string name="device_settings_appsort_sync_success">Sincronizado com sucesso</string>
     <string name="device_settings_assist_sleep_open_msg">Ativar este recurso afetará a duração da bateria, continuar mesmo assim?</string>
-    <string name="device_settings_assist_sleep_open_title">Atenção</string>
+    <string name="device_settings_assist_sleep_open_title">Atenção!</string>
     <string name="device_settings_authorize_unlock_laptop_description">Para usar este recurso, abra o Mi Blaze Unlock no seu laptop e emparelhe o seu dispositivo nele.</string>
-    <string name="device_settings_battery_tip">Atenção</string>
+    <string name="device_settings_battery_tip">Atenção!</string>
     <string name="device_settings_ble_pair_failure">Não foi possível emparelhar</string>
     <string name="device_settings_ble_pair_success">Emparelhado com sucesso</string>
     <string name="device_settings_ble_pairing">Emparelhando…</string>
@@ -755,7 +755,7 @@ Para aplicar suas alterações nos seus dispositivos vestíveis, vá em Layout d
     <string name="device_settings_common_goto_set">Ajustes</string>
     <string name="device_settings_common_has_open">Concluído</string>
     <string name="device_settings_common_heart_rate">Frequência cardíaca</string>
-    <string name="device_settings_common_hint">Atenção</string>
+    <string name="device_settings_common_hint">Atenção!</string>
     <string name="device_settings_common_hint_device_removed">O dispositivo foi removido</string>
     <string name="device_settings_common_hint_device_unconnect">Conecte o seu dispositivo e tente novamente.</string>
     <string name="device_settings_common_hint_is_discard_change">Você tem alterações não salvas</string>
@@ -991,7 +991,7 @@ para desemparelhar o telefone e a pulseira"</string>
     <string name="device_settings_revoke_authorization_dialog_content">Se você continuar, você retirará seu consentimento à nossa Política de Privacidade. A conta conectada atualmente em seu dispositivo emparelhado será removida. Para excluir seus dados armazenados no Mi Fitness, exclua seu serviço Mi Fitness. Para excluir os dados no seu dispositivo emparelhado, consulte a Retirada de consentimento em nossa Política de Privacidade. Se você estiver utilizando um dispositivo vestível, uma redefinição para os dados de fábrica apagará todos os seus dados nele. Se mudar de ideia, você não conseguirá recuperar os seus dados. Você precisará aceitar a nossa Política de Privacidade novamente e emparelhar o seu dispositivo se decidir utilizá-lo.</string>
     <string name="device_settings_revoke_authorization_dialog_content_oversea">"Depois que você revogar a autorização, a conta conectada atualmente no dispositivo será removida, e os dados relacionados armazenados anteriormente no servidor serão limpos. Para excluir os dados no seu dispositivo emparelhado, consulte a Retirada de consentimento em nossa Política de Privacidade. Se você estiver utilizando um dispositivo vestível, uma redefinição para os dados de fábrica apagará todos os seus dados nele. Se mudar de ideia, você não poderá recuperar os seus dados. Você precisará aceitar a nossa Política de Privacidade novamente e emparelhar o seu dispositivo se você decidir utilizá-lo.
 Os dados relacionados ao dispositivo serão limpos dentro de 7 dias."</string>
-    <string name="device_settings_revoke_authorization_dialog_title">Atenção</string>
+    <string name="device_settings_revoke_authorization_dialog_title">Atenção!</string>
     <string name="device_settings_revoke_authorization_dialog_title_oversea">Revogar autorização?</string>
     <string name="device_settings_revoke_authorization_ensure_revoke">Continuar</string>
     <string name="device_settings_revoke_authorization_failed">Não foi possível revogar a autorização</string>
@@ -1053,7 +1053,7 @@ Os dados relacionados ao dispositivo serão limpos dentro de 7 dias."</string>
     <string name="device_settings_unbind_success">Dispositivo removido</string>
     <string name="device_settings_unlock_laptop">Desbloquear laptop</string>
     <string name="device_settings_unlock_laptop_endurance_remind_dialog_message">Ativar este recurso afetará a duração da bateria, continuar mesmo assim?</string>
-    <string name="device_settings_unlock_laptop_endurance_remind_dialog_title">Atenção</string>
+    <string name="device_settings_unlock_laptop_endurance_remind_dialog_title">Atenção!</string>
     <string name="device_settings_unlock_phone">Desbloquear telefone</string>
     <string name="device_settings_unlock_phone_not_success_part1">Não consegue desbloquear seu telefone?</string>
     <string name="device_settings_unlock_phone_not_success_part2">Configure novamente.</string>
@@ -2064,7 +2064,7 @@ Exercícios fortalecem seus pulmões e tornam a respiração mais fácil."</stri
     <string name="health_sleep_breath_essay2_title">Dicas para uma respiração melhor ao dormir</string>
     <string name="health_sleep_breath_quality">Pontuação de respiração</string>
     <string name="health_sleep_breath_quality_hint">"Faixa de referência: 90-100
-A classificação é apenas para fins informativos. Se você não se sentir bem, procure ajuda médica."</string>
+A classificação é apenas para fins informativos. Caso não esteja se sentindo bem, procure ajuda médica."</string>
     <string name="health_sleep_breath_quality_level_bad">Vale a pena conferir</string>
     <string name="health_sleep_breath_quality_level_good">Tudo em ordem</string>
     <string name="health_sleep_breath_quality_level_middle">Cuide-se</string>
@@ -2452,7 +2452,7 @@ Comece novamente."</string>
     <string name="login_region_auto_getting">Localizando…</string>
     <string name="login_region_change_des">Se você alterar sua região, este app poderá parar de funcionar adequadamente e alguns dos seus dispositivos podem ser desconectados do seu telefone.</string>
     <string name="login_region_change_ok">Continuar</string>
-    <string name="login_region_change_service_title">Atenção</string>
+    <string name="login_region_change_service_title">Atenção!</string>
     <string name="login_region_country_select">Região</string>
     <string name="login_region_recommend_lable">(Recomendado)</string>
     <string name="login_region_select_des">Escolha cuidadosamente sua localização. As características e os serviços de sincronização são personalizados para sua região atual.</string>
@@ -2729,7 +2729,7 @@ Obtenha esta medalha"</string>
     <string name="nfc_common_agree">"OK"</string>
     <string name="nfc_common_back">Voltar</string>
     <string name="nfc_common_cancle">Cancelar</string>
-    <string name="nfc_common_hint">Atenção</string>
+    <string name="nfc_common_hint">Atenção!</string>
     <string name="nfc_common_hint_device_unconnect">Conecte-se ao seu dispositivo vestível e tente novamente.</string>
     <string name="nfc_common_hint_server_unavailable">Ocorreu um erro no servidor. Tente novamente mais tarde.</string>
     <string name="nfc_common_known">Entendido</string>
@@ -2814,7 +2814,7 @@ Este passo é requerido para pagar com seu dispositivo."</string>
     <string name="nfc_show_unset_wear_pwd">Para proteger os pagamentos, defina um PIN para o seu dispositivo.</string>
     <string name="nfc_status_exception">Exceção de estado NFC</string>
     <string name="nfc_syncese_btn_txt_global">Iniciar</string>
-    <string name="nfc_syncese_content">"Se você não conseguir adicionar um cartão à sua conta, podemos tentar corrigir esse problema."</string>
+    <string name="nfc_syncese_content">"Caso não consiga adicionar um cartão à sua conta, podemos tentar corrigir esse problema."</string>
     <string name="nfc_syncese_content_mastercard_url">Caso você esteja enfrentando problemas com o seu cartão, nós podemos tentar corrigir o problema. Caso o problema persista, entre em contato com nosso &lt;a href=\"%1$s\">serviço de atendimento ao cliente&lt;/a>.</string>
     <string name="nfc_syncese_dialog_content">Leva cerca de 1 minuto. Mantenha seu telefone conectado à rede e não saia desta página.</string>
     <string name="nfc_syncese_loading_content_global">Aguarde…</string>
@@ -3112,7 +3112,7 @@ Este passo é requerido para pagar com seu dispositivo."</string>
     <string name="register_by_local_phone_short_text">Criar conta</string>
     <string name="reject">Recusar</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">Protegeremos suas informações pessoais de acordo com as leis e regulamentos pertinentes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concordar em conceder tais permissões, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você. Você pode sempre restringir as permissões ou revogar sua autorização nas Configurações.</string>
+    <string name="request_camera_permission_message">Protegeremos suas informações pessoais de acordo com as leis e regulamentos pertinentes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você. Você pode sempre restringir as permissões ou revogar sua autorização nas Configurações.</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">Não foi possível verificar</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
@@ -3249,7 +3249,7 @@ Este passo é requerido para pagar com seu dispositivo."</string>
     <string name="sport_firmware_updating">Atualizando…</string>
     <string name="sport_firmware_version_is_latest">A versão atual é a mais recente</string>
     <string name="sport_folding_lock_detail">Desdobre sua esteira primeiro</string>
-    <string name="sport_folding_lock_title">Atenção</string>
+    <string name="sport_folding_lock_title">Atenção!</string>
     <string name="sport_free_sport">Livre</string>
     <string name="sport_get_fitness_authorization">Para poder ver sua contagem de passos, permita que este app acesse as informações sobre suas atividades.</string>
     <string name="sport_get_location_authorization">Para poder rastrear seus treinos, permita que este app acesse sua localização.</string>
@@ -3344,14 +3344,14 @@ Este passo é requerido para pagar com seu dispositivo."</string>
     <string name="sport_record_all">Todos</string>
     <string name="sport_reject">Recusar</string>
     <string name="sport_revoke_authorization_dialog_content">Se você continuar, você retirará seu consentimento à nossa Política de Privacidade. A conta conectada atualmente em seu dispositivo emparelhado será removida. Para excluir seus dados armazenados no Mi Fitness, exclua seu serviço Mi Fitness. Para excluir os dados no seu dispositivo emparelhado, consulte a Retirada de consentimento em nossa Política de Privacidade. Se você estiver utilizando um dispositivo vestível, uma redefinição para os dados de fábrica apagará todos os seus dados nele. Se mudar de ideia, você não conseguirá recuperar os seus dados. Você precisará aceitar a nossa Política de Privacidade novamente e emparelhar o seu dispositivo se decidir utilizá-lo.</string>
-    <string name="sport_revoke_authorization_dialog_title">Atenção</string>
+    <string name="sport_revoke_authorization_dialog_title">Atenção!</string>
     <string name="sport_revoke_authorization_ensure_revoke">Continuar</string>
     <string name="sport_run_distance">Distância</string>
     <string name="sport_run_indoor">Esteira</string>
     <string name="sport_run_outdoor">Corrida ao ar livre</string>
     <string name="sport_screen_on">Mantenha a tela ligada</string>
     <string name="sport_security_lock_detail">Insira a chave de segurança primeiro</string>
-    <string name="sport_security_lock_title">Atenção</string>
+    <string name="sport_security_lock_title">Atenção!</string>
     <string name="sport_see">Análise</string>
     <string name="sport_select_stride">Batidas por minuto</string>
     <string name="sport_set_smart_scene_desc">Abra o Mi Home para se conectar à sua esteira.</string>
@@ -3992,7 +3992,7 @@ Este passo é requerido para pagar com seu dispositivo."</string>
     <string name="userinfo_medical_file_desc1_with_line_break">Informações médicas importantes que são essenciais em caso de emergência</string>
     <string name="userinfo_medical_file_desc2">Registre as informações básicas sobre a sua saúde para poder exibir a profissionais de saúde em caso de emergência.</string>
     <string name="userinfo_medical_id">Cartão de saúde</string>
-    <string name="userinfo_medical_id_screen_lock_show_confirmation_title">Atenção</string>
+    <string name="userinfo_medical_id_screen_lock_show_confirmation_title">Atenção!</string>
     <string name="userinfo_medical_id_screen_lock_show_description">"O seu Cartão de saúde pode ser acessado sem desbloquear o seu telefone.
 Se você não deseja compartilhar suas informações, você pode desativar este recurso."</string>
     <string name="userinfo_medication_and_treatment">Tratamentos</string>
@@ -4080,7 +4080,7 @@ Se você não deseja compartilhar suas informações, você pode desativar este 
     <string name="web_not_find_app">Não foi possível encontrar o app.</string>
     <string name="web_share_des">Uma mensagem do seu amigo.</string>
     <string name="web_ssl_error_msg">Ocorreu um problema com o certificado de segurança do website, continuar mesmo assim?</string>
-    <string name="web_warning">Atenção</string>
+    <string name="web_warning">Atenção!</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

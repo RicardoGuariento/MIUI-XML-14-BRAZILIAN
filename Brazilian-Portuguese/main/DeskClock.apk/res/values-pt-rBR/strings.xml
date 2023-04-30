@@ -458,7 +458,7 @@ mm"</string>
     <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minutos de antecedência</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hora de antecedência</string>
     <string name="notification_adv_time_entries5">Nenhum</string>
-    <string name="notification_permission_desc">"Se você não conceder permissões de notificação, não poderá desativar os alarmes quando eles tocarem. Conceder permissão agora?"</string>
+    <string name="notification_permission_desc">"Caso não conceda as permissões de notificação, não poderá desativar os alarmes quando eles tocarem. Conceder permissão agora?"</string>
     <string name="oneshot_alarm">Excluir após alarme disparar</string>
     <string name="open_keep_screen">A tela será mantida ligada</string>
     <string name="open_notification_permission_remind">Permita notificações para poder desativar os alarmes</string>

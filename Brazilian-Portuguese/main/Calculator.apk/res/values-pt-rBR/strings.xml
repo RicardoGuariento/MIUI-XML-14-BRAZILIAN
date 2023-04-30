@@ -83,12 +83,12 @@
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -464,7 +464,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="network_confirm_content">O conversor de moedas e a calculadora de impostos e hipoteca precisam de uma conexão com a internet e acesso à localização para funcionarem normalmente.</string>
     <string name="network_confirm_title">Permissões necessárias</string>
     <string name="network_purpose">Bem-vindo à Calculadora! A Calculadora permite que você converta moedas, calcule parcelas de hipotecas e muito mais.</string>
-    <string name="new_privacy_string"><Data>"Bem-vindo à Calculadora!&lt;br/>Este app contém os seguintes recursos:&lt;br/>• Calculadora básica&lt;br/>• Calculadora científica&lt;br/>• Conversor universal (ex.: moeda, unidades de medida, etc.)&lt;br/>• Modelos de cálculo para empréstimos, investimentos, EMI e muito mais&lt;br/>Você pode saber como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Leia e concorde com nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar a Calculadora. Você pode retirar seu consentimento para a Política de Privacidade da Calculadora nas Configurações a qualquer momento. Se você não concordar com nossa Política de Privacidade, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
+    <string name="new_privacy_string"><Data>"Bem-vindo à Calculadora!&lt;br/>Este app contém os seguintes recursos:&lt;br/>• Calculadora básica&lt;br/>• Calculadora científica&lt;br/>• Conversor universal (ex.: moeda, unidades de medida, etc.)&lt;br/>• Modelos de cálculo para empréstimos, investimentos, EMI e muito mais&lt;br/>Você pode saber como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Leia e concorde com nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar a Calculadora. Você pode retirar seu consentimento para a Política de Privacidade da Calculadora nas Configurações a qualquer momento. Caso não concorde com nossa Política de Privacidade, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
     <string name="night">"PM"</string>
     <string name="none">Nenhum</string>
     <string name="noon">"PM"</string>

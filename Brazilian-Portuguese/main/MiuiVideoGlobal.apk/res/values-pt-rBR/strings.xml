@@ -266,12 +266,12 @@
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -620,7 +620,7 @@ Esta operação não afetará as fotos da sua galeria."</string>
     <string name="galleryplus_permission_storage_content_reshowable_video_player">Para poder usar o reprodutor de vídeos locais, permita que este app acesse o armazenamento primeiro.</string>
     <string name="galleryplus_permission_storage_content_unreshowable_video_player">Para poder usar o reprodutor de vídeos locais, permita que este app acesse o armazenamento na seção \"Permissões\" das Configurações.</string>
     <string name="galleryplus_permission_storage_title">Acesso ao armazenamento necessário</string>
-    <string name="galleryplus_permission_title">Atenção</string>
+    <string name="galleryplus_permission_title">Atenção!</string>
     <string name="galleryplus_restore_play_speed">Reproduzindo em velocidade normal</string>
     <string name="galleryplus_save_cancel_toast">Toque em \"Voltar\" novamente para cancelar o salvamento do vídeo</string>
     <string name="galleryplus_save_fail">Não foi possível salvar</string>
@@ -1599,7 +1599,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="reload_title">Não foi possível conectar-se à rede.</string>
     <string name="remaining_space">Disponível: %s</string>
     <string name="remaining_space_not_enough">Não é possível baixar pois o espaço de armazenamento é insuficiente</string>
-    <string name="reminder">Atenção</string>
+    <string name="reminder">Atenção!</string>
     <string name="rename">Renomear</string>
     <string name="rename_word_out">Este nome de arquivo é muito extenso</string>
     <string name="report">Reportar</string>
@@ -1614,7 +1614,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="report_content_violence">Discurso de ódio</string>
     <string name="report_fail">Não foi possível reportar. Tente novamente.</string>
     <string name="report_success">Reportado com sucesso</string>
-    <string name="request_camera_permission_message">Este serviço precisa de sua permissão a seguir, nós cumpriremos estritamente as leis relevantes para proteger suas informações pessoais: &lt;br>&lt;br>&lt;b> Acesso a câmera: experimente serviços de gravação em tempo real para configurar a foto de perfil &lt;/b>&lt;br>&lt;br> Se você não concordar em conceder as permissões acima, esta função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a chamada de permissão acima nas configurações do sistema para retirar o seu consentimento.</string>
+    <string name="request_camera_permission_message">Este serviço precisa de sua permissão a seguir, nós cumpriremos estritamente as leis relevantes para proteger suas informações pessoais: &lt;br>&lt;br>&lt;b> Acesso a câmera: experimente serviços de gravação em tempo real para configurar a foto de perfil &lt;/b>&lt;br>&lt;br> Caso não concorde em conceder as permissões acima, esta função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a chamada de permissão acima nas configurações do sistema para retirar o seu consentimento.</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>
     <string name="resend_email_reach_limit_title">Muitas tentativas</string>

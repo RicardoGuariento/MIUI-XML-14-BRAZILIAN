@@ -129,7 +129,7 @@
     <string name="devicePerms">Acesso ao dispositivo</string>
     <string name="dialog_account_authorize_msg">\"%1$s\" está tentando instalar \"%2$s\". Verifique sua identidade para continuar.</string>
     <string name="dialog_install_confirm_default">Instalar</string>
-    <string name="dialog_title_default">Atenção</string>
+    <string name="dialog_title_default">Atenção!</string>
     <string name="dlg_app_replacement_statement">"O app que você está instalando substituirá outro app.
 
 Todos os seus dados de usuário anteriores serão salvos."</string>
@@ -139,7 +139,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
     <string name="dlg_game_center_intercept_game_center_install">Instalar da Mi Games</string>
     <string name="dlg_game_center_intercept_install">Instalar mesmo assim</string>
     <string name="dlg_game_center_intercept_msg">A instalação de jogos de terceiros pode representar riscos à segurança. Baixe e instale o Mi Games para acessar versões seguras de apps.</string>
-    <string name="dlg_game_center_intercept_title">Atenção</string>
+    <string name="dlg_game_center_intercept_title">Atenção!</string>
     <string name="dlg_mimarket_intercept_mimarket_install">Instale da Mi App Store</string>
     <string name="dlg_mimarket_intercept_msg">A instalação de apps de terceiros pode representar riscos à segurança. Baixe e instale a Mi App Store para acessar versões seguras dos apps.</string>
     <string name="dlg_msg_unoffical">Não é possível instalar apps do sistema a partir de canais não oficiais</string>
@@ -235,7 +235,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
     <string name="install_confirm_dialog_message">Este app é feito pelo Google. Você deve instalar o Google Play Services para poder usar este app normalmente. Instalar este app agora pode fazer seu dispositivo ter um mal comportamento. Instalar mesmo assim?</string>
     <string name="install_confirm_dialog_negative_button">Cancelar</string>
     <string name="install_confirm_dialog_positive_button">Instalar</string>
-    <string name="install_confirm_dialog_title">Atenção</string>
+    <string name="install_confirm_dialog_title">Atenção!</string>
     <string name="install_confirm_question">Deseja instalar esta aplicação? Terá acesso a:</string>
     <string name="install_confirm_question_des_10">"Se você assume os riscos e deseja prosseguir com a instalação, autorize a instalação em Segurança &gt; Gerenciar apps &gt; Permissões &gt; Apps com possíveis riscos. Se você não conseguir encontrar \"Apps com possíveis riscos\", atualize o app Segurança e tente novamente."</string>
     <string name="install_confirm_question_des_10_tablet">"Se você assume os riscos e deseja prosseguir com a instalação, autorize a instalação em Segurança &gt; Gerenciar apps &gt; Permissões &gt; Apps com possíveis riscos. Se você não conseguir encontrar \"Apps com possíveis riscos\", atualize o app Segurança e tente novamente."</string>
@@ -278,7 +278,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="installing">Instalando…</string>
     <string name="intercept_confirm_dialog_message">%1$s está tentando instalar %2$s. Confirme sua identidade antes de continuar.</string>
     <string name="intercept_confirm_dialog_positive">Confirmar</string>
-    <string name="intercept_confirm_dialog_title">Atenção</string>
+    <string name="intercept_confirm_dialog_title">Atenção!</string>
     <string name="intercept_install">Instalar</string>
     <string name="item_view_role_description">Guia</string>
     <string name="launch">Abrir</string>
@@ -626,7 +626,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
  "<li>O pacote de instalação vir de uma fonte desconhecida.</li></string>
     <string name="settings_warning_dialog_msg">"Seu telefone está sujeito a riscos de segurança. Você não será solicitado a instalar versões seguras de apps se desativar este recurso. Desativar mesmo assim?"</string>
     <string name="settings_warning_dialog_msg_tablet">"Seu dispositivo está sujeito a riscos de segurança. Você não será solicitado a instalar versões seguras de apps se desativar este recurso. Desativar mesmo assim?"</string>
-    <string name="settings_warning_dialog_title">Atenção</string>
+    <string name="settings_warning_dialog_title">Atenção!</string>
     <string name="size_byte">"B"</string>
     <string name="size_giga_byte">"GB"</string>
     <string name="size_kilo_byte">"KB"</string>

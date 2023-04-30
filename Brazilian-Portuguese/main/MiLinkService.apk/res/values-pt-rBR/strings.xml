@@ -202,7 +202,7 @@ your devices?"</string>
     <string name="circulate_ringfind_title_stop">Parar de reproduzir o som</string>
     <string name="circulate_title">Mi Smart Hub</string>
     <string name="circulate_tv_power_alter_text">"Você configurou sua TV para desligar ou desligar sua tela. Controles remotos e TVs ficarão indisponíveis após a TV ser desligada."</string>
-    <string name="circulate_tv_power_alter_title">Atenção</string>
+    <string name="circulate_tv_power_alter_title">Atenção!</string>
     <string name="circulate_video_capture_fail">"Não foi possível fazer uma captura de tela"</string>
     <string name="circulate_video_capture_success">Tirou uma captura de tela com sucesso</string>
     <string name="circulate_video_retry_later">Tentando controlar a TV…</string>
@@ -464,9 +464,9 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="help_page_text_51">"LeEco"</string>
     <string name="help_page_text_52">Primeiro, certifique-se que o recurso Miracast é suportado em seu dispositivo. Em alguns modelos, você pode ativar este recurso em Configurações > Redes > Várias telas > Display sem fios.</string>
     <string name="help_page_text_53">Suporte ao cliente LeEco: 10109000</string>
-    <string name="help_page_text_55">"Se você não conseguir se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fios, Screen Mirroring ou Múltiplas telas. Veja as informações abaixo para saber como ativar o Miracast.
+    <string name="help_page_text_55">"Caso não consiga se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fios, Screen Mirroring ou Múltiplas telas. Veja as informações abaixo para saber como ativar o Miracast.
 %1$d. Se encontrar algum problema, você pode relatá-lo usando nosso app \"Serviços e feedback\"."</string>
-    <string name="help_page_text_55_global">"Se você não conseguir se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fios, Screen Mirroring ou Múltiplas telas.
+    <string name="help_page_text_55_global">"Caso não consiga se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fios, Screen Mirroring ou Múltiplas telas.
 %1$d. Se encontrar algum problema, você pode relatá-lo usando nosso app \"Serviços e feedback\"."</string>
     <string name="help_page_text_end">Se o modelo do seu dispositivo não estiver listado aqui, entre em contato com o fabricante para saber mais sobre a funcionalidade de transmissão.</string>
     <string name="icon_content_description">Ícone de diálogo</string>
@@ -728,7 +728,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
 　　•Gravar chamadas e áudio para transmiti-las em dispositivos externos
 　　•Acessar o número do telefone, IMEI e IMSI para identificar o seu dispositivo
 　　•Acessar a sua localização para encontrar dispositivos próximos"</string>
-    <string name="privacy_title">Atenção</string>
+    <string name="privacy_title">Atenção!</string>
     <string name="privacy_update_dialog_negative_btn">Cancelar</string>
     <string name="privacy_update_dialog_positive_btn">Aceitar</string>
     <string name="privacy_update_dialog_quit">Sair</string>

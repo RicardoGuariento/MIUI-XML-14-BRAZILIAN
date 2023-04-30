@@ -89,7 +89,7 @@
     <string name="app_name">Temas</string>
     <string name="app_name_pad">Personalização</string>
     <string name="application_list_permission_desc">Para mostrar apps compatíveis com papéis de parede transparentes</string>
-    <string name="application_notify_title">Atenção</string>
+    <string name="application_notify_title">Atenção!</string>
     <string name="apply_4k_video_wallpaper_warning">"Vídeos em resolução 4k e 8k não podem ser usados como papel de parede"</string>
     <string name="apply_choosen_type_resource">Aplicar itens selecionados</string>
     <string name="apply_default_font_tip">Continuar usando as fontes do sistema?</string>
@@ -130,7 +130,7 @@
     <string name="boot_audio_dialog_cancel">Cancelar</string>
     <string name="boot_audio_dialog_confirm">"OK"</string>
     <string name="boot_audio_dialog_content">O áudio de inicialização está desativado agora. Deseja ativá-lo e aplicar este som?</string>
-    <string name="boot_audio_dialog_title">Atenção</string>
+    <string name="boot_audio_dialog_title">Atenção!</string>
     <string name="both_all_apply_failured">Não é possível aplicar o plano de fundo</string>
     <string name="both_all_apply_success">Plano de fundo aplicado</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
@@ -252,7 +252,7 @@
     <string name="description_uploadtime">Atualizar</string>
     <string name="description_version">Versão</string>
     <string name="description_version_szie">Versão: %1$s | Tamanho: %2$s</string>
-    <string name="desk_loop_will_change">Atenção</string>
+    <string name="desk_loop_will_change">Atenção!</string>
     <string name="desktop_effects">Efeitos de tela</string>
     <string name="desktop_wallpaper">Tela inicial</string>
     <string name="detail_author_attention_head">Seguir alguns dos melhores designers</string>
@@ -306,7 +306,7 @@
     <string name="error_icon_content_description">Erro</string>
     <string name="evening">"PM"</string>
     <string name="exchange_alert">Você pode obter cupons durante nossos eventos e resgatá-los aqui.</string>
-    <string name="exchange_code_dialog_title">Atenção</string>
+    <string name="exchange_code_dialog_title">Atenção!</string>
     <string name="exchange_code_not_match_account_dialog_content">Este código já foi resgatado por outra Conta Mi. Faça login com essa Conta Mi e tente novamente.</string>
     <string name="exit_extreme_mode_dialog_agree">Aceitar</string>
     <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
@@ -863,7 +863,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="privacy_give_up_logoff">Voltar</string>
     <string name="privacy_give_up_revoke_btn">Voltar</string>
     <string name="privacy_i_know_btn">Continuar</string>
-    <string name="privacy_important_prompt_title">Atenção</string>
+    <string name="privacy_important_prompt_title">Atenção!</string>
     <string name="privacy_log_off_succeed">Serviços cancelados com sucesso</string>
     <string name="privacy_loging_off_warning">Cancelando serviços…</string>
     <string name="privacy_logoff_services_title">Cancelar serviços</string>
@@ -944,7 +944,7 @@ All the personalization items currently used on this device. Default personaliza
     <string name="privacy_reading_the_application_list">Access the list of apps installed on this device</string>
     <string name="privacy_remind_user_mode_agree">Aceitar</string>
     <string name="privacy_remind_user_mode_content"><Data>Agree to our Privacy Policy to use this feature. Read our &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Privacy Policy&lt;/a>&lt;/font> to learn how we collect, use, disclose, process, and store the personal information you provide to us when you use Themes.</Data></string>
-    <string name="privacy_remind_user_mode_title">Atenção</string>
+    <string name="privacy_remind_user_mode_title">Atenção!</string>
     <string name="privacy_revoke_agree_content">Retirada de consentimento</string>
     <string name="privacy_revoke_agree_content_1">1. All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.</string>
     <string name="privacy_revoke_agree_content_2">2. All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.</string>
@@ -1216,7 +1216,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="restore_home_icon_text">Adicionar um atalho na Tela inicial</string>
     <string name="restore_icon_later">Você pode adicionar o atalho na Tela inicial nas configurações novamente</string>
     <string name="ringtone_confirm_dialog_message">A duração deste toque é relativamente longa. Usar mesmo assim?</string>
-    <string name="ringtone_confirm_dialog_title">Atenção</string>
+    <string name="ringtone_confirm_dialog_title">Atenção!</string>
     <string name="ringtone_set_success">Definido com sucesso</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
@@ -1556,7 +1556,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="update_latest">Seu app está atualizado</string>
     <string name="update_no_net">Ocorreu um erro de rede. Tentar novamente.</string>
     <string name="update_title">NOVA ATUALIZAÇÃO DISPONÍVEL</string>
-    <string name="use_hint">Atenção</string>
+    <string name="use_hint">Atenção!</string>
     <string name="use_now">Adicionar</string>
     <string name="using_theme_has_update_tips">Uma atualização está disponível para este tema.</string>
     <string name="using_theme_next_automatic_update">Atualizações automáticas</string>

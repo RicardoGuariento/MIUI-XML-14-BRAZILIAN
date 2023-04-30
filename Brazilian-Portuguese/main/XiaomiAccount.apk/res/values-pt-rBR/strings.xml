@@ -182,12 +182,12 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -217,7 +217,7 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="default_popup_window_title">Janela pop-up</string>
     <string name="delete_action">Excluir</string>
     <string name="delete_bank_card_message">Os cartões bancários do Mi Pay e cartões NFC serão excluídos após você fazer logout.</string>
-    <string name="delete_bank_card_title">Atenção</string>
+    <string name="delete_bank_card_title">Atenção!</string>
     <string name="delete_device_btn">Remover</string>
     <string name="delete_device_failed">Não é possível remover o dispositivo</string>
     <string name="delete_device_notice">Depois que o dispositivo for removido, ele será desconectado de sua Conta Mi automaticamente. Você não poderá mais usar esse dispositivo para acessar fotos, mensagens, ou outros conteúdos armazenados em sua conta.</string>
@@ -822,7 +822,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_remove_confirm">Sair</string>
     <string name="passport_remove_unactivated_account_notice">Sua conta ainda não foi ativada.</string>
     <string name="passport_request_agree">Permitir</string>
-    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para configurar sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concordar em conceder tais permissões, não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para configurar sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="passport_request_cancel">Cancelar</string>
     <string name="passport_request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
@@ -887,7 +887,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_uplink_sms_send_failed">"Não foi possível verificar o envio do SMS"</string>
     <string name="passport_uplink_sms_sending">Enviando mensagem paga…</string>
     <string name="passport_uplink_suggest_dialog_msg">"Não foi possível receber o código. Usar um envio de SMS pago?"</string>
-    <string name="passport_uplink_suggest_dialog_title">Atenção</string>
+    <string name="passport_uplink_suggest_dialog_title">Atenção!</string>
     <string name="passport_use_generated_pwd_message">Certifique-se de lembrar de sua senha. Você a usará para fazer login em outros serviços Mi.</string>
     <string name="passport_use_generated_pwd_title">Lembre-se de sua senha!</string>
     <string name="passport_user_agreement">Contrato do Usuário</string>
@@ -1104,8 +1104,8 @@ Envie este código para o supervisor."</string>
     <string name="unbind_sns_description">Após você desconectar esta conta, você não será capaz de usar sua conta %s para fazer o login em sua Conta Mi.</string>
     <string name="unknown_error_info">Erro desconhecido</string>
     <string name="unlock_help_notice">"Ajuda:
-%1$d. Se você esqueceu a sua senha, acesse id.mi.com para redefini-la.
-%2$d. Se você não puder redefinir a sua senha ou se alguém bloqueou o seu dispositivo, acesse i.mi.com para desbloqueá-lo.
+%1$d. Caso tenha esquecido a sua senha, acesse id.mi.com para redefini-la.
+%2$d. Caso não possa redefinir a sua senha ou se alguém bloqueou o seu dispositivo, acesse i.mi.com para desbloqueá-lo.
 %3$d. Seu número de desbloqueio: %4$s"</string>
     <string name="update_apk_version_later">Agora não</string>
     <string name="update_apk_version_now">Atualizar</string>

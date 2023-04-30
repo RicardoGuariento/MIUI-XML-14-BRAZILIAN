@@ -149,7 +149,7 @@
     <string name="app_category_travel">Viagem</string>
     <string name="app_category_vr">RV</string>
     <string name="app_drawer_double_confirm_description">Isto alterará o layout da sua Tela inicial. Você poderá reverter estas alterações mais tarde nas Configurações.</string>
-    <string name="app_drawer_double_confirm_title">Atenção</string>
+    <string name="app_drawer_double_confirm_title">Atenção!</string>
     <string name="app_drawer_feature_description">A gaveta de apps é uma ferramenta perfeita para organizar todos os seus apps. Categorize os apps automaticamente e encontre tudo o que você precisa em um piscar de olhos!</string>
     <string name="app_drawer_guide_description">Encontre o que você está procurando em seus apps favoritos</string>
     <string name="app_drawer_guide_title">Gaveta de apps</string>
@@ -243,7 +243,7 @@
     <string name="close_multi_finger_slide_summary">Estes gestos serão ignorados em alguns cenários (ex.: jogos e reprodução de vídeos)</string>
     <string name="close_multi_finger_slide_title">Não responder a gestos com três e quatro dedos</string>
     <string name="cloud_app_restore_title">Pendente</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
     <string name="common_home_search_delete">Removendo a barra de pesquisa</string>
     <string name="common_home_search_delete_cancle">Cancelar</string>
     <string name="common_home_search_delete_confirm">Remover</string>
@@ -737,7 +737,7 @@
     <string name="navigation_set_miui_home_as_default_dialog_cancel">Cancelar</string>
     <string name="navigation_set_miui_home_as_default_dialog_message">Não é possível usar gestos em tela cheia com lauchers de terceiros. Mudar para o launcher do sistema e ativar os gestos em tela cheia?</string>
     <string name="navigation_set_miui_home_as_default_dialog_ok">"OK"</string>
-    <string name="navigation_set_miui_home_as_default_dialog_title">Atenção</string>
+    <string name="navigation_set_miui_home_as_default_dialog_title">Atenção!</string>
     <string name="navigation_type_full_screen">Gestos</string>
     <string name="navigation_type_title">Navegação do sistema</string>
     <string name="navigation_type_title_synonyms_1">Tela cheia</string>

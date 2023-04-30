@@ -185,7 +185,7 @@
     <string name="guide_title_1">Ative o Compartilhamento Mi nos dois dispositivos</string>
     <string name="guide_title_2">Selecione o dispositivo para compartilhar</string>
     <string name="help">Não encontrou dispositivos?</string>
-    <string name="help_content">Se você não encontrar o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Mi.</string>
+    <string name="help_content">Caso não encontre o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Mi.</string>
     <string name="hide">Ocultar</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
@@ -454,8 +454,8 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
     <string name="unkonw_device">Dispositivo desconhecido</string>
     <string name="unrecognized_manufacture">Desconhecido</string>
     <string name="unrecognized_model">Dispositivo desconhecido</string>
-    <string name="user_instructions">Atenção</string>
-    <string name="uwb_guide_summary_1">Se você não conseguir encontrar o dispositivo de destino, peça à outra pessoa para ativar o Compartilhamento Mi na Central de controle.</string>
+    <string name="user_instructions">Atenção!</string>
+    <string name="uwb_guide_summary_1">Caso não consiga encontrar o dispositivo de destino, peça à outra pessoa para ativar o Compartilhamento Mi na Central de controle.</string>
     <string name="uwb_guide_title_1">Peça à outra pessoa para ativar o Compartilhamento Mi</string>
     <string name="uwb_guide_title_2">Encontre o dispositivo de destino mais rápido com o Compartilhamento</string>
     <string name="uwb_setting_guide">Saiba mais</string>

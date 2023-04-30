@@ -72,7 +72,7 @@
     <string name="doc_photo_no_remind">Não mostre novamente</string>
     <string name="doc_photo_not_save">Não salve</string>
     <string name="doc_photo_not_support">Não é possível editar essa imagem como um documento</string>
-    <string name="doc_photo_remind">Atenção</string>
+    <string name="doc_photo_remind">Atenção!</string>
     <string name="doc_photo_save_effect_toast">Salvar as alterações agora?</string>
     <string name="doc_photo_toast_undistortion_close">Antidistorção desativada</string>
     <string name="doc_photo_toast_undistortion_open">Antidistorção ativada</string>

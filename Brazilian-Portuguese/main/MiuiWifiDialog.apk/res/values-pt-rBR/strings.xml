@@ -264,7 +264,7 @@
     <string name="wifi_ca_cert_notification_title">A rede precisa ser verificada</string>
     <string name="wifi_cannot_connect_with_randomized_mac_message">Toque para alterar as configurações de privacidade e tente novamente</string>
     <string name="wifi_cannot_connect_with_randomized_mac_title">"Não é possível conectar a %1$s"</string>
-    <string name="wifi_connect_alert_message">O app %1$s deseja se conectar à rede Wi-Fi %2$s</string>
+    <string name="wifi_connect_alert_message">%1$s deseja se conectar à rede Wi-Fi %2$s</string>
     <string name="wifi_connect_alert_title">Permitir conexão?</string>
     <string name="wifi_connect_default_application">Em um app</string>
     <string name="wifi_disable_mac_randomization_dialog_confirm_text">Alterar configuração</string>

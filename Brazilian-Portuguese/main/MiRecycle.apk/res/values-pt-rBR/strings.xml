@@ -30,7 +30,7 @@
     <string name="dialog_content_cs">"Os serviços de reciclagem não são mais fornecidos. Se você criou pedidos aqui, entre em contato com OneAssist antes de 31 de agosto. Você pode ignorar esta mensagem se não se inscreveu para serviços de reciclagem."</string>
     <string name="dialog_content_oa">"Os serviços de garantia estendida não são mais fornecidos. Se você criou pedidos aqui, entre em contato com o Cashify antes de 31 de agosto. Você pode ignorar esta mensagem se não solicitou a garantia estendida."</string>
     <string name="dialog_content_stop">Parar o teste de hardware antes de terminar?</string>
-    <string name="dialog_title_attention">Atenção</string>
+    <string name="dialog_title_attention">Atenção!</string>
     <string name="hardware_detection">Teste de hardware</string>
     <string name="insurance_entrance">Ver pedidos de garantia</string>
     <string name="item_name_battery">Bateria</string>

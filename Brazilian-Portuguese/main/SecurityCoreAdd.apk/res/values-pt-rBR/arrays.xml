@@ -18,6 +18,6 @@
     <string-array name="switch_apps_title_confirms">
         <item>Os dados do app serão perdidos</item>
         <item>Os dados do app serão perdidos</item>
-        <item>Atenção</item>
+        <item>Atenção!</item>
     </string-array>
 </resources>

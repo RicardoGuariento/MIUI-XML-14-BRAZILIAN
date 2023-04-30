@@ -102,8 +102,8 @@
     <string name="broken_screen_rescue_service_learn_subtitle2">Backup de itens</string>
     <string name="broken_screen_rescue_service_learn_title">Como usar este recurso</string>
     <string name="broken_screen_rescue_service_tips_1">"%1$d. Se o seu bloqueio de tela for %2$d, a mensagem deve ser semelhante a esta: *#*#%3$d#*#*. Se você estiver usando uma senha que contenha letras e dígitos, peça à outra pessoa para incluí-la na mensagem sem omissões."</string>
-    <string name="broken_screen_rescue_service_tips_2">"%1$d. Se estiver usando um padrão, ele pode ser representado por dígitos na mensagem. O ponto no canto superior esquerdo é %2$d. A numeração vai da esquerda para a direita, linha após linha, e termina com %3$d no canto inferior direito."</string>
-    <string name="broken_screen_rescue_service_tips_3">"%1$d. Se você não estiver usando um bloqueio de tela, use \"nenhumasenha\" ou em inglês \"nopassword\" em vez dos caracteres que o representam na mensagem."</string>
+    <string name="broken_screen_rescue_service_tips_2">"%1$d. Caso esteja usando um padrão, ele pode ser representado por dígitos na mensagem. O ponto no canto superior esquerdo é %2$d. A numeração vai da esquerda para a direita, linha após linha, e termina com %3$d no canto inferior direito."</string>
+    <string name="broken_screen_rescue_service_tips_3">"%1$d. Caso não esteja usando um bloqueio de tela, use \"nenhumasenha\" ou em inglês \"nopassword\" em vez dos caracteres que o representam na mensagem."</string>
     <string name="broken_screen_rescue_service_tips_4">"%1$d. Você terá apenas %2$d tentativas para ativar este recurso. Certifique-se de que a mensagem SMS que a outra pessoa está enviando esteja correta e que a pessoa esteja em seus contatos para ter sucesso."</string>
     <string name="broken_screen_rescue_service_tips_5">%1$d. Recomendamos que você use esse recurso na presença de nosso pessoal de suporte ao cliente.</string>
     <string name="broken_screen_rescue_service_tips_6">"%1$d. Se você não conseguir fazer backup de itens em seu computador, saiba como resolver esse problema em nossa documentação de ajuda."</string>
@@ -1025,7 +1025,7 @@ Libere algum espaço ou transfira só itens importantes."</string>
     <string name="user_name_null">O usuário não pode estar em branco</string>
     <string name="user_notice_declaration_ignore">Não mostrar novamente</string>
     <string name="user_notice_message">Algumas funcionalidades requerem uma conexão com a internet para funcionarem normalmente.</string>
-    <string name="user_notice_title">Atenção</string>
+    <string name="user_notice_title">Atenção!</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="view_password_description">Mostrar senha</string>

@@ -127,12 +127,12 @@
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -383,7 +383,7 @@
     <string name="insert_event_dialog_btn_negative">Não</string>
     <string name="insert_event_dialog_btn_positive">Sim</string>
     <string name="insert_event_dialog_message">Adicionar este evento na agenda?</string>
-    <string name="insert_event_dialog_title">Atenção</string>
+    <string name="insert_event_dialog_title">Atenção!</string>
     <string name="insert_event_toast_add_failed">Não foi possível adicionar</string>
     <string name="insert_event_toast_add_success">Evento criado</string>
     <string name="install_email_app">Instalar E-mail</string>
@@ -945,7 +945,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="user_notice_button_exit">Cancelar</string>
     <string name="user_notice_button_ok">"OK"</string>
     <string name="user_notice_message">Ao usar este produto, você concorda com o %1$s e a %2$s da Xiaomi. Algumas funcionalidades exigem uma conexão com a internet, acesso à localização, contatos e SMS para funcionarem normalmente.</string>
-    <string name="user_notice_title">Atenção</string>
+    <string name="user_notice_title">Atenção!</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="view_details">Ver detalhes</string>

@@ -222,8 +222,8 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_cancel_backup_msg">Alternar o botão cancelará os backups em andamento.</string>
     <string name="dialog_cancel_backup_title">Cancelar o backup em andamento?</string>
     <string name="dialog_cloud_space_not_enough">Este backup requer %1$s de espaço de armazenamento na MiCloud. Atualize seu plano de armazenamento para fazer backup de itens</string>
-    <string name="dialog_content_cancel_backup">Os dados já carregados serão perdidos se você cancelar o backup. Cancelar?</string>
-    <string name="dialog_content_cancel_restore">Os dados já restaurados serão retidos se você parar de restaurar. Parar de restaurar?</string>
+    <string name="dialog_content_cancel_backup">Os dados já carregados serão perdidos caso cancele o backup. Cancelar?</string>
+    <string name="dialog_content_cancel_restore">Os dados já restaurados serão retidos caso pare de restaurar. Parar de restaurar?</string>
     <string name="dialog_get_installed_apps_consent_message">Para poder fazer backup automaticamente, conceda permissão a este app em Configurações para acessar a lista de apps instalados em seu dispositivo e selecione \"Sempre permitir\".</string>
     <string name="dialog_get_installed_apps_consent_title">Permissões necessárias</string>
     <string name="dialog_msg_overwrite_backup">O backup local é diferente do existente na MiCloud. Se você continuar, o backup atual substituirá o anterior.</string>
@@ -323,7 +323,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="managespace_delete_backup">Excluir</string>
     <string name="manual_request_notification_permission_dialog_negative_button">Fechar</string>
     <string name="manual_request_notification_permission_dialog_positive_button">Configurações</string>
-    <string name="manual_request_permissions_dialog_description">"Se você não conceder permissões para \"%s\", não receberá notificações oportunas sobre backups malsucedidos e outras ações importantes. Você pode conceder essa permissão em Configurações."</string>
+    <string name="manual_request_permissions_dialog_description">"Caso não conceda as permissões para \"%s\", não receberá notificações oportunas sobre backups malsucedidos e outras ações importantes. Você pode conceder essa permissão em Configurações."</string>
     <string name="manual_request_permissions_dialog_title">Permissões necessárias</string>
     <string name="menu_item_managespace">Gerenciar espaço</string>
     <string name="menu_item_sort">Ordenar por</string>

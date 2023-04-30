@@ -122,7 +122,7 @@ para visualizá-las a qualquer momento"</string>
     <string name="delete_src_photo">Excluir fotos</string>
     <string name="dialog_message_service_error">Não foi possível revogar a autorização e redefinir para as configurações de fábrica. Tente novamente.</string>
     <string name="dialog_tip_need_network">Seu dispositivo precisa de uma conexão com a internet para revogar a autorização.</string>
-    <string name="dialog_title">Atenção</string>
+    <string name="dialog_title">Atenção!</string>
     <string name="dialog_title_service_error">Erro no servidor</string>
     <string name="dialog_undo_negative">Não revogar</string>
     <string name="dialog_verify">Verifique sua impressão digital</string>
@@ -295,7 +295,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="lock_screen_open_second_space">Acesse o Segundo espaço direto da Tela de bloqueio</string>
     <string name="master_clear_apply_step_1">Revogar a autorização redefinirá o dispositivo para as configurações de fábrica. Isso apagará permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e apps. Faça o backup de itens importantes para o seu computador antes de revogar a autorização.</string>
     <string name="master_clear_apply_step_2">Certifique-se de ter feito um backup de todos os itens importantes para o seu computador. Quando você tocar em \"OK\", o dispositivo será redefinido para as configurações de fábrica, apagando permanentemente todos os seus arquivos e dados, incluindo contas, contatos, fotos e apps.</string>
-    <string name="master_clear_apply_title">Atenção</string>
+    <string name="master_clear_apply_title">Atenção!</string>
     <string name="master_clear_not_available">Redefinição para dados de fábrica restringidos por sua empresa.</string>
     <string name="master_clear_not_available_ep">Você não tem permissão para executar uma redefinição para os dados de fábrica ou revogar sua autorização agora. Entre em contato com seu supervisor.</string>
     <string name="menu_item_about_privacy_title">Política de Privacidade</string>

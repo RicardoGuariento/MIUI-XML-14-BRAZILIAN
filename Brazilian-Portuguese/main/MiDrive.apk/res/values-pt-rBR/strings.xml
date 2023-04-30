@@ -444,7 +444,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
     <string name="privacy_user_notice_dialog_exit_btn_text">Sair</string>
     <string name="privacy_user_notice_dialog_msg">"Você não poderá continuar usando o Mi Drive a menos que aceite a nova versão da sua &lt;a href=%1$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a>. Aceitar a Política de Privacidade atualizada?"</string>
     <string name="privacy_user_notice_dialog_ok_btn_text">Aceitar</string>
-    <string name="privacy_user_notice_dialog_title">Atenção</string>
+    <string name="privacy_user_notice_dialog_title">Atenção!</string>
     <string name="private_empty_desc">Aqui você pode armazenar arquivos com privacidade.</string>
     <string name="private_empty_sub_desc">Tente mover os arquivos aqui ou envie-os diretamente.</string>
     <string name="private_folder_name">Arquivos privados</string>

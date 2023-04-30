@@ -104,7 +104,7 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="invalid_package_signature">A assinatura do app é inválida</string>
-    <string name="login_mi_account_alert">Atenção</string>
+    <string name="login_mi_account_alert">Atenção!</string>
     <string name="login_mi_account_summary">O gerenciador de senhas sincroniza senhas com sua Conta Mi. Fazer login agora?</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>

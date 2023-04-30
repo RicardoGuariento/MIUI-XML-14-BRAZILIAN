@@ -172,7 +172,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="dialog_request_permission_message_extra_title">"Permissões obrigatórias "</string>
     <string name="dialog_request_permission_message_link" formatted="false"><Data>"Permita que este app se conecte à Internet e conceda as permissões necessárias mencionadas acima. Além disso, para atender plenamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e concorde com o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>."</Data></string>
     <string name="dialog_request_permission_message_provision_link">Permita que este app se conecte à Internet e conceda as permissões necessárias mencionadas acima. Além disso, para atender plenamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e aceite nossos %1$s e %2$s.</string>
-    <string name="dialog_request_permission_title">Atenção</string>
+    <string name="dialog_request_permission_title">Atenção!</string>
     <string name="dialog_tip_upgrade_summary">Parece que a versão do Mi Mover é muito antiga. Atualize o Mi Mover para sua versão mais recente para poder transferir arquivos.</string>
     <string name="dialog_tip_upgrade_title">Atualizar Mi Mover</string>
     <string name="dialog_version_summary_tip">"O que há de novo:"</string>
@@ -307,7 +307,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="hsa_verify_retry">Tente novamente</string>
     <string name="hsa_verify_shutdown">Desativar</string>
     <string name="icloud_data_importing">Importando…</string>
-    <string name="icloud_how_to_backup_tip_steps">"Atenção
+    <string name="icloud_how_to_backup_tip_steps">"Atenção!
 1. Para importar itens de um dispositivo iOS, use o backup mais recente ou sincronize todos os itens antes de iniciar a transferência."</string>
     <string name="icloud_how_to_backup_tip_steps_two">2. Seu ID e senha da Apple serão usados apenas para fazer login. Eles não serão armazenados ou gravados pelo Mi Mover.</string>
     <string name="icloud_login_title">Entrar no iCloud</string>
@@ -333,7 +333,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="import_data_from_icloud">Importar dados do iCloud</string>
     <string name="install_app_dialog_title">Não foi possível encontrar dispositivos próximos</string>
     <string name="install_app_link_text">Por que meu antigo dispositvo não pode se conectar ao ponto de acesso?</string>
-    <string name="install_app_message">"Se você não conseguir encontrar o novo dispositivo, tente o seguinte:
+    <string name="install_app_message">"Caso não consiga encontrar o novo dispositivo, tente o seguinte:
 1. Verifique se o Mi Mover está instalado no seu novo dispositivo.
 2. Aproxime os dois dispositivos."</string>
     <string name="install_app_new_title">Leia o código QR para instalar o Mi Mover no seu novo dispositivo</string>
@@ -853,7 +853,7 @@ no seu iPhone"</string>
 
 "</string>
     <string name="transfer_quit_alert_message_extra">O progresso da transferência será salvo. Você poderá retomar a transferência de onde parou na próxima vez que conectar os dois dispositivos.</string>
-    <string name="transfer_quit_alert_title">Atenção</string>
+    <string name="transfer_quit_alert_title">Atenção!</string>
     <string name="transfer_snap_error">Não foi possível transferir</string>
     <string name="transfer_snap_new_receiving">Recebendo…</string>
     <string name="transfer_snap_new_restore_finish">Transferido com sucesso</string>

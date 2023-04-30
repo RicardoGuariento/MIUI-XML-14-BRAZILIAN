@@ -369,7 +369,7 @@
     <string name="pc_entered_extreme_mode_summary">"Seu dispositivo está sem bateria e entrou no Modo hibernação. Os apps serão executados em segundo plano e não enviarão notificações."</string>
     <string name="pc_extreme_exit_and_power_off">Sair</string>
     <string name="pc_extreme_mode_bg_toast">"No Modo hibernação, os apps serão executados em segundo plano e não enviarão notificações"</string>
-    <string name="pc_extreme_mode_exit_risk_title">Atenção</string>
+    <string name="pc_extreme_mode_exit_risk_title">Atenção!</string>
     <string name="pc_extreme_mode_exit_risk_title_summary">Seu dispositivo está sem bateria. Se você sair do Modo hibernação, seu dispositivo será desligado.</string>
     <string name="pc_extreme_mode_find_charger">Carregue seu dispositivo o mais rápido possível.</string>
     <string name="pc_extreme_mode_runtime">O Modo hibernação está ativo há %1$s %2$s.</string>
@@ -406,7 +406,7 @@
     <string name="superpower_battery_dangerous">Conecte o carregador assim que possível</string>
     <string name="superpower_date">"EEEE, dd 'de' MMMM"</string>
     <string name="superpower_dialog_app_select_content">Apps de terceiros normalmente consomem mais energia que os apps de sistema. Adicionar mesmo assim?</string>
-    <string name="superpower_dialog_app_select_title">Atenção</string>
+    <string name="superpower_dialog_app_select_title">Atenção!</string>
     <string name="superpower_dialog_button_ok">"OK"</string>
     <string name="superpower_exit_hint">Desativando a Ultra economia de bateria…</string>
     <string name="superpower_incharging">Carregando</string>

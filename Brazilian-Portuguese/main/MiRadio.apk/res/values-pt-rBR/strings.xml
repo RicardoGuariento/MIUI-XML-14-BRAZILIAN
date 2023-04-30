@@ -470,7 +470,7 @@ Envie este código para o supervisor."</string>
     <string name="report">Relatório</string>
     <string name="report_comment_success">Vamos revisar seu relatório. Obrigado pelo seu feedback!</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">Protegeremos suas informações pessoais de acordo com as leis e regulamentos pertinentes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concordar em conceder tais permissões, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você. Você pode sempre restringir as permissões ou revogar sua autorização nas Configurações.</string>
+    <string name="request_camera_permission_message">Protegeremos suas informações pessoais de acordo com as leis e regulamentos pertinentes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você. Você pode sempre restringir as permissões ou revogar sua autorização nas Configurações.</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">Não foi possível verificar</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>

@@ -121,12 +121,12 @@
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -639,7 +639,7 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="privacy_policy_withdrawal_error">"Não foi possível retirar o consentimento. Espere alguns minutos e tente novamente."</string>
     <string name="privacy_policy_withdrawal_message"><Data>"Se você continuar, retirará seu consentimento com a Política de Privacidade do Scanner. Isso será considerado uma recusa em aceitar os serviços do Scanner. Você terá que concordar com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> novamente se você decidir usar o Scanner. Retirar consentimento agora?"</Data></string>
     <string name="processing">Processando…</string>
-    <string name="prompt">Atenção</string>
+    <string name="prompt">Atenção!</string>
     <string name="qr_code_details">Detalhes do código QR:</string>
     <string name="qrcode_cannot_be_processed_auto">"O scanner inteligente não pode processar este código. Em vez disso, digitalize o código com o WeChat."</string>
     <string name="query">Verificar</string>

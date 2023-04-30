@@ -240,7 +240,7 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="aerr_wait">Aguarde</string>
     <string name="alert_windows_notification_channel_group_name">Sobrepor a outros apps</string>
     <string name="alert_windows_notification_channel_name">%s sendo exibido sobre outros apps</string>
-    <string name="alert_windows_notification_message">Caso não queira que o app %s use este recurso, toque para abrir as Configurações e desativá-lo.</string>
+    <string name="alert_windows_notification_message">Caso não queira que o app %s use este recurso, toque para abrir as Configurações e desative.</string>
     <string name="alert_windows_notification_title">%s sendo exibido sobre outros apps.</string>
     <string name="alert_windows_notification_turn_off_action">Desativar</string>
     <string name="allow">Permitir</string>
@@ -258,7 +258,7 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="anr_activity_process">%1$s não está respondendo</string>
     <string name="anr_application_process">%1$s não está respondendo</string>
     <string name="anr_process">O processo %1$s não está respondendo</string>
-    <string name="app_blocked_message">O app %1$s não está disponível no momento.</string>
+    <string name="app_blocked_message">%1$s não está disponível no momento.</string>
     <string name="app_blocked_title">O app não está disponível</string>
     <string name="app_category_accessibility">Acessibilidade</string>
     <string name="app_category_audio">Música e áudio</string>
@@ -283,7 +283,7 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="app_streaming_blocked_title_for_microphone_dialog">Microfone indisponível</string>
     <string name="app_streaming_blocked_title_for_permission_dialog">Permissão necessária</string>
     <string name="app_streaming_blocked_title_for_settings_dialog">Configurações do telefone indisponíveis</string>
-    <string name="app_suspended_default_message">O app %1$s não está disponível no momento. Isso é gerenciado pelo app %2$s.</string>
+    <string name="app_suspended_default_message">%1$s não está disponível no momento. Isso é gerenciado pelo app %2$s.</string>
     <string name="app_suspended_more_details">Saiba mais</string>
     <string name="app_suspended_title">O app não está disponível</string>
     <string name="app_suspended_unsuspend_message">Retomar app</string>
@@ -447,7 +447,7 @@ usando %s"</string>
     <string name="data_usage_limit_snoozed_body">Você ultrapassou %s do limite definido</string>
     <string name="data_usage_mobile_limit_snoozed_title">Acima do limite de dados móveis</string>
     <string name="data_usage_mobile_limit_title">Limite de dados móveis atingido</string>
-    <string name="data_usage_rapid_app_body">O app %s usou mais dados do que o normal</string>
+    <string name="data_usage_rapid_app_body">%s usou mais dados do que o normal</string>
     <string name="data_usage_rapid_body">Seus apps usaram mais dados do que o normal</string>
     <string name="data_usage_rapid_title">Alto uso de dados móveis</string>
     <string name="data_usage_restricted_body">Toque para remover a restrição.</string>
@@ -494,7 +494,7 @@ usando %s"</string>
     <string name="device_storage_monitor_notification_channel">Armazenamento do dispositivo</string>
     <string name="dial_number_using">"Discar número
 usando %s"</string>
-    <string name="dialog_alert_title">Atenção</string>
+    <string name="dialog_alert_title">Atenção!</string>
     <string name="disable_accessibility_shortcut">Desativar atalho</string>
     <string name="dismiss_action">Liberar</string>
     <string name="display_manager_built_in_display_name">Tela integrada</string>
@@ -708,7 +708,7 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="floating_toolbar_close_overflow_description">Fechar menu flutuante</string>
     <string name="floating_toolbar_open_overflow_description">Mais opções</string>
     <string name="force_close">"OK"</string>
-    <string name="foreground_service_app_in_background">O app %1$s está consumindo a bateria</string>
+    <string name="foreground_service_app_in_background">%1$s está consumindo a bateria</string>
     <string name="foreground_service_apps_in_background">%1$d apps estão consumindo a bateria</string>
     <string name="foreground_service_multiple_separator">%1$s, %2$s</string>
     <string name="foreground_service_tap_for_details">Tocar para ver detalhes sobre a bateria e o uso de dados</string>
@@ -1214,7 +1214,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="network_switch_metered_toast">Alternado de %1$s para %2$s</string>
     <string name="network_switch_type_name_unknown">um tipo de rede desconhecido</string>
     <string name="new_app_action">Abrir %1$s</string>
-    <string name="new_app_description">O app %1$s será fechado sem salvar</string>
+    <string name="new_app_description">%1$s será fechado sem salvar</string>
     <string name="new_sms_notification_content">Abra o app de SMS para ver</string>
     <string name="new_sms_notification_title">Você tem mensagens novas</string>
     <string name="next_button_label">Avançar</string>

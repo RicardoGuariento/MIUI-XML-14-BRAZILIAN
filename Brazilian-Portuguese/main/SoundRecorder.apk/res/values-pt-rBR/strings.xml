@@ -510,7 +510,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="recording_stopped">Parado</string>
     <string name="recovery">Restaurar</string>
     <string name="recovery_failed_dialog_button">Entendi</string>
-    <string name="recovery_failed_dialog_title">Atenção</string>
+    <string name="recovery_failed_dialog_title">Atenção!</string>
     <string name="reg_error_audio_exist">Este arquivo já existe.</string>
     <string name="reg_error_audio_large">Os arquivos de áudio não podem ser maiores do que 500MB.</string>
     <string name="reg_error_audio_short">O arquivo de áudio é muito pequeno.</string>

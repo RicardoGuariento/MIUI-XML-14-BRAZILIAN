@@ -297,7 +297,7 @@ Taxa de amostragem"</string>
     <string name="connected_via_passpoint">Conectado via %1$s</string>
     <string name="content_description_menu_button">"Menu"</string>
     <string name="convert_to_fbe_warning">"Converte a partição de dados para criptografia baseada em arquivos.
- !!Atenção!! Isto apagará todos os seus dados.
+ !!Atenção!!! Isto apagará todos os seus dados.
  Este recurso está alfa, e pode não funcionar corretamente.
  Pressione \"Apagar e converter…\" para continuar."</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>

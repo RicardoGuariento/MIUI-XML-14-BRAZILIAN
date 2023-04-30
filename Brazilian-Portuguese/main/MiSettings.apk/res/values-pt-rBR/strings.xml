@@ -156,7 +156,7 @@
     <string name="dart_frog_info">Sua pele azul brilhante e suas glândulas venenosas são mecanismos de defesa contra potenciais predadores.</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
-    <string name="dc_light_hint_enable_title">Atenção</string>
+    <string name="dc_light_hint_enable_title">Atenção!</string>
     <string name="dc_light_hint_normal">O DC dimming pode afetar como alguns itens são exibidos.</string>
     <string name="dc_light_hint_normal_anit">O modo anti-oscilação pode afetar a forma como alguns itens são exibidos.</string>
     <string name="dc_light_hint_normal_other">O modo anti-oscilação pode afetar a taxa de atualização e a forma como alguns itens são exibidos.</string>
@@ -751,7 +751,7 @@ Os dados coletados serão armazenados apenas localmente neste dispositivo.
     <string name="usage_device_limit_time_over">Você atingiu o limite de hoje (%1$s)</string>
     <string name="usage_exit">Sair</string>
     <string name="usage_focus_focus_premission_main_summary">Este app precisa acessar suas informações de conta para gravar suas estatísticas de uso do Modo foco.</string>
-    <string name="usage_focus_focus_premission_second_summary">Se você não concordar em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, as suas funcionalidades básicas ainda estarão disponíveis para você. Você sempre poderá restringir permissões ou revogar sua autorização nas Configurações.</string>
+    <string name="usage_focus_focus_premission_second_summary">Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, as suas funcionalidades básicas ainda estarão disponíveis para você. Você sempre poderá restringir permissões ou revogar sua autorização nas Configurações.</string>
     <string name="usage_focus_new_summary">Torne-se mais atento e focado</string>
     <string name="usage_focus_save_success">Salvo na Galeria com sucesso</string>
     <string name="usage_focus_summary_level1">Dedicar alguns minutos para permanecer focado é fácil.</string>
@@ -776,7 +776,7 @@ Este app também precisa de uma conexão com a internet e requer as seguintes pe
 Para funcionar normalmente, este app precisa coletar informações de tempo de tela: o número de vezes que você desbloqueia seu telefone, nomes de apps, e duração do uso de apps são necessários para gerar estatísticas de tempo de tela.
 Este app também precisa de uma conexão com a internet e requer as seguintes permissões para coletar suas informações pessoais:"</string>
     <string name="usage_home_premission_second_summary">Para funcionar normalmente, este app precisa coletar suas informações pessoais. Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Se você não concordar em conceder tais permissões ou compartilhar e fazer o upload das suas informações pessoais, você não poderá usar este app. Você pode revogar sua autorização em Tempo de tela > Configurações > Desativar Tempo de tela.</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">Nós protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Caso não concorde em conceder tais permissões ou compartilhar e fazer o upload das suas informações pessoais, você não poderá usar este app. Você pode revogar sua autorização em Tempo de tela > Configurações > Desativar Tempo de tela.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Antes de usar este app, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>.&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">Nós protegeremos suas informações pessoais de acordo com leis, regulamentos e políticas de privacidade relevantes. Se você não concorda em conceder tais permissões ou compartilhar e fazer o upload de suas informações pessoais, você não poderá usar este app. Você pode revogar sua autorização em Tempo de tela > Configurações > Desativar Tempo de tela. Caso tenha outras dúvidas sobre privacidade, você pode entrar em contato conosco em privacy@xiaomi.com.</string>
     <string name="usage_new_category_limit_summary">Definir limites de uso diário para todos os apps desta categoria</string>
@@ -828,7 +828,7 @@ Este app também precisa de uma conexão com a internet e requer as seguintes pe
     <string name="usage_permission_double_link" formatted="false">"&lt;Data>Este app precisa se conectar à internet e coletar os dados pessoais exigidos para poder funcionar normalmente. Para entender totalmente os seus direitos como usuário e as formas que usamos seus dados, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>.&lt;/Data>"</string>
     <string name="usage_permission_main_desc">"Bem-vindo ao Tempo de tela!
 Este app precisa se conectar à internet e requer as seguintes permissões para poder funcionar normalmente:"</string>
-    <string name="usage_permission_title">Atenção</string>
+    <string name="usage_permission_title">Atenção!</string>
     <string name="usage_reach_device_limit">Tempo esgotado! Você atingiu seu limite.</string>
     <string name="usage_reach_device_limit_warning_text">Você atingiu seu limite de tempo de tela para hoje</string>
     <string name="usage_refresh">Tentar novamente</string>
@@ -883,7 +883,7 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usage_state_focus_mode_warning_message">O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente.</string>
     <string name="usage_state_focus_mode_warning_message_pad">O Modo foco só permite que você use a Câmera. Você não poderá desativar o Modo foco antecipadamente.</string>
     <string name="usage_state_focus_mode_warning_message_sim_pad">O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente.</string>
-    <string name="usage_state_focus_mode_warning_title">Atenção</string>
+    <string name="usage_state_focus_mode_warning_title">Atenção!</string>
     <string name="usage_state_focus_success">Desafio concluído</string>
     <string name="usage_state_focus_take_photo">Câmera</string>
     <string name="usage_state_focus_warning_text">Foque no que é importante</string>

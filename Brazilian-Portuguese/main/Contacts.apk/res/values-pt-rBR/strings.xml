@@ -162,7 +162,7 @@
     <string name="bh_no_sim_inserted">O cartão SIM não está inserido</string>
     <string name="bh_none">Nenhum</string>
     <string name="bh_not_contact">"Este número não está em seus contatos"</string>
-    <string name="bh_notice">Atenção</string>
+    <string name="bh_notice">Atenção!</string>
     <string name="bh_online_service">Suporte online</string>
     <string name="bh_open_carrier_services_short">Serviços Operadora Mi</string>
     <string name="bh_open_carrier_services_short_reason">Ative o Serviços da Operadora Mi para poder usar esse recurso.</string>

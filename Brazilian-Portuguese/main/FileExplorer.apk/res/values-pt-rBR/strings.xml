@@ -113,7 +113,7 @@
     <string name="category_video">Vídeos</string>
     <string name="category_zip">Arquivos</string>
     <string name="cdd_message">Devido às restrições do Android 11, você não poderá visualizar arquivos gerados em apps de terceiros no Gerenciador de arquivos</string>
-    <string name="cdd_title">Atenção</string>
+    <string name="cdd_title">Atenção!</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
     <string name="chip_text">Texto do chip</string>
@@ -326,7 +326,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="ftp_account_req_notice">O nome de usuário e a senha diferenciam maiúsculas de minúsculas e devem conter %1$d-%2$d caracteres. Você pode combinar letras, símbolos especiais e números.</string>
     <string name="ftp_anonymous_login">Iniciar sessão anônima</string>
     <string name="ftp_anonymous_warning_msg">Os recursos de anonimato podem representar riscos de segurança. Usar esses recursos mesmo assim?</string>
-    <string name="ftp_anonymous_warning_title">Atenção</string>
+    <string name="ftp_anonymous_warning_title">Atenção!</string>
     <string name="ftp_invalid_username_or_password">Usuário ou senha que você inseriu é inválido</string>
     <string name="ftp_open_port_error">"Não foi possível abrir a porta. Verifique a conexão de rede ou reinicie o número da porta"</string>
     <string name="ftp_password_hint">Senha</string>

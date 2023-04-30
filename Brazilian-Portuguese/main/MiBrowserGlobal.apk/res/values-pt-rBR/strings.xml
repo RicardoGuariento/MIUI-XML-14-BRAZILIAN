@@ -537,12 +537,12 @@ Desative o seletor para parar a sincronização."</string>
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -1520,8 +1520,8 @@ Envie este código para o supervisor."</string>
     <string name="mw_common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="mw_common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="mw_common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="mw_common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="mw_common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="mw_common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="mw_common_google_play_services_unsupported_text">%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="mw_common_google_play_services_update_button">Atualizar</string>
     <string name="mw_common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="mw_common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -2718,7 +2718,7 @@ Try to modify your keyword?"</string>
     <string name="replay">Reproduzir novamente</string>
     <string name="reply_comment_title">Re: %s</string>
     <string name="report_no_network_error">There is currently no network to connect to, please confirm and try again!</string>
-    <string name="request_camera_permission_message">Este serviço precisa pedir sua permissão a seguir, cumpriremos rigorosamente as leis relevantes para proteger suas informações pessoais: &lt;br>&lt;br>&lt;b> Acesse a câmera: experimente serviços de gravação em tempo real para configurar o Avatar &lt;/b>&lt;br>&lt;br> Se você não concordar em conceder as permissões acima, esta função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a concessão de permissão acima nas configurações do sistema para retirar seu consentimento.</string>
+    <string name="request_camera_permission_message">Este serviço precisa pedir sua permissão a seguir, cumpriremos rigorosamente as leis relevantes para proteger suas informações pessoais: &lt;br>&lt;br>&lt;b> Acesse a câmera: experimente serviços de gravação em tempo real para configurar o Avatar &lt;/b>&lt;br>&lt;br> Caso não concorde em conceder as permissões acima, esta função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a concessão de permissão acima nas configurações do sistema para retirar seu consentimento.</string>
     <string name="request_profile_error">Não foi possível obter as informações da conta</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>

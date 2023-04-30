@@ -138,7 +138,7 @@
     <string name="carousel_declaration_des_new">Receba recomendações personalizadas e escolha imagens novas diariamente</string>
     <string name="carousel_declaration_title">Subscrição do Carrossel de Planos de fundo</string>
     <string name="carousel_declaration_title_new">Papéis de parede novos diariamente</string>
-    <string name="carousel_suggest">Atenção</string>
+    <string name="carousel_suggest">Atenção!</string>
     <string name="carousel_suggest1">Obtenha novos papéis de parede entregues diretamente na sua Tela de bloqueio diariamente de forma gratuita</string>
     <string name="carousel_suggest2">O Carrossel de Planos de fundo esta ativado?</string>
     <string name="category_subscribe_failed">Não foi possível se inscrever"</string>
@@ -387,7 +387,7 @@ Isso pode gerar cobranças adicionais."</string>
     <string name="lks_loop_icon_close_cancle">Cancelar</string>
     <string name="lks_loop_icon_close_dlg">A apresentação de slides da Tela de bloqueio será desativada se você definir esta imagem como sua Tela de bloqueio. Definir como Tela de bloqueio?</string>
     <string name="lks_loop_icon_close_ok">"OK"</string>
-    <string name="lks_loop_icon_close_title">Atenção</string>
+    <string name="lks_loop_icon_close_title">Atenção!</string>
     <string name="lks_loop_icon_dlg_title">Apresentação de slides da Tela de bloqueio</string>
     <string name="lks_loop_icon_open_dlg">A apresentação de slides da Tela de bloqueio está ativada e exibe novas imagens e histórias diariamente em sua Tela de bloqueio.</string>
     <string name="lks_loop_icon_open_ok">Entendi</string>
@@ -894,11 +894,11 @@ mm"</string>
     <string name="privacy_update_summary2">"Leia e concorde com a nova versão da &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a> antes de continuar."</string>
     <string name="privacy_update_summary3">"Você não poderá continuar usando o Carrossel do Planos de fundo, a menos que concorde com a nova versão da sua &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Política de Privacidade&lt;/font>&lt;/a>. Concorda com a Política de Privacidade atualizada agora?"</string>
     <string name="privacy_update_title1">Política de privacidade atualizada</string>
-    <string name="privacy_update_title2">Atenção</string>
+    <string name="privacy_update_title2">Atenção!</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="protocal_dialog_cancel">Cancelar</string>
     <string name="protocal_dialog_confirm">Aceitar</string>
-    <string name="protocal_dialog_title">Atenção</string>
+    <string name="protocal_dialog_title">Atenção!</string>
     <string name="prv_end"><CDATA>Isso é tudo por enquanto.</CDATA></string>
     <string name="prv_loading"><CDATA>Aguarde…</CDATA></string>
     <string name="prv_nodata"><CDATA>Nenhum dado</CDATA></string>
@@ -922,7 +922,7 @@ mm"</string>
     <string name="remove">Remover</string>
     <string name="req_permission_dis_tip">Permissões necessárias</string>
     <string name="request_agree">Permitir</string>
-    <string name="request_camera_permission_message">"Devemos proteger suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concordar em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="request_camera_permission_message">"Devemos proteger suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
     <string name="request_cancel">Cancelar</string>
     <string name="request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>

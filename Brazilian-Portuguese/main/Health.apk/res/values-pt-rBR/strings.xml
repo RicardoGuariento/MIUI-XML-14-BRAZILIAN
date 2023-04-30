@@ -99,7 +99,7 @@ Para fornecer recomendações, compartilharemos seus dados de saúde com um prov
 
 Iremos tornar esses itens anônimos antes de compartilhá-los para evitar que prestadores de serviços terceirizados identifiquem você pessoalmente com base nos dados que recebem.
 
-Se você não quiser ter acesso às aulas recomendadas, você ainda pode usar os exercícios regulares."</string>
+Caso não queira ter acesso às aulas recomendadas, você ainda pode usar os exercícios regulares."</string>
     <string name="auth_dialog_link">Para entender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e concorde com nosso &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Contrato do Usuário&lt;/a&gt;&lt;/font&gt; e a &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="auth_dialog_title">Aulas recomendadas</string>
     <string name="auto_start_fail">Não foi possível conceder permissão</string>
@@ -357,8 +357,8 @@ Se decidir excluir os seus dados, poderá ser feito no Mi Saúde &gt; Fonte de d
     <string name="detection_wait_generate_report_detail">Volte mais tarde</string>
     <string name="device_data_manage">Gerenciar dispositivos</string>
     <string name="device_data_sync">Sincronizar dados de saúde</string>
-    <string name="device_description">Este dispositivo está associado à Conta Mi %s. Se você não encontrar o dispositivo necessário, adicione-o primeiro ao Mi Fit ou ao Xiaomi Wear.</string>
-    <string name="device_list_origin_description">Estes dispositivos estão associados à minha conta %1$s. Se você não conseguir encontrar o dispositivo de que precisa aqui, certifique-se de que já o adicionou no app correspondente.</string>
+    <string name="device_description">Este dispositivo está associado à Conta Mi %s. Caso não encontre o dispositivo necessário, adicione-o primeiro ao Mi Fit ou ao Xiaomi Wear.</string>
+    <string name="device_list_origin_description">Estes dispositivos estão associados à minha conta %1$s. Caso não consiga encontrar o dispositivo de que precisa aqui, certifique-se de que já o adicionou no app correspondente.</string>
     <string name="device_off_sync_description">Os dados de saúde gerados neste dispositivo não serão sincronizados com o Mi Saúde</string>
     <string name="device_unbound_from_account">Este dispositivo não está mais associado à sua conta</string>
     <string name="diagnosis_log_send_failed">Falha ao enviar log de diagnóstico.</string>
@@ -702,7 +702,7 @@ Comece de novo."</string>
     <string name="hr_report_active_lowest_desc">"Sua frequência cardíaca indica que você está praticando atividades físicas de baixa intensidade. Estimula seu corpo até certo ponto, sem exigir muita energia."</string>
     <string name="hr_report_active_mid_desc">Sua frequência cardíaca atual é uma taxa de exercício moderada. Recomenda-se que a maioria dos adultos saudáveis ​​faça exercícios de intensidade moderada a alta durante 150 minutos por semana.</string>
     <string name="hr_report_common_desc">A frequência cardíaca normal é mantida pelo corpo humano durante as atividades diárias e varia de 60 a 100 batimentos por minuto. Uma frequência cardíaca inferior a 60 BPM é um sinal de bradicardia, enquanto uma frequência cardíaca acima de 100 BPM é aceita como taquicardia em adultos.</string>
-    <string name="hr_report_regular_fast_desc">Sua frequência cardíaca atual está muito rápida. A atividade física excessiva, o consumo de álcool, o trabalho físico pesado, o nervosismo, a ansiedade ou o uso de certos medicamentos podem causar taquicardia fisiológica. Além disso, doenças cardiovasculares, anemia, hipertireoidismo, hipóxia, insuficiência cardíaca e outras doenças podem ser os sinais de taquicardia patológica. Se você não se sentir bem, consulte seu médico a tempo.</string>
+    <string name="hr_report_regular_fast_desc">Sua frequência cardíaca atual está muito rápida. A atividade física excessiva, o consumo de álcool, o trabalho físico pesado, o nervosismo, a ansiedade ou o uso de certos medicamentos podem causar taquicardia fisiológica. Além disso, doenças cardiovasculares, anemia, hipertireoidismo, hipóxia, insuficiência cardíaca e outras doenças podem ser os sinais de taquicardia patológica. Caso não esteja se sentindo bem, consulte seu médico a tempo.</string>
     <string name="hr_report_regular_normal_desc">"Sua frequência cardíaca atual é normal. Seu coração pode lidar bem com o estresse e seu corpo pode resistir à pressão externa. No entanto, você não deve esquecer que as alterações da frequência cardíaca podem ser sinais de doenças cardíacas. Fique sempre atento à sua frequência cardíaca, especialmente durante o exercício."</string>
     <string name="hr_report_regular_slow_desc">"Sua frequência cardíaca atual está muito baixa. Cerca de 15% das pessoas podem apresentar bradicardia fisiológica, que é um ritmo sinusal lento inferior a 60 BPM. Se essa condição não causar tonturas, desmaios, vertigens ou desmaios, provavelmente você não precisará de nenhum tratamento. No entanto, se sentir aperto no peito ou outros sintomas, consulte seu médico a tempo."</string>
     <string name="hr_report_resting_fast_desc">Sua frequência cardíaca em repouso está mais rápida do que o normal, o que pode ser um sinal de taquicardia. Uma dieta com baixo teor de sal e óleo reduzido, perda de peso, parar de fumar e álcool, conscientização sobre saúde mental e atividade física podem ajudá-lo a diminuir sua frequência cardíaca de repouso.</string>
@@ -798,7 +798,7 @@ Comece de novo."</string>
     <string name="lock_not_support_description">Para disponibilizar a sua ID médica de emergência na Tela de bloqueio, toque em Mais > Editar e ative Mostrar quando bloqueado.</string>
     <string name="lock_show_dialog_content">"Sua ID médica de emergência pode ser acessada sem desbloquear o dispositivo.
 Se não quiser compartilhar suas informações, você pode desativar esse recurso."</string>
-    <string name="lock_show_dialog_title">Atenção</string>
+    <string name="lock_show_dialog_title">Atenção!</string>
     <string name="lock_show_solve_description">Para exibir a ID médica de emergência na Tela de bloqueio, permita que o Mi Saúde seja mostrado na Tela de bloqueio.</string>
     <string name="lock_show_solve_go">Configurações</string>
     <string name="lock_show_solve_path">Toque em \"Configurações\" abaixo, escolha \"Mostrar na Tela de bloqueio\" e selecione \"Sempre permitir\".</string>

@@ -1049,7 +1049,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="bill_limit_notification_title">Saldo insuficiente</string>
     <string name="bill_remind">Aviso de saldo do telefone</string>
     <string name="bill_reminder_summary">Lembrar de fazer uma recarga quando o saldo for inferior a %1s</string>
-    <string name="bill_traffic_reminder_instruction">Atenção</string>
+    <string name="bill_traffic_reminder_instruction">Atenção!</string>
     <string name="bill_traffic_reminder_instruction_text">Os métodos de cobrança e os padrões de cálculo de dados de diferentes operadoras podem variar. Atrasos no faturamento também podem ocorrer. As estatísticas de uso fornecidas aqui são apenas para sua referência.</string>
     <string name="bind_xiaomi_account_cancel">Cancelar</string>
     <string name="bind_xiaomi_account_confirm">Adicionar</string>
@@ -1239,12 +1239,12 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cmcc_app_check_dialog_negative">Depois</string>
     <string name="cmcc_app_check_dialog_positive">Reiniciar agora</string>
     <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
     <string name="commonly_used_func_card_title">Características comuns</string>
     <string name="commonly_used_func_edit_too_many_func">Não é possível adicionar mais itens</string>
     <string name="compatible_dialog_content">"Este app não é totalmente compatível com a arquitetura de 64 bits. Você poderá ter problemas de desempenho e aumento do consumo de energia ao usá-lo."</string>
     <string name="compatible_dialog_more_info">Saiba mais</string>
-    <string name="compatible_dialog_title">Atenção</string>
+    <string name="compatible_dialog_title">Atenção!</string>
     <string name="comprehensive_protection_measures">Proteção abrangente</string>
     <string name="confirmSecondSpacePassword">Confirmar senha do Segundo espaço</string>
     <string name="confirm_ai_allow_all_permission">Alterar o status da permissão para \"Decida por mim\" para todos os apps?</string>
@@ -1356,7 +1356,7 @@ A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móve
     <string name="data_usage_warning_body_notify">Toque para ver detalhes</string>
     <string name="data_usage_warning_title_notify">Você ultrapassou seu limite de dados</string>
     <string name="databooster_tips_message">Ative para restringir todos os cartões SIM exceto o chip de dados. Desative este recurso se ocorrerem erros durante a partida.</string>
-    <string name="databooster_tips_title">Atenção</string>
+    <string name="databooster_tips_title">Atenção!</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="day_overflow_tips">Aviso sobre o uso de dados diários</string>
@@ -1435,7 +1435,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 "</string>
     <string name="dialog_skt_roaming_warning_ok">Concordar</string>
     <string name="dialog_skt_roaming_warning_title">Acordo de roaming de dados</string>
-    <string name="dialog_title_attention">Atenção</string>
+    <string name="dialog_title_attention">Atenção!</string>
     <string name="dialog_title_auto_start_declare">Sobre o início automático</string>
     <string name="dialog_title_stop_virus_scan">Parar verificação de segurança</string>
     <string name="disable_air_mode">Desative o Modo avião primeiro</string>
@@ -1609,7 +1609,7 @@ cartão médico"</string>
     <string name="ew_arrive_text_tips">Onda sísmica chegou: %s</string>
     <string name="ew_button_confirm">Aceito</string>
     <string name="ew_button_exit">Discordo</string>
-    <string name="ew_china_version_first_start_network_msg"><Data>"Este recurso fornece a funcionalidade de aviso de terremoto. Ele o notificará sobre os próximos terremotos e reproduzirá um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para funcionar normalmente, esse recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer avisos precisos sobre terremotos. &lt;br>Se você não concordar em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar isto recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e aceitar a nossa &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Política de privacidade&lt;/a> antes de usar este recurso."</Data></string>
+    <string name="ew_china_version_first_start_network_msg"><Data>"Este recurso fornece a funcionalidade de aviso de terremoto. Ele o notificará sobre os próximos terremotos e reproduzirá um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para funcionar normalmente, esse recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer avisos precisos sobre terremotos. &lt;br>Caso não concorde em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar isto recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e aceitar a nossa &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Política de privacidade&lt;/a> antes de usar este recurso."</Data></string>
     <string name="ew_click_locate">Toque para obter informações de localização</string>
     <string name="ew_close">Desativar alertas</string>
     <string name="ew_close_tips">Alerta de terremoto desativado</string>
@@ -1618,7 +1618,7 @@ cartão médico"</string>
     <string name="ew_concern_date_empty">Nenhum</string>
     <string name="ew_concern_manage">Gerenciar</string>
     <string name="ew_contact_dialog_tips">Adicione pelo menos um contato de emergência.</string>
-    <string name="ew_contact_dialog_title">Atenção</string>
+    <string name="ew_contact_dialog_title">Atenção!</string>
     <string name="ew_current_location">Localização atual</string>
     <string name="ew_emergency_allergy">Alergias</string>
     <string name="ew_emergency_basic_info">Informação básica</string>
@@ -1690,7 +1690,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
     <string name="ew_location_failed">Localização desconhecida</string>
     <string name="ew_location_open">Os serviços de localização estão ativados</string>
     <string name="ew_main_close_text">Você não poderá receber informações atualizadas sobre este terremoto se desligar o alerta. Desativar mesmo assim?</string>
-    <string name="ew_main_close_title">Atenção</string>
+    <string name="ew_main_close_title">Atenção!</string>
     <string name="ew_main_contact_change">Alterar</string>
     <string name="ew_main_contact_change_dialog_content">Você pode alterar ou excluir seu contato de emergência. Você não poderá usar seu contato de emergência se excluí-lo</string>
     <string name="ew_main_contact_change_dialog_title">Alterar contato de emergência</string>
@@ -1716,7 +1716,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
     <string name="ew_monitor_content">Seu dispositivo móvel pode se tornar parte da rede de alerta precoce de terremoto. Depois que seus sensores detectarem ondas sísmicas, os dados serão analisados pelo algoritmo de IA e avisos antecipados serão emitidos para as pessoas nas áreas afetadas.</string>
     <string name="ew_monitor_exit">Cancelar inscrição</string>
     <string name="ew_monitor_exit_content">Olá, voluntário Nº %s! Seu dispositivo pode monitorar a atividade sísmica e coletar dados que ajudariam a emitir alertas precoces de terremoto. Cancelar inscrição mesmo assim?</string>
-    <string name="ew_monitor_exit_title">Atenção</string>
+    <string name="ew_monitor_exit_title">Atenção!</string>
     <string name="ew_monitor_have_been">"Tenho orgulho de ser um "</string>
     <string name="ew_monitor_info_title">Como funciona?</string>
     <string name="ew_monitor_join_number">Número de voluntários</string>
@@ -1890,7 +1890,7 @@ monitoramento de terremotos"</string>
     <string name="firewall_partial">Permitir que alguns apps conectem-se usando o seguinte método</string>
     <string name="firewall_restrict_all">Restringir conexão para todos os apps usando o seguinte método</string>
     <string name="firewall_restrict_android_dialog_content">Para certificar que o seu dispositivo funciona normalmente, alguns apps do sistema Android ainda conectarão-se à Internet. Estes apps usarão sua conexão de dados móveis e poderão gerar cobranças por sua operadora.</string>
-    <string name="firewall_restrict_android_dialog_title">Atenção</string>
+    <string name="firewall_restrict_android_dialog_title">Atenção!</string>
     <string name="firewall_restrict_data">Restringir uso de dados móveis</string>
     <string name="firewall_restrict_notify_title">O %s não pode usar a rede</string>
     <string name="firewall_restrict_wlan">Restringir uso de conexão Wi-Fi</string>
@@ -2114,7 +2114,7 @@ monitoramento de terremotos"</string>
     <string name="gamebox_hangup_tips_title">Desligar tela</string>
     <string name="gamebox_immersion">Modo imersivo</string>
     <string name="gamebox_immersion_tips_content">O Modo imersivo restringe todas as funcionalidades do cartão SIM exceto pela conexão de dados móveis. Você não será interrompido por chamadas ou receberá notificações sobre chamadas perdidas. Todas as funcionalidades serão restauradas quando o Modo imersivo for desativado. Ativar o Modo imersivo?</string>
-    <string name="gamebox_immersion_tips_title">Atenção</string>
+    <string name="gamebox_immersion_tips_title">Atenção!</string>
     <string name="gamebox_immerson_open">Ativando o Modo imersivo, não mude de redes…</string>
     <string name="gamebox_macro">Combinações</string>
     <string name="gamebox_manual_record">Gravar</string>
@@ -2805,7 +2805,7 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
     <string name="loding">Carregando dados</string>
     <string name="log_count">(%d)</string>
     <string name="long_click_dialog_summary">Segure os resultados na lista para adicioná-los às Exceções</string>
-    <string name="long_click_dialog_title">Atenção</string>
+    <string name="long_click_dialog_title">Atenção!</string>
     <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
     <string name="low_memory_warning_dialog_msg">Libere espaço no seu dispositivo para continuar</string>
     <string name="low_memory_warning_dialog_ok_button">Limpar</string>
@@ -3450,7 +3450,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="password_forget_pattern_message">Devido a razões de segurança, só é possível redefinir a sua senha após redefinir o dispositivo para os padrões de fábrica. Toque para redefinir.</string>
     <string name="password_forget_pattern_message_none">Os apps não estão bloqueados. Você pode redefinir sua senha.</string>
     <string name="password_forget_pattern_reset">Redefinir</string>
-    <string name="password_forget_pattern_title">Atenção</string>
+    <string name="password_forget_pattern_title">Atenção!</string>
     <string name="password_promotion_not_login_xiaomi_account_message">Adicione sua Conta Mi para redefinir sua senha caso a esqueça.</string>
     <string name="password_promotion_postbutton_text">Adicionar</string>
     <string name="password_promotion_title">Adicionar Conta Mi</string>
@@ -3491,7 +3491,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_extreme_exit_and_power_off">Sair</string>
     <string name="pc_extreme_mode_bg_toast">"No Modo hibernação, os apps serão executados em segundo plano e não enviarão notificações"</string>
     <string name="pc_extreme_mode_entering">Entrando no Modo hibernação…</string>
-    <string name="pc_extreme_mode_exit_risk_title">Atenção</string>
+    <string name="pc_extreme_mode_exit_risk_title">Atenção!</string>
     <string name="pc_extreme_mode_exit_risk_title_summary">Seu dispositivo está sem bateria. Se você sair do Modo hibernação, seu dispositivo será desligado.</string>
     <string name="pc_extreme_mode_exiting">Saindo do Modo hibernação…</string>
     <string name="pc_extreme_mode_find_charger">Carregue seu dispositivo o mais rápido possível.</string>
@@ -3950,7 +3950,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_setting_category_other">Configurações adicionais</string>
     <string name="power_setting_config_scenario_policies_title">Cenários</string>
     <string name="power_setting_features">Recursos especiais</string>
-    <string name="power_setting_important_warning">Atenção</string>
+    <string name="power_setting_important_warning">Atenção!</string>
     <string name="power_setting_power_save_summary_text">Otimize as configurações do sistema para economizar bateria</string>
     <string name="power_setting_scenario_policies_summary">Identifica cenários para mudar entre os modos de economia de bateria automaticamente</string>
     <string name="power_setting_super_save_summary_text">Restringe a maioria dos recursos do sistema para economizar bateria</string>
@@ -4038,7 +4038,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_privacy_lab_clipboard_summary">Permite que a MIUI decida se um app pode acessar a área de transferência e receber notificações quando isso acontecer</string>
     <string name="pp_privacy_lab_operator_get_number">Necessário aprovação para acessar o número de telefone</string>
     <string name="pp_privacy_lab_operator_get_number_summary">Exige que os apps solicitem sua permissão quando quiserem acessar seu número de telefone para fazer login</string>
-    <string name="pp_privacy_lab_operator_introduction">Atenção</string>
+    <string name="pp_privacy_lab_operator_introduction">Atenção!</string>
     <string name="pp_privacy_lab_operator_introduction_summary">Os apps podem armazenar seu número de telefone, se o mesmo já tiver sido obtido. Alterar esta permissão não excluirá os número de telefone obtidos anteriormente.</string>
     <string name="pp_privacy_protection">Proteção</string>
     <string name="pp_privacy_protection_function">Recursos de proteção de privacidade</string>
@@ -4313,7 +4313,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_revoke_dialog_positive_text">Retirar</string>
     <string name="privacy_revoke_dialog_positive_text_numbers">Retirar (%d s)</string>
     <string name="privacy_revoke_dialog_title">Retirada de consentimento</string>
-    <string name="privacy_revoke_dialog_title_cn">Atenção</string>
+    <string name="privacy_revoke_dialog_title_cn">Atenção!</string>
     <string name="privacy_revoke_failed_dialog_content">Ocorreu um erro no servidor. Espere alguns minutos e tente novamente.</string>
     <string name="privacy_revoke_failed_dialog_title">"Não foi possível retirar o consentimento"</string>
     <string name="privacy_revoke_tip_dialog_content"><Data>"Você não poderá continuar usando %1$s a menos que você concorde com a nova versão de sua Política de Privacidade. Aceitar a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> atualiza de %2$s agora?"</Data></string>
@@ -4336,7 +4336,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_risk_detection_continue">Continuar</string>
     <string name="privacy_risk_detection_stop">Parar</string>
     <string name="privacy_risk_detection_stop_btn">Parar</string>
-    <string name="privacy_risk_detection_stop_msg">Se você parar a verificação agora, alguns riscos de privacidade podem não ser detectados. Parar a verificação mesmo assim?</string>
+    <string name="privacy_risk_detection_stop_msg">caso pare a verificação agora, alguns riscos de privacidade podem não ser detectados. Parar a verificação mesmo assim?</string>
     <string name="privacy_risk_detection_stop_title">Parar verificação</string>
     <string name="privacy_risk_detection_title">Detectar riscos de privacidade</string>
     <string name="privacy_risk_detection_user">Informações pessoais</string>
@@ -4473,7 +4473,7 @@ Retirar consentimento agora?"</string>
     <string name="release_memory">Limpar cache</string>
     <string name="reminder_click_to_close_tips">You can turn data usage warnings on and off in Security > Data usage > Settings.</string>
     <string name="reminder_once_month">Uma vez por mês</string>
-    <string name="reminder_tips">Atenção</string>
+    <string name="reminder_tips">Atenção!</string>
     <string name="reminder_type">Tipo de alerta</string>
     <string name="reminder_warning">Limitar</string>
     <string name="renew_ip">Repetir</string>
@@ -4489,7 +4489,7 @@ Retirar consentimento agora?"</string>
     <string name="report_only">Escolha a mensagem para reportar</string>
     <string name="report_success">Mensagem reportada</string>
     <string name="report_warning">Reportar o SMS de %1$s para a Mi? Estas mensagens e números de telefones serão enviados para os servidores da Mi para revisão. Quaisquer informações pessoais associadas a estas mensagens são sempre mantidas anônimas.</string>
-    <string name="report_warning_title">Atenção</string>
+    <string name="report_warning_title">Atenção!</string>
     <string name="required_permissions">"Permissões obrigatórias "</string>
     <string name="required_permissions_desc">Estas permissões são exigidas para que os serviços e recursos básicos do app fiquem disponíveis.</string>
     <string name="reset_data_dialog_message">Este dispositivo não está associado com a sua Conta Mi. Não é possível restaurar ou redefinir a senha. Faça o backup de todos os itens importantes e restaure os dados de fábrica. Todos os dados serão excluídos permanentemente e o seu cartão SD será formatado durante a redefinição.</string>
@@ -4723,7 +4723,7 @@ Retirar consentimento agora?"</string>
     <string name="sim_lock_other_setting_title">Configurações do PIN</string>
     <string name="sim_lock_pin_confirm">"OK"</string>
     <string name="sim_lock_pin_dialog_confirm">Continuar</string>
-    <string name="sim_lock_pin_dialog_message">Você inseriu um PIN incorreto várias vezes. Agora só resta %d. Se você inserir outro PIN incorreto, o cartão SIM será bloqueado. Continuar?</string>
+    <string name="sim_lock_pin_dialog_message">Você inseriu um PIN incorreto várias vezes. Agora só resta %d. Caso insira outro PIN incorreto, o cartão SIM será bloqueado. Continuar?</string>
     <string name="sim_lock_pin_dialog_title">Última tentativa</string>
     <string name="sim_lock_pin_hint">Insira o PIN do SIM</string>
     <string name="sim_lock_pin_message" formatted="false">Se você não definiu um PIN para o cartão SIM, tente o PIN padrão da sua operadora (%s): %d.</string>
@@ -4755,7 +4755,7 @@ Retirar consentimento agora?"</string>
     <string name="sim_lock_start_bind_device_title">Bloqueie o USIM e associe-o a este dispositivo</string>
     <string name="sim_lock_start_close_dialog_enable">"OK"</string>
     <string name="sim_lock_start_close_dialog_message">Desativar esse recurso tornará seu cartão SIM mais vulnerável a riscos de segurança. Manter este recurso ativado?</string>
-    <string name="sim_lock_start_close_dialog_title">Atenção</string>
+    <string name="sim_lock_start_close_dialog_title">Atenção!</string>
     <string name="sim_lock_start_confirm_password_title">Confirme o bloqueio de tela</string>
     <string name="sim_lock_start_keyguard_dialog_cancel">Cancelar</string>
     <string name="sim_lock_start_keyguard_dialog_enable">Defenir</string>
@@ -4810,7 +4810,7 @@ Retirar consentimento agora?"</string>
     <string name="sp_background_risk_dialog_summary">, verifique e corrija os riscos de pagamento.</string>
     <string name="sp_background_risk_dialog_summary_new">O ambiente atual de pagamentos pode apresentar riscos de segurança. Reserve um momento para resolver os problemas existentes.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Você está conectado a uma rede Wi-Fi pública, o que pode ser inseguro. Certifique-se de que seu pagamento está protegido antes de concluí-lo.</string>
-    <string name="sp_background_risk_dialog_title">Atenção</string>
+    <string name="sp_background_risk_dialog_title">Atenção!</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Alerta de Wi-Fi público</string>
     <string name="sp_background_risk_type_messaging">O app de mensagens do sistema foi substituído</string>
     <string name="sp_background_risk_type_root">Sistema com Root</string>
@@ -5115,7 +5115,7 @@ Retirar consentimento agora?"</string>
     <string name="storage_app_manager_factory_reset_dlg_title">Desinstalar atualizações?</string>
     <string name="storage_app_manager_uninstall_application">Desinstalar</string>
     <string name="storage_app_manager_uninstall_protected_dlg_msg">Desinstalar plugins de sistema pode resultar no funcionamento incorreto de alguns recursos. Desinstalar mesmo assim?</string>
-    <string name="storage_app_manager_uninstall_protected_dlg_title">Atenção</string>
+    <string name="storage_app_manager_uninstall_protected_dlg_title">Atenção!</string>
     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">O dual app deste app também será desinstalado.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Todos os dados do app também serão excluídos se você o desinstalar.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Desinstalar o dual app?</string>
@@ -5333,7 +5333,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_permission_declare_privacy_policy"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="system_permission_declare_revoke_system">Você pode sair deste app.</string>
     <string name="system_permission_declare_revoke_uninstallable">Você pode fazer logout, desinstalar este app ou revogar a sua autorização em Segurança > Gerenciar apps > Permissões > Permissões.</string>
-    <string name="system_permission_declare_title">Atenção</string>
+    <string name="system_permission_declare_title">Atenção!</string>
     <string name="system_permission_declare_use_network">Conectar-se à rede</string>
     <string name="system_permission_declare_use_network_no_permission">Conecte-se à rede</string>
     <string name="system_permission_declare_user_agreement"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>.</Data></string>
@@ -5452,7 +5452,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="terminal_privacy_ability_voice_summary">Comandos de voz e legendas inteligentes</string>
     <string name="terminal_privacy_instruction">A proteção de privacidade no dispositivo inclui os recursos que garantem que suas informações pessoais sejam mantidas neste dispositivo em vez de serem carregadas na nuvem</string>
     <string name="terminal_privacy_summary">Processar informações pessoais neste dispositivo</string>
-    <string name="terms_and_conditions_content"><Data>"Esse recurso fornece a funcionalidade de alerta de terremotos. Ele irá notificá-lo sobre os próximos terremotos e reproduzir um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Nós protegemos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para poder funcionar normalmente, este recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer alertas precisos de terremoto. &lt;br>Se você não concordar em conceder tais permissões ou compartilhar suas informações pessoais, não poderá usar esse recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e concordar com nossa &lt;a href=%s>Política de Privacidade&lt;/a> antes de usar este recurso."</Data></string>
+    <string name="terms_and_conditions_content"><Data>"Esse recurso fornece a funcionalidade de alerta de terremotos. Ele irá notificá-lo sobre os próximos terremotos e reproduzir um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Nós protegemos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para poder funcionar normalmente, este recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer alertas precisos de terremoto. &lt;br>Caso não concorde em conceder tais permissões ou compartilhar suas informações pessoais, não poderá usar esse recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e concordar com nossa &lt;a href=%s>Política de Privacidade&lt;/a> antes de usar este recurso."</Data></string>
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_value_custom">Personalizado</string>
@@ -5506,7 +5506,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
     <string name="thermal_tips_message">Jogar no Modo Desempenho pode causar aquecimento do dispositivo.</string>
-    <string name="thermal_tips_title">Atenção</string>
+    <string name="thermal_tips_title">Atenção!</string>
     <string name="third_application">App instalado</string>
     <string name="third_desktop_dialog_content">Como apps de Launchers de terceiros podem causar problemas como vazamento de dados, drenagem de bateria anormal e lentidões de sistema, apenas os verificados pela MIUI podem ser definidos como o Launcher padrão.</string>
     <string name="third_desktop_dialog_ok">Entendi</string>
@@ -5522,7 +5522,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="timeshow_h_int">"%d h"</string>
     <string name="timeshow_m">"%d min"</string>
     <string name="timeshow_s">"%d s"</string>
-    <string name="tips">Atenção</string>
+    <string name="tips">Atenção!</string>
     <string name="tips_by_auto_close">Para poder definir o saldo do telefone e os alertas de uso de dados, você precisa sincronizar as estatísticas da operadora automaticamente. Ativar a sincronização agora?</string>
     <string name="tips_by_reminder_function">"Você não poderá receber avisos de saldo do telefone e uso de dados se desativar a sincronização automática agora."</string>
     <string name="tips_dialog_title">Não sabe seu limite?</string>
@@ -5898,7 +5898,7 @@ Experimente interpolar a resolução!"</string>
     <string name="verify_sms_title">%1$s está tentando enviar uma mensagem…</string>
     <string name="video_repeat">Reproduzir novamente</string>
     <string name="videobox_hangup_tips_content">A sua tela será bloqueada, mas o app continuará executando em segundo plano quando este recurso estiver ativado. Pressione o botão Liga/Desliga para ligar a tela novamente. Ativar este recurso agora?</string>
-    <string name="videobox_hangup_tips_title">Atenção</string>
+    <string name="videobox_hangup_tips_title">Atenção!</string>
     <string name="videobox_settings_line_location">Local do atalho</string>
     <string name="videobox_settings_line_location_desc">Exibe um atalho na borda da tela</string>
     <string name="videobox_settings_line_location_left">Esquerda</string>

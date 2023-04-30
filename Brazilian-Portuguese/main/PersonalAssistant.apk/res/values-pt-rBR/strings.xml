@@ -544,7 +544,7 @@ para mostrar widgets."</string>
     <string name="pa_setting">Configurações</string>
     <string name="pa_setting_app_usage_auth_close_auth">Desativar</string>
     <string name="pa_setting_app_usage_auth_dialog_message">"Você não poderá usar o widget \"Sugestões do app\" depois de desativar esse recurso. Desativar mesmo assim?"</string>
-    <string name="pa_setting_app_usage_auth_dialog_title">Atenção</string>
+    <string name="pa_setting_app_usage_auth_dialog_title">Atenção!</string>
     <string name="pa_setting_bugreport">"Feedback"</string>
     <string name="pa_setting_perm_empty">Nada aqui ainda</string>
     <string name="pa_setting_personalized_recommenddation_swicth_summary">Obtenha recomendações de widgets com base em seus interesses</string>
@@ -568,7 +568,7 @@ para mostrar widgets."</string>
     <string name="pa_setting_privacy_perm_storage">Acessar armazenamento</string>
     <string name="pa_setting_privacy_policy">Política de Privacidade</string>
     <string name="pa_setting_privacy_policy_update_again_message">"Você não será capaz de continuar usando nossos serviços a menos que concorde com a nova versão: %s. Concordar com a política de privacidade atualizada agora?"</string>
-    <string name="pa_setting_privacy_policy_update_again_title">Atenção</string>
+    <string name="pa_setting_privacy_policy_update_again_title">Atenção!</string>
     <string name="pa_setting_privacy_policy_update_agree">Aceitar</string>
     <string name="pa_setting_privacy_policy_update_exit">Saída</string>
     <string name="pa_setting_privacy_policy_update_link">Política de Privacidade</string>

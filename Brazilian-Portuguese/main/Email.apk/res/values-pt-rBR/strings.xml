@@ -1382,7 +1382,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="re_download_message_info">Não foi possível baixar o e-mail</string>
     <string name="read_string">mensagem lida</string>
     <string name="recipient_needed">Adicione ao menos 1 destinatário.</string>
-    <string name="recipient_needed_title">Atenção</string>
+    <string name="recipient_needed_title">Atenção!</string>
     <string name="recommend_protocal">Recomendação de Protocolo</string>
     <string name="reduce_the_receiving_frequencye_summary">Sincronizar caixas de entrada com menor frequência com o Não perturbe ativado</string>
     <string name="reduce_the_receiving_frequencye_title">Sincr. com menor frequência</string>

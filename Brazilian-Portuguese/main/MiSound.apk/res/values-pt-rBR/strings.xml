@@ -403,7 +403,7 @@
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
     <string name="not_support_sound_transmission_content">Este recurso não é compatível com o dispositivo conectado. Tente outro dispositivo Bluetooth.</string>
-    <string name="not_support_sound_transmission_prompt">Atenção</string>
+    <string name="not_support_sound_transmission_prompt">Atenção!</string>
     <string name="now_here">E agora?</string>
     <string name="original_sound">Reproduzir som original</string>
     <string name="password_toggle_content_description">Exibir senha</string>
