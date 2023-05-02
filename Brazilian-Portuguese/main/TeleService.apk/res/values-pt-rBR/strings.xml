@@ -2853,7 +2853,7 @@ Entre em contato com sua operadora se o problema persistir."</string>
     <string name="voice_service_switch_title">Usar serviços de chamada VoLTE</string>
     <string name="voice_service_warning_dialog_body">"Este tablet suporta chamadas VoLTE em redes 4G. Certifique-se de que as redes que o seu dispositivo está conectado suportam esta funcionalidade. Os serviços VoLTE são fornecidos pela sua operadora. Entre em contato com a sua operadora para saber se o VoLTE está disponível na sua área.
 
-Se você ver _ na sua barra de status, chamadas VoLTE não estão disponíveis. Caso não possa fazer ou receber chamadas, ou se suas chamadas forem interrompidas, certifique-se de que sua rede é compatível com o VoLTE.
+Se você ver _ na sua barra de status, chamadas VoLTE não estão disponíveis. Caso não consiga realizar ou receber chamadas, ou se suas chamadas forem interrompidas, certifique-se de que sua rede é compatível com o VoLTE.
 
 Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou usar um fone de ouvido para fazer chamadas."</string>
     <string name="voice_service_warning_dialog_cancel">Cancelar</string>

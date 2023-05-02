@@ -1105,7 +1105,7 @@ Envie este código para o supervisor."</string>
     <string name="unknown_error_info">Erro desconhecido</string>
     <string name="unlock_help_notice">"Ajuda:
 %1$d. Caso tenha esquecido a sua senha, acesse id.mi.com para redefini-la.
-%2$d. Caso não possa redefinir a sua senha ou se alguém bloqueou o seu dispositivo, acesse i.mi.com para desbloqueá-lo.
+%2$d. Caso não consiga redefinir a sua senha ou se alguém bloqueou o seu dispositivo, acesse i.mi.com para desbloqueá-lo.
 %3$d. Seu número de desbloqueio: %4$s"</string>
     <string name="update_apk_version_later">Agora não</string>
     <string name="update_apk_version_now">Atualizar</string>

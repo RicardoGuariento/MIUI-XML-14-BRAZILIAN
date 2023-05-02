@@ -94,8 +94,8 @@
     <string name="catch_full_log_add_photo_dialog_content">Se o problema que você está reportando é relacionado com a qualidade de imagens da câmera, adicione uma foto de exemplo original (sem cortes) para nos ajudar a localizar o problema. Adicionar foto agora?</string>
     <string name="catch_full_log_category">Tipos de registro</string>
     <string name="catch_full_log_dialog_confirm_text">Ir à Tela inicial</string>
-    <string name="catch_full_log_dialog_content">Isto pode afetar o desempenho geral do seu dispositivo. Caso não possa reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
-    <string name="catch_full_log_dialog_content_pad">Isto pode afetar o desempenho geral do seu dispositivo. Caso não possa reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
+    <string name="catch_full_log_dialog_content">Isto pode afetar o desempenho geral do seu dispositivo. Caso não consiga reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
+    <string name="catch_full_log_dialog_content_pad">Isto pode afetar o desempenho geral do seu dispositivo. Caso não consiga reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
     <string name="catch_full_log_dialog_title">Gerando logs…</string>
     <string name="catch_full_log_dump_hprof_failed">Não foi possível gerar o log de lentidão</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Volte para o recurso que deseja reportar e reproduza o problema.
