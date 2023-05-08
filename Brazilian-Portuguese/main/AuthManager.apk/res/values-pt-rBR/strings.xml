@@ -96,7 +96,7 @@
     <string name="HIPS_Perm_mediaVolume_Desc">Permite que o app ajuste o volume de mídia</string>
     <string name="HIPS_Perm_operator_get_phonenumbner">Acessar o número de telefone para fazer login</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Obter o número de telefone para fazer login</string>
-    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Se você não conseguir fazer login com um toque, volte para a página de login e tente novamente.</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Caso não consiga fazer login com um toque, volte para a página de login e tente novamente.</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Este app deseja adquirir seu número de telefone para fazer login. Permitir?</string>
     <string name="HIPS_Perm_operator_shake">Acessar dados do acelerômetro</string>
     <string name="HIPS_Perm_operator_shake_Desc">Os dados do acelerômetro são usados para rastrear a orientação e o movimento (por exemplo, agitação, inclinação e rotação)</string>

@@ -113,7 +113,7 @@
     <string name="connect_network_china">Conecte-se ao Wi-Fi ou insira um cartão SIM</string>
     <string name="connect_wlan">Conectar-se à rede Wi-Fi</string>
     <string name="connect_wlan_china">Conecte-se ao Wi-Fi</string>
-    <string name="contact_alert_sync_data_merge_dialog_msg">Se você ativar a sincronização, os contatos carregados deste dispositivo serão mesclados com os contatos armazenados na nuvem. Ativar sincronização mesmo assim?</string>
+    <string name="contact_alert_sync_data_merge_dialog_msg">Caso ative a sincronização, os contatos carregados deste dispositivo serão mesclados com os contatos armazenados na nuvem. Ativar sincronização mesmo assim?</string>
     <string name="copy">Copiar</string>
     <string name="cta_notification_content_text">Permita que o app %s conecte-se à Internet para poder restaurar os itens</string>
     <string name="cta_notification_content_title">Não é possível restaurar itens do %s</string>
@@ -186,7 +186,7 @@
     <string name="expand_button_title">Avançado</string>
     <string name="feedback_custom_hint">Descreva os problemas que você encontrou aqui. Se está sugerindo algo, agradecemos pelo seu esclarecimento com mais detalhes!</string>
     <string name="find_device">Encontrar dispositivo</string>
-    <string name="find_device_dspt_provision">Se você perder seu dispositivo, acesse &lt;font color=#0097FF>%s&lt;/font> para localizá-lo, bloqueá-lo ou apagá-lo. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações.</string>
+    <string name="find_device_dspt_provision">Em caso de perca do seu dispositivo, acesse &lt;font color=#0097FF>%s&lt;/font> para localizá-lo, bloqueá-lo ou apagá-lo. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações.</string>
     <string name="find_device_error_network">Verifique sua conexão de dados e tente novamente.</string>
     <string name="find_device_error_server">Erro no servidor</string>
     <string name="find_device_gdpr_prompt">"Ao ativar o Encontrar dispositivo, você concorda com a nossa <u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a></u>. Desative este recurso se quiser retirar seu consentimento."</string>
@@ -194,7 +194,7 @@
     <string name="find_device_permissions_footer">"Toque \"Permitir\" para conceder as permissões que você selecionou."</string>
     <string name="find_device_permissions_header">"Bem-vindo ao Encontrar dispositivo! Você pode usar este app para localizar, rastrear e bloquear o dispositivo caso você o perca. Encontrar dispositivo requer as seguintes permissões:"</string>
     <string name="find_device_privacy_policy_update_msg">A Política de Privacidade do Encontrar dispositivo foi atualizada:&lt;br/>%1$s&lt;br/>Leia e concorde com a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
-    <string name="find_device_send_sms_alert">Se você trocar seu cartão SIM, outro SMS será enviado automaticamente para reativar este recurso.</string>
+    <string name="find_device_send_sms_alert">Caso troque seu cartão SIM, outro SMS será enviado automaticamente para reativar este recurso.</string>
     <string name="find_device_service_title">Encontrar dispositivo</string>
     <string name="find_device_status_summary">Localize e bloqueie seu dispositivo, assim como apagar os dados remotamente</string>
     <string name="find_device_status_title_pad">Encontrar dispositivo</string>
@@ -207,7 +207,7 @@
     <string name="find_permission_phone_title">Acessar informações do dispositivo</string>
     <string name="find_permission_sms_summary">"Para localizar este dispositivo quando não estiver conectado à Internet"</string>
     <string name="find_permission_sms_title">Enviar SMS</string>
-    <string name="finddevice_miservice_notification_content">Bloqueie seu dispositivo remotamente se você perdê-lo</string>
+    <string name="finddevice_miservice_notification_content">Bloqueie seu dispositivo remotamente caso o perca</string>
     <string name="finddevice_miservice_notification_title">"Ativar o 'Encontrar dispositivo'"</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -403,7 +403,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_dspt_provision_no_sms_and_call">Você pode usar a MiCloud para sincronizar fotos, contatos, notas, gravações e outros dados, localizar seu dispositivo e compartilhar itens com amigos. Este app precisa se conectar à internet para funcionar normalmente. A sincronização de itens pode exigir conexão de dados móveis e ativação do Wi-Fi.</string>
     <string name="micloud_dspt_provision_xms">Use a MiCloud para sincronizar dados.</string>
     <string name="micloud_dspt_provision_xms_china">Use a MiCloud para sincronizar dados.</string>
-    <string name="micloud_find_device_close_alert_content">Se você desativar o Encontrar dispositivo, não será possível localizar seu dispositivo usando este recurso. As pessoas com quem você compartilha a a localização não poderão receber atualizações sobre o seu paradeiro.</string>
+    <string name="micloud_find_device_close_alert_content">Caso desative o Encontrar dispositivo, não será possível localizar seu dispositivo usando este recurso. As pessoas com quem você compartilha a a localização não poderão receber atualizações sobre o seu paradeiro.</string>
     <string name="micloud_find_device_close_alert_negtive">Desativar mesmo assim</string>
     <string name="micloud_find_device_close_alert_positive">Manter ativo</string>
     <string name="micloud_find_device_close_alert_title">Desativar o Encontrar dispositivo?</string>

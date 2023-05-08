@@ -226,7 +226,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_content_cancel_restore">Os dados já restaurados serão retidos caso pare de restaurar. Parar de restaurar?</string>
     <string name="dialog_get_installed_apps_consent_message">Para poder fazer backup automaticamente, conceda permissão a este app em Configurações para acessar a lista de apps instalados em seu dispositivo e selecione \"Sempre permitir\".</string>
     <string name="dialog_get_installed_apps_consent_title">Permissões necessárias</string>
-    <string name="dialog_msg_overwrite_backup">O backup local é diferente do existente na MiCloud. Se você continuar, o backup atual substituirá o anterior.</string>
+    <string name="dialog_msg_overwrite_backup">O backup local é diferente do existente na MiCloud. Caso continue, o backup atual substituirá o anterior.</string>
     <string name="dialog_msg_restore_require_wlan">A restauração de backups requer uma conexão Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">A restauração de backups requer uma conexão de rede sem fio.</string>
     <string name="dialog_need_permission">Permissões necessárias</string>
@@ -245,7 +245,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_title_require_wlan_china">Conectar-se ao Wi-Fi</string>
     <string name="dialog_wechat_data_close_agree">Continuar</string>
     <string name="dialog_wechat_data_close_disagree">Desativar</string>
-    <string name="dialog_wechat_data_close_message">"Os dados do WeChat não serão copiados na próxima vez que você usar o backup na nuvem se você desativar esse recurso. Isso pode resultar em perda de dados. Desativar os backups do WeChat agora?"</string>
+    <string name="dialog_wechat_data_close_message">"Os dados do WeChat não serão copiados na próxima vez que você usar o backup na nuvem caso desative esse recurso. Isso pode resultar em perda de dados. Desativar os backups do WeChat agora?"</string>
     <string name="dialog_wechat_data_close_title">Backups do WeChat</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Calculando tamanho…</string>
@@ -430,7 +430,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="provision_next">Próximo</string>
     <string name="provision_restore_data">Restaurando itens</string>
     <string name="provision_skip_underline">Pular</string>
-    <string name="query_restore_description">Se você restaurar o layout e as configurações da Tela inicial, os apps que já estão instalados serão restaurados para suas posições originais anteriormente na Tela inicial. Os apps que não fazem parte desse backup serão movidos para a última página da Tela inicial.</string>
+    <string name="query_restore_description">Caso restaure o layout e as configurações da Tela inicial, os apps que já estão instalados serão restaurados para suas posições originais anteriormente na Tela inicial. Os apps que não fazem parte desse backup serão movidos para a última página da Tela inicial.</string>
     <string name="query_restore_summary">Foi encontrado um backup na MiCloud para este dispositivo. Restaurar apps da Tela inicial e suas configurações, ou usá-lo como um novo dispositivo, excluindo os backups anteriores da MiCloud?</string>
     <string name="recover_home_settings">Restaurar configurações da Tela inicial</string>
     <string name="recover_miui_settings">Restaurar configurações do sistema</string>

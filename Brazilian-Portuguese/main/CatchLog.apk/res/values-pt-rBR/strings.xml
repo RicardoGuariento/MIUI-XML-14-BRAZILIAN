@@ -34,7 +34,7 @@
     <string name="cit_offline_log_del_ok">Logs offline excluídos com sucesso</string>
     <string name="cit_offline_log_del_txt">Excluir logs offline locais</string>
     <string name="cit_offline_log_filter_hint">"[Opcional]
-Se você seguir as instruções, apenas os logs do logcat com as palavras-chave definidas serão salvos. Caso não existam palavras-chave, os logs não serão filtrados."</string>
+Caso siga as instruções, apenas os logs do logcat com as palavras-chave definidas serão salvos. Caso não existam palavras-chave, os logs não serão filtrados."</string>
     <string name="cit_offline_log_filter_info">"Exemplo: #tag:priority //Comentários começam com \"#\".
 NfcService: D
 BatteryInfoReceiver: I

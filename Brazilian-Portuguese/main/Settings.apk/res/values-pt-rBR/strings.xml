@@ -5016,7 +5016,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="link_turbo_usage_state_month_total">Este mês</string>
     <string name="link_turbo_usage_state_today">Hoje</string>
     <string name="link_turbo_usage_state_today_total">Hoje</string>
-    <string name="list_bg_header_text">Se você restringir a conexão em segundo plano, novos apps não poderão conectar-se à Internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso.</string>
+    <string name="list_bg_header_text">Caso restrinja a conexão em segundo plano, novos apps não poderão conectar-se à Internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso.</string>
     <string name="list_empty_text">Vazio</string>
     <string name="lite_font_weight_title">Espessura da fonte</string>
     <string name="live_caption_summary">Legendar mídias automaticamente</string>
@@ -5232,7 +5232,7 @@ Um PIN protege o dispositivo se for perdido ou roubado."</string>
     <string name="lock_settings_picker_fingerprint_message">Escolha seu método de bloqueio de tela alternativo</string>
     <string name="lock_settings_picker_new_lock_title">Escolha um bloqueio de tela</string>
     <string name="lock_settings_picker_new_profile_lock_title">Escolha um bloqueio para apps de trabalho</string>
-    <string name="lock_settings_picker_profile_message">Se você esquecer este bloqueio, peça ao seu administrador de TI para redefini-lo</string>
+    <string name="lock_settings_picker_profile_message">Caso esqueça este bloqueio, peça ao seu administrador de TI para redefini-lo</string>
     <string name="lock_settings_picker_settings">Defina um bloqueio de tela</string>
     <string name="lock_settings_picker_title">Escolher bloqueio de tela</string>
     <string name="lock_settings_picker_title_profile">Escolher bloq de trab.</string>
@@ -7381,7 +7381,7 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_delete_space_dlg_message">Para alterar a senha do seu Segundo espaço, você deve excluir seu Segundo espaço atual e criar um novo.</string>
     <string name="privacy_dlg_button_cancel">Cancelar</string>
     <string name="privacy_factory_reset_dlg_button_text">Redefinir</string>
-    <string name="privacy_factory_reset_dlg_message">Se você esquecer sua senha, você precisará fazer uma redefinição para os dados de fábrica para definir uma nova.</string>
+    <string name="privacy_factory_reset_dlg_message">Caso esqueça sua senha, você precisará fazer uma redefinição para os dados de fábrica para definir uma nova.</string>
     <string name="privacy_factory_reset_dlg_title">Faça backup de seus dados</string>
     <string name="privacy_failed_need_to_unlock_nofingerprint">Insira a senha antes de usar a impressão digital</string>
     <string name="privacy_file">Arquivos</string>
@@ -8531,7 +8531,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="select_sim_for_data">Escolha chip para dados móveis</string>
     <string name="select_sim_for_sms">Selecione um chip para SMS</string>
     <string name="select_specific_sim_for_data_button">Usar %1$s</string>
-    <string name="select_specific_sim_for_data_msg">Se você mudar para %1$s, %2$s não será mais usado para dados móveis.</string>
+    <string name="select_specific_sim_for_data_msg">Caso mude para %1$s, %2$s não será mais usado para dados móveis.</string>
     <string name="select_specific_sim_for_data_title">Usar %1$s para dados móveis?</string>
     <string name="select_ssid_type_title">Selecionar SSID</string>
     <string name="select_time_format_category_title">Formato da hora</string>

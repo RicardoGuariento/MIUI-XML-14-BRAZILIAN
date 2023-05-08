@@ -1096,7 +1096,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_exchange_universal_finish">Use este código para baixar itens na Loja de Temas.</string>
     <string name="resource_exchange_universal_goon">Este código pode ser usado para baixar qualquer tema da loja.</string>
     <string name="resource_exchange_wrong_format_by_local">O formato do código digitado está incorreto.</string>
-    <string name="resource_exchange_wrong_format_by_server">O código não foi validado. Verifique se você o inseriu corretamente.</string>
+    <string name="resource_exchange_wrong_format_by_server">O código não foi validado. Verifique se inseriu corretamente.</string>
     <string name="resource_expand_full_text">Expandir</string>
     <string name="resource_failed_to_load_list">Não é possível carregar o tema.</string>
     <string name="resource_free_download">Download grátis</string>

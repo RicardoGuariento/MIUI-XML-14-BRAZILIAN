@@ -101,12 +101,12 @@
     <string name="broken_screen_rescue_service_learn_subtitle1">Ativar este recurso</string>
     <string name="broken_screen_rescue_service_learn_subtitle2">Backup de itens</string>
     <string name="broken_screen_rescue_service_learn_title">Como usar este recurso</string>
-    <string name="broken_screen_rescue_service_tips_1">"%1$d. Se o seu bloqueio de tela for %2$d, a mensagem deve ser semelhante a esta: *#*#%3$d#*#*. Se você estiver usando uma senha que contenha letras e dígitos, peça à outra pessoa para incluí-la na mensagem sem omissões."</string>
+    <string name="broken_screen_rescue_service_tips_1">"%1$d. Se o seu bloqueio de tela for %2$d, a mensagem deve ser semelhante a esta: *#*#%3$d#*#*. Caso esteja usando uma senha que contenha letras e dígitos, peça à outra pessoa para incluí-la na mensagem sem omissões."</string>
     <string name="broken_screen_rescue_service_tips_2">"%1$d. Caso esteja usando um padrão, ele pode ser representado por dígitos na mensagem. O ponto no canto superior esquerdo é %2$d. A numeração vai da esquerda para a direita, linha após linha, e termina com %3$d no canto inferior direito."</string>
     <string name="broken_screen_rescue_service_tips_3">"%1$d. Caso não esteja usando um bloqueio de tela, use \"nenhumasenha\" ou em inglês \"nopassword\" em vez dos caracteres que o representam na mensagem."</string>
     <string name="broken_screen_rescue_service_tips_4">"%1$d. Você terá apenas %2$d tentativas para ativar este recurso. Certifique-se de que a mensagem SMS que a outra pessoa está enviando esteja correta e que a pessoa esteja em seus contatos para ter sucesso."</string>
     <string name="broken_screen_rescue_service_tips_5">%1$d. Recomendamos que você use esse recurso na presença de nosso pessoal de suporte ao cliente.</string>
-    <string name="broken_screen_rescue_service_tips_6">"%1$d. Se você não conseguir fazer backup de itens em seu computador, saiba como resolver esse problema em nossa documentação de ajuda."</string>
+    <string name="broken_screen_rescue_service_tips_6">"%1$d. Caso não consiga fazer backup de itens em seu computador, saiba como resolver esse problema em nossa documentação de ajuda."</string>
     <string name="broken_screen_rescue_service_tips_title">Dicas</string>
     <string name="broken_screen_rescue_service_turn_off">Desativar</string>
     <string name="broken_screen_rescue_service_turn_off_confirm">Desativar backups com tela danificada agora?</string>
@@ -345,7 +345,7 @@ você precisa criar um backup na iCloud primeiro."</string>
 \u0009http://www.miliao.com
 
 2.\u0009Vá nas Configurações do Mi Talk e selecione \"Fazer backup de contatos para a Conta Mi\""</string>
-    <string name="import_from_xiaomi_account_hint2">Se você já tem um backup, toque em Avançar.</string>
+    <string name="import_from_xiaomi_account_hint2">Caso já tenha um backup, toque em Avançar.</string>
     <string name="import_from_xiaomi_account_hint_title">Use o Mi Talk para fazer backup de contatos entre dispositivos.</string>
     <string name="import_tip_summary">Devido a problemas de compatibilidade, só é possível transferir dados parciais de dispositivos iOS. Certifique-se de criar um backup na iCloud antes de iniciar a transferência.</string>
     <string name="lack_perm_msg">O Mi Mover precisa das seguintes permissões: &lt;b&gt;%s&lt;/b&gt;.</string>
@@ -814,7 +814,7 @@ Libere pelo menos %s."</string>
     <string name="trans_calculating_media_description">Arquivos de mídia</string>
     <string name="trans_calculating_tip">Calculando %s…</string>
     <string name="trans_cancel_confirm">Transferência em progresso, parar agora?</string>
-    <string name="trans_cancel_selection_message">Se você sair do Mi Mover, a transferência em andamento será interrompida. Aguarde até que a transferência seja concluída.</string>
+    <string name="trans_cancel_selection_message">Caso saia do Mi Mover, a transferência em andamento será interrompida. Aguarde até que a transferência seja concluída.</string>
     <string name="trans_cancel_selection_title">Ficar no Mi Mover</string>
     <string name="trans_cancelling">Cancelando…</string>
     <string name="trans_complete_restoring">Transferido com sucesso. Restaurando dados do app…</string>

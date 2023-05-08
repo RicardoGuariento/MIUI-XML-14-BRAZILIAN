@@ -222,7 +222,7 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="delete_device_failed">Não é possível remover o dispositivo</string>
     <string name="delete_device_notice">Depois que o dispositivo for removido, ele será desconectado de sua Conta Mi automaticamente. Você não poderá mais usar esse dispositivo para acessar fotos, mensagens, ou outros conteúdos armazenados em sua conta.</string>
     <string name="deny">Recusar</string>
-    <string name="device_delete_success_message">Se você não fez o login neste dispositivo, troque sua senha imediatamente.</string>
+    <string name="device_delete_success_message">Caso não tenha feito o login neste dispositivo, troque sua senha imediatamente.</string>
     <string name="device_delete_success_title">Desconectado</string>
     <string name="device_list__header">Meus dispositivos</string>
     <string name="device_list_title">Meus dispositivos</string>
@@ -746,7 +746,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_login_with_sns">Outras maneiras de fazer login</string>
     <string name="passport_logout_account">Sair</string>
     <string name="passport_message_dialog_title">SMS com código de verificação</string>
-    <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
+    <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
     <string name="passport_mi_account_title">Entrar com a Conta Mi</string>
     <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a em seu navegador.</string>
@@ -858,7 +858,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_sms_verification_code_login_or_register">Faça o login ou crie uma conta usando SMS</string>
     <string name="passport_sns_bind_limit">Muitas tentativas. Tente outras formas de fazer login.</string>
     <string name="passport_sync_account_data">Sincronizando informações da conta…</string>
-    <string name="passport_sync_account_data_failed_warning">As informações de sua conta estão sendo sincronizadas agora, e você pode fazer o login usando a ID da Conta Mi. Se você deseja fazer o login usando seu telefone ou e-mail, aguarde até que suas informações estejam totalmente sincronizadas.</string>
+    <string name="passport_sync_account_data_failed_warning">As informações de sua conta estão sendo sincronizadas agora, e você pode fazer o login usando a ID da Conta Mi. Caso deseje fazer o login usando seu telefone ou e-mail, aguarde até que suas informações estejam totalmente sincronizadas.</string>
     <string name="passport_system_error">O sistema está ocupado. Espere um pouco e tente novamente.</string>
     <string name="passport_talkback_image_captcha">Código de verificação por imagem</string>
     <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação por imagem</string>
@@ -896,7 +896,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_default"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
+    <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
     <string name="passport_user_agreement_hint_with_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
     <string name="passport_user_agreement_hint_with_unicom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>

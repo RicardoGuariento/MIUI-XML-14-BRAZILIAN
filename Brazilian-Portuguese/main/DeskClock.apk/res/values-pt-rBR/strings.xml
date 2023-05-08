@@ -524,7 +524,7 @@ mm"</string>
     <string name="shortcut_new_alarm">Definir alarme</string>
     <string name="shortcut_start_timer">Iniciar temporizador</string>
     <string name="shortcut_stop_watch">Iniciar cronômetro</string>
-    <string name="show_life_post_desc">"Os relatórios matinais não serão exibidos se você desativar esse recurso"</string>
+    <string name="show_life_post_desc">"Os relatórios matinais não serão exibidos caso desative esse recurso"</string>
     <string name="show_life_post_lable">Exibir relatório matinal</string>
     <string name="shut_down_keep_screen">A tela não será mantida ligada</string>
     <string name="shutdown_alarm_alert_enable_summary">O alarme com o telefone desligado tocará a pelo menos 10 minutos depois que você desligar seu dispositivo</string>
