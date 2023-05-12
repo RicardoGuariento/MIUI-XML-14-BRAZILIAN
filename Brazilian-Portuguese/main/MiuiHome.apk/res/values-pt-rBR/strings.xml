@@ -411,6 +411,8 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
+    <string name="fsg_assist_enable_summary">Deslize do canto da tela para usar o Google Assistente</string>
+    <string name="fsg_assist_enable_title">Google Assistente</string>
     <string name="fsg_mistake_touch_summary">Em alguns casos (ex.: quando estiver jogando ou assistindo vídeos), os gestos funcionarão apenas quando forem repetidos</string>
     <string name="fsg_mistake_touch_title">Confirmação de gestos</string>
     <string name="gadget_calculator_label">Calculadora</string>
@@ -914,6 +916,7 @@
     <string name="shake_to_align_icons_title">Balance para preencher espaços vazios</string>
     <string name="share">Enviar</string>
     <string name="shortcut_share_dialog_content">Os arquivos que você envia do seu telefone, bem como os destinatários, são selecionados e determinados por você. Tenha atenção ao escolher arquivos para compartilhar e os destinatários que selecionar. Você não pode usar o seu telefone para transmitir nenhum vírus, malware, trojans, bombas-relógio e outros objetos prejudiciais para outras pessoas. Não use seu telefone para transmitir qualquer software que possa afetar o uso normal do dispositivo do destinatário ou qualquer item que possa danificar, interferir, interceptar ou excluir quaisquer dados de sistema ou informações pessoais em dispositivos terminais móveis. Você será o responsável por qualquer dano causado a outros usuários ou dispositivos terminais móveis. A Xiaomi fará o seu melhor para garantir que a funcionalidade de compartilhamento, bem como as tecnologias e informações envolvidas, sejam seguras, efetivas, precisas e confiáveis. No entanto, devido às limitações de tecnologias atuais, a Xiaomi não garante que a funcionalidade de compartilhamento é livre de erros e satisfará as suas necessidades.</string>
+    <string name="shortcut_share_dialog_content_pad">Os arquivos que você envia do seu dispositivo, bem como os destinatários, são selecionados e determinados por você. Tenha atenção ao escolher arquivos para compartilhar e os destinatários que selecionar. Você não pode usar o seu dispositivo para transmitir nenhum vírus, malware, trojans, bombas-relógio e outros objetos prejudiciais para outras pessoas. Não use seu dispositivo para transmitir qualquer software que possa afetar o uso normal do dispositivo do destinatário ou qualquer item que possa danificar, interferir, interceptar ou excluir quaisquer dados de sistema ou informações pessoais em dispositivos terminais móveis. Você será o responsável por qualquer dano causado a outros usuários ou dispositivos terminais móveis. A Xiaomi fará o seu melhor para garantir que a funcionalidade de compartilhamento, bem como as tecnologias e informações envolvidas, sejam seguras, efetivas, precisas e confiáveis. No entanto, devido às limitações de tecnologias atuais, a Xiaomi não garante que a funcionalidade de compartilhamento é livre de erros e satisfará as suas necessidades.</string>
     <string name="shortcut_share_dialog_positive_button">Entendi</string>
     <string name="shortcut_share_dialog_title">Aviso legal</string>
     <string name="show_all">Mostrar tudo</string>

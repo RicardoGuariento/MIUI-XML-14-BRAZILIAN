@@ -218,6 +218,7 @@
     <string name="delete_pic">Excluir imagem</string>
     <string name="deny_des">O Carrossel de Planos de fundo precisa de permissão à Galeria para funcionar normalmente</string>
     <string name="detail_ad_type_ad">Anúncios</string>
+    <string name="detail_ad_type_close_ad">Fechar anúncio</string>
     <string name="detail_ad_type_video">Vídeos populares</string>
     <string name="detail_add_cw">Adicionar papel de parede</string>
     <string name="detail_add_shortcut">Adicionar à tela inicial</string>

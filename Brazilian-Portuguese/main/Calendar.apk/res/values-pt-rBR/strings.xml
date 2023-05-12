@@ -52,6 +52,7 @@
     <string name="additional_calendar_note">Alguns calendários adicionais podem não estar disponíveis dependendo de fatores inconstantes</string>
     <string name="afternoon">"PM"</string>
     <string name="agenda_month_empty_hint">Nenhum evento para hoje</string>
+    <string name="agenda_not_today_empty_hint">Ainda não há eventos aqui. Toque para criar um.</string>
     <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
     <string name="agenda_view">Eventos</string>
     <string name="alarm_label">Dispensar</string>
@@ -268,6 +269,7 @@
     <string name="event_info_when">Quando</string>
     <string name="event_info_where">Onde</string>
     <string name="event_reminder_allday_day_zero">No dia do evento às %2$s</string>
+    <string name="event_reminder_custom">Personalizado</string>
     <string name="event_reminder_value_zero">Antes do evento</string>
     <string name="event_title">Título</string>
     <string name="event_view">Ver evento</string>
@@ -582,6 +584,10 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="notes_week_name_two">%1$s e %2$s</string>
     <string name="notes_weekly">Semanalmente</string>
     <string name="notification_channel_name">Lembretes da Agenda</string>
+    <string name="notification_open_setting_button_exit">Não, obrigado</string>
+    <string name="notification_open_setting_button_ok">Permitir</string>
+    <string name="notification_open_setting_message">"Você não poderá receber notificações sobre eventos, a menos que permita que Agenda envie notificações para você."</string>
+    <string name="notification_open_setting_title">Permitir notificações da Agenda?</string>
     <string name="numbers">%d</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Mês Amanta:</string>
@@ -673,6 +679,8 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="remind_title_menstruation_start">Lembrar quando o período iniciar</string>
     <string name="remind_title_record">Lembrar de registrar</string>
     <string name="repeat_activity_label">Repetir</string>
+    <string name="repeat_alarm_close_title">Este é um evento repetido. Desativar lembrete de alarme?</string>
+    <string name="repeat_alarm_open_title">Este é um evento repetido. Definir lembrete de alarme?</string>
     <string name="repeat_custom_activity_label">Personalizado</string>
     <string name="repeat_custom_prompt_daily">a cada %1$s</string>
     <string name="repeat_custom_prompt_sentence">O evento irá repetir %1$s</string>

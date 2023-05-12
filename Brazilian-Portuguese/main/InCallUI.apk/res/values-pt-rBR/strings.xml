@@ -134,7 +134,8 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="close_camera_failed">Não foi possivel desligar a câmera…</string>
-    <string name="close_camera_requesting">Desligando câmera…</string>
+    <string name="close_camera_requesting">Desativando câmera…</string>
+    <string name="cloud_video_conference">Videoconferência na nuvem</string>
     <string name="conference_call_description" formatted="false">%s, %s etc., total de %s</string>
     <string name="conference_call_recorder_title">Chamada em conferência</string>
     <string name="conference_call_single_description" formatted="false">%s etc., total de %s</string>
@@ -230,7 +231,7 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="high_temperature_toast">Na proteção de alta temperatura, a função está temporariamente indisponível</string>
+    <string name="high_temperature_toast">Seu dispositivo está superaquecido. Não é possível usar este recurso agora.</string>
     <string name="inCallLabel">Ui de chamadas</string>
     <string name="incall_bubble_hangup_click_hint">Toque novamente para voltar à chamada</string>
     <string name="incall_call_type_label_sip">Chamada pela internet</string>
