@@ -34,6 +34,8 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
+    <string name="annotation_open">Mostrar ferramentas</string>
+    <string name="annotation_stow">Ocultar ferramentas</string>
     <string name="app_name">Captura de tela</string>
     <string name="back">Voltar</string>
     <string name="base_btn_cancel">Cancelar</string>
@@ -133,7 +135,7 @@
     <string name="long_screenshot_error">Um erro ocorreu. Tente novamente.</string>
     <string name="long_screenshot_guide_text">"Toque para fazer
 uma captura de tela estendida"</string>
-    <string name="long_screenshot_intercepted_error">"Não foi possível fazer a captura de tela. Tente novamente."</string>
+    <string name="long_screenshot_intercepted_error">"Ocorreu uma interrupção. A captura de tela foi salva na Galeria."</string>
     <string name="long_screenshot_out_of_memory_error">A imagem é muito grande</string>
     <string name="long_screenshot_processing">Processando…</string>
     <string name="long_screenshot_processing_description_accessibility">Processando</string>
@@ -222,7 +224,7 @@ uma captura de tela estendida"</string>
     <string name="notification_channel_alerts">Alertas</string>
     <string name="pad_device_model_name">Mi Pad</string>
     <string name="partial_screenshot_edit">Editar</string>
-    <string name="partial_screenshot_failed_to_capture_title">Este app não permite captura de tela</string>
+    <string name="partial_screenshot_failed_to_capture_title">Não é possível fazer capturas de tela desta página</string>
     <string name="partial_screenshot_failed_to_save_title">Não foi possível salvar. Não há espaço de armazenamento suficiente.</string>
     <string name="partial_screenshot_insert_failed">Não foi possível salvar</string>
     <string name="partial_screenshot_repaint">Fazer novamente</string>
@@ -248,7 +250,11 @@ uma captura de tela estendida"</string>
     <string name="photo_font_download_failed_for_notwork">"Não foi possível fazer o download. Conecte-se à rede e tente novamente."</string>
     <string name="photo_save_to_msg">Salvo em %s</string>
     <string name="pm">"PM"</string>
-    <string name="preference_copied">\"%1$s\" copiado para a área de transferência..</string>
+    <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+    <string name="privacy_mosaic_result_done">Informações privadas são bloqueadas</string>
+    <string name="privacy_mosaic_result_fail">"Não foi possível bloquear informações privadas. Tente novamente."</string>
+    <string name="privacy_mosaic_result_none">Nenhuma informação privada encontrada</string>
+    <string name="privacy_mosaic_tip">Toque para bloquear informações privadas</string>
     <string name="remover_menu_processing">Em processamento</string>
     <string name="samsung_phone">Samsung</string>
     <string name="saturday">Sábado</string>
@@ -295,6 +301,9 @@ uma captura de tela estendida"</string>
     <string name="screenshot_save">Salvar</string>
     <string name="screenshot_send">Enviar</string>
     <string name="screenshot_thumbnail">Miniatura da captura de tela</string>
+    <string name="scroll_annotation">Rolar e anotar</string>
+    <string name="scroll_annotation_btn_quit">Sair das anotações</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">Salvar anotações antes de sair?</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="send">Enviar</string>
     <string name="send_files_by">Compartilhar arquivos por</string>

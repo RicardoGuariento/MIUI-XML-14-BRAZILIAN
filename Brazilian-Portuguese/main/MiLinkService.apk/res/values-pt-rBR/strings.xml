@@ -655,6 +655,10 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="notify_wifiap_dialog_msg">Para digitalizar o código e configurar a rede, desative o ponto de acesso portátil primeiro.</string>
     <string name="notify_wifiap_dialog_negative">Entedi</string>
     <string name="notify_wifiap_dialog_title">Configurar rede</string>
+    <string name="onehop_mirror_guide_message_button">Entendi</string>
+    <string name="onehop_mirror_guide_message_text_1">Transmita a exibição do telefone para o computador com um toque.</string>
+    <string name="onehop_mirror_guide_message_text_2">Selecione fotos, vídeos e outros arquivos da Galeria ou do gerenciador de Arquivos para transferir para o seu computador.</string>
+    <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
     <string name="open_game_accelerate">Ativar o Game Turbo</string>
     <string name="p2p_location_des">Para conectar seu dispositivo móvel a monitores externos</string>
     <string name="paipai_connect_btn_text">Concluído</string>

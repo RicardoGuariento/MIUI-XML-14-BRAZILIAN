@@ -69,6 +69,7 @@
     <string name="effect_selection">Efeitos sonoros</string>
     <string name="effect_virtual_surround">Som virtual imersivo</string>
     <string name="effect_virtual_surround_summary">"Enriqueçe a profundidade do som para reprodução de áudio e vídeo em fones de ouvido (este recurso não funcionará quando o áudio %.1f for reproduzido)"</string>
+    <string name="effect_virtual_surround_summary_spk">Enriqueçe a profundidade do som para reprodução de áudio e vídeo</string>
     <string name="end_wireless_transmission">Parar</string>
     <string name="eq_auto">Personalizado</string>
     <string name="eq_blues">"Blues"</string>

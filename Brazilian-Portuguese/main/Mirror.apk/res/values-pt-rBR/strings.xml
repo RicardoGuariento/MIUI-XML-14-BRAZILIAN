@@ -70,7 +70,7 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para transferir arquivos entre dispositivos</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
-    <string name="default_boss_terminal_name">"Mi Notebook"</string>
+    <string name="default_boss_terminal_name">"Notebook Mi"</string>
     <string name="default_error_msg">Erro desconhecido</string>
     <string name="device_max_screen_count_toast">Este dispositivo só suporta a abertura de duas janelas ao mesmo tempo</string>
     <string name="display_max_screen_count_toast">Você pode abrir até 3 janelas nesta versão</string>
@@ -187,7 +187,8 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="login_xiaomi_account_summary_phone">Para poder se conectar a outros tablets, use a mesma Conta Mi em ambos os dispositivos conectados. Fazer login agora?</string>
     <string name="login_xiaomi_account_title">Faça login na Conta Mi</string>
     <string name="low_battery_notification_action">Ativar</string>
-    <string name="low_battery_notification_content">Menos de %2$d%% de bateria restante em %1$s. Ative a Economia de bateria.</string>
+    <string name="low_battery_notification_content">Menos de %2$s de bateria restante em %1$s.</string>
+    <string name="low_battery_notification_content_default">A bateria do telefone está abaixo de %1$s</string>
     <string name="low_battery_notification_title">Bateria fraca</string>
     <string name="low_version_dialog_message">Atualize o MIUI+ em seu computador ou baixe a versão mais recente em plus.miui.com</string>
     <string name="low_version_dialog_title">Atualizar MIUI+</string>
@@ -278,7 +279,11 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="nfc_login">Entrar</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Para conectar os dispositivos, primeiro ative o Wi-Fi e o Bluetooth neste dispositivo. Ativar agora?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Para conectar os dispositivos, primeiro ative o Wi-Fi e o Bluetooth neste dispositivo. Ativar agora?</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">"Não foi possível conectar ao computador. Verifique se o Wi-Fi e o Bluetooth estão ativados em ambos os dispositivos."</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">"Não foi possível conectar ao computador. Verifique se o Wi-Fi e o Bluetooth estão ativados em ambos os dispositivos."</string>
     <string name="nfc_no_xiaomi_account">"Parece que você não fez login na sua Conta Mi. Para transferir itens, entre na Conta Mi que você está usando em seu tablet."</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Não foi possível conectar ao computador. Verifique se você ativou o Wi-Fi e o Bluetooth no telefone e no computador e se o computador está executando o MIUI+."</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Não foi possível conectar ao computador. Verifique se você ativou o Wi-Fi e o Bluetooth no telefone e no computador e se o computador está executando o MIUI+."</string>
     <string name="nfc_wifi_and_bluetooth">Ative o Wi-Fi e o Bluetooth</string>
     <string name="nfc_wifi_and_bluetooth_china">Ative o Wi-Fi e o Bluetooth</string>
     <string name="night">"PM"</string>
@@ -323,7 +328,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="pad_settings_connect_pad_group">Trabalhe com seu tablet</string>
     <string name="pad_settings_connect_pc_group">Trabalhe com o seu computador</string>
     <string name="pad_settings_connect_phone_group">Trabalhe com o seu telefone</string>
-    <string name="pad_settings_connect_summary1">Baixe e instale o MIUI+ no seu computador através do link: www.miui.com</string>
+    <string name="pad_settings_connect_summary1">Abra o Mi Smart Share no seu computador e selecione \"Combinação de tela\". Você pode baixar o Mi Smart Share em: www.miui.com.</string>
     <string name="pad_settings_connect_summary2">Digitalize o código QR na tela do computador com o seu dispositivo móvel. Você pode usar vários apps do sistema (por exemplo: Scanner, Câmera, Navegador MI) para fazer isso.</string>
     <string name="pad_settings_current_device_tip">Conecte-se a outros tablets associados à sua Conta Mi automaticamente</string>
     <string name="pad_settings_feature_characteristics_summary_1">Copie o texto no seu dispositivo móvel e cole-o no seu computador, adicione imagens e as edições de sincronização em seus documentos.</string>

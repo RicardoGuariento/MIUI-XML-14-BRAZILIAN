@@ -609,6 +609,8 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="operation_compress">Compactar</string>
     <string name="operation_compressing">Compactando…</string>
     <string name="operation_copy">Copiar</string>
+    <string name="operation_copy_clipboard">Copiar para área de transferência</string>
+    <string name="operation_copy_local">Copiar para a pasta</string>
     <string name="operation_create_folder">Criar pasta</string>
     <string name="operation_create_folder_message">Digite o nome da pasta</string>
     <string name="operation_create_folder_name_conflict">"Não foi possível criar a pasta. Já existe uma pasta com este nome."</string>
@@ -953,6 +955,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="title_select_volume">Selecione o volume</string>
     <string name="to_open">Configurações</string>
     <string name="to_setting">Configurações</string>
+    <string name="toast_copy_clipboard">Adicionado à área de transferência</string>
     <string name="toast_file_not_can_read">Nenhum app foi encontrado para realizar esta ação</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
