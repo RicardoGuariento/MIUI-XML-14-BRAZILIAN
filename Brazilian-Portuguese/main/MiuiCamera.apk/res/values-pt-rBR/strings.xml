@@ -37,6 +37,7 @@
     <string name="accessibility_ai_watermark_panel_on">"Painel de marca d'água IA"</string>
     <string name="accessibility_ambilight_panel_on">Abrir painel de Longa exposição</string>
     <string name="accessibility_back_preview_status">Prévia da câmera traseira</string>
+    <string name="accessibility_beauty_compare">Ver imagem com e sem o Embelezador</string>
     <string name="accessibility_beauty_function_button">Embelezador</string>
     <string name="accessibility_beauty_function_panel_on">Painel do Embelezador</string>
     <string name="accessibility_beauty_panel_closed">O menu do modo Embelezador está escondido</string>
@@ -387,6 +388,8 @@ e ajustar preferências automaticamente"</string>
     <string name="beauty_fragment_tab_name_beauty">Embelezador</string>
     <string name="beauty_fragment_tab_name_makeup">Avançado</string>
     <string name="beauty_fragment_tab_name_makeups">Maquiagem</string>
+    <string name="beauty_fx_makeup">Retocar</string>
+    <string name="beauty_fx_makeup_cv">Retocar</string>
     <string name="beauty_lens">Abertura grande</string>
     <string name="beauty_lens_1">Pessoas</string>
     <string name="beauty_lens_1_description">Crie efeitos bokeh de qualidade profissional e transforme suas fotos em retratos memoráveis.</string>
@@ -405,10 +408,10 @@ e ajustar preferências automaticamente"</string>
     <string name="beauty_makeups_nude">"Nude"</string>
     <string name="beauty_makeups_pinkfemale">Pétala</string>
     <string name="beauty_makeups_qianjin">Ruivo</string>
-    <string name="beauty_makeups_ruanmei">Teen</string>
+    <string name="beauty_makeups_ruanmei">Adolescente</string>
     <string name="beauty_makeups_solid">Contorno</string>
     <string name="beauty_makeups_subeffect_filter">Filtros</string>
-    <string name="beauty_makeups_subeffect_makeup">Makeup</string>
+    <string name="beauty_makeups_subeffect_makeup">Maquiagem</string>
     <string name="beauty_makeups_toughman">"Bronze"</string>
     <string name="beauty_makeups_xiazhi">Sombra de pálpebra inferior</string>
     <string name="beauty_makeups_yanku">Rainha de gelo</string>
@@ -416,6 +419,8 @@ e ajustar preferências automaticamente"</string>
     <string name="beauty_mo_fe">"Natural"</string>
     <string name="beauty_mo_ma">Clássico</string>
     <string name="beauty_mo_or">"Original"</string>
+    <string name="beauty_mo_pr">Textura</string>
+    <string name="beauty_mo_pr_cv">Texturas</string>
     <string name="beauty_mode_reset_toast">Efeitos de remodelagem limpos com sucesso</string>
     <string name="beauty_mutex_toast_tip">&lt;a href=>Desative&lt;/a> os efeitos de maquiagem primeiro</string>
     <string name="beauty_ne">"Original"</string>
@@ -442,6 +447,7 @@ e ajustar preferências automaticamente"</string>
     <string name="button_normal_video_title">Gravar vídeo</string>
     <string name="camcorder_tip_8k_max_video_duration">Você pode gravar até %1$d minutos em 8K</string>
     <string name="camcorder_tip_current_max_video_duration">Você pode gravar até %d minutos de vídeo na resolução atual</string>
+    <string name="camcorder_tip_isp_super_night_video_max_video_duration">Você pode gravar até %d minutos</string>
     <string name="camcorder_tip_super_night_video_4k_max_video_duration">Você pode gravar até %d minutos em 4K</string>
     <string name="camera_disabled">A câmera foi desativada</string>
     <string name="camera_error_title">Erro na câmera</string>
@@ -455,6 +461,8 @@ e ajustar preferências automaticamente"</string>
     <string name="camera_newcta_camera_message">Para tirar fotos e gravar vídeos</string>
     <string name="camera_newcta_message">"Bem-vindo à Câmera! Você pode usar este app para tirar fotos e gravar vídeos. "</string>
     <string name="camera_newcta_other_message">"Para fornecer serviços adicionais enquanto você usa o app, podemos precisar de permissões para acessar sua localização."</string>
+    <string name="camera_newcta_other_message_new">"Para fornecer serviços adicionais enquanto você usa o app, podemos solicitar permissão para acessar sua localização e o status de chamada do seu dispositivo."</string>
+    <string name="camera_newcta_phone_message">Para detectar chamadas durante a gravação de vídeos</string>
     <string name="camera_newcta_storage_message">Para salvar e exibir fotos e vídeos</string>
     <string name="camera_newcta_storage_message_1">Para armazenar e exibir imagens, vídeos e arquivos</string>
     <string name="camera_newcta_storage_message_2">Para exibir imagens, vídeos e áudios</string>
@@ -539,6 +547,7 @@ e ajustar preferências automaticamente"</string>
     <string name="color_effect_entry_new_5_describe">Tons acastanhados e contraste médio criam uma atmosfera quente para cenários ao ar livre filmados à luz natural.</string>
     <string name="color_effect_entry_new_bbp">BBP</string>
     <string name="color_effect_entry_new_bbp_describe">Alto contraste e baixa saturação trarão um toque cinematográfico à maioria dos cenários.</string>
+    <string name="color_effect_entry_noraml_cv">Padrão Leica</string>
     <string name="color_effect_entry_orange">Lima</string>
     <string name="color_effect_entry_orange_describe">Um truque clássico de cinema que torna as áreas escuras mais frias e as luzes mais quentes. Este filtro irá renovar tanto a selva urbana quanto as grandes áreas ao ar livre.</string>
     <string name="color_effect_entry_quiet">Calmo</string>
@@ -552,7 +561,7 @@ e ajustar preferências automaticamente"</string>
     <string name="color_effect_live_deepblack">P&amp;B</string>
     <string name="color_effect_live_fair">Pálido</string>
     <string name="color_effect_live_hongkong">Bauhinia</string>
-    <string name="color_effect_live_mousse">Mousse</string>
+    <string name="color_effect_live_mousse">"Mousse"</string>
     <string name="color_effect_live_none">"Normal"</string>
     <string name="color_effect_live_solar">Céu azul</string>
     <string name="color_effect_live_years">Sépia</string>
@@ -597,13 +606,14 @@ e ajustar preferências automaticamente"</string>
     <string name="copy">Copiar</string>
     <string name="cta_mimoji_msg">Bem-vindo à Fun Cam! Você pode usar este app para tirar fotos e gravar vídeos. Para poder funcionar normalmente, este app precisa se conectar à internet e requer as seguintes permissões para coletar suas informações pessoais:</string>
     <string name="cta_mimoji_perm_type">Permissões obrigatórias (usadas para recursos básicos e serviços deste app)</string>
-    <string name="cta_mimoji_user_links">&lt;Data>Leia e aceite o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a> antes de usar este app.&lt;/Data></string>
+    <string name="cta_mimoji_user_links"><Data>Leia e aceite o nosso &lt;a href =%1$s>Contrato do Usuário&lt;/a> e a &lt;a href =%2$s>Política de Privacidade&lt;/a> antes de usar este app.</Data></string>
     <string name="cta_mimoji_user_tips">Se você não aceitar em conceder as permissões obrigatórias ou compartilhar e enviar suas informações pessoais, você não poderá usar este app. Se você não conceder as permissões opcionais, você não poderá usar alguns recursos deste app; no entanto, a sua funcionalidade básica ainda estará disponível. Você pode restringir permissões ou retirar o seu consentimento sempre que quiser nas Configurações.</string>
     <string name="cta_msg">Bem-vindo à Câmera! Você pode usar este app para tirar fotos e gravar vídeos. Este app precisa se conectar à Internet e requer as seguintes permissões opcionais:</string>
     <string name="cta_perm_cam">Usar a câmera</string>
     <string name="cta_perm_cam_desc">Para tirar fotos</string>
     <string name="cta_perm_dec">Para adicionar informações de localização em suas fotos e vídeos</string>
     <string name="cta_perm_loc">Localização</string>
+    <string name="cta_perm_phone">Acessar o status do dispositivo</string>
     <string name="cta_perm_storage">Acessar fotos neste dispositivo</string>
     <string name="cta_perm_storage_aural">Acessar arquivos de áudio</string>
     <string name="cta_perm_storage_aural_desc">Para acessar e exibir arquivos de áudio</string>
@@ -633,6 +643,18 @@ e ajustar preferências automaticamente"</string>
     <string name="custom_watermark_words">"Marca d'água personalizada"</string>
     <string name="custom_watermark_words_input_hint">Inserir texto</string>
     <string name="custom_watermark_words_save_success">Salvo com sucesso</string>
+    <string name="cv_device_watermark_suffix">Leica</string>
+    <string name="cv_lens_black_white">Preto e branco</string>
+    <string name="cv_lens_msg">Tire fotos impressionantes com lentes Pro</string>
+    <string name="cv_lens_rotary_focus">Bokeh espiralado</string>
+    <string name="cv_lens_soft_focus">Foco suave</string>
+    <string name="cv_lens_title">Lentes Pro</string>
+    <string name="cvtype_btn_select">Usar \"%1$s\"</string>
+    <string name="cvtype_hint_title">Selecione o estilo</string>
+    <string name="cvtype_item_btn_title1">Leica Autêntico</string>
+    <string name="cvtype_item_btn_title2">Leica Vibrante</string>
+    <string name="cvtype_item_title1">Natural e realista</string>
+    <string name="cvtype_item_title2">Fresco e vibrante</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dd_frn_f_t">Dobre o seu dispositivo para usar a câmera frontal</string>
@@ -804,6 +826,7 @@ A gravação em dois telefones também permite que você se conecte a outro disp
     <string name="film_video_c">Congelar tempo</string>
     <string name="film_video_d">Lapso de tempo noturno</string>
     <string name="film_video_e">Mundo paralelo</string>
+    <string name="film_video_f">De volta no tempo</string>
     <string name="film_video_tip">Use um tripé</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -959,12 +982,15 @@ no Modo Retrato"</string>
     <string name="location_permission_not_ask_again_go_to_settings">Permitir</string>
     <string name="log_format">"LOG"</string>
     <string name="longitude_text">Longitude</string>
+    <string name="low_battery_to_save_video">"Parece que a bateria do seu dispositivo está muito baixa agora. Pare de gravar e salve seu vídeo antes que o dispositivo desligue."</string>
     <string name="lpl_dialog_item_name_burst">Pressione e segure para disparo contínuo</string>
     <string name="lpl_dialog_item_name_record">Pressione e segure para gravar um vídeo</string>
     <string name="lpl_dialog_title">Selecione a função para o disparador</string>
+    <string name="lunch_audio_permission_content">Gravar audio</string>
     <string name="lunch_audio_permission_des">Para gravar vídeos com som</string>
     <string name="lunch_audio_permission_not_ask_again">Permitir que este app grave áudio para poder usar este recurso.</string>
     <string name="lunch_camera_audio_permission_not_ask_again">Permitir que este app use câmera e grave áudio para poder usar este recurso.</string>
+    <string name="lunch_camera_permission_content">Acessar câmera</string>
     <string name="lunch_camera_permission_des">Para tirar fotos e gravar vídeos</string>
     <string name="lunch_camera_permission_not_ask_again">Permitir que este app use a câmera para poder usar este recurso.</string>
     <string name="lunch_camera_storge_permission_not_ask_again">Permitir que este app use a câmera e acesse o armazenamento para poder usar este recurso.</string>
@@ -981,6 +1007,7 @@ no Modo Retrato"</string>
     <string name="lunch_storage_permission_audio">Acessar arquivos de áudio</string>
     <string name="lunch_storage_permission_video_image">Acesse fotos e vídeos</string>
     <string name="lunch_storge_audio_permission_not_ask_again">Permitir que este app acesse o armazenamento e grave áudio para poder usar este recurso.</string>
+    <string name="lunch_storge_permission_content">Acessar o armazenamento</string>
     <string name="lunch_storge_permission_des">Para salvar e exibir fotos e vídeos</string>
     <string name="lunch_storge_permission_not_ask_again">Permitir que este app acesse o armazenamento para poder usar este recurso.</string>
     <string name="lying_direct_hint">Orientação atual</string>
@@ -1184,6 +1211,12 @@ fiquem maiores nas fotos"</string>
     <string name="module_name_super_moon">Superlua</string>
     <string name="module_name_video">Vídeo</string>
     <string name="module_name_vlog">"VLOG"</string>
+    <string name="moiton_detection_960_fps_video_tip" formatted="false">Os vídeos %1dfps podem ter até %2d segundos de duração</string>
+    <string name="moiton_detection_tip">Detectando movimento… Mantenha o dispositivo estável.</string>
+    <string name="moiton_detection_video_3840fps_3840">%dFPS</string>
+    <string name="moiton_detection_video_electric_quantity_tip">Carregue seu dispositivo para poder usar este recurso</string>
+    <string name="moiton_detection_video_temperature_stop_tip">Seu dispositivo está superaquecido. A gravação será interrompida em %d segundos.</string>
+    <string name="moiton_detection_video_temperature_tip">Resfrie seu dispositivo para poder usar esse recurso</string>
     <string name="moive_frame">Quadro do vídeo</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
@@ -1429,6 +1462,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_beautify_entry_normal">Médio</string>
     <string name="pref_camera_beauty">Embelezador</string>
     <string name="pref_camera_beauty_deep">Embelezador Pro</string>
+    <string name="pref_camera_coloreffect_default">nenhum</string>
     <string name="pref_camera_coloreffect_entry_big_face">Ampliar</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">P&amp;B</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Olho de peixe</string>
@@ -1450,9 +1484,9 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_coloreffect_title">Filtros</string>
     <string name="pref_camera_common_settings">Configurações gerais</string>
     <string name="pref_camera_contrast_title">Contraste</string>
-    <string name="pref_camera_delay_capture_10s">Atraso de %d s</string>
-    <string name="pref_camera_delay_capture_3s">Atraso de %d s</string>
-    <string name="pref_camera_delay_capture_5s">Atraso de %d s</string>
+    <string name="pref_camera_delay_capture_10s">Atraso de %d seg</string>
+    <string name="pref_camera_delay_capture_3s">Atraso de %d seg</string>
+    <string name="pref_camera_delay_capture_5s">Atraso de %d seg</string>
     <string name="pref_camera_delay_capture_entry_10s">10s de atraso</string>
     <string name="pref_camera_delay_capture_entry_3s">3s de atraso</string>
     <string name="pref_camera_delay_capture_entry_5s">5s de atraso</string>
@@ -1533,6 +1567,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_heic_image_format_desc3">"O formato de arquivo de imagem de alta eficiência economiza espaço de armazenamento nos modos Foto e Ultra HD, mas não é compatível com alguns apps de terceiros. Você não pode tirar fotos dinâmicas e remover marcas d'água no HEIF."</string>
     <string name="pref_camera_heic_image_format_description">Fotos HEIF ocupam menos espaço de armazenamento, mas não são suportadas por todos os apps</string>
     <string name="pref_camera_heic_image_format_description2">"O formato HEIF (High Efficiency Image File Format) economiza espaço de armazenamento, mas não é suportado por alguns apps de terceiros. Você não pode tirar fotos com movimento e remover marcas d'água no HEIF."</string>
+    <string name="pref_camera_heic_image_format_description_global">"O formato HEIF economiza espaço de armazenamento, mas não é compatível com alguns apps de terceiros. Você não pode remover marcas d'água no HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
@@ -1672,6 +1707,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_sr_enable_title">Ativar SR</string>
     <string name="pref_camera_stereo_mode_title">Ajuste de foco</string>
     <string name="pref_camera_super_resolution_title">Ativar SR</string>
+    <string name="pref_camera_suspend_shutter_button_summary">Arraste o botão do obturador para cima para criar um obturador flutuante adicional</string>
+    <string name="pref_camera_suspend_shutter_button_title">Obturador adicional</string>
     <string name="pref_camera_tap_shoot_summary">Toque na tela de visualização para tirar uma foto</string>
     <string name="pref_camera_tap_shoot_title">Toque para tirar uma foto</string>
     <string name="pref_camera_tilt_shift_entry_circle">Círculo</string>
@@ -1755,6 +1792,10 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_custom_tint_title">Cores</string>
     <string name="pref_customization_style">Estilo personalizado</string>
     <string name="pref_customization_title">Personalizar</string>
+    <string name="pref_cv_watermark_location_title">Coordenadas</string>
+    <string name="pref_cv_watermark_summary">"As visualizações são fornecidas apenas para sua referência. A marca d'água Leica aparecerá nas fotos tiradas nos modos \"Foto\" e \"Pro\"."</string>
+    <string name="pref_cv_watermark_time_title">Data</string>
+    <string name="pref_cv_watermark_title">"Marca d'água Leica"</string>
     <string name="pref_document_mode">Documentos</string>
     <string name="pref_dual_camera_video">Vídeo duplo</string>
     <string name="pref_e_c_t_j">Som original</string>
@@ -2240,6 +2281,7 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
     <string name="video_effect_entry_wind_sing">Brisa</string>
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
     <string name="video_hybrid_tip">"HLG"</string>
+    <string name="video_low_battery_tip_content">Taxa de quadros reduzida devido a bateria fraca</string>
     <string name="video_overheat_tip_content">Parece que seu dispositivo está quente demais. Tente gravar um vídeo em uma resolução mais baixa.</string>
     <string name="video_reach_size_limit">Limite de tamanho atingido.</string>
     <string name="video_shortcut_short">Vídeo</string>
@@ -2252,6 +2294,7 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
     <string name="vv_duartion_hint">%1$s | Segmento: %2$d | %3$ss</string>
     <string name="vv_hint">Você só pode gravar vlogs em modo paisagem</string>
     <string name="vv_stability_hint">Mantenha seu dispositivo estável</string>
+    <string name="vv_stability_newTip">Salvando itens…</string>
     <string name="vv_start">Capturar Vlog</string>
     <string name="vv_use_hint_text_body">"O Modo Vlog permite
 que você grave e edite vídeos em qualquer lugar"</string>
@@ -2277,5 +2320,14 @@ que você grave e edite vídeos em qualquer lugar"</string>
     <string name="wideselfie_rotate_to_front">Incline o telefone para frente</string>
     <string name="wideselfie_rotate_to_left_slowly">Gire o telefone para a esquerda</string>
     <string name="wideselfie_rotate_to_right_slowly">Gire o telefone para a direita</string>
+    <string name="widget_camera_filter_description">Quatro conjuntos de filtros Leica</string>
+    <string name="widget_camera_filter_talk_back">Filtros Leica</string>
+    <string name="widget_camera_label">Filtros Leica</string>
+    <string name="widget_camera_lens_35mm_description">35 mm</string>
+    <string name="widget_camera_lens_50mm_description">50 mm</string>
+    <string name="widget_camera_lens_90mm_description">90 mm</string>
+    <string name="widget_camera_lens_description">Experimente a distância focal</string>
+    <string name="widget_camera_lens_none_description">Uma lente de 50 mm para retratos</string>
+    <string name="widget_camera_lens_talk_back">lentes Pro</string>
     <string name="yesterday">Ontem</string>
 </resources>
