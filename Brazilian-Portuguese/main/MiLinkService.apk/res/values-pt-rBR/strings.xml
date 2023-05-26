@@ -151,26 +151,36 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_device_type_name_tv">"TV"</string>
     <string name="circulate_device_type_name_wifi_speaker">Alto-falante</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Alto-falante de tela sensível ao toque</string>
-    <string name="circulate_headset_back_to_box_desc">"1. Put both earphones in the charging case.
-2. Press and hold the button on the case.
-3. Finish pairing on the target device."</string>
-    <string name="circulate_headset_back_to_box_desc_err_308">To be able to transfer playback between devices, pair your earphones to your TV first.</string>
-    <string name="circulate_headset_back_to_box_desc_pad">"1. Put both earphones in the case.
-2. Press and hold the button on the case.
-3. Finish pairing in Bluetooth settings or using a pop-up dialog on this device."</string>
-    <string name="circulate_headset_back_to_box_desc_phone">"1. Put both earphones in the case.
-2. Press and hold the button on the case.
-3. Finish pairing in Bluetooth settings or using a pop-up dialog on this device."</string>
-    <string name="circulate_headset_back_to_box_desc_tv">"1. Put both earphones in the charging case.
-2. Press and hold the button on the case.
-3. Open the list of available Bluetooth devices on your TV and confirm pairing."</string>
-    <string name="circulate_headset_back_to_box_subtitle">"Can't pair these earphones automatically. Pair them manually on the target device instead."</string>
-    <string name="circulate_headset_back_to_box_title">Pair earphones first</string>
-    <string name="circulate_headset_back_to_box_title_err_308">Pair your earphones</string>
-    <string name="circulate_headset_back_to_box_title_pad">Pair earphones with this device</string>
-    <string name="circulate_headset_back_to_box_title_phone">Pair earphones with this device</string>
-    <string name="circulate_headset_back_to_box_title_tv">Pair your earphones</string>
-    <string name="circulate_headset_duplicate_cancel">Cancel</string>
+    <string name="circulate_headset_back_to_box_desc">"1. Coloque os dois fones de ouvido no case.
+2. Pressione e segure o botão no case.
+3. Conclua o emparelhamento no dispositivo de destino."</string>
+    <string name="circulate_headset_back_to_box_desc_err_308">Para poder transferir a reprodução entre dispositivos, primeiro emparelhe seus fones de ouvido com a TV.</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"1. Pressione o botão Power no controle remoto da TV para desconectar os alto-falantes.
+2. Tente conectar os fones de ouvido novamente assim que a tela acender."</string>
+    <string name="circulate_headset_back_to_box_desc_pad">"1. Coloque os dois fones de ouvido no case.
+2. Pressione e segure o botão no case.
+3. Conclua o emparelhamento nas configurações de Bluetooth ou usando uma caixa de diálogo pop-up neste dispositivo."</string>
+    <string name="circulate_headset_back_to_box_desc_phone">"1. Coloque os dois fones de ouvido no case.
+2. Pressione e segure o botão no case.
+3. Conclua o emparelhamento nas configurações de Bluetooth ou usando uma caixa de diálogo pop-up neste dispositivo."</string>
+    <string name="circulate_headset_back_to_box_desc_tv">"1. Coloque os dois fones de ouvido no case.
+2. Pressione e segure o botão no case.
+3. Abra a lista de dispositivos Bluetooth disponíveis na sua TV e confirme o emparelhamento."</string>
+    <string name="circulate_headset_back_to_box_subtitle">"Não é possível emparelhar esses fones de ouvido automaticamente. Em vez disso, emparelhe-os manualmente no dispositivo de destino."</string>
+    <string name="circulate_headset_back_to_box_title">Emparelhe os fones de ouvido primeiro</string>
+    <string name="circulate_headset_back_to_box_title_err_308">Emparelhe seus fones de ouvido</string>
+    <string name="circulate_headset_back_to_box_title_pad">Parear fones de ouvido com este dispositivo</string>
+    <string name="circulate_headset_back_to_box_title_phone">Parear fones de ouvido com este dispositivo</string>
+    <string name="circulate_headset_back_to_box_title_tv">Emparelhe seus fones de ouvido</string>
+    <string name="circulate_headset_control_anc_clear">Transparência</string>
+    <string name="circulate_headset_control_anc_disable_hint">Seus fones de ouvido estão conectados a dois dispositivos. Você só pode ajustar o volume deste dispositivo.</string>
+    <string name="circulate_headset_control_anc_noise_cancel">Cancelamento de ruído</string>
+    <string name="circulate_headset_control_anc_off">Off</string>
+    <string name="circulate_headset_control_battery_case">"Case"</string>
+    <string name="circulate_headset_control_battery_left">L</string>
+    <string name="circulate_headset_control_battery_right">R</string>
+    <string name="circulate_headset_control_more_settings">Configurações adicionais</string>
+    <string name="circulate_headset_duplicate_cancel">Cancelar</string>
     <string name="circulate_headset_duplicate_dialog_message">Looks like another set of earphones is connected to your %1$s. Replace them with the current set?</string>
     <string name="circulate_headset_duplicate_dialog_title">Replace earphones connected to %1$s</string>
     <string name="circulate_headset_duplicate_ok">Replace</string>
@@ -179,6 +189,8 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_headset_error_default">Connection timed out</string>
     <string name="circulate_headset_error_device_not_support">"Can't connect earphones to this device"</string>
     <string name="circulate_headset_error_headset_not_support">"Can't connect your earphones to this computer"</string>
+    <string name="circulate_headset_error_headset_not_worn">Put in both earphones and try again</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Put in both earphones and try again</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Turn on Bluetooth on your TV
 and sign in to your Xiaomi Account"</string>
     <string name="circulate_headset_error_self_upgrade">"Couldn't complete this action. Update Mi Smart Hub first."</string>
@@ -211,9 +223,9 @@ your devices?"</string>
     <string name="close">Fechar</string>
     <string name="close_hotspot_hint">Desative o ponto de acesso Wi-Fi antes de transmitir</string>
     <string name="close_hotspot_hint_DFS">To transfer items to a TV, turn off hotspot first.</string>
-    <string name="close_invisible_mode_dialog_cancel">Cancel</string>
+    <string name="close_invisible_mode_dialog_cancel">Cancelar</string>
     <string name="close_invisible_mode_dialog_message">"Can't use Mi Smart Play now. Turn off Incognito mode in the Settings to be able to use this feature."</string>
-    <string name="close_invisible_mode_dialog_ok">Settings</string>
+    <string name="close_invisible_mode_dialog_ok">Configurações</string>
     <string name="close_invisible_mode_dialog_title">"You're incognito"</string>
     <string name="close_slave_wifi_hint">Desconecte de redes Wi-Fi auxiliares antes de transmitir</string>
     <string name="close_slave_wifi_hint_china">Desconecte de redes Wi-Fi auxiliares antes de transmitir</string>
