@@ -100,6 +100,7 @@
     <string name="apply_not_support_aod">Este dispositivo não suporta a Tela ambiente</string>
     <string name="apply_not_support_in_second_space">Não é possível aplicar este item no segundo espaço</string>
     <string name="apply_not_support_maml_aod">Este dispositivo não suporta a combinação da Tela ambiente com temas</string>
+    <string name="apply_not_support_video_wallpaper_warning">"Vídeos 4K, 8K e Dolby não podem ser definidos como papéis de parede de vídeo."</string>
     <string name="apply_sensor_video_wallpaper_dialog_message">Este papel de parede será aplicado às Telas de bloqueio internas e externas e às Telas iniciais..</string>
     <string name="apply_succeed">Aplicado com sucesso</string>
     <string name="apply_success_not_enable_aod">Ative primeiro a Tela ambiente nas Configurações</string>

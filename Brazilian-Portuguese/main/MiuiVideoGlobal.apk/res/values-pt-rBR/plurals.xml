@@ -5,16 +5,14 @@
         <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
-        <item quantity="one">1 hora atrás</item>
+        <item quantity="other">%d hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
         <item quantity="one">Meia hora atrás</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Em 1 hora</item>
-        <item quantity="one">Em 1 hora</item>
+        <item quantity="other">Em %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
@@ -26,7 +24,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Em %d min</item>
-        <item quantity="one">Em 1 min</item>
+        <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
@@ -34,7 +32,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d min atrás</item>
-        <item quantity="one">1 min atrás</item>
+        <item quantity="one">%d min atrás</item>
     </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">Ver %d respostas</item>
@@ -72,36 +70,6 @@
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
     </plurals>
-    <plurals name="incentive_dialog_congratulation_get_credits_title">
-        <item quantity="other">Você ganhou %d pontos!</item>
-        <item quantity="one">Você ganhou %d ponto!</item>
-    </plurals>
-    <plurals name="incentive_dialog_credits">
-        <item quantity="other">%d pontos</item>
-        <item quantity="one">%d ponto</item>
-    </plurals>
-    <plurals name="incentive_dialog_login_and_get_credits_message">
-        <item quantity="other">Faça o login para resgatar e ganhar %d pontos extras</item>
-        <item quantity="one">Faça o login para resgatar e ganhar %d ponto extra</item>
-    </plurals>
-    <plurals name="incentive_dialog_seconds">
-        <item quantity="other">%d segundos</item>
-        <item quantity="one">%d segundo</item>
-    </plurals>
-    <plurals name="incentive_guide_all_time_tip">
-        <item quantity="other">Assista a um total de %d minutos para ganhar pontos! Completar a tarefa agora?</item>
-        <item quantity="one">Assista a um total de %d minuto para ganhar pontos! Completar a tarefa agora?</item>
-    </plurals>
-    <plurals name="incentive_guide_coins_tip">
-        <item quantity="other">"Você possui %d pontos para resgatar
-Disponível apenas hoje"</item>
-        <item quantity="one">"Você possui %d ponto para resgatar
-Disponível apenas hoje"</item>
-    </plurals>
-    <plurals name="incentive_guide_current_time_tip">
-        <item quantity="other">Você assistiu %d minutos hoje</item>
-        <item quantity="one">Você assistiu %d minuto hoje</item>
-    </plurals>
     <plurals name="incentive_popup_window_share_success">
         <item quantity="other">Shared successfully. You earned %d points.</item>
         <item quantity="one">Shared successfully. You earned %d point.</item>
@@ -109,26 +77,6 @@ Disponível apenas hoje"</item>
     <plurals name="incentive_popup_window_subscribe_success">
         <item quantity="other">Subscribed successfully. You earned %d points.</item>
         <item quantity="one">Subscribed successfully. You earned %d point.</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_begin">
-        <item quantity="other">Ganhe %d pontos!</item>
-        <item quantity="one">Ganhe %d ponto!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_finish">
-        <item quantity="other">Tarefas de hoje concluídas! Você ganhou %d pontos.</item>
-        <item quantity="one">Tarefas de hoje concluídas! Você ganhou %d ponto.</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_of_one">
-        <item quantity="other">Você assistiu %1$1ds e ganhou %2$2d pontos!</item>
-        <item quantity="one">Você assistiu %1$1ds e ganhou %2$2d ponto!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip1">
-        <item quantity="other">Assista a um vídeo aleatório para ganhar %d pontos</item>
-        <item quantity="one">Assista a um vídeo aleatório para ganhar %d ponto</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip2">
-        <item quantity="other">Assista a %1$1d segundos de um vídeo para ganhar %2$2d pontos</item>
-        <item quantity="one">Assista a %1$1d segundos de um vídeo para ganhar %2$2d ponto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>

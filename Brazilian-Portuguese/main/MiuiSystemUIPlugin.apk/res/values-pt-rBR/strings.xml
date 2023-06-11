@@ -95,7 +95,7 @@
     <string name="controls_edit_added_subtitle">Arraste os itens para reorganizar</string>
     <string name="controls_edit_added_title">Adicionado</string>
     <string name="controls_edit_done_button">Concluído</string>
-    <string name="controls_edit_go_to_app_guide">Abrir</string>
+    <string name="controls_edit_go_to_app_guide">Abrir  %s</string>
     <string name="controls_edit_not_added_title">Disponível</string>
     <string name="controls_edit_panel_not_added_title">Dispositivos disponíveis</string>
     <string name="controls_edit_panel_save_button">Concluído</string>
@@ -142,7 +142,7 @@
     <string name="dolby_atoms_sound_effect_label">"Dolby Atmos"</string>
     <string name="drag_to_add_tiles">Pressione e segure para adicionar ou reorganizar itens</string>
     <string name="early_morning">"AM"</string>
-    <string name="emergency_call">Chamada de Emergência</string>
+    <string name="emergency_call">Chamada de emergência</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Erro</string>
@@ -459,6 +459,7 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="sunday_shortest">Dom</string>
     <string name="switch_bar_off">Desativado</string>
     <string name="switch_bar_on">Ativado</string>
+    <string name="system_update">Atualização do sistema</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>

@@ -51,6 +51,12 @@
     <string name="back_tap">Toque na parte traseira</string>
     <string name="back_triple_tap">Toque triplo na parte traseira</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="bt_enable_pair_connect_cancel">Cancelar</string>
+    <string name="bt_enable_pair_connect_fail">"Não foi possível conectar. Tente novamente."</string>
+    <string name="bt_enable_pair_connect_line">Teclado Xiaomi</string>
+    <string name="bt_enable_pair_connect_ok">Conectar</string>
+    <string name="bt_enable_pair_connect_succceed">Conectado com sucesso</string>
+    <string name="bt_enable_pair_connecting">Conectando…</string>
     <string name="builtin_keyboard_settings_title">Teclado físico</string>
     <string name="camera_key_action_app_title">Abrir app</string>
     <string name="camera_key_action_category_title">Não é possível usar a Câmera</string>
@@ -157,6 +163,12 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="intelligence_suppression_summary">Ajusta o tamanho da área próximo às bordas dinâmicamente onde toques acidentais serão ignorados com base em sua pegada</string>
     <string name="intelligence_suppression_title">Automático (recomendado)</string>
     <string name="item_view_role_description">Aba</string>
+    <string name="kddi_long_press_power_guide_assistant_message">Pressione e segure o botão [Liga/Desliga] para %ss ativar o Google Assistente</string>
+    <string name="kddi_long_press_power_guide_assistant_title">Ativar Google Assistente</string>
+    <string name="kddi_long_press_power_guide_know">Entendi</string>
+    <string name="kddi_long_press_power_guide_settings">Configurações</string>
+    <string name="kddi_long_press_power_guide_shutdown_message">Pressione simultaneamente os botões de [Liga/Desliga] e volume para reiniciar ou desligar o dispositivo</string>
+    <string name="kddi_long_press_power_guide_shutdown_title">Reiniciar ou desligar o dispositivo</string>
     <string name="key_combination_power_back">[Liga/Desliga] + Voltar</string>
     <string name="key_combination_power_home">[Liga/Desliga] + Início</string>
     <string name="key_combination_power_menu">[Liga/Desliga] + Menu</string>
@@ -182,6 +194,10 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="keyboard_back_light">Luz de fundo do teclado</string>
     <string name="keyboard_back_light_automatic_adjustment">Ajusta automaticamente a luz de fundo</string>
     <string name="keyboard_back_light_brightness">Brilho da luz de fundo</string>
+    <string name="keyboard_connect_fail_text">"Não foi possível conectar o teclado"</string>
+    <string name="keyboard_connect_lose_text">Conexão de teclado perdida</string>
+    <string name="keyboard_connect_low_electricity_text">A bateria do teclado está fraca. Conecte-o a uma fonte de energia.</string>
+    <string name="keyboard_connect_success_text">Teclado conectado com sucesso</string>
     <string name="keyboard_cursor_style_title">Estilo do cursor</string>
     <string name="keyboard_cursor_title">"Cursor"</string>
     <string name="keyboard_function_summary_first_line">• Pressione e segure para exibir atalhos.</string>
@@ -491,6 +507,8 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="stylus_ota_updating">Atualizando</string>
     <string name="stylus_pen_mask_text">Toque na tela para começar a escrever</string>
     <string name="stylus_primary_key">Primeiro botão</string>
+    <string name="stylus_quick_note_summary">Quando a tela estiver desligada, toque nela com a caneta para começar a escrever. Este recurso aumenta o consumo de energia.</string>
+    <string name="stylus_quick_note_title">Escreva com a tela desligada</string>
     <string name="stylus_quick_write">Escrever</string>
     <string name="stylus_quick_write_summary">Pressione e segure o botão de escrita para escrever ou desenhar.</string>
     <string name="stylus_schematic_diagram">Demonstração</string>

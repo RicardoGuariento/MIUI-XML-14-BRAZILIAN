@@ -43,6 +43,7 @@
     <string name="actionbar_close_description">Fechar</string>
     <string name="actionbar_home_description">Voltar</string>
     <string name="add_account_desc">Sincronizar suas notas com sua Conta Mi?</string>
+    <string name="added_to_clipboard">Copiado com sucesso</string>
     <string name="afternoon">"PM"</string>
     <string name="alarm_bar_title">Lembrete</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
@@ -136,6 +137,7 @@
     <string name="chip_text">Texto do chip</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
+    <string name="clip_resource_deleted">Este item não está mais disponível</string>
     <string name="close">Fechar</string>
     <string name="cloud_trash_bin_title">Notas excluídas da nuvem</string>
     <string name="confirm_cancel">Rejeitar</string>
@@ -640,6 +642,7 @@
     <string name="pad_note_list_not_text_stub">Sem texto</string>
     <string name="pad_todo_create_hint">Adicionar tarefa</string>
     <string name="password_toggle_content_description">Exibir senha</string>
+    <string name="paste_unsupported_data">"Não é possível colar este conteúdo"</string>
     <string name="pc_action_create_new_folder">Pasta</string>
     <string name="pc_action_create_new_mind_note">Mapa mental</string>
     <string name="pc_action_create_new_normal_note">Nota</string>

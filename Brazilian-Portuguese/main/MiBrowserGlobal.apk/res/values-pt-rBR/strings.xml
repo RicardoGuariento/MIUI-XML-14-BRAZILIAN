@@ -778,6 +778,7 @@ Envie este código para o supervisor."</string>
     <string name="download_sdcard_busy_dlg_title">Cartão SD indisponível</string>
     <string name="download_sdcard_no_space">Não foi possível baixar. Não há espaço de armazenamento suficiente.</string>
     <string name="download_secure_download_in_xiaomi_market">Baixar na App Store</string>
+    <string name="download_select_dir">Selecione outra pasta</string>
     <string name="download_status_failed">Não foi possível baixar</string>
     <string name="download_status_pending">Aguardando</string>
     <string name="download_title">"Downloads"</string>
