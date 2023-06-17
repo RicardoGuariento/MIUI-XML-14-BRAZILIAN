@@ -85,6 +85,8 @@
     <string name="ew_detail_receive_time_title">Hora de início</string>
     <string name="ew_detail_receive_warn_time_message">"%s s"</string>
     <string name="ew_detail_receive_warn_time_title">Tempo antes do início</string>
+    <string name="ew_monitor_slogan">"Junte-se ao nosso programa de
+monitoramento de terremoto"</string>
     <string name="ew_save_title">Salvar</string>
     <string name="ew_share_logo_title">Alerta de terremoto</string>
     <string name="ew_share_save_tips">Salvo em %s</string>
@@ -230,9 +232,12 @@
     <string name="gb_pannel_control_mode_high_quality">Alta qualidade</string>
     <string name="gb_pannel_control_mode_normal">Padrão</string>
     <string name="gb_pannel_control_mode_power_saving">Economize energia</string>
-    <string name="gb_webwindow_schemedialog_accept">Open</string>
-    <string name="gb_webwindow_schemedialog_cancel">Cancel</string>
-    <string name="gb_webwindow_schemedialog_title">Open Games now?</string>
+    <string name="gb_web_panel_failure_retry">"Não foi possível carregar os itens. Tente novamente."</string>
+    <string name="gb_web_panel_game_loading">Aguarde…</string>
+    <string name="gb_web_panel_network_exception">"Não é possível recomendar jogos no momento devido a um erro de rede. Verifique suas configurações de rede e tente novamente."</string>
+    <string name="gb_webwindow_schemedialog_accept">Abrir</string>
+    <string name="gb_webwindow_schemedialog_cancel">Cancelar</string>
+    <string name="gb_webwindow_schemedialog_title">Abrir Jogos agora?</string>
     <string name="gb_weixinpay_can_not_complete">Não é possível concluir o pagamento. Instale para continuar.</string>
     <string name="gdpr_msg"><Data>Para usar os recursos básicos do app Segurança, você deve concordar que a Xiaomi coletará, processará e usará seus dados pessoais, incluindo informações sobre as maneiras como você usa os recursos do app Segurança (ex.: estatísticas de uso de dados móveis, informações sobre malwares, bem como informações básicas sobre o seu dispositivo) e outros tipos de informações especificadas em nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Booster Xunyou. Este serviço irá coletar o sua ID da Conta Mi para registrar a duração da sua adesão."</string>
@@ -250,7 +255,7 @@
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
@@ -260,8 +265,9 @@
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -367,6 +373,7 @@
     <string name="pc_activity_title">Otimizar bateria</string>
     <string name="pc_entered_extreme_mode">O Modo hibernação está ativado</string>
     <string name="pc_entered_extreme_mode_summary">"Seu dispositivo está sem bateria e entrou no Modo hibernação. Os apps serão executados em segundo plano e não enviarão notificações."</string>
+    <string name="pc_entered_extreme_mode_summary2">"Seu dispositivo está quase sem bateria. No modo de hibernação, você não receberá nenhuma notificação dos apps que estiverem funcionando em segundo plano."</string>
     <string name="pc_extreme_exit_and_power_off">Sair</string>
     <string name="pc_extreme_mode_bg_toast">"No Modo hibernação, os apps serão executados em segundo plano e não enviarão notificações"</string>
     <string name="pc_extreme_mode_exit_risk_title">Atenção!</string>

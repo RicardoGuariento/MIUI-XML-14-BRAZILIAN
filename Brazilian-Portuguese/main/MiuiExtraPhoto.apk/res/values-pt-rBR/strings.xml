@@ -212,10 +212,10 @@
     <string name="night">"PM"</string>
     <string name="noon">"PM"</string>
     <string name="ok">"OK"</string>
+    <string name="open">Ativo</string>
     <string name="operation_original">Comparar</string>
     <string name="operation_redo">Refazer</string>
     <string name="operation_undo">Desfazer</string>
-    <string name="open">Ativo</string>
     <string name="pm">"PM"</string>
     <string name="refocus_discard_confirm_message">Salvar alterações?</string>
     <string name="refocus_discard_negative_btn">Descartar</string>

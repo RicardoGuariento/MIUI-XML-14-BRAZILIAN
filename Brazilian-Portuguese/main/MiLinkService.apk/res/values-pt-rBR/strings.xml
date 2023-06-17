@@ -277,6 +277,8 @@ your devices?"</string>
     <string name="dialog_miplay_permission_message">Permita que a Transmissão grave áudio, acesse arquivos no armazenamento interno e acesse a sua localização para poder usar este recurso normalmente. Toque em \"Configurações\" e selecione \"Permissões do app\" para continuar.</string>
     <string name="dialog_miplay_permission_positive">Configurações</string>
     <string name="dialog_miplay_permission_title">Permissões necessárias</string>
+    <string name="dialog_nearbydevice_permission_message">Permita que este dispositivo acesse dispositivos próximos para poder usar os recursos de transmissão.</string>
+    <string name="dialog_nearbydevice_permission_title">Permissões necessárias</string>
     <string name="dialog_nfc_cast_wifi_off">Ative o Wi-Fi para poder transmitir usando NFC. Ativar agora?</string>
     <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Conecte seu dispositivo móvel e a TV à mesma rede Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Em alguns modelos de TV, este recurso só está disponível quando o espelhamento de tela está ativado. Veja a &lt;a href=milink://com.milink.service/specification>\"Ajuda\"&lt;/a> para saber mais.</Data></string>
     <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Conecte seu dispositivo móvel e a TV à mesma rede Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Em alguns modelos de TV, este recurso só está disponível quando o espelhamento de tela está ativado. Veja a &lt;a href=milink://com.milink.service/specification>\"Ajuda\"&lt;/a> para saber mais.</Data></string>

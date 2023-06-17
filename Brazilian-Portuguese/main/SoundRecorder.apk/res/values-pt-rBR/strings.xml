@@ -164,7 +164,7 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="head_set_tip_dialog_msg">Desconecte seu fone de ouvido para gravar sons com predefinições específicas (ex.: Músicas, Voz).</string>
+    <string name="head_set_tip_dialog_msg">Desconecte seu fone de ouvido para gravar sons com predefinições específicas (ex.: músicas, voz).</string>
     <string name="head_set_tip_dialog_ok">Entendi</string>
     <string name="head_set_tip_dialog_title">Usar microfone interno</string>
     <string name="high_bit_rate">"MP3, ~%1$d kbps, ~%2$d MB/h"</string>
@@ -333,6 +333,11 @@
 Como conceder permissão
 Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Próximo</string>
+    <string name="new_search_alll_records_hint">Pesquisar todas as gravações</string>
+    <string name="new_search_app_records_hint">Pesquisar gravações de apps</string>
+    <string name="new_search_call_records_hint">Pesquisar gravações de chamadas</string>
+    <string name="new_search_fm_records_hint">Pesquisar gravações de rádio</string>
+    <string name="new_search_recorder_records_hint">Pesquisar no Gravador</string>
     <string name="night">"PM"</string>
     <string name="no_content">Nenhum item aqui ainda</string>
     <string name="no_file">Vazio</string>

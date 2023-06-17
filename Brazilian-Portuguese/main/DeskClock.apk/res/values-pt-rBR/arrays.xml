@@ -77,6 +77,15 @@
         <item>Diariamente</item>
         <item>Dias úteis</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Segunda a sexta</item>
+        <item>Diariamente</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Diariamente</item>
+        <item>Segunda a sexta</item>
+        <item>Personalizado</item>
+    </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Diariamente</item>
         <item>Segunda a sexta</item>
@@ -270,7 +279,7 @@
         <item>Sofia</item>
         <item>Estocolmo</item>
         <item>Tallinn</item>
-        <item>Vatican</item>
+        <item>Cidade do Vaticano</item>
         <item>Viena</item>
         <item>Vilnius</item>
         <item>Varsóvia</item>

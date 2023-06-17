@@ -56,4 +56,12 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="talkback_selection_denominator">
+        <item quantity="other">%1$d itens no total</item>
+        <item quantity="one">%1$d item no total</item>
+    </plurals>
+    <plurals name="talkback_selection_numerator">
+        <item quantity="other">%1$d itens selecionados</item>
+        <item quantity="one">%1$d item selecionado</item>
+    </plurals>
 </resources>

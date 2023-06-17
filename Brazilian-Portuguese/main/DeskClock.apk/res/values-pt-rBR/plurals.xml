@@ -153,11 +153,11 @@
         <item quantity="one">%1$d segundo</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s horas na frente</item>
-        <item quantity="one">%s hora na frente</item>
+        <item quantity="other">+ %s horas</item>
+        <item quantity="one">+ %s hora</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">%s horas atrás</item>
-        <item quantity="one">%s hora atrás</item>
+        <item quantity="other">- %s horas</item>
+        <item quantity="one">- %s hora</item>
     </plurals>
 </resources>

@@ -289,6 +289,8 @@ não são geradas no Segundo espaço"</string>
     <string name="focus_time_exception_tip">Parece que a hora do sistema foi alterada. Modo foco desativado.</string>
     <string name="follow_apps_settings">Com base nas configurações do app</string>
     <string name="follow_sim1">Aplicar configurações do SIM 1</string>
+    <string name="footer_max_fps" formatted="false">"
+%d. A taxa de atualização pode ser ajustada para até %s Hz para apps e jogos compatíveis."</string>
     <string name="force_rest">Usar intervalos de sessão</string>
     <string name="force_rest_summary">Faça pausas obrigatórias quando as sessões atingirem o limite definido</string>
     <string name="force_rest_time">Duração do intervalo</string>
@@ -400,19 +402,21 @@ não são geradas no Segundo espaço"</string>
     <string name="marabou_stork">Marabu</string>
     <string name="marabou_stork_info">A cegonha-marabu é uma ave enorme e necrófaga</string>
     <string name="masked_palm_civet">Paguma larvata</string>
+    <string name="max_fps_string">Até %s Hz</string>
     <string name="medium_tree_finch">Camarhynchus pauper</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcartodos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -618,7 +622,7 @@ não são geradas no Segundo espaço"</string>
     <string name="stop_app_timer_tip">Todos os dados e permissões do Tempo de tela, incluindo configurações individuais, bem como os itens armazenados localmente e sincronizados com a nuvem, serão excluídos quando você desativar este recurso.</string>
     <string name="stop_summary">Todas as estatísticas de Tempo de tela e seus dados serão excluídos quando você desativar este recurso</string>
     <string name="suggestion">"Feedback"</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_max_fps_for_intelligent">Ajuste a taxa de atualização dinamicamente para até %s Hz com base em cenários para equilibrar o desempenho com o consumo de energia</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

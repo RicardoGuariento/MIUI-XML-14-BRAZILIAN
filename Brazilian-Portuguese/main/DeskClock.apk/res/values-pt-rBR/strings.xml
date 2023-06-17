@@ -42,6 +42,7 @@
     <string name="add_timezone_title">Adicionar fuso horário</string>
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
+    <string name="alarm_alert">O alarme está tocando</string>
     <string name="alarm_alert_alert_silenced">Alarme silenciado após %1$s.</string>
     <string name="alarm_alert_close_entrance">Desativar</string>
     <string name="alarm_alert_disabled">Desativado</string>
@@ -165,7 +166,7 @@
     <string name="delete_selected_timer_item">Excluir a tarefa do temporizador selecionado?</string>
     <string name="delete_timer_item_title">Excluir tarefa do temporizador</string>
     <string name="delete_timezone_title">Excluir fuso horário</string>
-    <string name="deskclock_sleep_no_disturbance">Relógio - Gerenciar hora de dormir - Modo Não perturbe</string>
+    <string name="deskclock_sleep_no_disturbance">Relógio > Gerenciar hora de dormir > Modo Não perturbe</string>
     <string name="device_sounds">Sons do dispositivo</string>
     <string name="dialog_confirm_abort">Descartar alterações?</string>
     <string name="dialog_legal_off_day"><Data>"Parece que você está usando os alarmes de feriados. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
@@ -552,7 +553,7 @@ mm"</string>
     <string name="sleep_notification_title">Hora de ir para a cama</string>
     <string name="sleep_record">Analise o sono</string>
     <string name="sleep_record_desc">Ative para começar a registrar seus dados de sono</string>
-    <string name="sleep_record_desc_detailed">O recurso de análise de sono é fornecido pelo Mi Saúde. Uma vez ativado, o Mi Saúde registrará automaticamente o seu sono com base no seu uso do telefone, estatísticas de atividades e o horário definido para e acordar, mostrando suas estatísticas na forma de gráficos. Para analisar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente. Todos os dados relacionados serão armazenados localmente no seu dispositivo, o que permite que você os gerencie com facilidade.</string>
+    <string name="sleep_record_desc_detailed">O recurso de análise de sono é fornecido pelo Mi Saúde. Uma vez ativado, o Mi Saúde registrará automaticamente o seu sono com base no seu uso do telefone, estatísticas de atividades e horários de dormir e acordar que você definiu, mostrando suas estatísticas na forma de gráficos. Para analisar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente. Todos os dados relacionados serão armazenados localmente no seu dispositivo, o que permite que você os gerencie com facilidade.</string>
     <string name="sleep_record_desc_detailed_new">A análise do sono é fornecido pelo recurso Sono do Mi Fitness. Se você ativar esse recurso, o Mi Fitness coletará e exibirá automaticamente os dados do seu sono com base no uso do telefone, na atividade e na hora de dormir e acordar que você definiu. Para analisar o sono com mais precisão, permita que o Mi Fitness inicie automaticamente.</string>
     <string name="sleep_record_no_data">As suas estatísticas aparecerão aqui após o Mi Saúde analisar dados suficientes</string>
     <string name="sleep_remind">Lembrete para dormir</string>
@@ -560,6 +561,7 @@ mm"</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Deslize para cima para desativar</string>
     <string name="slider_text_new">Deslize para cima para parar</string>
+    <string name="snooze_alarm_alert">Adiado até %s</string>
     <string name="snooze_confirm_cancel">Dispensar alarme</string>
     <string name="snooze_duration">Soneca</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -642,6 +644,8 @@ mm"</string>
     <string name="timer_alert_mute_on">O alarme não tocará quando o temporizador parar</string>
     <string name="timer_alert_mute_remind">Toque para silenciar o alarme</string>
     <string name="timer_alert_mute_switch">Interruptor para silenciar alarmes do temporizador</string>
+    <string name="timer_alert_pause">O temporizador está pausado</string>
+    <string name="timer_alert_running">O temporizador está em andamento</string>
     <string name="timer_alert_type_beach">Praia</string>
     <string name="timer_alert_type_forest">Floresta</string>
     <string name="timer_alert_type_mute">Padrão</string>

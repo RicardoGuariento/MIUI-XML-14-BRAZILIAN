@@ -362,7 +362,7 @@ Envie este código para o supervisor."</string>
     <string name="in_progress">Em andamento</string>
     <string name="inconsistent_pwd">As senhas não coincidem</string>
     <string name="indeterminate">Nem marcado nem desmarcado</string>
-    <string name="input_email_address_notice">Nós usaremos este e-mail para verificar sua conta</string>
+    <string name="input_email_address_notice">Enviaremos um e-mail com um código de verificação para o endereço que você fornecer</string>
     <string name="input_new_pwd">Insira uma nova senha</string>
     <string name="io_error_title">Confirme sua rede</string>
     <string name="item_view_role_description">Aba</string>
@@ -418,7 +418,7 @@ Envie este código para o supervisor."</string>
     <string name="mipay_transit_card">Cartão de transporte</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
@@ -428,8 +428,9 @@ Envie este código para o supervisor."</string>
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando com a nuvem…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
@@ -715,6 +716,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_imei_permission_denied_message">Estamos solicitando permissão para acessar o IMEI do seu dispositivo. A Conta Mi usa o IMEI para identificar o dispositivo no qual você faz login ou se registra para manter sua conta mais segura.</string>
     <string name="passport_imei_permission_denied_title">Solicitação de acesso ao IMEI</string>
     <string name="passport_input_captcha_hint">Digite o código</string>
+    <string name="passport_input_email_vcode_hint">Digite o código</string>
     <string name="passport_input_password_for_login">Este número está associado a uma conta existente, insira a sua senha</string>
     <string name="passport_input_password_hint">Digite sua senha</string>
     <string name="passport_input_phone_hint">Digite o número do telefone</string>
@@ -910,6 +912,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_user_password_hint">Senha</string>
     <string name="passport_user_reg_region">País/Região</string>
     <string name="passport_user_reg_region_warning">Você não será capaz de alterar seu país/região depois que a conta for criada.</string>
+    <string name="passport_vcode_email_send_prompt"><Data>Seu código de verificação foi enviado para &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
     <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
     <string name="passport_vcode_prompt_long">Digite o código de verificação</string>
     <string name="passport_vcode_sms_send_prompt">Enviar código de verificação para %s</string>
@@ -1031,8 +1034,8 @@ Envie este código para o supervisor."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_ad">Anúncios em apps de sistema</string>
-    <string name="system_ad_list">Ver apps relacionados.</string>
-    <string name="system_ad_summary">"Ative este recurso para permitir uma pequena quantidade de anúncios nos apps de sistema. Estes anúncios nos ajudam a desenvolver e melhorar nossos produtos e serviços. Você pode optar por desativar este recurso a qualquer momento. Obrigado pelo seu apoio! "</string>
+    <string name="system_ad_list">Ver apps relacionados</string>
+    <string name="system_ad_summary">Ative este recurso para permitir uma pequena quantidade de anúncios nos apps de sistema. Estes anúncios nos ajudam a desenvolver e melhorar nossos produtos e serviços. Você pode optar por desativar este recurso a qualquer momento.</string>
     <string name="system_ad_switch">Anúncios em apps de sistema</string>
     <string name="system_ad_switch_failed">Não foi possível aplicar a configuração</string>
     <string name="system_error_info">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
