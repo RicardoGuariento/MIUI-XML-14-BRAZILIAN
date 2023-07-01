@@ -162,6 +162,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="create_folder">Nova pasta</string>
     <string name="create_shortcut_success">Atalho adicionado com sucesso</string>
     <string name="cta_function_account_operation">Para um rápido login em sua Conta Mi</string>
+    <string name="cta_use_sync_midrive_file">Para sincronizar arquivos com o Mi Drive</string>
     <string name="data_consume_dialog_message">"No momento, você está usando dados móveis. Se você continuar, isso usará %s de dados."</string>
     <string name="data_consume_dialog_title">Usar dados móveis?</string>
     <string name="data_consume_dialog_upload_title">Carregar usando dados móveis</string>
@@ -816,7 +817,8 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="select_dest_folder">Selecionar pasta</string>
     <string name="select_image">Imagens</string>
     <string name="select_music">Arquivos de áudio</string>
-    <string name="select_video">arquivos de vídeo</string>
+    <string name="select_pdf">Selecione o PDF</string>
+    <string name="select_video">Arquivos de vídeo</string>
     <string name="select_volume">Selecione o local de armazenamento</string>
     <string name="send">Enviar</string>
     <string name="server_control_advanced_settings">Configurações adicionais</string>

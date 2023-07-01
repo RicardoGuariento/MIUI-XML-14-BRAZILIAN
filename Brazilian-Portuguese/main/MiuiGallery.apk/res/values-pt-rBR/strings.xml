@@ -128,7 +128,7 @@
     <string name="album_favorites_name">Favoritos</string>
     <string name="album_from_format">De %s</string>
     <string name="album_hidden_item_button_title">Reexibir</string>
-    <string name="album_hidden_page_title">Ocultos</string>
+    <string name="album_hidden_page_title">Álbuns ocultos</string>
     <string name="album_homepage_show_all_photos">Exibir todas as fotos</string>
     <string name="album_jump_failed">Aguarde até os álbuns serem sincronizados com a nuvem e tente novamente</string>
     <string name="album_lockscreen_wallpapers">Planos de fundo da Tela de bloqueio</string>
@@ -1165,7 +1165,7 @@ estão disponíveis"</string>
     <string name="hdr_show_hint">Ajusta a exibição para exibir mais detalhes nas sombras e destaques em itens com alta faixa dinâmica</string>
     <string name="hdr_show_title">Mostrar HDR</string>
     <string name="hdr_switch_show_hint">Usa o HDR para exibir mais detalhes em realces e sombras</string>
-    <string name="hdr_switch_show_title">Exibir alta faixa dinâmica</string>
+    <string name="hdr_switch_show_title">Exibição Pro HDR</string>
     <string name="hello_blank_fragment">Olá fragmento em branco</string>
     <string name="help">Não encontrou dispositivos?</string>
     <string name="help_content">Caso não encontre o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Mi.</string>
@@ -1310,7 +1310,7 @@ estão disponíveis"</string>
     <string name="loading_image_thumbnail">Baixando a miniatura…</string>
     <string name="loading_members">Carregando membros…</string>
     <string name="loading_suspend">Download em pausa. Ele será retomado quando o Wi-Fi estiver disponível.</string>
-    <string name="loading_text_format" formatted="false">Removendo informações pessoais das fotos (%d/%d)…</string>
+    <string name="loading_text_format">Removendo informações privadas…</string>
     <string name="loading_video">Baixando o vídeo…</string>
     <string name="loading_video_compress_lib">Baixando o plugin de compressão de vídeo…</string>
     <string name="loading_video_fail_sync_without_network">Conecte-se à rede para baixar os metadados</string>
@@ -2346,6 +2346,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="search_syncing">Sincronizando dados, volte mais tarde</string>
     <string name="search_title_album">Álbum</string>
     <string name="search_title_app_screenshot">Capturas de tela de apps</string>
+    <string name="search_title_daily">Tempo</string>
     <string name="search_title_history">Histórico de pesquisa</string>
     <string name="search_title_location">Locais</string>
     <string name="search_title_more">Mais</string>

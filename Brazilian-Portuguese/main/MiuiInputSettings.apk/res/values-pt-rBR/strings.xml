@@ -450,6 +450,7 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="screen_key_press_action">Acionar função</string>
     <string name="screen_shot">Capturar tela</string>
     <string name="search_menu_title">Pesquisar</string>
+    <string name="search_screen_shot">Capturas de tela</string>
     <string name="seek_bar_info">Ajuste o tamanho</string>
     <string name="send">Enviar</string>
     <string name="settings_keyboard_title">Teclado</string>

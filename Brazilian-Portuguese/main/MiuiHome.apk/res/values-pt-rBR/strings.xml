@@ -243,6 +243,8 @@
     <string name="close_multi_finger_slide_summary">Estes gestos serão ignorados em alguns cenários (ex.: jogos e reprodução de vídeos)</string>
     <string name="close_multi_finger_slide_title">Não responder a gestos com três e quatro dedos</string>
     <string name="cloud_app_restore_title">Pendente</string>
+    <string name="color_group">Agrupar ícones por cor</string>
+    <string name="color_group_anim">Animações em categorias de cores</string>
     <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
     <string name="common_home_search_delete">Removendo a barra de pesquisa</string>
     <string name="common_home_search_delete_cancle">Cancelar</string>
@@ -346,6 +348,7 @@
     <string name="failed_to_delete_temporary">Não é possível remover</string>
     <string name="failed_to_drop">Não é possível mover</string>
     <string name="failed_to_drop_widget_invalid">Este widget é inválido</string>
+    <string name="find_app_by_color">Agrupe ícones por cor para encontrar apps mais rapidamente</string>
     <string name="failed_to_load_image">Não é possível carregar a imagem</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -405,9 +408,11 @@
     <string name="free_style_edit_tab_free_component">Objetos</string>
     <string name="free_style_edit_tab_shortcut">Atalhos</string>
     <string name="free_style_edit_tab_widget">"Widgets"</string>
-    <string name="free_style_enter_tip">Para ver o Mi Space, deslize para baixo com dois dedos a partir do topo da tela</string>
+    <string name="free_style_enter_tip">Para ver o Espaço Mi, deslize para baixo com dois dedos a partir do topo da tela</string>
     <string name="free_style_exit_tip">Para retornar à Tela inicial, deslize para cima da parte interior da tela com dois dedos</string>
     <string name="free_style_londing_text">Aguarde…</string>
+    <string name="free_style_title">Espaço Mi</string>
+    <string name="free_style_unavailable_message">O Espaço Mi não é mais suportado nesta versão. Você pode continuar usando este tema, no entanto.</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -552,7 +557,7 @@
     <string name="menu_customize">Configurações</string>
     <string name="menu_default_screen_preview">Definir tela padrão</string>
     <string name="menu_edit">Editar Tela inicial</string>
-    <string name="menu_exit_scene">Sair do Mi Space</string>
+    <string name="menu_exit_scene">Sair do Espaço Mi</string>
     <string name="menu_finish">Concluído</string>
     <string name="menu_item_add_item">Colocar na Tela inicial</string>
     <string name="menu_launcher_setting">Configurações do Launcher</string>

@@ -255,6 +255,8 @@ uma captura de tela estendida"</string>
     <string name="privacy_mosaic_result_fail">"Não foi possível bloquear informações privadas. Tente novamente."</string>
     <string name="privacy_mosaic_result_none">Nenhuma informação privada encontrada</string>
     <string name="privacy_mosaic_tip">Toque para bloquear informações privadas</string>
+    <string name="privacy_mosaic_tip_long">"Capturas de tela de rolagem não são suportadas"</string>
+    <string name="privacy_mosaic_tip_partial">"Capturas de tela parciais não são suportadas"</string>
     <string name="remover_menu_processing">Em processamento</string>
     <string name="samsung_phone">Samsung</string>
     <string name="saturday">Sábado</string>

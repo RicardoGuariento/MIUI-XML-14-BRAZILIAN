@@ -40,12 +40,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Impressão digital SHA-256:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Assinatura:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">"Desconectar agora"</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Permaneça conectado</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">"Não conectar"</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Conectar mesmo assim</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">Falta um certificado na rede %1$s.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Saiba como adicionar certificados</string>
     <string name="wifi_ca_cert_dialog_preT_title">"Não é possível verificar esta rede"</string>

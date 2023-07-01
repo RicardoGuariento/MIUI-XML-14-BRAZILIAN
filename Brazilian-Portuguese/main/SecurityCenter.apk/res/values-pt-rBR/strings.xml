@@ -74,6 +74,7 @@
     <string name="abnormal_consume_type_cpu">Alto uso da CPU</string>
     <string name="abnormal_consume_type_wakelock">O sistema não consegue entrar em suspensão</string>
     <string name="about_autostart">Sobre o início automático</string>
+    <string name="about_autostart_gloabl">Sobre o início automático em segundo plano</string>
     <string name="ac_enter_applock">Acessar Bloqueio de apps</string>
     <string name="ac_firstUseApplock_subTitle">Usar ferramentas de segurança do sistema</string>
     <string name="ac_firstUseApplock_title">Defina uma senha para proteger seus apps</string>
@@ -118,6 +119,7 @@
     <string name="activity_title_antivirus_kddi">Verificar segurança</string>
     <string name="activity_title_apps_manager">"Apps"</string>
     <string name="activity_title_auto_start_manager">Início automático</string>
+    <string name="activity_title_auto_start_manager_global">Início automático em segundo plano</string>
     <string name="activity_title_create_shortcut">Gerenciar atalhos</string>
     <string name="activity_title_garbage_cleanup">Limpeza</string>
     <string name="activity_title_license_manager">Permissões</string>
@@ -997,7 +999,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="beauty_fun_screen_light">Luz de preenchimento de tela</string>
     <string name="beauty_fun_settings_light">Preencha o brilho da luz</string>
     <string name="beauty_fun_video_effect">Embelezar o vídeo</string>
-    <string name="beauty_portrait_center">Mantém os rostos centralizados</string>
+    <string name="beauty_portrait_center">Quadro de Foco</string>
     <string name="beauty_portrait_center_desc">Identifique e centralize rostos automaticamente em videochamadas e reuniões. Este recurso não é compatível com alguns apps.</string>
     <string name="beauty_settings">Configurações</string>
     <string name="begin_date">Data de redefinição do pacote</string>
@@ -1428,6 +1430,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_change_package_type_summary">Alterar o tipo do plano de dados redefinirá as configurações de uso de dados (ex.: limites de dados) para seus valores padrão. Alterar o tipo do plano de dados agora?</string>
     <string name="dialog_change_package_type_title">Alterando tipo do plano de dados</string>
     <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações > Apps.</string>
+    <string name="dialog_msg_auto_start_declare_global">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações.</string>
     <string name="dialog_msg_create_icon_content">Adicionar um atalho da tela inicial agora?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">"Não mostrar novamente"</string>
     <string name="dialog_msg_delete_icon_content">A Segurança permite que você limpe a lixeira do seu dispositivo, encontre e neutralize vírus, economize bateria, gerencie permissões e muito mais.</string>
@@ -1461,6 +1464,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_skt_roaming_warning_title">Acordo de roaming de dados</string>
     <string name="dialog_title_attention">Atenção!</string>
     <string name="dialog_title_auto_start_declare">Sobre o início automático</string>
+    <string name="dialog_title_auto_start_declare_global">Sobre o início automático em segundo plano</string>
     <string name="dialog_title_stop_virus_scan">Parar verificação de segurança</string>
     <string name="disable_air_mode">Desative o Modo avião primeiro</string>
     <string name="disable_sensitive_permissions">Permissões confidenciais restritas</string>
@@ -3521,6 +3525,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_battery_history_total_consumption_title">Total de consumo de energia</string>
     <string name="pc_battery_history_usetime_title">Ativo</string>
     <string name="pc_close_notifi_action">Desativar</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_sumary">A Economia de bateria será desativada quando %1$s estiver %2$s ou totalmente carregado</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_title">Economia de bateria ativada em %s</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">A bateria de %1$s é inferior a %2$s. Ative a Economia de bateria para adicionar %3$s %4$s.</string>
+    <string name="pc_continuity_open_save_mode_notifi_title">%s bateria está fraca</string>
     <string name="pc_emergency_call">Emergência</string>
     <string name="pc_endurance_calculation">Calculando…</string>
     <string name="pc_entered_extreme_mode">O Modo hibernação está ativado</string>

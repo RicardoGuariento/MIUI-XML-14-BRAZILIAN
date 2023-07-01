@@ -773,6 +773,7 @@ A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da ope
     <string name="cit_tool_wlan_export">Exportar</string>
     <string name="cit_tool_wlan_rxn_test_bw">largura de banda:</string>
     <string name="cit_tool_wlan_rxn_test_channel">canal:</string>
+    <string name="cit_tool_wlan_sar_test_title">Ferramenta Wifi-SAR</string>
     <string name="cit_tool_wlan_sniffer">Ferramenta Sniffer de Wi-Fi</string>
     <string name="cit_tool_wlan_sniffer_settings">Configurações do sniffer</string>
     <string name="cit_tool_wlan_sniffer_test_title">Ferramenta de teste de sniffer de Wi-Fi</string>

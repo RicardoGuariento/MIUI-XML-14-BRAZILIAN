@@ -520,7 +520,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="not_support_data_content3">3. Dados do segundo espaço</string>
     <string name="not_support_data_content4">"4. Dual apps"</string>
     <string name="not_support_data_link">"Itens que não podem ser transferidos"</string>
-    <string name="not_support_data_summary1">"Temas, papéis de parede, cartões de transporte e cartões-chave não podem ser transferidos usando o Mi Mover."</string>
+    <string name="not_support_data_summary1">"Cartões de transporte e acesso não podem ser transferidos; temas e papéis de parede podem ser transferidos em alguns modelos."</string>
     <string name="not_support_data_summary2">Alguns apps colocam medidas de segurança estritas em vigor para evitar que dados sejam transferidos. Estes apps podem incluir apps bancários ou serviços financeiros.</string>
     <string name="not_support_data_summary3">"Devido a restrições do sistema, os itens do segundo espaço não podem ser transferidos usando o Mi Mover."</string>
     <string name="not_support_data_summary4">"Dual apps e seus dados também não podem ser transferidos. No entanto, você pode transferir apps principais correspondentes."</string>
@@ -710,6 +710,7 @@ Libere pelo menos %s."</string>
     <string name="sender_finish_title">Transferido com sucesso</string>
     <string name="sender_scanning_code">Coloque a imagem no quadro</string>
     <string name="sender_scanning_connecting">Conectando com novo dispositivo…</string>
+    <string name="set_app_suspend">No momento este app está sendo copiado. Aguarde até que o backup seja concluído e tente novamente.</string>
     <string name="set_new_device_account">Sincronizar com a Conta Mi</string>
     <string name="set_new_device_lock">Definir Bloqueio de tela</string>
     <string name="set_new_device_more">Mais configurações do sistema…</string>
