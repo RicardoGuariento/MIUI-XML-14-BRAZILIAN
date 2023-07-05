@@ -760,7 +760,7 @@ Taxa de amostra"</string>
     <string name="controls_error_retryable">Erro, tentando novamente…</string>
     <string name="controls_error_timeout">Inativo, verifique o app</string>
     <string name="controls_favorite_default_title">Controles</string>
-    <string name="controls_favorite_load_error">Os controles não puderam ser carregados. Verifique o app %s para se certificar de que as configurações do app não foram alteradas.</string>
+    <string name="controls_favorite_load_error">Os controles não puderam ser carregados. Verifique as configurações do app %s para certificar-se de que não foram alteradas.</string>
     <string name="controls_favorite_load_none">Controles compatíveis indisponíveis</string>
     <string name="controls_favorite_other_zone_header">Outros</string>
     <string name="controls_favorite_rearrange">Segure e arraste para reorganizar os controles</string>
