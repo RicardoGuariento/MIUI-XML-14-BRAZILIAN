@@ -315,8 +315,11 @@
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="folder_exist">Uma pasta com o mesmo nome já existe</string>
+    <string name="folder_note">Pastas de notas</string>
     <string name="folder_operation_delete">Excluir</string>
     <string name="folder_operation_rename">Renomear</string>
+    <string name="folder_other">Outras pastas</string>
+    <string name="foler_pinned">Pastas fixadas</string>
     <string name="force_touch_menu_add">Nova nota</string>
     <string name="format_move_note_out_folder">Esta nota foi movida</string>
     <string name="format_move_note_to_folder">Movido para %1$s</string>
@@ -584,6 +587,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_timeout_info">Não foi possível conectar à rede. Tente novamente.</string>
+    <string name="new_alert_title_delete">Excluir notas</string>
     <string name="new_app_name">Notas</string>
     <string name="new_audio_create_cancel_talkback_des">Cancelada</string>
     <string name="new_audio_create_done_talkback_des">Criada</string>
@@ -591,6 +595,7 @@
     <string name="new_audio_create_talkback_des">Toque para criar uma nota em texto. Pressione e segure para criar uma nota de voz. Solte o botão para parar a gravação e criar uma nota, ou deslize para cima para cancelar.</string>
     <string name="new_data_empty_note">Sem itens</string>
     <string name="new_lite_audio_create_talkback_des">Toque para criar uma nota</string>
+    <string name="new_sync_desc_state_disable">Ative a sincronização na nuvem para notas, tarefas e muito mais</string>
     <string name="night">"PM"</string>
     <string name="no_network">Não é possível conectar-se à rede</string>
     <string name="noon">"PM"</string>

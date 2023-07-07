@@ -136,6 +136,7 @@
     <string name="invisible_mode_dialog_title">"Modo anônimo ativado"</string>
     <string name="keywords_search_compass">Bússola;Calibrar bússola;Pressão;Altitude;Latitude;Longitude;Verificar longitude;Verificar latitude;MIUI Bússola;App Bússola;App MIUI Bússola;Onde está a Bússola;Baixe a Bússola;Pressão atmosférica;Verifique a altitude;Qual é a altitude</string>
     <string name="latitude">"LAT"</string>
+    <string name="live_action">Visualização ao vivo</string>
     <string name="location_east">Long. L</string>
     <string name="location_enable">Permitir</string>
     <string name="location_enable_later">Depois</string>
@@ -144,6 +145,8 @@
     <string name="location_not_enabled_summary">A Bússola precisa acessar sua localização para exibir coordenadas e altitude.</string>
     <string name="location_not_enabled_summary_no_pressure_sensor">A Bússola precisa acessar sua localização para exibir suas coordenadas atuais.</string>
     <string name="location_not_enabled_title">Serviços de localização</string>
+    <string name="location_permission_tip_one">Toque para conceder permissões de localização, a fim de visualizar latitude, longitude, pressão do ar e altitude.</string>
+    <string name="location_permission_tip_two">Toque para conceder permissões de localização, a fim de visualizar latitude e longitude.</string>
     <string name="location_south">Lat. S</string>
     <string name="location_west">Long. O</string>
     <string name="longitude">"LON"</string>
@@ -218,7 +221,13 @@
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
+    <string name="network_dialog_message">O Bússola precisa conectar-se à internet para acessar dados de altitude mais precisos. Permitir?</string>
+    <string name="network_dialog_negative">Não permitir</string>
+    <string name="network_dialog_positive">Permitir</string>
+    <string name="network_dialog_title">Permissões necessárias</string>
     <string name="new_cta_app_purpose">Ver direções e coordenadas</string>
+    <string name="new_cta_app_purpose_one">Bem-vindo a Bússola! Você pode usar este app para localizar pontos cardeais, latitude, longitude, pressão do ar e altitude. Este app precisa conectar-se à internet para fornecer seus serviços.</string>
+    <string name="new_cta_app_purpose_two">Bem-vindo a Bússola! Você pode usar este app para localizar pontos cardeais, latitude e longitude. Este app precisa conectar-se à internet para fornecer seus serviços.</string>
     <string name="new_cta_v2_app_purpose">Mostrando direções, coordenadas, pressão atmosférica e altitude atual</string>
     <string name="new_permission_camera_desc">Para calibração</string>
     <string name="new_permission_location_desc">Para exibir coordenadas</string>
@@ -308,6 +317,8 @@
     <string name="unit_degree">Graus</string>
     <string name="using_camera_confirm_cancel">Sair</string>
     <string name="using_camera_confirm_ok">Aceitar</string>
+    <string name="v2_permission_location_desc_one">Para exibir latitude, longitude, altitude e pressão do ar</string>
+    <string name="v2_permission_location_desc_two">Para exibir latitude e longitude</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="wednesday">Quarta</string>
