@@ -1159,7 +1159,7 @@ para uma melhor experiência de visualização"</string>
     <string name="no_recommend_data">Nenhum vídeo recomendado no momento</string>
     <string name="no_subscriptions">Nenhum item aqui</string>
     <string name="noon">"PM"</string>
-    <string name="not_connect_wifi_tip">Baixar itens usando os dados móveis pode gerar tarifas adicionais com a operadora. Baixar mesmo assim?</string>
+    <string name="not_connect_wifi_tip">Baixar itens usando dados móveis pode gerar tarifas adicionais com a operadora. Baixar mesmo assim?</string>
     <string name="not_set">Não definido</string>
     <string name="not_show">Não mostrar novamente</string>
     <string name="not_support_share">Não é possível compartilhar este item no momento</string>

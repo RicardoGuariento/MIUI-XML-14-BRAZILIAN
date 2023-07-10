@@ -263,7 +263,7 @@ Se você mudar de ideia, antes de usar nossos serviços, você precisará concor
     <string name="common_download_use">Aplicar</string>
     <string name="common_exit">Sair</string>
     <string name="common_exoplay_play_retry">Reproduzir novamente</string>
-    <string name="common_exoplay_player_3g_tip_title">Você está usando os dados moveis. Tarifas de dados poderão ser aplicadas. Continuar?</string>
+    <string name="common_exoplay_player_3g_tip_title">Você está usando dados moveis. Tarifas de dados poderão ser aplicadas. Continuar?</string>
     <string name="common_exoplay_player_data_error_tip">Erro no carregamento. Tente novamente mais tarde.</string>
     <string name="common_exoplay_player_net_error">Verifique suas configurações de rede e tente novamente</string>
     <string name="common_exoplay_player_no_data">Este vídeo não está disponível.</string>

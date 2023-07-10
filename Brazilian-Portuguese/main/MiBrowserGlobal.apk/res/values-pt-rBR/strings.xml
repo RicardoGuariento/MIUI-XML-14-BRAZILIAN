@@ -3258,7 +3258,7 @@ Você pode cancelar a sua participação em qualquer momento em Configurações 
     <string name="version_check_button_resume_download">Retomar download</string>
     <string name="version_check_button_update">Atualizar</string>
     <string name="version_check_failed">Não foi possível procurar por atualizações</string>
-    <string name="version_dialog_4G_checkbox">Você pode atualizar apps do sistema usando os dados móveis. Isto pode gerar tarifas adicionais.</string>
+    <string name="version_dialog_4G_checkbox">Você pode atualizar apps do sistema usando dados móveis. Isto pode gerar tarifas adicionais.</string>
     <string name="version_dialog_buttion_ok">"OK"</string>
     <string name="version_dialog_buttion_update">Atualizar</string>
     <string name="version_update_file_download_toast">Baixando</string>

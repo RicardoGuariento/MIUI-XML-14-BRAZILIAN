@@ -3193,7 +3193,7 @@ Você pode desativar a opção \"Ajustar automaticamente estatísticas de uso de
     <string name="network_blocked_connected_open_wifi">Conectado a uma rede pública</string>
     <string name="network_blocked_notification_summary">Testar a rede</string>
     <string name="network_blocked_switch_wifi">Trocar redes</string>
-    <string name="network_changed_noti_summary">Usando os dados móveis</string>
+    <string name="network_changed_noti_summary">Usando dados móveis</string>
     <string name="network_changed_noti_title">Desconectado do Wi-Fi</string>
     <string name="network_connected_exception_title">Teste de rede</string>
     <string name="network_control">Ver configurações do app</string>
@@ -3242,7 +3242,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="network_speed_for_apps_title">Conexão</string>
     <string name="network_speed_for_apps_total">Velocidade da conexão</string>
     <string name="network_test_speed">Testar velocidade do Wi-Fi</string>
-    <string name="network_traffic_warning_text">A MIUI não pode calcular as estatísticas de uso de dados para apps de sistema individuais aqui. Você conseguirá ver as informações de uso de dados nos detalhes do app caso ele esteja usando os dados móveis ativamente.</string>
+    <string name="network_traffic_warning_text">A MIUI não pode calcular as estatísticas de uso de dados para apps de sistema individuais aqui. Você conseguirá ver as informações de uso de dados nos detalhes do app caso ele esteja usando dados móveis ativamente.</string>
     <string name="network_traffic_warning_title">Uso de dados para apps do sistema</string>
     <string name="networkchanged_exception_summary">A conexão de rede foi alterada. Por favor teste novamente.</string>
     <string name="networkchanged_exception_title">Conexão alterada</string>

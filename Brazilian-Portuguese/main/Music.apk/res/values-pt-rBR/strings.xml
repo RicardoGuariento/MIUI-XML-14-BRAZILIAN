@@ -204,7 +204,7 @@
     <string name="auto_recommend">Automático (recomendado)</string>
     <string name="auto_sound_quality">Automático</string>
     <string name="auto_update">Atualizar automaticamente</string>
-    <string name="auto_update_tip">Você pode atualizar apps do sistema usando os dados móveis. Isto pode gerar tarifas adicionais.</string>
+    <string name="auto_update_tip">Você pode atualizar apps do sistema usando dados móveis. Isto pode gerar tarifas adicionais.</string>
     <string name="autoplay_is_off">Reprodução automática desativada</string>
     <string name="autoplay_is_on">Reprodução automática ativada</string>
     <string name="available_playlist_name_format">Nova playlist %d</string>
@@ -1386,13 +1386,13 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="message_no_coins">The user %1$s clicked the bet button of %2$s in your room %3$d, but the balance is insufficient</string>
     <string name="messages">Messages</string>
     <string name="metered_alert">Aviso sobre o uso de dados</string>
-    <string name="metered_alert_msg">Você está usando os dados móveis para reproduzir músicas. Reproduzir mesmo assim?</string>
-    <string name="metered_alert_msg_with_data">Você tem %s restando no pacote de dados móveis. Usar os dados móveis para reproduzir músicas?</string>
+    <string name="metered_alert_msg">Você está usando dados móveis para reproduzir músicas. Reproduzir mesmo assim?</string>
+    <string name="metered_alert_msg_with_data">Você tem %s restando no pacote de dados móveis. Usar dados móveis para reproduzir músicas?</string>
     <string name="metered_allow">Reproduzir</string>
     <string name="metered_beyond_alert">Uso de dados excedido</string>
     <string name="metered_disallow">Agora não</string>
     <string name="metered_play_and_download_summary">Não mostrar avisos sobre o uso de dados durante o streaming ou ao baixar músicas em dados móveis.</string>
-    <string name="metered_play_and_download_title">Fazer streaming e baixar músicas usando os dados móveis</string>
+    <string name="metered_play_and_download_title">Fazer streaming e baixar músicas usando dados móveis</string>
     <string name="metered_play_toast">Usando dados móveis para reproduzir músicas</string>
     <string name="metered_play_toast_with_beyond_data">Usando dados móveis para reproduzir músicas. Limite excedido em %s</string>
     <string name="metered_play_toast_with_data">Usando dados móveis para reproduzir músicas, %s restando</string>
@@ -1555,7 +1555,7 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="mute_chat_setting">Mute</string>
     <string name="mute_chat_succeed">Mute success</string>
     <string name="mv_metered_play_summary">Não mostrar aviso sobre o uso de dados</string>
-    <string name="mv_metered_play_title">Reproduzir vídeos online usando os dados móveis</string>
+    <string name="mv_metered_play_title">Reproduzir vídeos online usando dados móveis</string>
     <string name="my_account">Conta Mi</string>
     <string name="my_code">My invitation code</string>
     <string name="my_inviter">My inviter</string>
@@ -1689,7 +1689,7 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="online_apk_install_alert_continue">Retomar</string>
     <string name="online_apk_install_alert_failed_text">Não foi possível baixar. Tente novamente.</string>
     <string name="online_apk_install_alert_message">Você precisa baixar o plugin Yandex.Music. Baixar agora?</string>
-    <string name="online_apk_install_alert_mobile_net_text">Você está usando os dados móveis no momento. Usar os dados móveis para baixar itens pode gerar cobranças adicionais.</string>
+    <string name="online_apk_install_alert_mobile_net_text">Você está usando dados móveis no momento. Usar dados móveis para baixar itens pode gerar cobranças adicionais.</string>
     <string name="online_apk_install_alert_note">Este serviço é fornecido pelo Yandex.Music</string>
     <string name="online_apk_install_alert_note_new">Conteúdo online fornecido por %s</string>
     <string name="online_apk_install_alert_pause">Pausar</string>
@@ -1868,7 +1868,7 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="play_next">Reproduzir a seguir</string>
     <string name="play_setting">Reprodução</string>
     <string name="play_video_with_traffic">CONTINUAR</string>
-    <string name="play_video_with_traffic_toast">Você está usando os dados móveis agora.</string>
+    <string name="play_video_with_traffic_toast">Você está usando dados móveis agora.</string>
     <string name="playlist_empty">Nenhuma playlist encontrada.</string>
     <string name="playlist_recommend_title">Recomendada</string>
     <string name="playlist_title">Nome da playlist</string>

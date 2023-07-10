@@ -230,8 +230,8 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="app_summary_2">Armazenamento, gerenciamento e edição de fotos e vídeos neste dispositivo</string>
     <string name="apply">Aplicar</string>
     <string name="art_still_download_failed_for_notwork">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="art_still_download_sdk_without_wifi_msg">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando os dados móveis?</string>
-    <string name="art_still_download_sdk_without_wifi_msg_china">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando os dados móveis?</string>
+    <string name="art_still_download_sdk_without_wifi_msg">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando dados móveis?</string>
+    <string name="art_still_download_sdk_without_wifi_msg_china">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando dados móveis?</string>
     <string name="art_still_download_sdk_without_wifi_title">Baixar plugin de \"Arte\"</string>
     <string name="art_still_load_data_fail">Não foi possível carregar os dados</string>
     <string name="art_still_module_finish">Plugin \"Arte\" baixado com sucesso</string>
@@ -1215,8 +1215,8 @@ estão disponíveis"</string>
     <string name="hybrid_service_unavailiable">Serviço indisponível</string>
     <string name="hybrid_try_again">Repetir</string>
     <string name="id_photo_download_failed_for_notwork">Não foi possível baixar. Verifique as suas configurações de Internet e tente novamente.</string>
-    <string name="id_photo_download_sdk_without_wifi_msg">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando os dados móveis?</string>
-    <string name="id_photo_download_sdk_without_wifi_msg_china">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando os dados móveis?</string>
+    <string name="id_photo_download_sdk_without_wifi_msg">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando dados móveis?</string>
+    <string name="id_photo_download_sdk_without_wifi_msg_china">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando dados móveis?</string>
     <string name="id_photo_download_sdk_without_wifi_title">Baixar plugin de \"Identificação\"</string>
     <string name="id_photo_load_data_fail">Não foi possível carregar os dados</string>
     <string name="id_photo_module_finish">Plugin \"Identificação\" baixado com sucesso</string>
@@ -1375,8 +1375,8 @@ estão disponíveis"</string>
     <string name="magic_make_save_title">Salvar uma imagem</string>
     <string name="magic_make_save_title2">Salvar ambos</string>
     <string name="magic_matting_download_failed_for_notwork">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="magic_matting_download_sdk_without_wifi_msg">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando os dados móveis?</string>
-    <string name="magic_matting_download_sdk_without_wifi_msg_china">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando os dados móveis?</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando dados móveis?</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg_china">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando dados móveis?</string>
     <string name="magic_matting_download_sdk_without_wifi_title">Baixar plugin de \"Magia\"</string>
     <string name="magic_matting_error_px">Este tamanho de imagem não é suportado</string>
     <string name="magic_matting_face_fail">Não foi possível processar o rosto</string>
@@ -1630,7 +1630,7 @@ para personalizar a Galeria"</string>
     <string name="movie_delete_disable">Você precisa de pelo menos %d fotos para criar um clipe.</string>
     <string name="movie_download_failed">Não foi possível baixar</string>
     <string name="movie_download_failed_for_notwork">Não foi possível baixar. Conecte-se à rede e tente novamente.</string>
-    <string name="movie_download_sdk_without_wifi_msg">Parece que seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin requerido (%2$d MB) usando os dados móveis?</string>
+    <string name="movie_download_sdk_without_wifi_msg">Parece que seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin requerido (%2$d MB) usando dados móveis?</string>
     <string name="movie_download_sdk_without_wifi_title">Baixar usando dados móveis</string>
     <string name="movie_edit">Editar</string>
     <string name="movie_edit_photo">Foto</string>
@@ -1871,7 +1871,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_editor_beauty_compare">"Original"</string>
     <string name="photo_editor_common_download_failed">Não foi possível baixar o plugin. Verifique suas configurações de rede e tente novamente.</string>
     <string name="photo_editor_common_download_finish">Plugin baixado com sucesso</string>
-    <string name="photo_editor_common_download_sdk_without_wifi_msg">Parece que você não está conectado ao Wi-Fi. Baixar o plugin (%1$d MB) usando os dados móveis?</string>
+    <string name="photo_editor_common_download_sdk_without_wifi_msg">Parece que você não está conectado ao Wi-Fi. Baixar o plugin (%1$d MB) usando dados móveis?</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Baixar plugin</string>
     <string name="photo_editor_compare_tip">Pressione e segure para ver a imagem original</string>
     <string name="photo_editor_crop_and_rotate">Cortar</string>
@@ -1996,7 +1996,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_portrait_color_download_fail">Não foi possível baixar o plugin. Conecte-se à rede e tente novamente.</string>
     <string name="photo_portrait_color_download_success">Filtros baixados com sucesso</string>
     <string name="photo_portrait_color_no_face">O Foco de cor só funciona em fotos com pessoas</string>
-    <string name="photo_portrait_download_sdk_without_wifi_msg">Parece que o seu dispositivo não está conectado ao Wi-Fi agora. Você pode baixar os filtros (%1$d MB) usando os dados móveis.</string>
+    <string name="photo_portrait_download_sdk_without_wifi_msg">Parece que o seu dispositivo não está conectado ao Wi-Fi agora. Você pode baixar os filtros (%1$d MB) usando dados móveis.</string>
     <string name="photo_portrait_download_sdk_without_wifi_title">Baixar filtros</string>
     <string name="photo_print_menu_loading">Carregando plugin…</string>
     <string name="photo_print_package_finish">Plugin de impressão carregado com sucesso</string>
@@ -2036,10 +2036,10 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="picker_download_progress_file_message">Baixando arquivos… (%1$d/%2$d)</string>
     <string name="picker_download_progress_message">Baixando %1$d/%2$d</string>
     <string name="picker_full_format">Você pode selecionar até %d fotos</string>
-    <string name="picker_image_need_download">%d das fotos selecionadas não estão no dispositivo. Baixar usando os dados móveis?</string>
+    <string name="picker_image_need_download">%d das fotos selecionadas não estão no dispositivo. Baixar usando dados móveis?</string>
     <string name="picker_image_will_download">%d das fotos selecionadas não estão no dispositivo. Elas serão baixadas.</string>
     <string name="picker_no_network_message">Conecte-se à rede para baixar</string>
-    <string name="picker_origin_need_download">%1$d das fotos selecionadas (%2$d MB) não estão no dispositivo. Baixar usando os dados móveis?</string>
+    <string name="picker_origin_need_download">%1$d das fotos selecionadas (%2$d MB) não estão no dispositivo. Baixar usando dados móveis?</string>
     <string name="picker_origin_request_progress_fail">Não foi possível baixar a imagem original devido a um erro de rede.</string>
     <string name="picker_origin_request_progress_message">Preparando os arquivos originais (%1$d/%2$d)…</string>
     <string name="picker_title_format">Selecione de %1$d a %2$d fotos</string>
@@ -3046,7 +3046,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="video_analytic_cancel">Cancelar</string>
     <string name="video_analytic_download">Baixar</string>
     <string name="video_analytic_download_failed_for_notwork">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="video_analytic_download_sdk_without_wifi_msg">Não foi possível conectar-se ao Wi-Fi. Você também pode baixar o plugin usando os dados móveis.</string>
+    <string name="video_analytic_download_sdk_without_wifi_msg">Não foi possível conectar-se ao Wi-Fi. Você também pode baixar o plugin usando dados móveis.</string>
     <string name="video_analytic_download_sdk_without_wifi_title">Baixando plugin…</string>
     <string name="video_compress_download_failed_for_notwork">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
     <string name="video_compress_encode_video">Comprimindo vídeo…</string>
@@ -3115,7 +3115,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="video_editor_ok">"OK"</string>
     <string name="video_editor_regulator">Ajustar</string>
     <string name="video_editor_res_download_failed_tips">Não foi possível baixar, verifique as configurações de rede e tente novamente</string>
-    <string name="video_editor_res_download_mobil_network_confirm_msg">Baixar as trilhas sonoras usando os dados móveis?</string>
+    <string name="video_editor_res_download_mobil_network_confirm_msg">Baixar as trilhas sonoras usando dados móveis?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Usando dados móveis</string>
     <string name="video_editor_return">Voltar</string>
     <string name="video_editor_save">Salvar</string>
@@ -3159,8 +3159,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="video_err">Não é possível reproduzir o vídeo</string>
     <string name="video_not_exist">O vídeo não existe</string>
     <string name="video_post_download_failed_for_notwork">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="video_post_download_sdk_without_wifi_msg">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando os dados móveis?</string>
-    <string name="video_post_download_sdk_without_wifi_msg_china">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando os dados móveis?</string>
+    <string name="video_post_download_sdk_without_wifi_msg">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando dados móveis?</string>
+    <string name="video_post_download_sdk_without_wifi_msg_china">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando dados móveis?</string>
     <string name="video_post_download_sdk_without_wifi_title">Baixar plugin de \"Efeitos de vídeo\"</string>
     <string name="video_post_load_data_fail">Não foi possível carregar os dados</string>
     <string name="video_post_module_finish">Plugin de \"Efeitos de vídeo\" baixado com sucesso</string>
@@ -3242,10 +3242,10 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="vlog_cloud_file_download">Itens da nuvem</string>
     <string name="vlog_download_btn">Baixar</string>
     <string name="vlog_download_cloud_file_retry">Não foi possível baixar os itens da nuvem. Tente novamente.</string>
-    <string name="vlog_download_cloud_file_without_wifi_msg">Não foi possível conectar-se ao Wi-Fi. Você também pode baixar itens da nuvem (%s) usando os dados móveis.</string>
+    <string name="vlog_download_cloud_file_without_wifi_msg">Não foi possível conectar-se ao Wi-Fi. Você também pode baixar itens da nuvem (%s) usando dados móveis.</string>
     <string name="vlog_download_fail">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
     <string name="vlog_download_failed_for_notwork">Não foi possível baixar. Verifique as suas configurações de rede e tente novamente.</string>
-    <string name="vlog_download_sdk_without_wifi_msg">Não foi possível conectar-se ao Wi-Fi. Você também pode baixar o editor de vídeo usando os dados móveis.</string>
+    <string name="vlog_download_sdk_without_wifi_msg">Não foi possível conectar-se ao Wi-Fi. Você também pode baixar o editor de vídeo usando dados móveis.</string>
     <string name="vlog_download_sdk_without_wifi_title">Baixando editor de vídeos…</string>
     <string name="vlog_downloading_cloud_file">Baixando itens da nuvem…</string>
     <string name="vlog_editor_talkback_ratio_239_1">239x1</string>

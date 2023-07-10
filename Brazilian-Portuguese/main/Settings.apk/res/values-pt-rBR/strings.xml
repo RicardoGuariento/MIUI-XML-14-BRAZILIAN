@@ -1966,7 +1966,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bootloader_device_bind_fail">Não foi possível verificar, aguarde alguns minutos e tente novamente</string>
     <string name="bootloader_device_bind_msg">Preparando-se para adicionar conta e dispositivo…</string>
     <string name="bootloader_device_bind_no_account">Faça o login em sua Conta Mi primeiro</string>
-    <string name="bootloader_device_bind_no_data_network">Desative o Wi-Fi e adicione sua conta e dispositivo usando os dados móveis.</string>
+    <string name="bootloader_device_bind_no_data_network">Desative o Wi-Fi e adicione sua conta e dispositivo usando dados móveis.</string>
     <string name="bootloader_device_bind_no_network">Conecte-se à rede e tente novamente</string>
     <string name="bootloader_device_bind_no_sim">Insira um cartão SIM e tente novamente.</string>
     <string name="bootloader_device_bind_server_code">Não foi possível adicionar. Código do erro:</string>
@@ -1976,7 +1976,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bootloader_locked_answer_1">Nós bloqueamos os dispositivos para garantir a sua segurança e suas informações pessoais não são divulgadas a terceiros. Se você precisa acessar o modo Fastboot para atualizar seu dispositivo, desbloqueie-o primeiro.</string>
     <string name="bootloader_locked_answer_1_warning">Lembre-se: Você não poderá usar o \"Encontrar dispositivo\" depois que o telefone for desbloqueado.</string>
     <string name="bootloader_locked_answer_2">"1. Certifique-se de que já inseriu um cartão SIM no seu dispositivo.
-2. Desative o Wi-Fi e ative os dados móveis. Certifique-se de que seu dispositivo tem uma conexão com a internet usando os dados móveis.
+2. Desative o Wi-Fi e ative os dados móveis. Certifique-se de que seu dispositivo tem uma conexão com a internet usando dados móveis.
 3. Toque em \"Adicionar conta\" abaixo para associar sua Conta Mi a este dispositivo.
 4. Baixe a ferramenta de desbloqueio em nosso website. O desbloqueio do dispositivo deve ser feito usando um computador. Baixe aqui:"</string>
     <string name="bootloader_locked_answer_2_no_sim">"1. Toque em \"Adicionar conta\" abaixo para associar sua Conta Mi com este dispositivo.
@@ -6358,7 +6358,7 @@ Selecione seu sistema operacional:"</string>
     <string name="network_assistant">Uso de dados</string>
     <string name="network_auto_switch">Alternar entre redes</string>
     <string name="network_auto_switch_summery">"Alternar para dados móveis quando o sinal Wi-Fi estiver fraco ou a rede não estiver disponível"</string>
-    <string name="network_changed_noti_summary">Usando os dados móveis</string>
+    <string name="network_changed_noti_summary">Usando dados móveis</string>
     <string name="network_changed_noti_title">Desconectado do Wi-Fi</string>
     <string name="network_changed_notification_text">Sua rede móvel mudou</string>
     <string name="network_connected">Conectada</string>
