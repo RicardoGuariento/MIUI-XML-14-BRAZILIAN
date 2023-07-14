@@ -457,6 +457,8 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="super_volume_text">200%</string>
+    <string name="super_volume_toast">Aumento de volume ativado</string>
     <string name="switch_bar_off">Desativado</string>
     <string name="switch_bar_on">Ativado</string>
     <string name="system_update">Atualização do sistema</string>

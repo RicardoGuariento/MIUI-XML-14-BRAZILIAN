@@ -51,6 +51,7 @@
     <string name="confirm_cancel_task_files">Cancelar o envio de arquivos para %1$s?</string>
     <string name="confirm_cancel_task_images">Cancelar o envio de imagens para %1$s?</string>
     <string name="copy">Copiar</string>
+    <string name="copy_success_toast">Copiado com sucesso</string>
     <string name="cta_agree_desc">Permita que este app se conecte à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="cta_btn_agree">Aceitar</string>
     <string name="cta_btn_disagree">"Não concordo"</string>

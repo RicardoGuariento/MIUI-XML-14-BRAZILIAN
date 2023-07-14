@@ -207,6 +207,10 @@
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="super_clipboard_alert_dialog_cancel_button">Cancelar</string>
+    <string name="super_clipboard_alert_dialog_sure_button">"OK"</string>
+    <string name="super_clipboard_send_file">Colar o arquivo da área de transferência?</string>
+    <string name="super_clipboard_send_image">Colar a imagem da área de transferência?</string>
     <string name="sync_phrase_label">Frases frequentes</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
