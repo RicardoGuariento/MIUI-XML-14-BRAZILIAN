@@ -98,6 +98,7 @@
     <string name="cancel_moving_dialog_title">Parar importação</string>
     <string name="cancel_tranfer">Cancelar</string>
     <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">"Parece que o QQ Downloader é o serviço de backup do seu sistema. Desinstale-o e reinicie seu dispositivo para poder usar o Mi Mover."</string>
+    <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" já está fornecendo serviços de backup do sistema. Desinstale-o e reinicie seu dispositivo para poder usar o Mi Mover.</string>
     <string name="cannot_use_mi_huanji_button">"OK"</string>
     <string name="cannot_use_mi_huanji_summary">Parece que a MIUI está fazendo um backup agora. Pare o backup em andamento ou reinicie seu dispositivo e abra o Mi Mover para iniciar a transferência.</string>
     <string name="cannot_use_mi_huanji_title">Não é possível transferir agora</string>
@@ -633,7 +634,9 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="receiver_finish_detail_button">Ver relatório</string>
     <string name="receiver_finish_detail_fail">Não foi possível transferir</string>
     <string name="receiver_finish_detail_success">Itens transferidos</string>
+    <string name="receiver_finish_not_transferred">Não transferido</string>
     <string name="receiver_finish_title">"Você está pronto!"</string>
+    <string name="receiver_finish_transferred">Transferido</string>
     <string name="receiver_video_summary">Desbloquear seu dispositivo antigo, toque em \"Transferir\" e digitalize esta imagem</string>
     <string name="receiver_video_title">Transferência do dispositivo antigo</string>
     <string name="recent_one_year">Past 1 year</string>

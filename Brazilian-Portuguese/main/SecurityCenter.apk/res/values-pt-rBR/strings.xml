@@ -249,7 +249,7 @@
     <string name="antivirus_third_privacy_title">Políticas de Privacidade de terceiros</string>
     <string name="antivirus_toast_already_update">Atualizado</string>
     <string name="antivirus_toast_network_unavailable">Não foi possível conectar-se à rede</string>
-    <string name="antivirus_toast_update_failed">Nossos servidores estão ocupados. Aguarde um momento e tente novamente.</string>
+    <string name="antivirus_toast_update_failed">Aguarde um momento e tente novamente</string>
     <string name="antivirus_toast_update_success">Atualizado com sucesso</string>
     <string name="antivirus_toast_updating">Atualizando…</string>
     <string name="antivirus_update_btn_contiue">Continuar</string>
@@ -448,6 +448,7 @@
     <string name="app_install_intercept">Bloquear instalação</string>
     <string name="app_install_tips_go_to">Abrir</string>
     <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
+    <string name="app_management_empty_desc">"Este app não oferece suporte a este recurso"</string>
     <string name="app_management_for_chain_start">Bloquear a abertura de outros apps</string>
     <string name="app_management_for_chain_start_desc">Impedir que este app se conecte ou abra outros apps</string>
     <string name="app_management_for_device_id">Oculte identificadores e impeça o rastreamento</string>
@@ -916,7 +917,8 @@ Você não perderá nenhum dado de apps."</string>
     <string name="back_sound_data">Ative os dados móveis e tente novamente.</string>
     <string name="back_sound_fail">Não foi possível configurar. Configurações da operadora alteradas. Defina o cartão SIM atual como seu chip de dados, conecte-se à rede e tente novamente.</string>
     <string name="back_sound_success">Configurado com sucesso</string>
-    <string name="back_sound_support">A rede da sua operadora não suporta esta configuração.</string>
+    <string name="back_sound_support">Dessative o Wi-Fi primeiro</string>
+    <string name="back_sound_support_china">Dessative o Wi-Fi primeiro</string>
     <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para este app pode fazer com este app não funcione normalmente, receba mensagens, baixe conteúdos, etc. Restringir mesmo assim?</string>
     <string name="background_traffic">| 2º plano: %s</string>
     <string name="backsound_set_hint">Definir sua mensagem de ausência para %s?</string>
@@ -1169,6 +1171,8 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cancal_to_setting_fingerprint">Cancelar</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_button">Cancelar</string>
+    <string name="card_main_apkclean_title">Excluir APKs</string>
+    <string name="card_main_appdataclean_title">Limpar dados do app</string>
     <string name="card_main_applock_action">Ativar</string>
     <string name="card_main_applock_summary">Proteja apps selecionados com uma senha.</string>
     <string name="card_main_applock_title">Bloqueio de apps</string>
@@ -1181,6 +1185,8 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="card_main_deepclean_wechat_summary">Limpe o cache do WeChat para liberar espaço de armazenamento</string>
     <string name="card_main_deepclean_wechat_title">Cache do WeChat</string>
     <string name="card_main_deepclean_whatsapp_title">Limpeza do WhatsApp</string>
+    <string name="card_main_facebookclean_title">Limpeza do Facebook</string>
+    <string name="card_main_galleryclean_title">Excluir fotos</string>
     <string name="card_main_gamebooster_summary">Aumente a estabilidade de conexão em jogos</string>
     <string name="card_main_gamebooster_title">"Game Turbo"</string>
     <string name="card_main_hbassistant_summary">Use esta ferramenta para pegar os envelopes rapidamente</string>
@@ -1198,6 +1204,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="card_main_private_space_summary">Usar o Segundo espaço é como ter 2 dispositivos</string>
     <string name="card_main_private_space_title">Segundo espaço</string>
     <string name="card_main_sectool_title">Ferramentas</string>
+    <string name="card_main_whatsappclean_title">Limpeza do WhatsApp</string>
     <string name="card_main_xspace_action">Criar</string>
     <string name="card_main_xspace_summary">Crie contas distintas para qualquer app</string>
     <string name="card_main_xspace_title">"Dual apps"</string>
@@ -1250,6 +1257,8 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cleaned">Limpo</string>
     <string name="clear_garbage">Limpe o lixo para liberar espaço</string>
     <string name="clear_immediately">Limpar agora</string>
+    <string name="clear_instant_app_confirmation">Deseja remover este app instantâneo?</string>
+    <string name="clear_instant_app_data">Limpar app</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="click_to_charge_bill">Fazer recarga</string>
@@ -1316,6 +1325,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_pickup_single_title">Único participante</string>
     <string name="cs_pickup_surround_desc">Usa IA para reduzir o ruído para um som nítido e claro</string>
     <string name="cs_pickup_surround_title">Redução de ruído do microfone</string>
+    <string name="cs_screen_translation_title">Tradução de tela</string>
     <string name="cs_title_pickup">Redução de ruído</string>
     <string name="cs_title_smart_subtitle">Transcrição da legenda</string>
     <string name="cs_title_ultraclear">Modo Ultra HD</string>
@@ -2616,6 +2626,8 @@ das suas sessões de jogos"</string>
     <string name="gtb_exit_game_to_home">Voltar à Tela inicial</string>
     <string name="gtb_garbage_clean">Liberar armazenamento</string>
     <string name="gtb_garbage_cleaned_tip">Libere %1$s para aumentar o desempenho</string>
+    <string name="gtb_guide_accelerate">Toque em \"Boost\" para otimizar seu jogo</string>
+    <string name="gtb_guide_accelerated_tips">O Game Turbo está otimizando sua experiência de jogo agora</string>
     <string name="gtb_guide_finish">Pular</string>
     <string name="gtb_guide_game_mode_tips">Selecione o modo de jogo preferido</string>
     <string name="gtb_guide_gtb_button_done">Concluído</string>
@@ -2626,6 +2638,7 @@ das suas sessões de jogos"</string>
     <string name="gtb_guide_gtb_game_effected">Aplicado</string>
     <string name="gtb_guide_gtb_game_new">Novo</string>
     <string name="gtb_guide_gtb_line_new">Experimente o Modo performance no Game Turbo!</string>
+    <string name="gtb_guide_gtb_line_new_global">Deslize para abrir o Game Turbo</string>
     <string name="gtb_guide_gtb_line_xspace">Intensifique seu jogo com o novo Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">Use outros apps enquanto você joga</string>
     <string name="gtb_guide_small_window_app_title">Janelas flutuantes</string>
@@ -2752,7 +2765,9 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="input_used_max_hint">Insira o uso de dados (menos de %s)</string>
     <string name="install">Instalar</string>
     <string name="install_sucess">%s instalado com sucesso</string>
+    <string name="install_text">Instalar</string>
     <string name="install_title">Instalar via USB</string>
+    <string name="install_type_instant">App instantâneo</string>
     <string name="installing">Instalando</string>
     <string name="international_Ad">Anúncio</string>
     <string name="international_roaming_setting">Roaming internacional</string>
@@ -2786,6 +2801,7 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="label_callwait">Notificação de chamada em espera</string>
     <string name="label_mi_stats">Mi Analytics</string>
     <string name="last_check_canceled">A última verificação foi cancelada</string>
+    <string name="launch_instant_app">Abrir</string>
     <string name="left_precent">60%</string>
     <string name="legal_workday">Dias úteis</string>
     <string name="legal_workday_invalidate">Segunda a sexta (informação de feriados expirada)</string>
@@ -2961,6 +2977,7 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="menu_charge_bill">Saldo de recarga</string>
     <string name="menu_charge_traffic">Comprar dados</string>
     <string name="menu_edit">Editar</string>
+    <string name="menu_hide_work_profile_text">Ocultar apps do Espaço de trabalho</string>
     <string name="menu_item_about_content">Versão %s</string>
     <string name="menu_item_about_privacy_title">Política de Privacidade</string>
     <string name="menu_item_about_summary">Versão %s</string>
@@ -2988,6 +3005,7 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="menu_remove">Excluir</string>
     <string name="menu_report">Reportar erro</string>
     <string name="menu_setting_traffic">Definir manualmente</string>
+    <string name="menu_show_work_profile_text">Exibir apps do Espaço de trabalho</string>
     <string name="menu_sms">Enviar mensagem</string>
     <string name="menu_summary_antispam">Bloqueie SMS e chamadas</string>
     <string name="menu_summary_antivirus">Procure vírus no seu dispositivo</string>
@@ -3196,7 +3214,7 @@ Você pode desativar a opção \"Ajustar automaticamente estatísticas de uso de
     <string name="network_changed_noti_summary">Usando dados móveis</string>
     <string name="network_changed_noti_title">Desconectado do Wi-Fi</string>
     <string name="network_connected_exception_title">Teste de rede</string>
-    <string name="network_control">Ver configurações do app</string>
+    <string name="network_control">Gerenciar conexão de rede</string>
     <string name="network_diagnostics">Teste de conexão</string>
     <string name="network_disable_dialog_btn_text">Entendi</string>
     <string name="network_disable_dialog_content">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
@@ -3405,7 +3423,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="om_settings_memory_occupy_notify_never">Nunca</string>
     <string name="om_settings_notify_manage">Notificações</string>
     <string name="om_settings_speed_up_auto">Otimizar automaticamente</string>
-    <string name="om_settings_title">Configurações</string>
+    <string name="om_settings_title">Configurações de aumento de velocidade</string>
     <string name="om_shortcut_added_toast_text">Adicionado com sucesso</string>
     <string name="om_shortcut_dialog_summary">O RAM Jet permite que limpe a memória e acelere a velocidade do seu dispositivo em um único toque. Adicionar o RAM Jet à sua Tela inicial?</string>
     <string name="om_shortcut_dialog_title">RAM Jet</string>
@@ -3569,6 +3587,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_high_temp_protection_noti_summary2">"Agora não é possível usar pontos de acesso"</string>
     <string name="pc_high_temp_protection_noti_tile">Seu dispositivo está superaquecido</string>
     <string name="pc_install_manager">Instalar via USB</string>
+    <string name="pc_low_batterty_got_it">Entendi</string>
+    <string name="pc_low_battery_fast_charge">Acelerar o carregamento</string>
+    <string name="pc_low_battery_fast_charge_summary">Conecte o carregador fornecido para acelerar o carregamento quando a tela estiver desligada e a bateria estiver fraca. Lembre-se, este recurso pode fazer com que seu dispositivo aqueça.</string>
     <string name="pc_main_activity_back">Voltar</string>
     <string name="pc_main_battery_text_day">%1$s min adicionado, cerca de %2$s d restante(s)</string>
     <string name="pc_main_battery_text_day_hour">%1$s min adicionado, cerca de %2$s d e %3$s h restante(s)</string>
@@ -3593,6 +3614,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_search_keywords_capacity">Capacidade da bateria</string>
     <string name="pc_search_keywords_property">Desempenho</string>
     <string name="pc_settings_title">Bateria</string>
+    <string name="pc_smart_discharge_checkbox_summary">"Ao usar apps de navegação, o carregamento será interrompido automaticamente quando a bateria atingir um nível selecionado. Este recurso não funcionará quando a Economia de bateria ou a Ultra economia de bateria estiverem ativadas."</string>
+    <string name="pc_smart_discharge_checkbox_title">Desconexão automática de carregamento</string>
+    <string name="pc_smart_discharge_drop_down_title">Configurações de desconexão automática</string>
+    <string name="pc_smart_discharge_protect_notifi_summary">Para proteger a bateria, o carregamento será interrompido automaticamente em um nível selecionado ao usar apps de navegação</string>
+    <string name="pc_smart_discharge_protect_notifi_title">Desconexão automática de carregamento ativada</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$d h e %2$d min restante(s)</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$d h e %2$d min desde o último carregamento</string>
     <string name="pc_statistics_battery_use_summary">%s desde o último carregamento</string>
@@ -3721,6 +3747,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="phone_manage_clean_title">Limpeza</string>
     <string name="phone_manage_electric_summary">Otimize seu dispositivo para economizar bateria</string>
     <string name="phone_manage_electric_title">Bateria</string>
+    <string name="phone_manage_privacy_title">Proteção de privacidade</string>
     <string name="phone_manage_recent_use">Usados recentemente</string>
     <string name="phone_manage_special_summary">Explore os nossos recursos adicionais</string>
     <string name="phone_manage_special_title">Recursos especiais</string>
@@ -3739,6 +3766,12 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pm_remember_choice">Lembrar minha escolha</string>
     <string name="pm_root_success_notification_infomation">Certifique-se de que você entende os riscos relacionados ao acesso Root</string>
     <string name="pm_root_success_notification_title">Acesso Root permitido</string>
+    <string name="popular_action_anti_spam_title_global">Bloquear chamadas e mensagens</string>
+    <string name="popular_action_app_lock_title_global">Proteja apps com o Bloqueio de apps</string>
+    <string name="popular_action_card_title">Recursos populares</string>
+    <string name="popular_action_first_aid_title_global">Para novos usuários</string>
+    <string name="popular_action_net_assistant_title_global">Monitore a velocidade da conexão de rede</string>
+    <string name="popular_action_video_clean_title_global">Limpe o cache de vídeo para liberar espaço</string>
     <string name="power_5g_popups_content">As redes 5G fornecem alta velocidade de conexão e menor latência.</string>
     <string name="power_5g_popups_title">Usar redes 5G</string>
     <string name="power_ambient_display">Tela ambiente</string>
@@ -5132,6 +5165,8 @@ Retirar consentimento agora?"</string>
     <string name="stop_collecting_data_detail">O teclado não coleta dados para melhorar a digitação preditiva e sugerir frases frequentes com base em seus hábitos.</string>
     <string name="stop_milink_connect">A transmissão parou</string>
     <string name="storage_activity_title">Armazenamento</string>
+    <string name="storage_activity_title_personage">Pessoal</string>
+    <string name="storage_activity_title_work">Trabalho</string>
     <string name="storage_app_detail_activity_title">Espaço ocupado</string>
     <string name="storage_app_detail_cache">"Cache"</string>
     <string name="storage_app_detail_clear_all_data">Limpar todos os dados</string>

@@ -223,7 +223,7 @@
     <string name="cate_order_reset">Restaurar</string>
     <string name="category_already_exists">Categoria já existente</string>
     <string name="category_cannot_empty">Insira primeiro a categoria</string>
-    <string name="category_choose_no_app_select_tip">Cada categoria deve conter pelo menos 1 app.</string>
+    <string name="category_choose_no_app_select_tip">Cada categoria deve conter pelo menos %d app.</string>
     <string name="category_drawer_name_hint">Insira o nome da categoria</string>
     <string name="category_edit_back_confirm_dialog_content">Salvar alterações agora?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">Não salvar</string>
@@ -886,7 +886,7 @@
     <string name="request_permission_title">Permissões requeridas</string>																		   
     <string name="reset_cate_tip_content">Se você continuar, os grupos padrão de apps serão restaurados. Continuar mesmo assim?</string>
     <string name="reset_cate_tip_title">Restaurar grupos padrão</string>
-    <string name="reset_description_first_time">Você pode restaurar o layout de %1$s em 2 horas</string>
+    <string name="reset_description_first_time">Você pode restaurar o layout de %2$s em %1$d horas</string>
     <string name="reset_description_others">Você pode restaurar o layout de %1$s</string>
     <string name="reset_fail">Não foi possível restaurar</string>
     <string name="reset_scene_prompt">A tela será redefinida para o layout padrão.</string>
