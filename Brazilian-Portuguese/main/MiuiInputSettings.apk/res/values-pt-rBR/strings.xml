@@ -511,10 +511,10 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="stylus_quick_note_summary">Quando a tela estiver desligada, toque nela com a caneta para começar a escrever. Este recurso aumenta o consumo de energia.</string>
     <string name="stylus_quick_note_title">Escreva com a tela desligada</string>
     <string name="stylus_quick_write">Escrever</string>
-    <string name="stylus_quick_write_summary">Pressione e segure o botão de escrita para escrever ou desenhar.</string>
+    <string name="stylus_quick_write_summary">Pressione e segure o botão de escrita para escrever ou desenhar</string>
     <string name="stylus_schematic_diagram">Demonstração</string>
     <string name="stylus_screen_shot">Faça uma captura de tela</string>
-    <string name="stylus_screen_shot_summary">Pressione e segure o botão de captura de tela para tirar e editar uma captura de tela.</string>
+    <string name="stylus_screen_shot_summary">Pressione e segure o botão de captura de tela para tirar e editar uma captura de tela</string>
     <string name="stylus_settings_title">Caneta</string>
     <string name="stylus_shortcut_actions_summary">Pressione e segure o primeiro botão para escrever. Pressione e segure o segundo botão para fazer uma captura de tela.</string>
     <string name="stylus_shortcut_actions_title">Ações rápidas</string>

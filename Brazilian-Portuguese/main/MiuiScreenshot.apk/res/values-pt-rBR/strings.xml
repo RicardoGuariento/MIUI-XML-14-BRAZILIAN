@@ -294,6 +294,8 @@ uma captura de tela estendida"</string>
     <string name="screen_talkback_shape">Forma</string>
     <string name="screen_talkback_small">Muito pequenol</string>
     <string name="screen_talkback_text">Texto</string>
+    <string name="screenshot_detected_multiple_template">Vários apps, incluindo %1$s, detectaram esta captura de tela</string>
+    <string name="screenshot_detected_template">%1$s detectou esta captura de tela</string>
     <string name="screenshot_edit">Editar</string>
     <string name="screenshot_failed_in_landscape_mode">Não é possível fazer captura de tela estendida na orientação de paisagem</string>
     <string name="screenshot_failed_to_capture_title">Este app não permite captura de tela</string>

@@ -2542,6 +2542,7 @@ das suas sessões de jogos"</string>
     <string name="global_dock_guide_desc_without_split_screen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
 • Pressione e segure o indicador para mover a janela."</string>
     <string name="global_satisfaction_notification_button">Avalie</string>
+    <string name="global_satisfaction_notification_channel">Pesquisa de satisfação do usuário</string>
     <string name="global_satisfaction_notification_subhead">Nos conte sua experiência</string>
     <string name="global_satisfaction_notification_title">Avalie este dispositivo</string>
     <string name="global_wa_setting_alert_dialog_content">Você pode liberar até %s</string>
@@ -2891,7 +2892,7 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
     <string name="main_primary_message_leisure_overlimit">Acima do limite de dados fora do pico</string>
     <string name="main_primary_message_leisure_remain">Dados fora do pico</string>
     <string name="main_primary_message_traffic_overlimit">Acima do limite do uso de dados</string>
-    <string name="main_primary_message_traffic_remain">Dados móveis</string>
+    <string name="main_primary_message_traffic_remain">Dados restantes</string>
     <string name="main_primary_message_traffic_warning">Alerta do uso de dados</string>
     <string name="main_purchase_tips">Promoção</string>
     <string name="main_tc_over">Calibrado com sucesso</string>
@@ -3687,6 +3688,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_external_storage">Esta permissão permite que apps acessem fotos, mídias e arquivos em seu dispositivo. Tenha cuidado com esta permissão para evitar divulgação desnecessária de informações pessoais.</string>
     <string name="permission_instruction_gallery">Se você permitir que os apps acessem arquivos em suas próprias pastas, a MIUI para proteger sua privacidade permite que você decida se também deseja que esses apps acessem os itens em sua Galeria. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
     <string name="permission_instruction_get_accounts">Esta permissão permite aos apps acessar a lista de contas armazenadas em seu dispositivo. Esta lista pode conter todas as suas contas pessoais criadas pelos apps instalados, assim como as contas de plataformas de mídia social e ferramentas de comunicação.</string>
+    <string name="permission_instruction_get_identifier">Acessar o identificador de dispositivo</string>
     <string name="permission_instruction_install_shortcuts">Esta permissão permite que os apps criem atalhos para a Tela inicial.</string>
     <string name="permission_instruction_install_unknown_source">Esta permissão permite que os apps instalem outros apps em seu dispositivo. Apps maliciosos usam esta permissão para instalar apps sem sua confirmação.</string>
     <string name="permission_instruction_location">Quando você concede essa permissão, os apps usam a internet ou posicionamento por satélite para acessar sua localização. Você pode permitir que apps compatíveis com o recurso acessem apenas sua localização aproximada.</string>
@@ -3703,13 +3705,16 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_read_calllog">Esta permissão permite aos apps acessar o histórico de chamadas, que pode conter informações detalhadas sobre suas chamadas recebidas e efetuadas. Esta permissão também permite aos apps salvar os registros do histórico de chamadas. Apps maliciosos podem usar esta permissão para compartilhar seu histórico de chamadas com terceiros ou usá-lo para fraudes.</string>
     <string name="permission_instruction_read_clipboard">Esta permissão permite que os apps leiam qualquer conteúdo que você copie, que pode incluir informações pessoais (ex.: detalhes da conta, números de cartões bancários e senhas).</string>
     <string name="permission_instruction_read_contacts">Esta permissão permite aos apps acessar as informações de contato armazenadas em seu dispositivo. Estas informações podem conter a frequência de sua comunicação com contatos específicos através de chamadas, e-mails e outros métodos. Esta permissão também permite aos apps salvar contatos. Apps maliciosos podem usar esta permissão para compartilhar contatos sem seu consentimento.</string>
+    <string name="permission_instruction_read_history">Acessar o histórico de navegação</string>
     <string name="permission_instruction_read_media_pic">Esta permissão permite que apps acessem fotos e vídeos armazenados neste dispositivo. Esses itens podem conter informações pessoais.</string>
     <string name="permission_instruction_read_notify_sms">Esta permissão permite aos apps ler mensagens de texto e notificação armazenadas em seu dispositivo ou cartão SIM.</string>
     <string name="permission_instruction_read_phone_state">Esta permissão permite que apps acessem seu número de telefone, IMEI, IMSI e outros identificadores de dispositivos. Os apps normalmente usam esta permissão para determinar se suas chamadas estão sendo encaminhadas. Se você estiver usando uma ID de dispositivo virtual, os apps não poderão acessar seus identificadores de dispositivo reais.</string>
     <string name="permission_instruction_read_sms">Esta permissão permite que os apps leiam todas as mensagens de texto armazenadas em seu dispositivo ou cartão SIM. Estas mensagens podem conter senhas, detalhes de contas bancárias e outras informações pessoais.</string>
     <string name="permission_instruction_read_write_calendar">Esta permissão permite aos apps acessar sua agenda, assim como ler, adicionar, remover, editar, compartilhar e salvar eventos da agenda. Apps maliciosos podem usar esta permissão para enviar mensagens de seu nome ou editar eventos da agenda sem seu consentimento.</string>
     <string name="permission_instruction_receive_mms">Esta permissão permite que os apps leiam todas as mensagens multimídia armazenadas em seu dispositivo ou cartão SIM. Estas mensagens podem conter senhas, detalhes de contas bancárias e outras informações pessoais.</string>
+    <string name="permission_instruction_receive_sms">Receber SMS e MMS</string>
     <string name="permission_instruction_record_audio">Esta permissão permite que os apps utilizem o microfone para a gravação de áudio. Lembre-se que esta permissão permite aos apps gravar qualquer coisa, inclusive suas conversas com outras pessoas. É melhor permitir que os apps usem esta permissão apenas enquanto você estiver usando os apps.</string>
+    <string name="permission_instruction_record_screen">Acessar o conteúdo da tela</string>
     <string name="permission_instruction_running_background">Esta permissão permite que os apps funcionem em segundo plano. Ao fazer isto, os apps podem coletar dados e fornecer serviços. Lembre-se de que tais atividades aumentam o consumo de energia.</string>
     <string name="permission_instruction_running_exceed_data">Esta permissão permite que os apps ignorem os limites de uso de dados móveis.</string>
     <string name="permission_instruction_scoped">Um novo mecanismo de proteção de armazenamento permite que você controle melhor como apps compatíveis usam permissões de armazenamento</string>
@@ -3721,6 +3726,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_sociality">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade a MIUI permite que você decida se também deseja que esses apps acessem os arquivos gerados em apps de mídia social. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
     <string name="permission_instruction_storage">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade a MIUI permite que você decida se também deseja que esses apps acessem os itens em sua Galeria e os arquivos gerados em apps de mídia social. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
     <string name="permission_instruction_touch_pay">Esta permissão permite que os apps realizem pagamentos sem contato.</string>
+    <string name="permission_instruction_transfer_data_to_other_devices">Transferir dados para outros dispositivos</string>
     <string name="permission_instruction_use_sip">Esta permissão permite que os apps utilizem os serviços de vídeo SIP.</string>
     <string name="permission_instruction_vr_assistant">Esta permissão permite que os apps possam utilizar os serviços de assistente de RV.</string>
     <string name="permission_instruction_wall_paper">Conceda esta permissão para permitir que os apps alterem os serviços padrão de papel de parede dinâmico e continuem sendo executados em segundo plano.</string>
