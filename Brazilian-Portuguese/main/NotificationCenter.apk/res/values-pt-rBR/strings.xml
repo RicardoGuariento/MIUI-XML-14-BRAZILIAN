@@ -297,7 +297,7 @@
     <string name="summary_enable_lockscreen_notification">Notificações na Tela de bloqueio permitidas</string>
     <string name="summary_enable_show_badge_notification">Ícones de notificação permitidos</string>
     <string name="summary_float_enable_notification_first">Permita notificações para poder ativar as notificações flutuantes</string>
-    <string name="summary_fold_importance_default">A MIUI vai decidir que notificações aparecerão diretamente</string>
+    <string name="summary_fold_importance_default">A MIUI irá decidir que notificações aparecerão diretamente</string>
     <string name="summary_fold_importance_important">As notificações aparecerão na Área de notificações</string>
     <string name="summary_fold_importance_unimportant">As notificações aparecerão em uma seção separada</string>
     <string name="summary_lock_screen_enable_notification_first">Permita notificações para poder ativar as notificações na Tela de bloqueio</string>

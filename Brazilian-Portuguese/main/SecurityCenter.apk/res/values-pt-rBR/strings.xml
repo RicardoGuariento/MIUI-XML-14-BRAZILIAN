@@ -4374,9 +4374,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_pop_record">Gravou áudio hoje</string>
     <string name="privacy_pop_storage">Acessou o armazenamento hoje</string>
     <string name="privacy_prompt_tc_sms_report_message">Seu número de telefone e detalhes da operadora serão encriptados e enviados para os servidores da Mi para atualizar suas informações de uso de dados.</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Após iniciar a calibração, a MIUI vai conectar-se à rede e codificar a suas informação de operadora, número de telefone, IMEI, Conta Mi, e enviar estes itens para servidores Mi. Isto é feito para adquirir os modelos de calibração da operadora e aprender se possível a comprar dados na sua localização.
+    <string name="privacy_prompt_traffic_adjust_message">"Após iniciar a calibração, a MIUI irá conectar-se à rede e codificar a suas informação de operadora, número de telefone, IMEI, Conta Mi, e enviar estes itens para servidores Mi. Isto é feito para adquirir os modelos de calibração da operadora e aprender se possível a comprar dados na sua localização.
 
-Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelos de calibração."</string>
+Enquanto calibra, a MIUI irá enviar uma mensagem de texto para receber os modelos de calibração."</string>
     <string name="privacy_prompt_upload">Enviar</string>
     <string name="privacy_protect_summary">Proteja suas informações pessoais</string>
     <string name="privacy_protect_title">Proteção de privacidade</string>
