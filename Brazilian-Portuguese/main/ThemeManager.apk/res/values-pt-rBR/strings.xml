@@ -1662,6 +1662,10 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wallpaper_share_alert">Um erro ocorreu. Aguarde alguns minutos e tente novamente.</string>
     <string name="wallpaper_static">Estático</string>
     <string name="wallpaper_subject_version">MI</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Configurações</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Aplicar</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Parece que você não ativou a otimização da MIUI. Sem ela, este tema não funcionará corretamente quando aplicado. Você pode aplicá-lo de qualquer maneira ou ativar a otimização da MIUI em Configurações."</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Atenção!</string>
     <string name="warning_subscribe_wallpaper_group_content">"Você ativou a apresentação de slides na Tela inicial. %1$s será aplicado à sua Tela inicial."</string>
     <string name="wechat_not_found">Instale o WeChat primeiro</string>
     <string name="wednesday">Quarta</string>

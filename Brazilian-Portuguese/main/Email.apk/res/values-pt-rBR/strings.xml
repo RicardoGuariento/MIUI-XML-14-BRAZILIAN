@@ -293,6 +293,7 @@ IMAP"</string>
     <string name="auto_advance_summary">Selecione qual tela será exibida após um e-mail ser excluído</string>
     <string name="auto_login_fail">Não foi possível fazer o login automaticamente</string>
     <string name="auto_login_fail_to_retry">Não foi possível fazer o login automaticamente, tente novamente.</string>
+    <string name="auto_start_open_prompt">Permita que o app inicie automaticamente para poder sincronizar seus e-mails. Você pode conceder essa permissão em Configurações.</string>
     <string name="auto_remind_bind">Adicionar</string>
     <string name="auto_remind_discribe_text">Ative para receber lembretes automáticos</string>
     <string name="auto_remind_text">Lembretes automáticos</string>
@@ -332,6 +333,7 @@ IMAP"</string>
     <string name="calendar_skip_no_account_alert">Não foi possível encontrar esta conta</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_action">Cancelar</string>
+    <string name="cancel_edit">Parar de editar</string>
     <string name="cancel_pop3_attchemt_downloading">Não é possível cancelar downloads em andamento para anexos em contas POP3</string>
     <string name="cant_move_or_change_labels">Não é possível mover itens de várias contas ao mesmo tempo.</string>
     <string name="cc">Cc</string>
@@ -536,6 +538,7 @@ IMAP"</string>
     <string name="drive_card_code">"Código de acesso: "</string>
     <string name="drive_card_tips">%s compartilhou um item armazenado na nuvem com você.</string>
     <string name="drive_card_title">URL de armazenamento da nuvem</string>
+    <string name="drop_sign_operation">Parar de editar e descartar todas as alterações?</string>
     <string name="dtend">Termina</string>
     <string name="dtstart">Inicia</string>
     <string name="due">A vencer</string>
@@ -1201,6 +1204,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="open_pdf_error">Não foi possível abrir o PDF. Instale um leitor de PDF e tente novamente.</string>
     <string name="operation_settging">Ações</string>
     <string name="optimization_suggestion">Sugestões de otimização</string>
+    <string name="other_pdf_open">Abrir com…</string>
     <string name="others_mail">Outros</string>
     <string name="others_mail_des">Outros serviços de e-mail privados ou corporativos</string>
     <string name="outbox_alert_button_no_resend">Não enviar</string>
@@ -1248,6 +1252,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="pdf_has_signature_prompt_confirm">Cópia assinada</string>
     <string name="pdf_has_signature_prompt_message">Parece que este anexo tem uma cópia assinada. Abrir?</string>
     <string name="pdf_save_error">Não é possível converter para PDF. Esta mensagem é muito longa</string>
+    <string name="pdf_save_local">"Salvo no dispositivo com sucesso: "</string>
     <string name="pdf_save_no_body">Espere até que a mensagem esteja totalmente carregada antes de converter para PDF</string>
     <string name="pdf_save_to">"Salvo em "</string>
     <string name="pdf_signature_add">Adicionar uma nova assinatura</string>
@@ -1287,6 +1292,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="personal_data_collection_summary">Quando a opção está ativada, você concorda que poderemos coletar seus dados pessoais. Você pode desativá-la, revogar sua autorização e excluir seus dados dos nossos servidores a qualquer momento.</string>
     <string name="personal_data_collection_title">Permitir coleta de dados pessoais</string>
     <string name="pl_select_age">Selecione a idade</string>
+    <string name="please_save_sign_first">Primeiro salve a assinatura</string>
     <string name="pls_parse_bill_discribe">"Analisar faturas e informações de viagens em seu e-mail
 para receber lembretes sobre pagamentos e viagens"</string>
     <string name="pm">"PM"</string>
@@ -1421,6 +1427,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="saturday_shortest">Sáb</string>
     <string name="save_action">Salvar</string>
     <string name="save_draft_failed">Falha ao salvar rascunho</string>
+    <string name="save_sign_pdf">Salvar no dispositivo</string>
     <string name="save_power_summary">Definir horário de economia de energia</string>
     <string name="save_power_title">Economia de bateria</string>
     <string name="saved">Salvo, %s</string>
@@ -1637,6 +1644,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="train_card_title_change">Reserva alterada com sucesso</string>
     <string name="train_card_title_change_arrival">Destino alterado com sucesso</string>
     <string name="train_card_title_refund">Bilhete cancelado com sucesso</string>
+    <string name="translated_text_too_long">Selecione menos texto para copiar e tente novamente</string>
     <string name="translation_loading">Aguarde…</string>
     <string name="translation_no_result">Nenhum resultado</string>
     <string name="translation_pronunciation_am">AmE</string>

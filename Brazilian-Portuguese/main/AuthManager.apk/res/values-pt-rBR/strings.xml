@@ -98,6 +98,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Obter o número de telefone para fazer login</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Caso não consiga fazer login com um toque, volte para a página de login e tente novamente.</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Este app deseja adquirir seu número de telefone para fazer login. Permitir?</string>
+    <string name="HIPS_Perm_operator_shake">Acessar o movimento e a orientação do dispositivo</string>
+    <string name="HIPS_Perm_operator_shake_Desc">"Para detectar a posição do dispositivo no espaço, reconhecer tremores e fornecer recursos sensoriais interativos"</string>
     <string name="HIPS_Perm_operator_shake">Acessar dados do acelerômetro</string>
     <string name="HIPS_Perm_operator_shake_Desc">Os dados do acelerômetro são usados para rastrear a orientação e o movimento (por exemplo, agitação, inclinação e rotação)</string>
     <string name="HIPS_Perm_process_nfc">"NFC"</string>

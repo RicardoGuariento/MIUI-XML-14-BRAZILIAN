@@ -6011,6 +6011,7 @@ Experimente interpolar a resolução!"</string>
     <string name="virus_app_type_uninstalled">"APK"</string>
     <string name="virus_app_verison_text">Versão: %s</string>
     <string name="virus_auto_update_engine">Atualização automática: %s</string>
+    <string name="virus_auto_update_engine_1">Atualizar definições automaticamente</string>
     <string name="virus_clear_dialog_title">Limpar apps maliciosos</string>
     <string name="virus_detail_app">Contém vírus</string>
     <string name="virus_detail_split_line_text"> | </string>

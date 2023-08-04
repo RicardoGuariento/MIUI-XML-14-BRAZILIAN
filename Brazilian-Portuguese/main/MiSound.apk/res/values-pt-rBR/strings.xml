@@ -65,8 +65,9 @@
     <string name="effect_3dsurround_summary_headphone">Aumenta a profundidade da reprodução de sons para fones de ouvido</string>
     <string name="effect_dolby">"Dolby"</string>
     <string name="effect_misound">"Misound"</string>
-    <string name="effect_none">Nenhum</string>
+    <string name="effect_none">"Original"</string>
     <string name="effect_selection">Efeitos sonoros</string>
+    <string name="effect_selection_headset">Efeitos de fones de ouvido</string>
     <string name="effect_virtual_surround">Som virtual imersivo</string>
     <string name="effect_virtual_surround_summary">"Enriquece a profundidade do som para reprodução de áudio e vídeo em fones de ouvido (este recurso não funcionará quando o áudio %.1f for reproduzido)"</string>
     <string name="effect_virtual_surround_summary_spk">Enriquece a profundidade do som para reprodução de áudio e vídeo</string>

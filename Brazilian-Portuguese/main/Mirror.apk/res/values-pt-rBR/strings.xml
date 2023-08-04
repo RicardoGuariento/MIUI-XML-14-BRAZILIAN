@@ -466,6 +466,9 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="settings_how_use">Usando handoff</string>
     <string name="settings_log_options">"Logs"</string>
     <string name="settings_more_help">Ajuda</string>
+    <string name="settings_nfc_transfer_desc1">"· Aproxime um telefone conectado à sua Conta Mi do módulo NFC deste dispositivo para compartilhar o conteúdo da tela ou transferir os itens selecionados no Gerenciador de arquivos ou na Galeria."</string>
+    <string name="settings_nfc_transfer_desc2">· Você pode ver a lista de dispositivos compatíveis aqui: %s</string>
+    <string name="settings_nfc_transfer_title">Transferir itens via NFC</string>
     <string name="settings_pad">"Tablet"</string>
     <string name="settings_pad_handoff_title">Conectar automaticamente</string>
     <string name="settings_pc">Computador</string>
