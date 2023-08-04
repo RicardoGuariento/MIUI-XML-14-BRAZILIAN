@@ -100,8 +100,6 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Este app deseja adquirir seu número de telefone para fazer login. Permitir?</string>
     <string name="HIPS_Perm_operator_shake">Acessar o movimento e a orientação do dispositivo</string>
     <string name="HIPS_Perm_operator_shake_Desc">"Para detectar a posição do dispositivo no espaço, reconhecer tremores e fornecer recursos sensoriais interativos"</string>
-    <string name="HIPS_Perm_operator_shake">Acessar dados do acelerômetro</string>
-    <string name="HIPS_Perm_operator_shake_Desc">Os dados do acelerômetro são usados para rastrear a orientação e o movimento (por exemplo, agitação, inclinação e rotação)</string>
     <string name="HIPS_Perm_process_nfc">"NFC"</string>
     <string name="HIPS_Perm_process_nfc_Desc">Acessar hardware de NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Acessar app Telefone</string>
@@ -361,7 +359,7 @@
     <string name="permdesc_recognition">Permitir que %1$s acesse suas informações de atividade?</string>
     <string name="permdesc_send_sms">Permitir que %1$s envie mensagens de texto?</string>
     <string name="permdesc_sensors">Permitir que %1$s leia os dados gerados pelos sensores corporais?</string>
-    <string name="permdesc_shake">Permitir que %1$s acesse os dados do acelerômetro?</string>
+    <string name="permdesc_shake">Permite que %1$s use os sensores do dispositivo para reconhecer tremores e fornecer recursos sensoriais interativos</string>
     <string name="permdesc_use_sip">Permitir que %1$s use o Protocolo de Iniciação de Sessão para transmitir vídeo?</string>
     <string name="permdesc_write_calendar">Permitir que %1$s crie e salve eventos da agenda?</string>
     <string name="permdesc_write_call_log">Permitir que %1$s edite o histórico de chamadas?</string>
