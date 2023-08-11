@@ -252,6 +252,7 @@
     <string name="common_home_search_delete_content">Você não poderá usar a pesquisa rápida depois que remover a barra de pesquisa da Tela inicial. Remover mesmo assim?</string>
     <string name="configure_wallpaper">Configurações</string>
     <string name="confirm_btn_label">"OK"</string>
+    <string name="content_center">Centro de conteúdo</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Os dual apps serão desinstalados juntamente com estes.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">O dual app será desinstalado juntamente com este.</string>
     <string name="confirm_uninstall_dialog_title">Os dual apps serão desinstalados</string>
@@ -489,6 +490,11 @@
     <string name="in_app_result_by">Resultados no app por</string>
     <string name="install">Instalar</string>
     <string name="intelligent_exposed_button_summary_text">Use sugestões inteligentes com base no uso do app para destacar apps em pastas ampliadas</string>
+    <string name="international_home_pull_down_content">Deslize para baixo na Tela inicial para pesquisar neste dispositivo e na Internet.</string>
+    <string name="international_home_pull_down_sub_content">Você pode alternar esse gesto para abrir o Centro de controle em Configurações > Tela inicial > Deslize para baixo na Tela inicial.</string>
+    <string name="international_home_pull_down_up_btn_get">Entendi</string>
+    <string name="international_home_pull_up_content">Deslize para cima na Tela inicial para abrir o Centro de conteúdo.</string>
+    <string name="international_home_pull_up_sub_content">Para abrir a pesquisa, deslize para baixo a partir do centro da Tela inicial.</string>
     <string name="invalid_contact_shortcut">Contato inválido</string>
     <string name="is_setting_wallpaper_message">Definindo o plano de fundo…</string>
     <string name="is_system_wallpaper_message">Não é possível excluir recursos do sistema</string>

@@ -1544,6 +1544,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="domestic_roaming_setting">Roaming nacional</string>
     <string name="dont_bore">Não deixe botões e notificações distraírem-no</string>
     <string name="download">Baixar</string>
+    <string name="download_tvm_title">Plug-in do componente de tecla do telefone</string>
     <string name="downloading">Baixando</string>
     <string name="doze_optimization_summary">Aumenta a resposta ao toque e sensibilidade</string>
     <string name="doze_optimization_title">Controles de toque otimizados</string>
@@ -1962,6 +1963,8 @@ monitoramento de terremotos"</string>
     <string name="first_aid_card_unable_install_button">Liberar espaço</string>
     <string name="first_aid_card_unable_install_summary">Apenas %s de armazenamento está disponível. Libere espaço para conseguir instalar apps.</string>
     <string name="first_aid_card_unable_install_title">Não é possível instalar apps de sistema</string>
+    <string name="install_tvm_component_desc">Para garantir a segurança de suas transações, instale o plug-in Componente de tecla do telefone.</string>
+    <string name="install_tvm_component_title">Instalar plug-in Componente de tecla do telefone</string>
     <string name="first_aid_card_wifi_or_flow_button">Conectar</string>
     <string name="first_aid_card_wifi_or_flow_summary">Ative o Wi-Fi ou os dados móveis para conectar-se</string>
     <string name="first_aid_card_wifi_or_flow_title">Não é possível conectar-se à Internet</string>
@@ -5236,8 +5239,8 @@ Para usar este ^1, você precisa montá-lo primeiro."</string>
     <string name="storage_dialog_unsupported">"Este dispositivo não suporta este ^1.
 
 Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</string>
-    <string name="storage_fbo_clear">Atualização de armazenamento FBO</string>
-    <string name="storage_fbo_des">"O armazenamento interno está fragmentado, o que pode diminuir significativamente a velocidade do seu dispositivo. A atualização do armazenamento FBO funciona automaticamente enquanto você não está usando o dispositivo. Ela organiza fisicamente seus arquivos no menor número de fragmentos, reduzindo a lentidão."</string>
+    <string name="storage_fbo_clear">Atualização de armazenamento</string>
+    <string name="storage_fbo_des">"O armazenamento interno está fragmentado, o que pode diminuir significativamente a velocidade do seu dispositivo. A atualização do armazenamento funciona automaticamente enquanto você não está usando o dispositivo. Ela organiza fisicamente seus arquivos no menor número de fragmentos, reduzindo a lentidão."</string>
     <string name="storage_fbo_number_tip">Processado em %1$s</string>
     <string name="storage_fbo_tools">Otimização de armazenamento</string>
     <string name="storage_file_delete_tip">Excluir itens selecionados permanentemente? Alguns deles podem ser carregados novamente quando necessário.</string>
@@ -5846,6 +5849,9 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="turn_off_auto_correction">Desativando a sincronização automática</string>
+    <string name="tvm_install_failed">"Não foi possível instalar o plug-in"</string>
+    <string name="tvm_install_successed">Plug-in instalado com sucesso</string>
+    <string name="tvm_version_too_low">Primeiro atualize o plug-in Componente da tecla do telefone</string>
     <string name="two_address_choose_hint">%1$s e %2$s</string>
     <string name="type_face_condition_summary">Ajuste o tamanho do texto e a espessura da fonte</string>
     <string name="unable_connect_internet">Sem conexão com a internet</string>
@@ -5873,6 +5879,8 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="untrust_app_perm_oaid">Permitir acesso a sua ID virtual</string>
     <string name="untrust_app_perm_title">App de fonte desconhecida</string>
     <string name="untrust_app_perm_warn">Este app vem de uma fonte desconhecida e pode representar riscos à segurança. Ele pode usar as permissões listadas abaixo para comprometer sua privacidade. Conceda essas permissões após uma consideração cuidadosa.</string>
+    <string name="upgrade_tvm_component_desc">Para garantir a segurança de suas transações, atualize o plug-in Componente de tecla do telefone.</string>
+    <string name="upgrade_tvm_component_title">Atualizar o plug-in do Componente de tecla do telefone</string>
     <string name="usage_sorted_activity_lable">Uso de dados</string>
     <string name="usage_sorted_empty_text">Vazio</string>
     <string name="usage_sorted_loading_text">Aguarde…</string>

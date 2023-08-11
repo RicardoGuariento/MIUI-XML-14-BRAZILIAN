@@ -2215,6 +2215,7 @@ Seja feliz"</string>
     <string name="song_offline">Esta música não está mais disponível.</string>
     <string name="song_picker_complete">Concluído</string>
     <string name="song_quality_category">Música</string>
+    <string name="song_swipe_navigation">Deslize para a esquerda ou para a direita para mudar de música</string>
     <string name="songgroup_pick_album">Álbuns</string>
     <string name="songgroup_pick_playlist">"Playlists"</string>
     <string name="sort_by_name">Nome</string>
