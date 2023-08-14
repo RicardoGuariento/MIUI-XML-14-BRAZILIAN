@@ -181,7 +181,7 @@
     <string name="adv_version_text">Versão: %s</string>
     <string name="after_the_lock_screen">Bloquear app junto com a tela</string>
     <string name="afternoon">"PM"</string>
-    <string name="ai_allow_all">Decida por mim em todas as situações</string>
+    <string name="ai_allow_all">Exibir notificação em todas as situações</string>
     <string name="alert_back_diving_mode_summary">Desativar o Modo imersivo agora?</string>
     <string name="alert_back_diving_mode_title">Modo imersivo</string>
     <string name="alert_back_milink_hangup_tips_content">A transmissão não será interrompida enquanto estiver encerrando uma chamada. Você pode pressionar o botão Liga/Desliga para ligar a tela.</string>
@@ -1279,7 +1279,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="compatible_dialog_title">Atenção!</string>
     <string name="comprehensive_protection_measures">Proteção abrangente</string>
     <string name="confirmSecondSpacePassword">Confirmar senha do Segundo espaço</string>
-    <string name="confirm_ai_allow_all_permission">Alterar o status da permissão para \"Decida por mim\" para todos os apps?</string>
+    <string name="confirm_ai_allow_all_permission">Alterar o status da permissão para \"Exibir notificação\" para todos os apps?</string>
     <string name="confirm_allow_all_permission">Permitir que todos os apps usem este recurso?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Adicionando Conta Mi</string>
     <string name="confirm_close">Desativar</string>
@@ -3659,7 +3659,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permgroupdesc_sms">Ler ou enviar SMS</string>
     <string name="permgroupdesc_storage">Acessar fotos ou arquivos no dispositivo</string>
     <string name="permission_action_accept">Permitir</string>
-    <string name="permission_action_ai_prompt">Decida por mim</string>
+    <string name="permission_action_ai_prompt">Exibir notificação</string>
     <string name="permission_action_always">Sempre permitir</string>
     <string name="permission_action_desc">Conceder a permissão, mas retornar mensagens em branco ao app para proteger sua privacidade</string>
     <string name="permission_action_desc_always">Esta permissão pode ser usada a qualquer momento</string>
