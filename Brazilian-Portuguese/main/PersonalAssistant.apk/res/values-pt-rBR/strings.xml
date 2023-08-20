@@ -355,6 +355,8 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_filter_title">Mais widgets</string>
     <string name="pa_finish">Feito</string>
     <string name="pa_get_installed_app_permission_description">Para instalar apps e adicionar widgets</string>
+    <string name="pa_global_search_description">Pesquisar</string>
+    <string name="pa_global_search_hint">Pesquisar…</string>
     <string name="pa_guide_dialog_desc">Pressione e segure um widget para reorganizar. Toque em (+) para adicionar mais widgets.</string>
     <string name="pa_guide_dialog_sure">Entendi</string>
     <string name="pa_guide_dialog_title">Confira nossa loja de widgets</string>

@@ -1821,7 +1821,7 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="passport_verify">Verify</string>
     <string name="passport_wechat_not_install">Install WeChat first</string>
     <string name="passport_wrong_captcha">The code you entered is incorrect</string>
-    <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
+    <string name="passport_wrong_phone_number_format">O formato do número do telefone inserido é inválido</string>
     <string name="passport_wrong_vcode">The code you entered is incorrect</string>
     <string name="passport_wrong_voice">The code you entered is incorrect</string>
     <string name="password_button_complete">Done</string>

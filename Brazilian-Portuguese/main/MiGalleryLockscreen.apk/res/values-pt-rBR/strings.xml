@@ -644,45 +644,45 @@ mm"</string>
     <string name="opened">Ativado</string>
     <string name="pager_load_hd">Ver imagem original</string>
     <string name="passport_access_denied">Acesso negado</string>
-    <string name="passport_account_crop_user_avatar">Crop photo</string>
-    <string name="passport_account_empty_user_name">Enter your name</string>
-    <string name="passport_account_error_all_space_user_name">"Name can't contain only space characters"</string>
-    <string name="passport_account_error_invalid_user_name">"Name can't contain &lt;, >, or /"</string>
-    <string name="passport_account_error_longer_user_name">"Name can't be longer than %d characters"</string>
-    <string name="passport_account_error_shorter_user_name">Name must be longer than %d characters</string>
-    <string name="passport_account_error_user_name">This nickname is invalid. Try a different one.</string>
-    <string name="passport_account_invalid_user_avatar">This photo is invalid. Try a different one.</string>
+    <string name="passport_account_crop_user_avatar">Cortar foto</string>
+    <string name="passport_account_empty_user_name">Digite seu nome</string>
+    <string name="passport_account_error_all_space_user_name">O nome não pode conter apenas caracteres de espaço</string>
+    <string name="passport_account_error_invalid_user_name">"O nome não pode conter &lt;, >, ou /"</string>
+    <string name="passport_account_error_longer_user_name">"O nome não pode ter mais de %d caracteres"</string>
+    <string name="passport_account_error_shorter_user_name">O nome deve ter mais de %d caracteres</string>
+    <string name="passport_account_error_user_name">Este apelido é inválido. Tente um diferente.</string>
+    <string name="passport_account_invalid_user_avatar">Esta foto é inválida. Tente uma diferente.</string>
     <string name="passport_account_label">Conta Mi</string>
     <string name="passport_account_name">"Conta: %1$s "</string>
-    <string name="passport_account_no_set">None</string>
-    <string name="passport_account_none_bind_info">None</string>
-    <string name="passport_account_none_user_name">None</string>
-    <string name="passport_account_secure_info_pref_title">Account info</string>
-    <string name="passport_account_security_info_pref_title">Security info</string>
-    <string name="passport_account_user_avatar">Profile photo</string>
-    <string name="passport_account_user_avatar_from_album">Gallery</string>
-    <string name="passport_account_user_avatar_from_camera">Camera</string>
-    <string name="passport_account_user_base_info">Basic info</string>
-    <string name="passport_account_user_details">Personal info</string>
-    <string name="passport_account_user_email">Recovery email</string>
-    <string name="passport_account_user_gender">Gender</string>
-    <string name="passport_account_user_id">Xiaomi Account ID</string>
-    <string name="passport_account_user_name">Nickname</string>
-    <string name="passport_account_user_name_dialog_title">Enter name</string>
-    <string name="passport_account_user_phone">Recovery phone</string>
+    <string name="passport_account_no_set">Nenhum</string>
+    <string name="passport_account_none_bind_info">Nenhum</string>
+    <string name="passport_account_none_user_name">Nenhum</string>
+    <string name="passport_account_secure_info_pref_title">Informações da Conta</string>
+    <string name="passport_account_security_info_pref_title">Informação de segurança</string>
+    <string name="passport_account_user_avatar">Foto de perfil</string>
+    <string name="passport_account_user_avatar_from_album">Galeria</string>
+    <string name="passport_account_user_avatar_from_camera">Câmera</string>
+    <string name="passport_account_user_base_info">Informação básica</string>
+    <string name="passport_account_user_details">Informação pessoal</string>
+    <string name="passport_account_user_email">Email de recuperação</string>
+    <string name="passport_account_user_gender">Gênero</string>
+    <string name="passport_account_user_id">ID da Conta Mi</string>
+    <string name="passport_account_user_name">Apelido</string>
+    <string name="passport_account_user_name_dialog_title">Insira o nome</string>
+    <string name="passport_account_user_phone">Telefone de recuperação</string>
     <string name="passport_activate_token_expired">Código de verificação expirado. Tente novamente.</string>
-    <string name="passport_activity_not_found_notice">"Can't find the app"</string>
+    <string name="passport_activity_not_found_notice">"Não é possível encontrar o app"</string>
     <string name="passport_agree">Aceitar</string>
-    <string name="passport_area_code_title">Código de área</string>
+    <string name="passport_area_code_title">Código do país</string>
     <string name="passport_attention">Atenção!</string>
-    <string name="passport_auth_fail_warning">Session expired. Sign in again.</string>
+    <string name="passport_auth_fail_warning">Sessão expirada. Faça login novamente.</string>
     <string name="passport_back">Voltar</string>
     <string name="passport_bad_authentication">Usuário ou senha inválidos</string>
     <string name="passport_barcode_add_account_prompt">Para adicionar uma conta, digitalize o código QR novamente após fazer o login.</string>
     <string name="passport_can_not_receive_verification_code">Não recebeu o código de verificação?</string>
     <string name="passport_can_not_recevie_verify_code">"Não recebeu o código?"</string>
-    <string name="passport_change_password">Change password</string>
-    <string name="passport_check_security">Checking for security issues…</string>
+    <string name="passport_change_password">Alterar a senha</string>
+    <string name="passport_check_security">Verificando problemas de segurança…</string>
     <string name="passport_captcha_title">"Captcha"</string>
     <string name="passport_checking_account">Verificando a senha…</string>
     <string name="passport_clear_input">Limpar conteúdo inserido</string>
@@ -705,7 +705,7 @@ mm"</string>
     <string name="passport_empty_user_name">O usuário não pode estar em branco</string>
     <string name="passport_error_auth_fail">Sessão expirada. Faça o login novamente.</string>
     <string name="passport_error_device_id">Não é possível obter a ID do dispositivo</string>
-    <string name="passport_error_dup_binded_email">This email address is already associated with another Xiaomi Account.</string>
+    <string name="passport_error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
     <string name="passport_error_dynamic_token_error">O código de verificação está incorreto</string>
     <string name="passport_error_email">O endereço de e-mail inserido é inválido</string>
     <string name="passport_error_empty_captcha_code">Insira o captcha</string>
@@ -716,7 +716,7 @@ mm"</string>
     <string name="passport_error_empty_vcode">Inserir código de verificação</string>
     <string name="passport_error_empty_voice_code">Insira o captcha</string>
     <string name="passport_error_empty_user_id">Insira seu nome de usuário</string>
-    <string name="passport_error_invalid_bind_address">The email address you entered is invalid.</string>
+    <string name="passport_error_invalid_bind_address">O endereço de e-mail inserido é inválido.</string>
     <string name="passport_error_length_limit">O texto digitado é muito longo</string>
     <string name="passport_error_illegal_pwd">Senha inválida</string>
     <string name="passport_error_network">Não é possível conectar-se à rede</string>
@@ -736,21 +736,21 @@ mm"</string>
     <string name="passport_error_user_agreement_error">Aceite os termos e condições primeiro</string>
     <string name="passport_error_user_name">O usuário que você inseriu é inválido</string>
     <string name="passport_error_user_password">"As senhas não correspondem"</string>
-    <string name="passport_exceed_binded_phone_times_notice">This phone number is already associated with another Xiaomi Account.</string>
-    <string name="passport_facebook_login_btn_content_description">Sign in with Facebook</string>
-    <string name="passport_frequency_try_later">Too many attempts. Wait a minute or two and try again.</string>
+    <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
+    <string name="passport_facebook_login_btn_content_description">Entrar com o Facebook</string>
+    <string name="passport_frequency_try_later">Muitas tentativas. Espere um pouco e tente novamente.</string>
     <string name="passport_forget_password">&lt;u&gt;Esqueci a senha&lt;/u&gt;</string>
     <string name="passport_get_login_type_next">Próximo</string>
     <string name="passport_get_verify_code">Obter código</string>
     <string name="passport_getting_verify_code">Aguarde…</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
-    <string name="passport_google_login_btn_content_description">Sign in with Google</string>
+    <string name="passport_google_login_btn_content_description">Faça login no Google</string>
     <string name="passport_header_back">Voltar</string>
-    <string name="passport_help">Help</string>
+    <string name="passport_help">Ajuda</string>
     <string name="passport_i_know">Got it</string>
     <string name="passport_identification_expired">Código de verificação expirado. Comece novamente.</string>
     <string name="passport_input_captcha_hint">Inserir código</string>
-    <string name="passport_input_email_address_notice">"We'll use this email to verify your account"</string>
+    <string name="passport_input_email_address_notice">Usaremos este e-mail para verificar sua conta</string>
     <string name="passport_input_password_hint">Insira a senha</string>
     <string name="passport_input_phone_hint">Insira o número do telefone</string>
     <string name="passport_input_phone_number_hint">Insira o número de telefone</string>
@@ -758,12 +758,12 @@ mm"</string>
     <string name="passport_input_verify_code">Insira o código de verificação</string>
     <string name="passport_input_voice_captcha_hint">Insira o código de verificação por voz</string>
     <string name="passport_input_voice_hint">Inserir código de voz</string>
-    <string name="passport_login_by_local_phone_long_text">Sign in now</string>
-    <string name="passport_login_by_local_phone_short_text">Sign in</string>
-    <string name="passport_login_other">Another Xiaomi Account</string>
-    <string name="passport_login_register_by_local_phone_long_text">Create account</string>
-    <string name="passport_login_with_sns">Other ways to sign in</string>
-    <string name="passport_logout_account">Sign out</string>
+    <string name="passport_login_by_local_phone_long_text">Fazer login agora</string>
+    <string name="passport_login_by_local_phone_short_text">Fazer login</string>
+    <string name="passport_login_other">Outra Conta Mi</string>
+    <string name="passport_login_register_by_local_phone_long_text">Criar uma conta</string>
+    <string name="passport_login_with_sns">Outras maneiras de fazer login</string>
+    <string name="passport_logout_account">Sair</string>
     <string name="passport_international_phone_password_login_tip">(Usuários fora da China devem inserir o número do telefone no seguinte formato: +[código de área][número de telefone], ex.: +91 817282982)</string>
     <string name="passport_log_detail">Ver detalhes</string>
     <string name="passport_login_failed">Não foi possível fazer o login</string>
@@ -783,9 +783,9 @@ mm"</string>
     <string name="passport_next_step">AVANÇAR</string>
     <string name="passport_password_req_notice">A senha deve conter de 8 a 16 caracteres e combinar pelo menos dois tipos distintos dos seguintes: letras, números ou símbolos especiais (por exemplo: 123abc@#, 123abc ou abc@#).</string>
     <string name="passport_password_show">Mostrar senha</string>
-    <string name="passport_phone_auto_login_register_with_local_number">Create account</string>
-    <string name="passport_photo_picker_not_found">No photos available.</string>
-    <string name="passport_qq_login_btn_content_description">Sign in with QQ</string>
+     <string name="passport_phone_auto_login_register_with_local_number">Criar uma conta</string>
+    <string name="passport_photo_picker_not_found">Nenhuma foto disponível.</string>
+    <string name="passport_qq_login_btn_content_description">Entrar com QQ</string>
     <string name="passport_querying_phone_info">Solicitando informações da conta…</string>
     <string name="passport_quick_login_dialog_step2_title">Verificação em 2 etapas</string>
     <string name="passport_quick_login_dialog_title">Verificar senha</string>
@@ -798,29 +798,29 @@ mm"</string>
     <string name="passport_register_restricted">Muitas contas foram associadas a este número. Tente um número diferente.</string>
     <string name="passport_reload_ph_ticket">Reenviar</string>
     <string name="passport_relogin_notice">Você precisa fazer o login novamente</string>
-    <string name="passport_request_agree">Allow</string>
-    <string name="passport_request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br>&lt;br>&lt;b>Using camera (for setting your profile photo)&lt;/b>&lt;br>&lt;br>If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
-    <string name="passport_request_cancel">Cancel</string>
-    <string name="passport_request_error_invalid_token">"Couldn't verify"</string>
-    <string name="passport_request_error_network">A network error occurred. Check your network settings and try again.</string>
-    <string name="passport_request_error_unknown">A system error occurred. Go back and try again.</string>
-    <string name="passport_request_gallery_permission_message">Allow access to Gallery:&lt;br />For setting profile photos</string>
-    <string name="passport_resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
-    <string name="passport_resend_email_reach_limit_title">Too many attempts</string>
+    <string name="passport_request_agree">Permitir</string>
+    <string name="passport_request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para configurar sua foto de perfil)&lt;/b>&lt;br>&lt;br>Caso não concorde em conceder tais permissões, não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="passport_request_cancel">Cancelar</string>
+    <string name="passport_request_error_invalid_token">"Não foi possível verificar"</string>
+    <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="passport_request_error_unknown">Ocorreu um erro de sistema. Volte e tente novamente.</string>
+    <string name="passport_request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
+    <string name="passport_resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não esteja na pasta Spam da sua caixa de entrada.</string>
+    <string name="passport_resend_email_reach_limit_title">Muitas tentativas</string>
     <string name="passport_resend_ticket">Reenviar código</string>
     <string name="passport_retry">Tente novamente</string>
-    <string name="passport_same_new_and_old_pwd">"Can't be the same as current password"</string>
+    <string name="passport_same_new_and_old_pwd">"Não pode ser igual à senha atual"</string>
     <string name="passport_send_sms_to">Código enviado para %1$s</string>
     <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="passport_send_too_many_sms">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="passport_sending_vcode">Enviando código…</string>
     <string name="passport_set_password">Definir senha</string>
-    <string name="passport_service_error">Server error</string>
+    <string name="passport_service_error">Erro de servidor</string>
     <string name="passport_set_password_no_phone_msg">Adicione seu número de telefone para proteger a sua conta.</string>
-    <string name="passport_skip_query_account">Skip</string>
-    <string name="passport_sns_access_token_expired_warning">Session expired. Sign in again to reconnect this account.</string>
-    <string name="passport_sns_bind_limit">Too many attempts. Try other ways to sign in.</string>
-    <string name="passport_system_error">System is busy. Wait a minute or two and try again.</string>
+    <string name="passport_skip_query_account">Pular</string>
+    <string name="passport_sns_access_token_expired_warning">Sessão expirada. Faça login novamente para reconectar esta conta.</string>
+    <string name="passport_sns_bind_limit">Muitas tentativas. Tente outras formas de fazer login.</string>
+    <string name="passport_system_error">O sistema está ocupado. Espere um pouco e tente novamente.</string>
     <string name="passport_sign_in">Fazer login</string>
     <string name="passport_sign_in_or_sign_up">Fazer login/Criar conta</string>
     <string name="passport_sms_phone_intro">Código enviado para %1$s</string>
@@ -839,23 +839,23 @@ mm"</string>
     <string name="passport_unknow_host_network_error">Verifique suas configurações de rede e tente novamente</string>
     <string name="passport_unknown_error">Unknown error</string>
     <string name="passport_unknown_host_network_error">Check your network settings and try again</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_first_login">"We'll create an account automatically if you're using your phone number for the first time."</string>
-    <string name="passport_user_agreement_hint_with_mobile"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_telecom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_unicom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-    <string name="passport_user_avatar_update_title">Change profile photo</string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato de Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação de Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"Eu li e aceitei o &lt;a href=%1$s>Contrato de Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_avatar_update_title">Alterar foto do perfil</string>
     <string name="passport_user_avatar_uploading">Aguarde…</string>
     <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_user_agreement_link">&lt;Data>Eu li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Xiaomi.&lt;/Data></string>
     <string name="passport_user_agreement_link_more">&lt;Data>Eu li e aceito os seguintes documentos: o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
     <string name="passport_user_id_intro">Insira a senha para %1$s</string>
-    <string name="passport_user_name_phone_number">Phone number</string>
+    <string name="passport_user_name_phone_number">Número de telefone</string>
     <string name="passport_user_password_hint">Senha</string>
     <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para o seu telefone de recuperação (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_v_code_error">Código de verificação incorreto</string>

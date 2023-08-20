@@ -759,7 +759,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_no_account">Não conectado</string>
     <string name="passport_notification_title">Erro de login para %1$s</string>
     <string name="passport_open_settings">Configurações</string>
-    <string name="passport_page_load_failed">"Não consigo abrir a página"</string>
+    <string name="passport_page_load_failed">"Não é possível abrir a página"</string>
     <string name="passport_password_login_btn">Entrar</string>
     <string name="passport_password_not_show">"Não mostrar senha"</string>
     <string name="passport_password_phone_login">Fazer login na Conta Mi</string>
@@ -922,7 +922,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_verifying_activator_phone">Verificando segurança do telefone…</string>
     <string name="passport_wait_for_sms_prompt">Tentar novamente agora? Mensagens de verificação podem levar até 10 minutos para serem entregues a seu telefone quando ele está em alcance da rede de sua operadora.</string>
     <string name="passport_wrong_captcha">O código inserido está incorreto</string>
-    <string name="passport_wrong_phone_number_format">O formato do telefone digitado é inválido</string>
+    <string name="passport_wrong_phone_number_format">O formato do número do telefone inserido é inválido</string>
     <string name="passport_wrong_vcode">O código inserido está incorreto</string>
     <string name="passport_wrong_voice">O código inserido está incorreto</string>
     <string name="passport_wx_bind_account_limit">Não é possível criar a conta agora. Tente outros métodos de login.</string>
