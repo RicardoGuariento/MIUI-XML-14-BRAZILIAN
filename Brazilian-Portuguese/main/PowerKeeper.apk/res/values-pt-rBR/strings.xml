@@ -55,6 +55,7 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="cloud_addr_info">Informações da nuvem</string>
+    <string name="cloud_allow_change_addr">Alterar o status de sincronização automática na nuvem</string>
     <string name="cloud_china_addr">Atualizar dados com servidor Chinês</string>
     <string name="cloud_international_addr">Atualizar dados com servidor internacional</string>
     <string name="cloud_russion_addr">Atualizar dados do servidor Russion</string>
@@ -65,6 +66,7 @@
     <string name="config_no_restrict_description">A Economia de bateria não restringirá as atividades deste app</string>
     <string name="config_no_restrict_title">Nenhuma restrição</string>
     <string name="config_restrict_function_description">Encerra os apps após 10 minutos de atividade em segundo plano</string>
+    <string name="config_restrict_function_description_new">Encerra os apps após %d minutos de atividade em segundo plano</string>
     <string name="config_restrict_function_title">Restringir apps em segundo plano</string>
     <string name="config_restrict_running_description">Os apps serão fechados para economizar energia</string>
     <string name="config_restrict_running_title">Restringir atividade em segundo plano</string>
@@ -76,6 +78,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="confirm">"OK"</string>
     <string name="connect_intranet_hint">Conecte-se à intranet</string>
     <string name="copy">Copiar</string>
+    <string name="current_allow_sync_is">Atualização automática da nuvem:</string>
     <string name="current_cloud_addr_is">O endereço do servidor de controle na nuvem é:</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>

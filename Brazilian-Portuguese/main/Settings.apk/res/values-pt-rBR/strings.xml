@@ -1676,6 +1676,8 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_hearingaid_right_pairing_message">Pareando aparelho auditivo direito…</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectado ao dispositivo de entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">Usado para entrada</string>
+    <string name="bluetooth_inband_ringing">Permitir toques integrados</string>
+    <string name="bluetooth_inband_ringing_summary">Permite que toques de telefone sejam reproduzidos por meio de fones de ouvido Bluetooth. Esse recurso pode ser usado apenas quando um único dispositivo estiver conectado e pode não ser compatível com alguns dispositivos.</string>
     <string name="bluetooth_incoming_pairing_msg">De:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Parear com este dispositivo?</string>
     <string name="bluetooth_inform_messgae">"Não foi possível conectar-se a %1$s.
 Aqui está o que pode estar errado:
@@ -1806,6 +1808,7 @@ Você não se conectou a %2$s antes."</string>
     <string name="bluetooth_profile_pbap_summary">Usado para compartilhar contatos</string>
     <string name="bluetooth_profile_sap">Usado para acessar o SIM</string>
     <string name="bluetooth_profile_vcp">Controle de volume</string>
+    <string name="bluetooth_profile_volume_control">Controle de volume</string>
     <string name="bluetooth_quick_toggle_summary">Ativar Bluetooth</string>
     <string name="bluetooth_quick_toggle_title">"Bluetooth"</string>
     <string name="bluetooth_remember_choice">Não perguntar novamente</string>
@@ -11254,6 +11257,7 @@ você pode usar a rede de outros usuários também."</string>
     <string name="wifi_tether_enabled_subtext">A rede %1$s está ativa</string>
     <string name="wifi_tether_enabled_summary">%1$s</string>
     <string name="wifi_tether_failed_subtext">Erro no ponto de acesso Wi-Fi</string>
+    <string name="wifi_tether_high_temperature_toast">"Seu dispositivo está superaquecido. Não é possível usar este recurso agora."</string>
     <string name="wifi_tether_setting_title">Configurações</string>
     <string name="wifi_tether_settings_title">Ponto de acesso</string>
     <string name="wifi_tether_starting">Ativando o ponto de acesso…</string>
