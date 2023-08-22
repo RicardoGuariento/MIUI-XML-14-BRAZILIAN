@@ -247,6 +247,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="associate_face_album">Escolha um álbum</string>
     <string name="asus">"Asus"</string>
     <string name="asus_phone">"Asus"</string>
+    <string name="auth_fail_warning">Sessão expirada. Faça login novamente.</string>
     <string name="authorize_to_device_failed">Não foi possível autorizar</string>
     <string name="authorize_watch_on_tv_failed">Não foi possível autorizar para ver na TV</string>
     <string name="auto_backup_introduce">Sincronizar fotos e vídeos automaticamente (Conta Mi requerida)</string>
@@ -287,6 +288,15 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="baby_sexy">Gênero</string>
     <string name="baby_suffix">bebê</string>
     <string name="back">Voltar</string>
+    <string name="back_up_gp_btn_no">Agora não</string>
+    <string name="back_up_gp_btn_no_again">"Não mostrar novamente"</string>
+    <string name="back_up_gp_btn_no_migrating">Não, obrigado</string>
+    <string name="back_up_gp_btn_setup">Ativar backup</string>
+    <string name="back_up_gp_btn_setup_migrating">Configurações</string>
+    <string name="back_up_gp_msg">"Salve automaticamente suas fotos e vídeos em sua Conta do Google ativando o backup no Google Fotos.
+• Os recursos futuros podem exigir permissões adicionais na Galeria e no Google Fotos."</string>
+    <string name="back_up_gp_msg_migrating">Agora os itens da nuvem estão sendo transferidos para o Google Fotos. Configure o backup no Google Fotos para poder continuar sincronizando novos itens.</string>
+    <string name="back_up_gp_title">Faça backup com o Google Fotos</string>
     <string name="background_picture">Fundo %1$d</string>
     <string name="backup_automatically_summary">Sincronize fotos e vídeos de todos os seus dispositivos para a MiCloud. Você poderá navegar, ordenar, editar e compartilhar fotos e vídeos em todos os seus dispositivos.</string>
     <string name="backup_automatically_title">Sincronizar automaticamente</string>
@@ -325,6 +335,12 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="backup_pause_title">Sincronização em pausa</string>
     <string name="backup_pending">O backup será feito automaticamente</string>
     <string name="backup_settings">Sincronizar com a nuvem</string>
+    <string name="backup_settings_banner_msg_off">Faça backup de suas fotos e vídeos com o Google Fotos para manter em segurança todas as suas memórias</string>
+    <string name="backup_settings_banner_msg_on">Veja o status do backup no Google Fotos</string>
+    <string name="backup_settings_banner_title_not_allow">Backup do Google Fotos</string>
+    <string name="backup_settings_banner_title_off">Backup desativado</string>
+    <string name="backup_settings_banner_title_on">Backup ativado</string>
+    <string name="backup_settings_jump_err">"Não foi possível ativar o backup do Google Fotos"</string>
     <string name="backup_settings_more">Configurações adicionais</string>
     <string name="backup_stop">Parar backup</string>
     <string name="backup_sync_dialog_confirm">Ativar</string>
@@ -597,7 +613,13 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="context_menu_add_contact">Adicionar a um contato</string>
     <string name="context_menu_copy">Copiar</string>
     <string name="context_menu_copy_notice">Copiado para a área de transferência</string>
+    <string name="continue_back_up_gp_btn_setup">Abrir</string>
+    <string name="continue_back_up_gp_msg">Para terminar de ativar o backup, abra o Google Fotos.</string>
+    <string name="continue_back_up_gp_title">Abrir o Google Fotos</string>
     <string name="continue_feedback">Feedback adicional</string>
+    <string name="continue_migration_msg">Algumas de suas fotos e vídeos foram transferidos para o Google Fotos. Retome a transferência agora para não perder nada importante quando a sincronização com o MiCloud não estiver mais disponível.</string>
+    <string name="continue_migration_ok">Retomar</string>
+    <string name="continue_migration_title">Retomar a transferência</string>
     <string name="copy">Copiar</string>
     <string name="correct_photo_time">Corrigir data e hora de fotos</string>
     <string name="correct_time_success">Corrigido com sucesso</string>
@@ -609,6 +631,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="create_new_album">Criar um álbum</string>
     <string name="create_new_album_failed">Não foi possível criar</string>
     <string name="create_new_face">Nova pessoa</string>
+    <string name="create_new_share_album">Criar um álbum compartilhado</string>
     <string name="create_quick_icon_on_desk">Criar atalho</string>
     <string name="creating_baby_album">Criando álbum…</string>
     <string name="creativity_summary">Mostre criatividade adicional e recursos de edição</string>
@@ -670,8 +693,16 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="device_storage_space_low_textline_button">Iniciar</string>
     <string name="device_storage_space_low_textline_des">"Libere %s de armazenamento. "</string>
     <string name="device_type_pc">Computador</string>
+    <string name="diagnosis_log_send_failed">"Não foi possível enviar logs. Tente novamente."</string>
+    <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
+ID:%s
+Envie este código para o supervisor."</string>
     <string name="disable_auto_upload_tip">Desativar a sincronização com a nuvem para este álbum?</string>
     <string name="disable_auto_upload_title">Desativar sincronização com a nuvem</string>
+    <string name="disable_secret_album_upload_message">Novas fotos não serão mais sincronizadas com a nuvem se você desativar esse recurso. Desativar?</string>
+    <string name="disconnect_migration_btn_disconnect">Parar</string>
+    <string name="disconnect_migration_msg">Fotos e vídeos que já foram transferidos permanecerão no Google Fotos.</string>
+    <string name="disconnect_migration_title">Parar de transferir?</string>
     <string name="do_not_remind_me">Não mostrar novamente</string>
     <string name="doc_photo_enter">Editar no documento</string>
     <string name="document_provider_guide_step_1">%d. Toque no botão \"Mais\".</string>
@@ -679,6 +710,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="document_provider_guide_step_3">%d. Toque no botão do menu lateral.</string>
     <string name="document_provider_guide_step_4">%d. Selecione \"Cartão SD\".</string>
     <string name="document_provider_guide_step_5">%d. Toque em \"Selecionar\".</string>
+    <string name="doing_query_account">Verificando informações da conta…</string>
     <string name="dolby_vision_icon">Ícone Dolby Vision</string>
     <string name="doodle_paint_select_heavy_talkback">Espesso</string>
     <string name="doodle_paint_select_light_talkback">Fino</string>
@@ -707,7 +739,6 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="download_type_thumbnail_subtitle">Imagens de alta qualidade são praticamente idênticas às originais, mas ocupam menos espaço de armazenamento</string>
     <string name="download_type_thumbnail_title">Alta qualidade</string>
     <string name="download_type_title">Qualidade do download</string>
-    <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Você pode selecionar a qualidade das imagens baixadas ou desativar o download automático nas Configurações.</string>
     <string name="downloading_title">Baixando fotos da MiCloud</string>
     <string name="downloading_title_file">Baixando itens da MiCloud…</string>
@@ -751,6 +782,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="enable_face_album_summary">Ordenar fotos automaticamente com base nas pessoas que estão nela</string>
     <string name="enable_face_album_title">Ordenar por pessoas</string>
     <string name="enable_midrop">Ativar</string>
+    <string name="enable_secret_album_upload_message">Todos os itens privados serão sincronizados com a nuvem após ativação desse recurso. Ativar?</string>
     <string name="enter_choice_mode">Acessando modo de compartilhamento</string>
     <string name="enter_email_hint">Inserir endereço de e-mail</string>
     <string name="equivalent_focal_length">(Distância focal equivalente %d mm)</string>
@@ -770,6 +802,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="error_create_share_album_fail_default">"Não foi possível criar devido a um erro desconhecido"</string>
     <string name="error_decode_tip">Formato de arquivo não suportado ou o arquivo está corrompido.</string>
     <string name="error_download_tip">Não foi possível baixar</string>
+    <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
     <string name="error_external_sdcard_write_action">Alternar armazenamento</string>
     <string name="error_external_sdcard_write_msg">Vá em Configurações > Armazenamento, alterne o armazenamento lá, e tente novamente.</string>
     <string name="error_external_sdcard_write_tip">Não é possível salvar itens no cartão SD.</string>
@@ -778,6 +811,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="error_install_sdcard_not_available">Não foi possível carregar o plugin devido a um erro no cartão SD.</string>
     <string name="error_install_storage_not_enough">Libere espaço no seu dispositivo para carregar o plugin.</string>
     <string name="error_internal_sdcard_write_tip">Ocorreu um erro. Reinicie o seu dispositivo e tente novamente.</string>
+    <string name="error_invalid_bind_address">O endereço de email inserido é inválido.</string>
     <string name="error_invalid_link">URL inválida</string>
     <string name="error_link_has_expired">A URL expirou</string>
     <string name="error_network_restrict_action">Ver detalhes</string>
@@ -822,6 +856,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="error_unknown_msg">Ocorreu um erro. Envie-nos o seu feedback.</string>
     <string name="error_unknown_tip">Ocorreu um erro.</string>
     <string name="evening">"PM"</string>
+    <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
     <string name="exif_tag_smart_fusion">Fusão inteligente</string>
     <string name="exif_title_smart_fusion">Melhoria de imagem:</string>
     <string name="exit">Sair</string>
@@ -864,7 +899,7 @@ Tire mais fotos de seus amigos!"</string>
     <string name="face_name_input">Inserir nome</string>
     <string name="face_recommend">Recomendações</string>
     <string name="fail_hint">Não foi possível concluir a operação</string>
-    <string name="fail_reason_migrate">Processing items… Wait a minute or two and try again.</string>
+    <string name="fail_reason_migrate">Processando itens… Aguarde um pouco e tente novamente.</string>
     <string name="fail_to_pick_email">Endereço de e-mail inválido</string>
     <string name="fail_to_sync_album">Não foi possível sincronizar o álbum. Verifique sua conexão de dados e tente novamente.</string>
     <string name="family_member_invitation_text">Outro membro familiar</string>
@@ -1136,7 +1171,15 @@ estão disponíveis"</string>
     <string name="gallery_uninstall_description_title">Desisntalar galeria?</string>
     <string name="generate_story_summary">Tire fotos suficientes, conecte o carregador e desligue a tela para que as memórias apareçam. As memórias já geradas não desaparecerão se você desativar esse recurso.</string>
     <string name="generate_story_title">Memórias</string>
+    <string name="get_GP_app_btn_install">Instalar</string>
+    <string name="get_GP_app_msg">Para ativar o backup, você precisa instalar o Google Fotos. Volte a esta página após a instalação do Google Fotos para continuar.</string>
+    <string name="get_GP_app_title">Instale o Google Fotos</string>
     <string name="get_album_info_in_process">Obtendo detalhes do álbum…</string>
+    <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
+    <string name="get_user_info_btn_text">Pesquisar</string>
+    <string name="get_user_info_edit_text_hint">Telefone/E-mail/Conta Mi</string>
+    <string name="get_user_info_failed_hint">"Não foi possível encontrar esta pessoa"</string>
+    <string name="get_user_info_top_hint_text">Convidar via Conta Mi</string>
     <string name="gif_tip">"GIF"</string>
     <string name="gigabyteShort">"GB"</string>
     <string name="global_pad">Meu tablet</string>
@@ -1215,6 +1258,7 @@ estão disponíveis"</string>
     <string name="hybrid_pull_to_refresh_release_label">Solte para atualizar…</string>
     <string name="hybrid_service_unavailiable">Serviço indisponível</string>
     <string name="hybrid_try_again">Repetir</string>
+    <string name="i_know">Entendi</string>
     <string name="id_photo_download_failed_for_notwork">Não foi possível baixar. Verifique as suas configurações de Internet e tente novamente.</string>
     <string name="id_photo_download_sdk_without_wifi_msg">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando dados móveis?</string>
     <string name="id_photo_download_sdk_without_wifi_msg_china">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando dados móveis?</string>
@@ -1245,6 +1289,7 @@ estão disponíveis"</string>
     <string name="input_a_name">Inserir nome</string>
     <string name="input_baby_name">Inserir nome</string>
     <string name="input_baby_nick_name">Inserir apelido</string>
+    <string name="input_email_address_notice">"Usaremos este e-mail para verificar sua conta"</string>
     <string name="input_nickname_toast">Inserir nome do bebê</string>
     <string name="input_or_select_a_name">Insira ou selecione um nome</string>
     <string name="input_relation_name">Inserir nome do grupo</string>
@@ -1501,6 +1546,16 @@ para personalizar a Galeria"</string>
     <string name="mi_pad_5_pro_5g">Mi Pad 5 Pro 5G</string>
     <string name="micloud_introduce">Sincronizar fotos e vídeos automaticamente (Conta Mi requerida)</string>
     <string name="midnight">"AM"</string>
+    <string name="migrate_gp_bottom_msg_0">Para mover seus itens para o Google Fotos, você precisa adicionar uma Conta do Google e conceder permissão à Xiaomi para:</string>
+    <string name="migrate_gp_bottom_msg_1">Depois de mover seus itens para o Google Fotos, todas as suas pastas da Galeria (incluindo itens particulares) serão excluídas.</string>
+    <string name="migrate_gp_bottom_msg_li_0">Veja as recomendações de armazenamento e qualificação para assinatura do Google One</string>
+    <string name="migrate_gp_bottom_msg_li_1">Adicione à sua biblioteca do Google Fotos</string>
+    <string name="migrate_gp_btn_migrate">Mover para o Google Fotos</string>
+    <string name="migrate_gp_btn_no">Agora não</string>
+    <string name="migrate_gp_msg">"Suas fotos e vídeos não serão mais sincronizados com o MiCloud. Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na MiCloud serão excluídos permanentemente.
+%2$s"</string>
+    <string name="migrate_gp_msg_link">Ver detalhes</string>
+    <string name="migrate_gp_title">A sincronização com a nuvem não está mais disponível</string>
     <string name="migrate_msg">Alguns álbuns requerem permissões para mover itens após uma atualização do sistema.</string>
     <string name="miplay_adjust_volume">Ajuste o volume para %d</string>
     <string name="miplay_circulate_failed">Não foi possível transmitir a reprodução. Tente novamente mais tarde</string>
@@ -1511,6 +1566,7 @@ para personalizar a Galeria"</string>
     <string name="miplay_stop_video">Pare a reprodução do vídeo</string>
     <string name="miplay_volume_btn">"Volume"</string>
     <string name="mishare_all_devices">Todos os dispositivos</string>
+    <string name="mishop_login_other">Outra Conta</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
@@ -1672,7 +1728,6 @@ para personalizar a Galeria"</string>
     <string name="multi_view_tip_title">Aumentar e diminuir o zoom</string>
     <string name="must_pick_file">Selecione uma foto</string>
     <string name="my_family">Meu lar</string>
-    <string name="name_split">, </string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="national_day">Dia Nacional</string>
     <string name="nearby_share">Com. p/proximidade</string>
@@ -1700,6 +1755,9 @@ para personalizar a Galeria"</string>
     <string name="no_network_connected">Nenhuma rede detectada</string>
     <string name="noon">"PM"</string>
     <string name="not_ask_any_more">Não perguntar novamente para \"%s\"</string>
+    <string name="not_enough_space_msg_with_email">"Esta Conta do Google %1$s não tem armazenamento em nuvem suficiente para iniciar a transferência. Inicie a transferência novamente e atualize seu plano de armazenamento quando vir o pop-up relacionado."</string>
+    <string name="not_enough_space_ok">Recomeçar</string>
+    <string name="not_enough_space_title">Não há espaço de armazenamento suficiente</string>
     <string name="not_is">Não</string>
     <string name="not_remind_again">Não mostrar novamente</string>
     <string name="not_remind_any_more">Não mostrar novamente</string>
@@ -1752,6 +1810,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="open">Ativar</string>
     <string name="open_public_message">Criar URL para compartilhar com seus amigos</string>
     <string name="open_public_title">Compartilhar</string>
+    <string name="open_settings">Configurações</string>
     <string name="operate_processing_file_error">Aguarde até que todas as fotos sejam processadas.</string>
     <string name="operate_with_metered_network_msg">Seu dispositivo está conectado a uma rede paga. Continuar mesmo assim?</string>
     <string name="operation_add_album">Adicionar ao álbum</string>
@@ -1959,7 +2018,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="permission_use_desc">Permissões</string>
     <string name="pet_album_display_name">Fotos de pets</string>
     <string name="petabyteShort">"PB"</string>
+    <string name="phone_auto_login_register_with_local_number">Criar uma conta</string>
     <string name="photo">Fotos</string>
+    <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="photo_edit_file_not_exits_tip">Baixe a foto antes de editá-la</string>
     <string name="photo_editor_adjust">Ajustar</string>
     <string name="photo_editor_beautify">Embelezar</string>
@@ -2206,6 +2267,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="produce_dialog_text_multi">Vários itens</string>
     <string name="produce_dialog_text_single">Um item</string>
     <string name="progress" formatted="false">%s%</string>
+    <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="projection_cancel">Cancelar</string>
     <string name="projection_checkbox_text">Lembrar desta tela</string>
     <string name="projection_device_connection_failed">Não foi possível conectar-se ao projetor</string>
@@ -2220,6 +2282,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="projection_switch_title">Alternar para</string>
     <string name="projection_video_quit">Toque para sair</string>
     <string name="prompt_not_support_format">Não é possível usar esta imagem para criar uma vinheta mágica</string>
+    <string name="protocal_dialog_confirm">Aceitar</string>
+    <string name="protocal_dialog_title">Atenção!</string>
     <string name="public_url_descript">Qualquer pessoa pode ver seu álbum usando esta URL</string>
     <string name="publish_failed">Não foi possível publicar</string>
     <string name="publish_succeeded">Álbum publicado</string>
@@ -2279,6 +2343,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="redmi_note_9_pro_max">Redmi Note 9 Pro Max</string>
     <string name="redmi_note_9s">Redmi Note 9S</string>
     <string name="refocus_desc">Focalizar novamente</string>
+    <string name="register_by_local_phone_long_text">Criar uma conta</string>
+    <string name="register_by_local_phone_short_text">Criar uma conta</string>
     <string name="relation_text_empty_alert">Adicionar info. de relação</string>
     <string name="relation_text_family">Membro familiar</string>
     <string name="relation_text_father">Pai</string>
@@ -2318,6 +2384,13 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="rename_face_album">Renomear</string>
     <string name="rename_fail_msg">Não foi possível renomear</string>
     <string name="rename_from_contact">Nome dos contatos</string>
+    <string name="request_agree">Permitir</string>
+    <string name="request_camera_permission_message">"Protegeremos suas informações pessoais de acordo com as leis e regulamentos relevantes. Este app precisa das seguintes permissões para funcionar normalmente:&lt;br>&lt;br>&lt;b>Usar a câmera (para definir sua foto de perfil)&lt;/b>&lt;br>&lt;br>Se você não concordar em conceder tais permissões, não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você. Você sempre pode restringir as permissões ou revogar sua autorização nas Configurações."</string>
+    <string name="request_cancel">Cancelar</string>
+    <string name="request_error_invalid_token">"Não foi possível verificar"</string>
+    <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="request_error_unknown">Ocorreu um erro de sistema. Volte e tente novamente.</string>
+    <string name="request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
     <string name="request_qr_code_failed">Não foi possível obter o código QR</string>
     <string name="request_sms_url_failed">Não foi possível obter informações</string>
     <string name="request_sms_url_msg">Solicitando informações…</string>
@@ -2534,7 +2607,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="share_album_family_invite_default">Share</string>
     <string name="share_album_family_invite_family_cate_title">Family group</string>
     <string name="share_album_family_invite_link">URL</string>
-    <string name="share_album_family_invite_miaccount">Xiaomi Account</string>
+    <string name="share_album_family_invite_miaccount">Conta Mi</string>
     <string name="share_album_family_invite_other_cate_title">Friends</string>
     <string name="share_album_family_invite_qr">QR code</string>
     <string name="share_album_family_invite_resend">Invite again</string>
@@ -2751,6 +2824,15 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="sticker_tab_talkback_summer_day">Dia de verão</string>
     <string name="sticker_tab_talkback_words">Texto</string>
     <string name="sticker_words">Palavras</string>
+    <string name="stop_migration_msg">"Você não poderá retomar a transferência se interrompê-la agora. Se você decidir interromper a transferência, pode visitar i.mi.com para baixar os itens ainda armazenados na MiCloud."</string>
+    <string name="stop_migration_ok">Parar</string>
+    <string name="stop_migration_title">Parar a transferência agora?</string>
+    <string name="stop_use_secret_cancel">Agora não</string>
+    <string name="stop_use_secret_msg">"Suas fotos e vídeos não são mais sincronizados com o MiCloud. Você não poderá usar seu álbum particular, pois ele depende da criptografia na nuvem.
+Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados no MiCloud serão excluídos permanentemente.
+%2$s"</string>
+    <string name="stop_use_secret_ok">Transferir itens</string>
+    <string name="stop_use_secret_title">O álbum privado não está mais disponível</string>
     <string name="storage_description_primary">Armaz. interno</string>
     <string name="storage_description_sdcard">Cartão SD</string>
     <string name="storage_description_usb">Armazenamento USB</string>
@@ -2794,6 +2876,10 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="super_slow_motion_enter">Super câmera lenta</string>
     <string name="support_single_image">Selecione uma imagem</string>
     <string name="support_single_video">Selecione um vídeo</string>
+    <string name="switch_account_continue">Retomar</string>
+    <string name="switch_account_msg_with_email">Anteriormente, você interrompeu uma transferência para %1$s. Deseja retomar a transferência para esta Conta do Google ou recomeçar usando outra conta?</string>
+    <string name="switch_account_switch">Recomeçar</string>
+    <string name="switch_account_title">Retomar a transferência?</string>
     <string name="sync_album_in_proecess">Sincronizando álbum…</string>
     <string name="sync_backup_disable_confirm_message_downloading">Se você desativar a sincronização agora, os downloads em andamento dos arquivos originais armazenados na nuvem serão interrompidos. As imagens de alta qualidade armazenadas neste dispositivo também não estarão mais disponíveis. Desativar mesmo assim?</string>
     <string name="sync_backup_disable_confirm_message_wait">As imagens de alta qualidade armazenadas neste dispositivo não estarão mais disponíveis após você desativar a sincronização. Você pode baixar arquivos originais da nuvem e desativar a sincronização após isso.</string>
@@ -2833,6 +2919,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="talkback_story_album_playicon">Reproduzir esta memória</string>
     <string name="talkback_video_with_time">Vídeo, %s</string>
     <string name="talkback_video_with_time_and_location">Vídeo, %1$s, %2$s</string>
+    <string name="temporary_not_available">"Este recurso ainda não está disponível"</string>
     <string name="terabyteShort">"TB"</string>
     <string name="text_append_color">Cor</string>
     <string name="text_append_font">Fonte</string>
@@ -3037,44 +3124,52 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="today_of_year_photo_num">Fotos</string>
     <string name="tomorrow">Amanhã</string>
     <string name="too_many_recipients">Não é possível adicionar mais de %2$s destinatários (%1$s selecionados atualmente).</string>
-    <string name="tran_notification_complete_title">Transfer complete</string>
-    <string name="tran_notification_paused_msg">Try resuming the transfer now</string>
-    <string name="tran_notification_paused_title">Transfer paused</string>
-    <string name="tran_notification_preparing_msg">Preparing items…</string>
-    <string name="tran_notification_preparing_title">About to transfer your photos and videos</string>
-    <string name="tran_notification_storage_msg">Upgrade your storage plan to resume the transfer</string>
-    <string name="tran_notification_storage_title">Not enough cloud storage</string>
-    <string name="tran_notification_succeeded_msg">%1$d/%2$d | 100%%</string>
-    <string name="tran_notification_succeeded_title">Transferred photos and videos successfully</string>
-    <string name="tran_notification_update_msg">%1$d/%2$d | %3$d%%</string>
-    <string name="tran_notification_update_title">Transferring your photos and videos…</string>
-    <string name="transfer_banner_btn_check_and_migrate">Transfer items</string>
-    <string name="transfer_banner_btn_check_and_migrate_1">Transfer items</string>
-    <string name="transfer_banner_btn_check_download_status">View progress</string>
-    <string name="transfer_banner_btn_download_complete">Ignore</string>
-    <string name="transfer_banner_btn_go_to_download">Download</string>
-    <string name="transfer_banner_btn_title_cancel_reminder">"Don't show again"</string>
-    <string name="transfer_banner_btn_view_detail">Learn more</string>
-    <string name="transfer_banner_btn_view_migrate_data">View backups</string>
-    <string name="transfer_banner_msg_download_complete">"You requested a download of your cloud data. You'll be able to view and manage downloaded items once the download is complete."</string>
-    <string name="transfer_banner_msg_migrate_complete">Items have been transferred to Google Photos. View and download unsynced backups before they disappear.</string>
-    <string name="transfer_banner_msg_migrate_download_progress">Preparing requested download…</string>
-    <string name="transfer_banner_msg_migrate_download_success">You can download requested items. The download link is only valid for %d days.</string>
-    <string name="transfer_banner_msg_migrate_tips">Transfer unsynced items before %1$s to avoid losing them</string>
-    <string name="transfer_dialog_btn_cancel">Cancel</string>
-    <string name="transfer_dialog_btn_cancle_deal">Not now</string>
-    <string name="transfer_dialog_btn_check_download_status">View progress</string>
-    <string name="transfer_dialog_btn_migrate">View unsynced items</string>
-    <string name="transfer_dialog_btn_open_google_View_backup">View backups</string>
-    <string name="transfer_dialog_btn_open_google_backup">Turn on</string>
-    <string name="transfer_dialog_btn_view_cloud">View cloud items</string>
-    <string name="transfer_dialog_consistent_msg">Xiaomi Cloud sync services were replaced with Google Photos backup. All photos and videos previously stored in Xiaomi Cloud have been synced to this device. Now you can turn on Google Photos backup to continue storing items in the cloud.</string>
-    <string name="transfer_dialog_download_complete_msg">"Xiaomi Cloud sync services were replaced with Google Photos backup. Some of your photos and videos haven't been synced to this device and will no longer be displayed. However, you've already requested a download of your cloud data that includes these items. You'll be able to view and manage these photos and videos on the device to which you downloaded them."</string>
-    <string name="transfer_dialog_migrate_complete_msg">"Your photos and videos have been transferred to Google Photos. After that, items that haven't been synced to this device won't be displayed. You can view these items among your backups now."</string>
-    <string name="transfer_dialog_migrate_msg">"Xiaomi Cloud sync services were replaced with Google Photos backup. After that, items that haven't been synced to this device won't be displayed. Until %1$s, you can move your items to Google Photos or visit i.mi.com to download them. After that, the items that are still stored in Xiaomi Cloud will be permanently deleted."</string>
+    <string name="tran_notification_complete_title">Transferência completa</string>
+    <string name="tran_notification_paused_msg">Tente retomar a transferência agora</string>
+    <string name="tran_notification_paused_title">Transferência pausada</string>
+    <string name="tran_notification_preparing_msg">Preparando itens…</string>
+    <string name="tran_notification_preparing_title">Prestes a transferir suas fotos e vídeos</string>
+    <string name="tran_notification_storage_msg">Atualize seu plano de armazenamento para retomar a transferência</string>
+    <string name="tran_notification_storage_title">Armazenamento em nuvem insuficiente</string>
+    <string name="tran_notification_succeeded_title">Fotos e vídeos transferidos com sucesso</string>
+    <string name="tran_notification_update_title">Transferindo suas fotos e vídeos…</string>
+    <string name="transfer_banner_btn_check_and_migrate">Transferir itens</string>
+    <string name="transfer_banner_btn_check_and_migrate_1">Transferir itens</string>
+    <string name="transfer_banner_btn_check_download_status">Ver progresso</string>
+    <string name="transfer_banner_btn_download_complete">Ignorar</string>
+    <string name="transfer_banner_btn_go_to_download">Baixar</string>
+    <string name="transfer_banner_btn_title_cancel_reminder">"Não mostrar novamente"</string>
+    <string name="transfer_banner_btn_view_detail">Saiba mais</string>
+    <string name="transfer_banner_btn_view_migrate_data">Ver backups</string>
+    <string name="transfer_banner_msg_download_complete">"Você solicitou o download dos seus dados na nuvem. Você poderá visualizar e gerenciar os itens baixados assim que o download for concluído."</string>
+    <string name="transfer_banner_msg_migrate_complete">Os itens foram transferidos para o Google Fotos. Visualize e baixe backups não sincronizados antes que eles desapareçam.</string>
+    <string name="transfer_banner_msg_migrate_download_progress">Preparando o download solicitado…</string>
+    <string name="transfer_banner_msg_migrate_download_success">Você pode baixar os itens solicitados. O link de download é válido apenas por %d dias.</string>
+    <string name="transfer_banner_msg_migrate_tips">Transfira itens não sincronizados antes de %1$s para evitar perdê-los</string>
+    <string name="transfer_dialog_btn_cancel">Cancelar</string>
+    <string name="transfer_dialog_btn_cancle_deal">Agora não</string>
+    <string name="transfer_dialog_btn_check_download_status">Ver progresso</string>
+    <string name="transfer_dialog_btn_migrate">Ver itens não sincronizados</string>
+    <string name="transfer_dialog_btn_open_google_View_backup">Ver backups</string>
+    <string name="transfer_dialog_btn_open_google_backup">Ativar</string>
+    <string name="transfer_dialog_btn_view_cloud">Ver itens da nuvem</string>
+    <string name="transfer_dialog_consistent_msg">Os serviços de sincronização do MiCloud foram substituídos pelo backup do Google Fotos. Todas as fotos e vídeos armazenados anteriormente no MiCloud foram sincronizados com este dispositivo. Agora você pode ativar o backup do Google Fotos para continuar armazenando itens na nuvem.</string>
+    <string name="transfer_dialog_download_complete_msg">"Os serviços de sincronização do MiCloud foram substituídos pelo backup do Google Fotos. Algumas de suas fotos e vídeos não foram sincronizados com este dispositivo e não serão mais exibidos. No entanto, você já solicitou o download de seus dados em nuvem que incluem esses itens. Você poderá visualizar e gerenciar essas fotos e vídeos no dispositivo para o qual os baixou."</string>
+    <string name="transfer_dialog_migrate_complete_msg">"Suas fotos e vídeos foram transferidos para o Google Fotos. Depois disso, os itens que não foram sincronizados com este dispositivo não serão exibidos. Você pode visualizar esses itens entre seus backups agora."</string>
+    <string name="transfer_dialog_migrate_msg">"Os serviços de sincronização do Xiaomi Cloud foram substituídos pelo backup do Google Fotos. Depois disso, os itens que não foram sincronizados com este dispositivo não serão exibidos. Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados no Xiaomi Cloud serão excluídos permanentemente."</string>
     <string name="transfer_dialog_msg_link">Encerramento dos serviços de sincronização para itens da Galeria e transferência de itens para o Google Fotos</string>
-    <string name="transfer_dialog_title">Xiaomi Cloud replaced with Google Photos backup</string>
-    <string name="transfer_service_msg">Xiaomi Cloud sync services were replaced with Google Photos backup. Downloads of unsynced items are no longer available.</string>
+    <string name="transfer_dialog_title">MiCloud substituído pelo backup do Google Fotos</string>
+    <string name="transfer_service_msg">Os serviços de sincronização do MiCloud foram substituídos pelo backup do Google Fotos. Downloads de itens não sincronizados não estão mais disponíveis.</string>
+    <string name="transfer_status_banner_msg_complete">Itens transferidos com sucesso</string>
+    <string name="transfer_status_banner_msg_need_retry">Transferência interrompida. Tente novamente ou visite i.mi.com para baixar itens.</string>
+    <string name="transfer_status_banner_msg_no_space">Transferência pausada. Não há armazenamento suficiente na Conta do Google. Atualize o armazenamento para continuar.</string>
+    <string name="transfer_status_banner_msg_no_space_inline">Atualizar</string>
+    <string name="transfer_status_banner_msg_not_started">A sincronização com a nuvem não está mais disponível. Transfira ou baixe seus itens agora.</string>
+    <string name="transfer_status_banner_msg_pausing">Transferência interrompida %1$s</string>
+    <string name="transfer_status_banner_msg_preparing">Preparando a transferência %1$s</string>
+    <string name="transfer_status_banner_msg_processing">"Transferindo fotos e vídeos %1$s
+(%2$d/%3$d)"</string>
+    <string name="transfer_status_banner_msg_unbinding">Removendo conta agora. Aguarde um ou dois minutos e reinicie a transferência %1$s</string>
     <string name="trash_bin">Itens excluídos</string>
     <string name="trash_bin_key_word">Fotos excluídas</string>
     <string name="trash_bin_summary">Navegue entre fotos salvas que foram excluídas recentemente</string>
@@ -3096,6 +3191,15 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="trash_vip_button_unlogin">Fazer login</string>
     <string name="try_again_later">Tente novamente mais tarde.</string>
     <string name="try_to_send">Enviar</string>
+    <string name="tsb_action_backup_apk_err">Configurar backup</string>
+    <string name="tsb_action_completed_allow_closed">Ativar backup</string>
+    <string name="tsb_action_completed_open">Ver status de backup</string>
+    <string name="tsb_action_err">Um erro ocorreu. Tente novamente.</string>
+    <string name="tsb_action_err_fast">"Não foi possível retomar a transferência. Tente novamente amanhã."</string>
+    <string name="tsb_action_file_failed">Entendit</string>
+    <string name="tsb_action_need_retry">Tente novamente</string>
+    <string name="tsb_action_not_started">Transferir itens</string>
+    <string name="tsb_action_show_details">Ver detalhes</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
@@ -3104,6 +3208,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="turn_on_sync">Ativar sincronização</string>
     <string name="unchecked">Não selecionado</string>
     <string name="unchecked_something">%s não selecionados</string>
+    <string name="unknown_error_info">Erro desconhecido</string>
     <string name="unpublish_failed">Não foi possível remover publicação</string>
     <string name="unpublish_succeeded">Publicação de álbum removida</string>
     <string name="unpublishing">Cancelando…</string>
@@ -3118,6 +3223,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="unsupported_media_downloading_tip_format">Ver imagens %s originais não é suportado nesta versão do Android. Baixar mesmo assim?</string>
     <string name="unsupported_media_scanned_tip">Imagens %1$s detectadas. Ver imagens originais %2$s não é suportado nesta versão do Android.</string>
     <string name="unsupported_media_view_tip">Ver imagens %s originais não é suportado nesta versão do Android</string>
+    <string name="update_GP_app_btn_update">Atualizar</string>
+    <string name="update_GP_app_msg">Para ativar o backup, você precisa atualizar o Google Fotos. Volte a esta página após a atualização do Google Fotos para continuar.</string>
+    <string name="update_GP_app_title">Atualize o Google Fotos</string>
     <string name="update_apk_size">Tamanho da atualização: %s MB</string>
     <string name="update_btn_exit">Sair</string>
     <string name="update_btn_negative">Mais tarde</string>
@@ -3137,6 +3245,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="user_avatar_update_title">Alterar foto do perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
     <string name="user_family">"Casa de %1$s"</string>
+    <string name="user_name_phone_number">Número de telefone</string>
     <string name="user_notice_identify_summary_format">&lt;Data>Ao usar este serviço, você concorda com os &lt;a href=\"%1$s\">\"Termos de Serviço\"&lt;/a> e a &lt;a href=\"%2$s\">\"Política de Privacidade\"&lt;/a> da Xiaomi.&lt;/Data></string>
     <string name="user_notice_title">Termos e Condições</string>
     <string name="v7_preference_off">DESATIVADO</string>
