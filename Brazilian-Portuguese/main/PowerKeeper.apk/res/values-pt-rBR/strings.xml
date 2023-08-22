@@ -65,8 +65,8 @@
     <string name="config_mode_title">Configurações em segundo plano</string>
     <string name="config_no_restrict_description">A Economia de bateria não restringirá as atividades deste app</string>
     <string name="config_no_restrict_title">Nenhuma restrição</string>
-    <string name="config_restrict_function_description">Encerra os apps após 10 minutos de atividade em segundo plano</string>
-    <string name="config_restrict_function_description_new">Encerra os apps após %d minutos de atividade em segundo plano</string>
+    <string name="config_restrict_function_description">"Encerra os apps após 10 minutos de atividade em segundo plano"</string>
+    <string name="config_restrict_function_description_new">"Encerra os apps após %d minutos de atividade em segundo plano"</string>
     <string name="config_restrict_function_title">Restringir apps em segundo plano</string>
     <string name="config_restrict_running_description">Os apps serão fechados para economizar energia</string>
     <string name="config_restrict_running_title">Restringir atividade em segundo plano</string>
