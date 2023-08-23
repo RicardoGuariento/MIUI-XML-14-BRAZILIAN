@@ -5840,7 +5840,6 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_key_config_close">Desativado</string>
     <string name="miheadset_key_config_close_summary">Desative o cancelamento de ruído e a transparência</string>
     <string name="miheadset_key_config_gesture_control">Gestos</string>
-    <string name="miheadset_key_config_next_music">Próxima</string>
     <string name="miheadset_key_config_next_and_previous_music">Troque de música</string>
     <string name="miheadset_key_config_next_music">Próxima música</string>
     <string name="miheadset_key_config_noise_control">Controle de ruído</string>
