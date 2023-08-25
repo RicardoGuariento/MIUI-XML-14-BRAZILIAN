@@ -40,6 +40,7 @@
     <string name="auto_disable_screenbuttons_ask">Pedir para desativar</string>
     <string name="auto_disable_screenbuttons_auto">Sempre desativar</string>
     <string name="auto_disable_screenbuttons_cancel">Cancelar</string>
+    <string name="auto_disable_screenbuttons_dialog_title">Desativar botões de tela para %s?</string>
     <string name="auto_disable_screenbuttons_no">Nunca desativar</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Quando seu dispositivo estiver no modo paisagem, os botões de navegação serão bloqueados</string>
     <string name="auto_disable_screenbuttons_rotation_title">Bloquear botões de navegação em orientação paisagem</string>

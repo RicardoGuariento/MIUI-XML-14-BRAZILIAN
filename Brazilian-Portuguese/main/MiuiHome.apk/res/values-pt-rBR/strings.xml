@@ -969,6 +969,7 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="switch_personal_assistant_app_vault">Assistente</string>
     <string name="switch_personal_assistant_google">"Google Discover"</string>
     <string name="switch_personal_assistant_none">Nenhum</string>
+    <string name="switch_personal_assistant_summary">Deslize para a direita na Tela inicial para abrir o Google Discover</string>
     <string name="switch_screen_button_order">Espelhar botões</string>
     <string name="switch_screen_button_order_desc">Espelha os botões de Voltar e Menu</string>
     <string name="system_shortcuts_edit">Editar</string>
@@ -1063,7 +1064,7 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="uninstall_xspace_dialog_title_format">Desinstalar dual app \"%s\"?</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unnamed_folder_name">Pasta</string>
-    <string name="unstable_dialog_message">Este dispositivo está inscrito no Programa Android 13 Developer Preview. O programa permite que desenvolvedores e entusiastas do Android experimentem versões de pré-lançamento do Android 13. Esta versão de pré-lançamento pode conter erros e defeitos que podem afetar o funcionamento normal do seu dispositivo.</string>
+    <string name="unstable_dialog_message">Este dispositivo está inscrito no Programa Android 14 Developer Preview. O programa permite que desenvolvedores e entusiastas do Android experimentem versões de pré-lançamento do Android 14. Esta versão de pré-lançamento pode conter erros e defeitos que podem afetar o funcionamento normal do seu dispositivo.</string>
     <string name="unstable_dialog_title">Programa Android Developer Preview</string>
     <string name="upgrade_remove_small_window_in_recents">Você pode usar a barra lateral para abrir apps em janelas flutuantes</string>
     <string name="v7_preference_off">DESATIVADO</string>
