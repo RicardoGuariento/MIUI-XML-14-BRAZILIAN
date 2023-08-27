@@ -45,6 +45,14 @@
         <item quantity="other">Duração: %d segundos</item>
         <item quantity="one">Duração: %d segundo</item>
     </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">Você pode conectar até %d câmeras à mesma rede</item>
+        <item quantity="one">Você pode conectar até %d câmera à mesma rede</item>
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">Você pode conectar até %d monitores à mesma rede</item>
+        <item quantity="one">Você pode conectar até %d monitor à mesma rede</item>
+    </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">Você pode criar até %d clones por vez.</item>
         <item quantity="one">Você pode criar até %d clone por vez.</item>
@@ -61,6 +69,14 @@
         <item quantity="other">&lt;Data>"A versão da Câmera que você está usando não é compatível com o modelo do seu dispositivo.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundos&lt;/b>&lt;/font>. Desinstale as atualizações da Câmera e tente novamente."&lt;/Data></item>
         <item quantity="one">&lt;Data>"A versão da Câmera que você está usando não é compatível com o modelo do seu dispositivo.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundo&lt;/b>&lt;/font>. Desinstale as atualizações da Câmera e tente novamente."&lt;/Data></item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanço rápido %d segundos</item>
+        <item quantity="one">Avanço rápido %d segundo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Retroceder %d segundos</item>
+        <item quantity="one">Retroceder %d segundo</item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d minutos</item>
         <item quantity="one">%1$d minuto</item>
@@ -68,6 +84,10 @@
     <plurals name="fastmotion_pro_sec_unit">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">Temporizador ativado (%1$d segundos). As fotos serão transferidas para este dispositivo.</item>
+        <item quantity="one">Temporizador ativado (%1$d seg). As fotos serão transferidas para este dispositivo.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
