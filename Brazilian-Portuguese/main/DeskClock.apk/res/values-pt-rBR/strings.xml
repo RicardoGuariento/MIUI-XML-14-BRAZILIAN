@@ -41,6 +41,7 @@
     <string name="add_timer_dialog_title">Adicionar temporizador</string>
     <string name="add_timezone_title">Adicionar fuso horário</string>
     <string name="afternoon">"PM"</string>
+    <string name="alarm_alert">O alarme está tocando</string>
     <string name="agree">Aceitar</string>
     <string name="alarm_alert">O alarme está tocando</string>
     <string name="alarm_alert_alert_silenced">Alarme silenciado após %1$s.</string>

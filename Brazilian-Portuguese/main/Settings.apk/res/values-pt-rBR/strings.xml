@@ -57,8 +57,8 @@
     <string name="accelerometer_summary_off">Alternar orientação automaticamente ao girar o telefone</string>
     <string name="accelerometer_summary_on">Alternar orientação automaticamente ao girar o telefone</string>
     <string name="accelerometer_title">Girar tela automaticamente</string>
-    <string name="accept_new_connection">Allow connecting to new devices</string>
-    <string name="accept_new_connection_detail">New connections were restricted in Control center</string>
+    <string name="accept_new_connection">Permitir conexão com novos dispositivos</string>
+    <string name="accept_new_connection_detail">Novas conexões foram restritas no Centro de Controle</string>
     <string name="access_control_app_entry_multiple">Abrir %s</string>
     <string name="access_control_app_entry_single">Abrir app</string>
     <string name="access_control_need_password">"%s está protegido
@@ -92,17 +92,17 @@
     <string name="accessibility_back">Voltar</string>
     <string name="accessibility_banner_message_dismiss">Dispensar</string>
     <string name="accessibility_button_about_title">Sobre o botão de acessibilidade</string>
-    <string name="accessibility_button_description">"Acesse rapidamente recursos de acessibilidade de qualquer tela.
-
-Para começar, vá para Configurações de Acessibilidade e selecione um recurso. Toque no atalho e selecione o botão Acessibilidade."</string>
+    <string name="accessibility_button_description"><b>Para começar</b>"
+1. Vá para as configurações de acessibilidade
+2. Selecione um recurso e toque no atalho
+3. Escolha o botão para acessar o recurso"</string>
     <string name="accessibility_button_fade_summary">Desaparece após alguns segundos, então é mais fácil ver sua tela</string>
     <string name="accessibility_button_fade_title">Desaparecer quando não estiver em uso</string>
     <string name="accessibility_button_gesture_about_title">Sobre o botão de acessibilidade e gesto</string>
-    <string name="accessibility_button_gesture_description">"Acesse rapidamente recursos de acessibilidade de qualquer tela.
-
-Para começar, vá para Configurações de Acessibilidade e selecione um recurso. Toque no atalho e selecione o botão Acessibilidade.
-
-Para usar o botão Acessibilidade na barra de navegação, alterne para navegação de 2 botões ou navegação de 3 botões."</string>
+    <string name="accessibility_button_gesture_description"><b>Para começar</b>"
+1. Vá para as configurações de acessibilidade
+2. Selecione um recurso e toque no atalho
+3. Escolha se deseja usar um botão ou gesto para acessar o recurso"</string>
     <string name="accessibility_button_gesture_footer_learn_more_content_description">Saiba mais sobre botões de acessibilidade e gesto</string>
     <string name="accessibility_button_gesture_title">Botão de acessibilidade e gesto</string>
     <string name="accessibility_button_high_label">Não transparente</string>
@@ -139,9 +139,7 @@ Para usar o botão Acessibilidade na barra de navegação, alterne para navegaç
     <string name="accessibility_control_timeout_about_title">Sobre o tempo de reação (Tempo limite de acessibilidade)</string>
     <string name="accessibility_control_timeout_footer_learn_more_content_description">Saiba mais sobre o tempo de reação (Tempo limite de acessibilidade)</string>
     <string name="accessibility_control_timeout_preference_intro_text">Escolha por quanto tempo mostrar mensagens temporárias que solicitam que você execute uma ação</string>
-    <string name="accessibility_control_timeout_preference_summary">"Defina por quanto tempo, as mensagens que solicitam que você execute uma ação fiquem visíveis na tela.
-
-Nem todos os apps são compatíveis com essa configuração"</string>
+    <string name="accessibility_control_timeout_preference_summary">"Esta preferência de tempo não é compatível com todos os apps"</string>
     <string name="accessibility_control_timeout_preference_title">Tempo de reação</string>
     <string name="accessibility_daltonizer_about_intro_text">Ajuste como as cores são exibidas no seu telefone</string>
     <string name="accessibility_daltonizer_about_title">Sobre a correção de cores</string>
@@ -163,7 +161,7 @@ Nem todos os apps são compatíveis com essa configuração"</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">A correção de cores pode ser útil quando você deseja:&lt;br/>&lt;ol>&lt;li> Ver as cores com mais precisão&lt;/li>&lt;li> Remover cores para ajudá-lo a se concentrar&lt;/li>&lt;/ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
     <string name="accessibility_display_inversion_preference_intro_text">A inversão de cores torna as telas claras em escuras. Ele também transforma telas escuras em claras.</string>
-    <string name="accessibility_display_inversion_preference_subtitle">A inversão de cores escurece as telas claras.&lt;br/>&lt;br/> Observação: &lt;ol> &lt;li> A inversão de cores também transforma telas escuras em telas claras.&lt;/li> &lt;li> As cores mudam tanto em mídias quanto em imagens.&lt;/li> &lt;li> O tema escuro pode ser usado para exibir um plano de fundo escuro. O tema escuro funciona apenas em apps compatíveis, mas a \"Inversão de cores\" funciona em todos os apps.&lt;/li> &lt;/ol></string>
+    <string name="accessibility_display_inversion_preference_subtitle">&lt;b>Tenha em mente&lt;/b>&lt;br/> &lt;ol> &lt;li> As cores mudarão na mídia e nas imagens&lt;/li> &lt;li> A inversão de cores funciona em todos os apps&lt;/li> &lt;li> Para exibir um fundo escuro, o tema Escuro pode ser usado&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_inversion_preference_title">Inversão de cores</string>
     <string name="accessibility_display_inversion_shortcut_title">Atalho de inversão de cores</string>
     <string name="accessibility_display_inversion_switch_title">Usar inversão de cores</string>
@@ -181,7 +179,8 @@ Nem todos os apps são compatíveis com essa configuração"</string>
     <string name="accessibility_hearingaid_left_side_device_summary">%1$s, apenas o esquerdo</string>
     <string name="accessibility_hearingaid_more_device_summary">%1$s +1 mais</string>
     <string name="accessibility_hearingaid_not_connected_summary">Nenhum aparelho auditivo conectado</string>
-    <string name="accessibility_hearingaid_pair_instructions_message">Para parear aparelhos auditivos, localize seu dispositivo na próxima tela e toque nele. Verifique se seus aparelhos auditivos estão no modo de pareamento.</string>
+    <string name="accessibility_hearingaid_pair_instructions_message">"Na próxima tela, toque em seus aparelhos auditivos. Pode ser necessário parear o lado esquerdo e direito separadamente.
+Certifique-se de que seus aparelhos auditivos estejam ligados e prontos para o pareamento."</string>
     <string name="accessibility_hearingaid_pair_instructions_title">Parear aparelhos auditivos</string>
     <string name="accessibility_hearingaid_right_side_device_summary">%1$s, apenas o direito</string>
     <string name="accessibility_hearingaid_title">Aparelhos auditivos</string>
@@ -276,7 +275,7 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
     <string name="accessibility_screen_magnification_short_summary">Tocar três vezes para ampliar</string>
     <string name="accessibility_screen_magnification_shortcut_title">Atalho de ampliação</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Ampliar com atalho e toque triplo</string>
-    <string name="accessibility_screen_magnification_summary">Aumente o zoom rapidamente na tela para ver o conteúdo com mais clareza.&lt;br/>&lt;br/> &lt;b>Para aumentar o zoom:&lt;/b>&lt;br/> 1. Use o atalho para iniciar a ampliação&lt;br/> 2. Toque na tela&lt;br/> 3. Arraste dois dedos para navegar pela tela&lt;br/> 4. Faça um gesto de pinça com dois dedos para ajustar o zoom&lt;br/> 5. Use o atalho para interromper a ampliação.&lt;br/>&lt;br/> &lt;b>Para aumentar o zoom temporariamente:&lt;/b>&lt;br/> 1. Use o atalho para iniciar a ampliação&lt;br/> 2. Toque em qualquer lugar da tela e mantenha pressionado&lt;br/> 3. Arraste o dedo para se mover pela tela&lt;br/> 4. Solte para interromper a ampliação.</string>
+    <string name="accessibility_screen_magnification_summary">&lt;b>Para ampliar:&lt;/b>&lt;br/> {0,number,integer}. Use o atalho para iniciar a ampliação&lt;br/> {1,number,integer}. Toque na tela&lt;br/> {2,number,integer}. Arraste dois dedos para navegar pela tela&lt;br/> {3,number,integer}. Faça um gesto de pinça com dois dedos para ajustar o zoom&lt;br/> {4,number,integer}. Use o atalho para interromper a ampliação&lt;br/>&lt;br/> &lt;b>Para ampliar temporariamente:&lt;/b>&lt;br/> {0,number,integer}. Certifique-se de que seu tipo de ampliação esteja definido para tela inteira&lt;br/> {1,number,integer}. Use o atalho para iniciar a ampliação&lt;br/> {2,number,integer}. Toque e segure em qualquer lugar da tela&lt;br/> {3,number,integer}. Arraste o dedo para navegar pela tela&lt;br/> {4,number,integer}. Solte para interromper a ampliação</string>
     <string name="accessibility_screen_magnification_title">Ampliação</string>
     <string name="accessibility_screen_option">Opções</string>
     <string name="accessibility_screen_reader_haptic_title">Leitor de tela</string>
@@ -444,7 +443,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="accessor_no_description_text">Nenhuma descrição fornecida pelo app.</string>
     <string name="account_add">Adicionar</string>
     <string name="account_autostar_label">Início automático</string>
-    <string name="account_dashboard_default_summary">Nenhuma conta adicionada</string>
+    <string name="account_dashboard_default_summary">Senhas salvas, preenchimento automático, contas sincronizadas</string>
     <string name="account_dashboard_title">Contas</string>
     <string name="account_for_section_header">Contas de %1$s</string>
     <string name="account_list">Outras contas</string>
@@ -644,7 +643,11 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="all_volume_title">"Volumes"</string>
     <string name="allow">Permitir</string>
     <string name="allow_all_rotations_title">Rotação em 360°</string>
-    <string name="allow_bind_app_widget_activity_allow_bind">Após a criação do widget, %1$s poderá acessar todos os dados exibidos.</string>
+    <string name="allow_bind_app_widget_activity_allow_bind">"Depois de criar o widget, o app poderá acessar tudo o que for exibido.
+
+App: %1$s
+Widget: %2$s
+"</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Criar widget e permitir acesso?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Sempre permitir que %1$s crie widgets e acesse os dados</string>
     <string name="allow_data_usage_title">Permitir usar dados em roaming</string>
@@ -726,6 +729,8 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="aod_to_close">Desativar</string>
     <string name="ap_connect_failed">Não foi possível conectar</string>
     <string name="ap_connected_battery_level">" | Bateria %1$s"</string>
+    <string name="ap_p2p_dialog_message">"A conexão Wi-Fi compartilhada atual já está sendo usada. Certifique-se de não estar usando Wi-Fi Direct, Compartilhamento Mi, transmissão ou outros serviços de transferência sem fio antes de ativar seu ponto de acesso pessoal."</string>
+    <string name="ap_p2p_dialog_yes">Desconectar</string>
     <string name="apn_apn">"APN"</string>
     <string name="apn_auth_type">Tipo de autenticação</string>
     <string name="apn_auth_type_chap">"CHAP"</string>
@@ -966,8 +971,8 @@ Alterar as configurações agora?"</string>
     <string name="auto_caps">Capitalização automática</string>
     <string name="auto_caps_summary">Escrever a primeira letra nas sentenças com letra maiúscula</string>
     <string name="auto_clean_description">"Sobre este recurso
-1. Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
-2. Se o alto-falante estiver muito bloqueado, execute o teste 2-5 vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
+%3$d. Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
+%4$d. Se o alto-falante estiver muito bloqueado, execute o teste %1$d-%2$d vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
     <string name="auto_clean_description_pad">"Sobre este recurso
 • Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
 • Se o alto-falante estiver muito bloqueado, execute o teste de %1$d-%2$d vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
@@ -1007,7 +1012,7 @@ Alterar as configurações agora?"</string>
     <string name="auto_rotate_screen_summary">Ajuste automaticamente a orientação da tela ao mover seu telefone entre Modo retrato e paisagem</string>
     <string name="auto_rotate_settings_primary_switch_title">Use auto-rotate</string>
     <string name="auto_rotate_summary_a11y">Quando você move seu telefone entre o Modo retrato e paisagem</string>
-    <string name="auto_rotate_summary_no_permission">O acesso à câmera é necessário para detecção de rosto. Toque para gerenciar permissões para serviços de personalização do dispositivo</string>
+    <string name="auto_rotate_summary_no_permission">O acesso à câmera é necessário para detecção de rosto. Toque para gerenciar permissões para Serviços de personalização do dispositivo</string>
     <string name="auto_rotate_switch_face_based">Ativar detecção de rosto</string>
     <string name="auto_rule">Temporizador</string>
     <string name="auto_silent">Programar hora para ativar</string>
@@ -1024,7 +1029,6 @@ Alterar as configurações agora?"</string>
     <string name="autofill_max_partitions">Máximo de solicitações por sessão</string>
     <string name="autofill_max_visible_datasets">Máximo de conjuntos de dados visíveis</string>
     <string name="autofill_passwords">Senhas</string>
-    <string name="autofill_passwords_count_placeholder">—</string>
     <string name="autofill_reset_developer_options">Redefinir para valores padrão</string>
     <string name="autofill_reset_developer_options_complete">As opções do desenvolvedor de preenchimento automático foram redefinidas</string>
     <string name="automatic_brightness">Brilho automático</string>
@@ -1182,7 +1186,6 @@ Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse
     <string name="battery_details_title">Uso da bateria</string>
     <string name="battery_footer_summary">Os dados de uso da bateria são aproximados e podem mudar conforme o uso.</string>
     <string name="battery_full_charge_last">A carga completa dura cerca de</string>
-    <string name="battery_header_title_alternate">^1<small> <font size="20">%</font></small></string>
     <string name="battery_indicator_style">Indicador da bateria</string>
     <string name="battery_indicator_title">Indicador de bateria</string>
     <string name="battery_info_awake_battery">Tempo ligado na bateria:</string>
@@ -1214,6 +1217,7 @@ Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse
     <string name="battery_info_status_charging_wireless">Carregando (sem fio)</string>
     <string name="battery_info_status_discharging">Descarregando</string>
     <string name="battery_info_status_full">Carregada</string>
+    <string name="battery_info_status_full_charged">Completamente carregada</string>
     <string name="battery_info_status_label">Status da bateria:</string>
     <string name="battery_info_status_not_charging">Não está carregando</string>
     <string name="battery_info_status_unknown">Desconhecido</string>
@@ -1231,7 +1235,6 @@ Os backups são armazenados na MiCloud e podem ser acessados pela Internet. Esse
     <string name="battery_manager_on">Ativado / Detectar quando apps estiverem descarregando a bateria</string>
     <string name="battery_manager_summary">Detectando quando os apps drenam a bateria</string>
     <string name="battery_manager_summary_unsupported">Detectando quando os apps drenam a bateria</string>
-    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_missing_link_a11y_message">Toque para saber mais sobre este erro</string>
     <string name="battery_missing_message">Problemas para ler o medidor de bateria.</string>
     <string name="battery_msg_unaccounted">O uso da bateria é uma estimativa do uso de energia e não inclui todas as fontes de consumo de bateria. \"Diversos\" refere-se à diferença entre a estimativa de uso de energia calculada e a utilização real observada na bateria.</string>
@@ -1532,10 +1535,10 @@ para ^2"</string>
     <string name="bluetooth_broadcast_pin_configure_dialog">Transmissão: Configure o código de privacidade Bluetooth</string>
     <string name="bluetooth_broadcasting">Transmissão</string>
     <string name="bluetooth_col_grp_source_selection_options_detail">"Fonte de transmissão
-      %1$s está sendo adicionado aos membros do
-      grupo conectados."</string>
+       %1$s está sendo adicionado aos membros do
+       grupo conectados."</string>
     <string name="bluetooth_col_source_selection_options_detail">"Fonte de transmissão
-      %1$s está sendo adicionado ao receptor"</string>
+       %1$s está sendo adicionado ao receptor"</string>
     <string name="bluetooth_companion_app_body">%1$s app não vai mais se conectar ao seu %2$s</string>
     <string name="bluetooth_companion_app_remove_association_confirm_button">Desconectar app.</string>
     <string name="bluetooth_companion_app_remove_association_dialog_title">Desconectar app?</string>
@@ -5922,6 +5925,7 @@ Não poderá reverter esta ação."</string>
     <string name="miui_bubbles_notification">Conversas em bolhas</string>
     <string name="miui_bubbles_notification_status_opened">Ativado</string>
     <string name="miui_data_usage_menu_metered">Pontos de acesso móveis</string>
+    <string name="miui_device_control_description">Exibe apps compatíveis com controles de dispositivos para poder controlar dispositivos domésticos inteligentes compatíveis</string>
     <string name="miui_experience_optimization">Ativar otimização MIUI</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Cancelar</string>
     <string name="miui_face_enroll_risk_warning_title_text">Atenção!</string>
@@ -10312,6 +10316,7 @@ ou com conector de 3.5mm."</string>
     <string name="use_otg_file_transfers_summary">Carregamento lento de 500mA e transferência de arquivos</string>
     <string name="use_otg_title">"USB OTG"</string>
     <string name="use_personalized_ad_service">Recomendação personalizada de anúncios</string>
+    <string name="use_personalized_ad_service_for_global">Personalize anúncios MIUI</string>
     <string name="use_personalized_ad_service_summary">Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios que quando o recurso está ativado. Os anúncios, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais.</string>
     <string name="use_personalized_ad_service_summary_for_global">"Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios nos apps do sistema MIUI de quando o recurso está ativado. Os anúncios da Xiaomi e de plataformas de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
     <string name="use_privacy_password_immediate">Usar</string>
@@ -10377,6 +10382,7 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
 Toque no + para adicionar palavras."</string>
     <string name="user_dict_settings_for_work_title">Dicionário pessoal para o trabalho</string>
     <string name="user_dict_settings_more_languages">Mais idiomas…</string>
+    <string name="user_dict_settings_summary">Adicione palavras para serem usadas em apps como o corretor ortográfico</string>
     <string name="user_dict_settings_title">Dicionário pessoal</string>
     <string name="user_enable_calling">Ativar chamadas telefônicas</string>
     <string name="user_enable_calling_and_sms_confirm_message">O histórico de chamadas e SMS será compartilhado com este usuário.</string>
