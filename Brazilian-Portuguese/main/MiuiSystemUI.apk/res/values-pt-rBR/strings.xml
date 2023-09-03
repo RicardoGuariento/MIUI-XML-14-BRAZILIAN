@@ -399,6 +399,7 @@
     <string name="adbwifi_warning_message">A depuração sem fios é destinada apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu dispositivo sem notificação e ler dados de registro.</string>
     <string name="adbwifi_warning_title">Permitir depuração sem fios?</string>
     <string name="add_tile">Adicionar mosaico</string>
+    <string name="add_guest_failed">Falha ao criar um novo convidado</string>
     <string name="add_user_failed">Falha ao criar um novo usuário</string>
     <string name="adjust_button_width">Ajustar largura do botão</string>
     <string name="afternoon">"PM"</string>
@@ -411,8 +412,11 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>
     <string name="alarms_and_reminders_switch_title">Permitir a configuração de alarmes e lembretes</string>
     <string name="alarms_and_reminders_title">Alarmes e lembretes</string>
+    <string name="all_network_unavailable">Nenhuma rede disponível</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
+    <string name="allow_turn_screen_on">Permitir ligar a tela</string>
+    <string name="allow_turn_screen_on_description">Permite que um app ligue a tela. Se concedido, o app poderá ligar a tela a qualquer momento sem sua intenção explícita.</string>
     <string name="always_use_accessory">Abrir sempre %1$s quando %2$s estiver conectado</string>
     <string name="always_use_device">Abrir sempre %1$s quando %2$s estiver conectado</string>
     <string name="am">""AM""</string>
@@ -455,6 +459,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="available_via_app">Disponível via %1$s</string>
     <string name="available_via_carrier">Disponível via %1$s</string>
     <string name="available_via_passpoint">Disponível via %1$s</string>
+    <string name="avatar_picker_title">Escolha uma foto de perfil</string>
     <string name="back">Voltar</string>
     <string name="band_24G">" (2.4G)"</string>
     <string name="band_5G">" (5G)"</string>
@@ -470,10 +475,13 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="battery_info_status_charging_wireless">Carregamento sem fio</string>
     <string name="battery_info_status_discharging">Não está carregando</string>
     <string name="battery_info_status_full">Carregada</string>
+    <string name="battery_info_status_full_charged">Completamente carregada</string>
     <string name="battery_info_status_not_charging">Conectado, não é possível carregar agora</string>
     <string name="battery_info_status_unknown">Desconhecido</string>
     <string name="battery_low_button_not_open_power_save">Agora não</string>
     <string name="battery_low_button_open_power_save">Ativar</string>
+    <string name="battery_low_description">Você ainda tem %s de bateria. A Economia de bateria ativa o tema escuro, restringe atividades em segundo plano e atrasa notificações.</string>
+    <string name="battery_low_intro">A Economia de bateria ativa o tema escuro, restringe atividades em segundo plano e atrasa notificações.</string>
     <string name="battery_low_percent_format">%s restante</string>
     <string name="battery_low_percent_format_hybrid">%1$s restante, cerca de %2$s restantes com base no seu uso</string>
     <string name="battery_low_percent_format_hybrid_short">%1$s restante, cerca de %2$s restantes</string>
@@ -488,6 +496,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="battery_saver_confirmation_ok">Ativar</string>
     <string name="battery_saver_confirmation_title">Ativar a Economia de bateria?</string>
     <string name="battery_saver_confirmation_title_generic">Sobre a economia de bateria</string>
+    <string name="battery_saver_dismiss_action">Não, obrigado</string>
     <string name="battery_saver_notification_action_text">Desativar a Economia de bateria</string>
     <string name="battery_saver_notification_text">Reduz o desempenho e dados em segundo plano</string>
     <string name="battery_saver_notification_title">Economia de bateria ativada</string>
@@ -519,6 +528,7 @@ Tente novamente em %d segundos."</string>
     <string name="biometric_dialog_last_pin_attempt_before_wipe_user">Caso insira um PIN incorreto na próxima tentativa, este usuário será excluído.</string>
     <string name="biometric_dialog_now_wiping_dialog_dismiss">Dispensar</string>
     <string name="biometric_dialog_tap_confirm">Toque em Confirmar para concluir</string>
+    <string name="biometric_dialog_tap_confirm_with_face">Desbloqueado pelo rosto. Pressione o ícone de desbloqueio para continuar.</string>
     <string name="biometric_dialog_try_again">Tentar novamente</string>
     <string name="biometric_dialog_use_password">Usar senha</string>
     <string name="biometric_dialog_use_pattern">Usar padrão</string>
@@ -563,8 +573,11 @@ Tente novamente em %d segundos."</string>
     <string name="bluetooth_enable_page_scan_summary">Ativar/desativar página de verificação para testar o Bluetooth</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do dispositivo</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usado para áudio do dispositivo</string>
+    <string name="bluetooth_hearing_aid_left_active">Ativo, apenas à esquerda</string>
+    <string name="bluetooth_hearing_aid_left_and_right_active">Ativo, esquerda e direita</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado ao aparelho auditivo</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Usado para aparelho auditivo</string>
+    <string name="bluetooth_hearing_aid_right_active">Ativo, apenas direito</string>
     <string name="bluetooth_hearingaid_left_battery_level">Esquerdo | bateria %1$s</string>
     <string name="bluetooth_hearingaid_left_pairing_message">Pareando aparelho auditivo esquerdo…</string>
     <string name="bluetooth_hearingaid_right_battery_level">Direito | bateria %1$s</string>
@@ -606,6 +619,7 @@ Tente novamente em %d segundos."</string>
     <string name="bluetooth_profile_pbap">Compartilhamento de contatos</string>
     <string name="bluetooth_profile_pbap_summary">Usado para compartilhar contatos</string>
     <string name="bluetooth_profile_sap">Usado para acesso ao SIM</string>
+    <string name="bluetooth_profile_vcp">Controle de volume</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectado ao SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">Usado para acesso ao SIM</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits por amostra de áudio Bluetooth</string>
@@ -645,6 +659,10 @@ Taxa de amostra"</string>
     <string name="bt_hci_snoop_log">Ativar log de rastreamento Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Capturar pacotes de Bluetooth (Ative/desative o Bluetooth após alterar esta configuração).</string>
     <string name="bt_is_off">Bluetooth desativado</string>
+    <string name="bt_le_audio_broadcast_dialog_different_output">Alterar saída</string>
+    <string name="bt_le_audio_broadcast_dialog_sub_title">Se você transmitir %1$s ou alterar a saída, sua transmissão atual será interrompida</string>
+    <string name="bt_le_audio_broadcast_dialog_switch_app">Transmitir %1$s</string>
+    <string name="bt_le_audio_broadcast_dialog_title">Parar de transmitir %1$s?</string>
     <string name="bubble_accessibility_action_add_back">Adicionar de volta à pilha</string>
     <string name="bubble_accessibility_action_move">Mover</string>
     <string name="bubble_accessibility_action_move_bottom_left">Mover canto inferior esquerdo</string>
@@ -677,6 +695,11 @@ Taxa de amostra"</string>
     <string name="call_status_dialing">Discando</string>
     <string name="call_status_holding">Em espera</string>
     <string name="call_status_ringing">Tocando</string>
+    <string name="camera_compat_dismiss_button_description">Não há problemas com a câmera? Toque para dispensar.</string>
+    <string name="camera_compat_treatment_applied_button_description">"Não corrigiu?
+Toque para reverter"</string>
+    <string name="camera_compat_treatment_suggested_button_description">"Problemas com a câmera?
+Toque para reajustar"</string>
     <string name="camera_hint">Deslize do ícone para acessar a Câmera</string>
     <string name="camera_key_action_app_title">Abrir app</string>
     <string name="camera_key_action_category_title">Usar se o app da Câmera não estiver aberto</string>

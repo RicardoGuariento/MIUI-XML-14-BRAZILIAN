@@ -4338,6 +4338,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="gxzw_quick_open_fast_title">Swipe rápido (avançado)</string>
     <string name="gxzw_quick_open_slow_summary">Pressione e segure o ícone de impressão digital para abrir o menu de atalho. Deslize para usar um atalho.</string>
     <string name="gxzw_quick_open_slow_title">pressione e segure</string>
+    <string name="gxzw_quick_open_title">Atalhos</string>
     <string name="gxzw_vibrate_summary">A vibração não ocorrerá quando nenhuma animação de impressão digital for selecionada</string>
     <string name="gxzw_vibrate_title">Vibrar ao desbloquear</string>
     <string name="handy_mode">Modo para uma só mão</string>
@@ -4739,6 +4740,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="keyboard_shortcuts_helper_summary">Exibir atalhos disponíveis</string>
     <string name="keyboard_skin_follow_system_enable">Mude para o Modo escuro junto com o sistema</string>
     <string name="keyguard_advance_setting_title">Configurações avançadas</string>
+    <string name="keyguard_multi_window_tip">"Não é possível mostrar esta página em tela dividida. Você pode voltar para a versão em tela cheia."</string>
     <string name="keyguard_notification_status_title">Quando receber uma notificação com a tela desligada</string>
     <string name="keyguard_security_setting_others">Outros</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>

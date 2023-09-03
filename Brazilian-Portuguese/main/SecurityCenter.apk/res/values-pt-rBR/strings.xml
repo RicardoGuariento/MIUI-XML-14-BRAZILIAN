@@ -2771,6 +2771,8 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="install_sucess">%s instalado com sucesso</string>
     <string name="install_text">Instalar</string>
     <string name="install_title">Instalar via USB</string>
+    <string name="install_tvm_component_desc">Para garantir a segurança de suas transações, instale o plug-in Componente de tecla do telefone.</string>
+    <string name="install_tvm_component_title">Instalar plug-in Componente de tecla do telefone</string>
     <string name="install_type_instant">App instantâneo</string>
     <string name="installing">Instalando</string>
     <string name="international_Ad">Anúncio</string>
