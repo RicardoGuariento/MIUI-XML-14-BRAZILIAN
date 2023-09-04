@@ -49,13 +49,15 @@
     <string name="ads_summary_default_value">As pessoas que instalaram este app também gostaram</string>
     <string name="afternoon">"PM"</string>
     <string name="after_install_to_delete">Excluir pacote de instalação após ser instalado</string>
-    <string name="alert_authorize_text_format">%1$s%2$s</string>
+    <string name="allow_current_install">Permitir uma vez</string>
     <string name="allPerms">Todas</string>
     <string name="all_permissions">Todas as permissões</string>
     <string name="am">"AM"</string>
     <string name="anonymous_source_continue">Continuar</string>
     <string name="anonymous_source_warning">Seu telefone e dados pessoais estão mais vulneráveis ao ataque de apps desconhecidos. Ao instalar este app, você concorda que é responsável por qualquer dano ao telefone ou perda de dados que possa resultar do seu uso.</string>
     <string name="anonymous_source_warning_tablet">Seu dispositivo e dados pessoais estão mais vulneráveis ao ataque de apps desconhecidos. Ao instalar este app, você concorda que é responsável por qualquer dano ao dispositivo ou perda de dados que possa resultar do seu uso.</string>
+    <string name="app_crash_test_text">O Instalador de pacotes foi fechado à força</string>
+    <string name="app_description_picture">Descrição do app</string>
     <string name="app_detail_change_log">O que há de novo</string>
     <string name="app_detail_introduction">Sobre este app</string>
     <string name="app_detail_other_info">Outras informações</string>
@@ -70,6 +72,7 @@
     <string name="app_info_version_des_replace">Versão atual: %1$s -> Nova versão: %2$s | Tamanho: %3$s</string>
     <string name="app_info_version_replace">Versão atual: %1$s -> Nova versão: %2$s</string>
     <string name="app_install_failed_button_text">Procurar por apps</string>
+    <string name="app_install_safe_check">Verifique os apps antes da instalação</string>
     <string name="app_installing_not_allow">Você não permitiu %1$s para instalar apps. Você pode alterar isso nas Configurações.</string>
     <string name="app_installing_toast">Aguarde até que todas as instalações em andamento sejam concluídas e tente novamente</string>
     <string name="app_name">Instalador de Pacotes</string>
@@ -110,12 +113,15 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="cllapsible_text_state">Ocultar</string>
     <string name="close">Fechar</string>
+    <string name="close_mi_protect_lockscreen_authorize_cancel">Cancelar</string>
+    <string name="close_mi_protect_lockscreen_authorize_ok">Continuar</string>
     <string name="close_mi_protected_second_tip_dialog_cancel">Não, obrigado</string>
     <string name="close_mi_protected_second_tip_dialog_msg">Você pode usar métodos de verificação alternativos em vez de um bloqueio de tela normal</string>
     <string name="close_mi_protected_second_tip_dialog_ok">Adicionar</string>
     <string name="close_mi_protected_second_tip_dialog_title">Adicionar mais métodos de verificação?</string>
     <string name="close_safe_mode">Desativar</string>
     <string name="comment_count_wan">%1$s avaliações</string>
+    <string name="confirm_install">Instalar</string>
     <string name="copy">Copiar</string>
     <string name="cta_button_text_agree">"OK"</string>
     <string name="cta_button_text_cancel">Sair</string>
@@ -158,6 +164,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
     <string name="evening">"PM"</string>
     <string name="exit_install_button">Não instalar</string>
     <string name="expand_button_title">Avançado</string>
+    <string name="experiment_continue">Continuar</string>
     <string name="exposed_dropdown_menu_content_description">Exibir menu suspenso</string>
     <string name="extensible_text_state">Mais</string>
     <string name="external_sources_settings">Configurações</string>
@@ -270,6 +277,13 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="install_package_description">Detalhes do pacote de instalação</string>
     <string name="install_package_error">"Este app não é compatível com o seu sistema"</string>
     <string name="install_package_error_des">Entre em contato com o desenvolvedor ou instale uma versão compatível de uma fonte confiável.</string>
+    <string name="install_package_error_four">Instalar este app pode causar riscos de segurança</string>
+    <string name="install_package_error_four_des">Desinstale este app ou desative as permissões para instalar apps de fontes desconhecidas</string>
+    <string name="install_source">Fonte</string>
+    <string name="install_source_dialog_safe_title">Instalar %1$s?</string>
+    <string name="install_source_dialog_safe_title_des">Seu dispositivo e suas informações pessoais ficam mais vulneráveis a ataques de apps desconhecidos. Ao instalar este app, você entende e assume a responsabilidade por todos os riscos e consequências relacionados.</string>
+    <string name="install_source_dialog_tip">Este app foi sinalizado como malicioso pelos usuários e pelo GetApps e não está mais disponível para download. Outros apps fornecidos pela mesma fonte ou desenvolvedor também podem ser maliciosos.</string>
+    <string name="install_source_no_credible">Fonte não confiável</string>
     <string name="install_unknow_source">Instale apps desconhecidos</string>
     <string name="install_version">Versão: %1$s</string>
     <string name="install_version_replace">Versão: %1$s -> %2$s</string>
@@ -466,6 +480,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
     <string name="mtrl_picker_a11y_prev_month">Alterar para o mês anterior</string>
     <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+    <string name="mtrl_picker_confirm">"OK"</string>
     <string name="mtrl_picker_date_header_title">Selecione a data</string>
     <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
@@ -491,6 +506,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
+    <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="net_work_error_msg">Não foi possível conectar à rede para executar uma verificação de segurança</string>
     <string name="net_work_error_retry">Tente novamente</string>
     <string name="never_ask_again">Não perguntar novamente</string>
@@ -737,6 +753,7 @@ Como alternativa, você pode desativar o modo Simplificado e tentar novamente.</
     <string name="verification_word">Verificar</string>
     <string name="verify_account_default_title">Verifique sua identidade</string>
     <string name="verify_account_title">Verifique sua identidade</string>
+    <string name="verify_and_install">Instalar</string>
     <string name="verify_failed">Falha na verificação</string>
     <string name="verify_to_sure_close">Desativar</string>
     <string name="virus_install_authorize_dialog_msg">Este app apresenta riscos para a segurança do seu dispositivo. Verifique sua identidade para instalá-lo.</string>

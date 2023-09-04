@@ -88,6 +88,7 @@
     <string name="all_apps_setting_drawer_tips_desc">A Gaveta de apps é aberta ao deslizar para cima na Tela inicial. Alternar para o modo de Tela inicial com a Gaveta de apps fará com que a Central de Conteúdo fique indisponível. Alternar mesmo assim?</string>
     <string name="all_apps_setting_drawer_tips_title">Usando a Gaveta de apps</string>
     <string name="all_apps_setting_drawer_title">Com gaveta de apps</string>
+    <string name="all_apps_setting_jeejen_title">Modo lite</string>
     <string name="all_apps_setting_letter_scrollbar">"A-Z"</string>
     <string name="all_apps_setting_original_scrollbar">Layout original</string>
     <string name="all_apps_setting_scroll_bar">Barra de rolagem</string>
@@ -387,6 +388,7 @@
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Criado com sucesso</string>
     <string name="fold_pair_install_shortcut_long_click">Pressione e segure para adicionar à Tela inicial</string>
     <string name="fold_pair_installed_shortcut_launcher">Este atalho já existe</string>
     <string name="folder_name">Pasta</string>
@@ -499,6 +501,9 @@
     <string name="is_setting_wallpaper_message">Definindo o plano de fundo…</string>
     <string name="is_system_wallpaper_message">Não é possível excluir recursos do sistema</string>
     <string name="item_view_role_description">Aba</string>
+    <string name="jeejen_description">"Elementos de UI maiores.
+Chamadas mais acessíveis.
+Segurança melhorada."</string>
     <string name="key_shortcut_settings_title">Botões de atalho</string>
     <string name="label">Label</string>
     <string name="launcher_icon_management">Gerenciar atalhos da Tela inicial</string>
@@ -572,6 +577,7 @@
     <string name="menu_new_display_open">Abrir em uma nova janela</string>
     <string name="menu_no_word">Ocultar nome dos apps</string>
     <string name="menu_no_word_setting_tip" formatted="false">Usar layout %d×%d sem texto</string>
+    <string name="menu_only_widget_no_word">Remover texto dos widgets</string>
     <string name="menu_pc_open">Abra com um programa de computador</string>
     <string name="menu_picktheme">Escolha um tema</string>
     <string name="menu_reset_scene">Redefinir para o layout padrão</string>
@@ -781,6 +787,9 @@
     <string name="open_personal_assistant_dialog_desc_international">Você não será capaz de usar os cartões do Assistente (Ações, Atalhos, etc.) e receber atualizações depois que você desativar este recurso.</string>
     <string name="open_personal_assistant_dialog_title">Desativar o Assistente</string>
     <string name="open_personal_assistant_settings">Configurações do Assistente</string>
+    <string name="open_personal_assistant_settings_off">Desativado</string>
+    <string name="open_personal_assistant_settings_on">Ativado</string>
+    <string name="open_personal_assistant_settings_simplified">Assistente</string>
     <string name="open_personal_assistant_title">Assistente</string>
     <string name="ota_layout_adjustment_button_text">Entendi</string>
     <string name="ota_layout_adjustment_content">Os layouts internos e externos da Tela inicial foram sincronizados na nova versão.</string>
@@ -836,6 +845,8 @@
     <string name="quick_search_guide_quick_search">Pesquisa rápida</string>
     <string name="quick_search_guide_title">Selecionar modo padrão</string>
     <string name="recent_apps">Recente</string>
+    <string name="recent_menu_item_add_pair">Cria um atalho na Tela inicial para esta combinação de Tela dividida</string>
+    <string name="recent_menu_item_add_pair_first_toast">Cria um atalho na Tela inicial para esta combinação de Tela dividida</string>
     <string name="recent_menu_item_info">Informações</string>
     <string name="recent_menu_item_lock">Bloquear</string>
     <string name="recent_menu_item_multi_window">Dividir</string>
