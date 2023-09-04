@@ -1963,8 +1963,6 @@ monitoramento de terremotos"</string>
     <string name="first_aid_card_unable_install_button">Liberar espaço</string>
     <string name="first_aid_card_unable_install_summary">Apenas %s de armazenamento está disponível. Libere espaço para conseguir instalar apps.</string>
     <string name="first_aid_card_unable_install_title">Não é possível instalar apps de sistema</string>
-    <string name="install_tvm_component_desc">Para garantir a segurança de suas transações, instale o plug-in Componente de tecla do telefone.</string>
-    <string name="install_tvm_component_title">Instalar plug-in Componente de tecla do telefone</string>
     <string name="first_aid_card_wifi_or_flow_button">Conectar</string>
     <string name="first_aid_card_wifi_or_flow_summary">Ative o Wi-Fi ou os dados móveis para conectar-se</string>
     <string name="first_aid_card_wifi_or_flow_title">Não é possível conectar-se à Internet</string>
