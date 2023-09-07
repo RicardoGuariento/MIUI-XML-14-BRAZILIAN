@@ -226,8 +226,6 @@
     <string name="global_search_key_word_figure">Caracteres financeiros</string>
     <string name="golbal_search_calculator_setting">Calculadora;Configurações da calculadora;Configurações</string>
     <string name="golbal_search_path_calculator_setting">Apps do sistema/Calculadora/Configurações</string>
-    <string name="gst_initial_value">%d</string>
-    <string name="gst_percentage">%s</string>
     <string name="height_prompt">Altura</string>
     <string name="help_content_desc">Ajuda</string>
     <string name="hint_annual_rate">Inserir taxa anual</string>

@@ -89,6 +89,7 @@
     <string name="category_all">Todos arquivos</string>
     <string name="category_apk">"APKs"</string>
     <string name="category_bluetooth">"Bluetooth"</string>
+    <string name="category_cloud_drive">"Mi Drive"</string>
     <string name="category_document">Documentos</string>
     <string name="category_download">"Downloads"</string>
     <string name="category_editor_mode">Editar</string>

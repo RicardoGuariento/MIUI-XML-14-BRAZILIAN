@@ -999,6 +999,7 @@ Se você estiver usando um ponto de acesso para se conectar, defina sua banda AP
     <string name="front_camera_hint_text_place">"Tirar selfies será mais fácil
 Se você girar seu telefone"</string>
     <string name="front_camera_hint_text_rotate">Gire seu telefone</string>
+    <string name="guide_pop_window_msg_cv_lens">Toque para experimentar Lentes Pro</string>
     <string name="hand_gesture_open_tip">Mostre a palma da mão para a câmera para iniciar o timer</string>
     <string name="hand_gesture_tip">Disparo com palma da mão</string>
     <string name="hibernate_hint">Toque na tela para ativar a Câmera</string>
@@ -1506,6 +1507,7 @@ As imagens Ultra RAW economizam %d bits de dados, mantendo ainda mais detalhes."
     <string name="pic_flaw_blink_more">Parece que alguém no enquadramento fechou os olhos</string>
     <string name="pic_flaw_blink_one">Parece que a pessoa no enquadramento fechou os olhos</string>
     <string name="pic_flaw_cover">Parece que a lente está parcialmente coberta</string>
+    <string name="pixel_mode_capture_hint">Certifique-se de que o ambiente esteja bem iluminado</string>
     <string name="pm">"PM"</string>
     <string name="pixel_ai_108">IA de 100 milhões ultra vívido</string>
     <string name="pixel_ai_108_close">Fechar IA de 100 milhões ultra vívido</string>
@@ -2119,8 +2121,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="process_tips_1">Não dobre o dispositivo até que o vídeo seja salvo</string>
     <string name="process_tips_2">Não desdobre o dispositivo até que o vídeo seja salvo</string>
     <string name="professional_shortcut_short">"Pro"</string>
-    <string name="qvga_shelter_tip_text">"Não cubra a lente"</string>
     <string name="prompt_desc">O uso desta função consumirá %s M de seus dados. Deseja continuar o download?</string>
+    <string name="qvga_shelter_tip_text">"Não cubra a lente"</string>
     <string name="recommend_macro_mode">Experimente o Modo Macro</string>
     <string name="recommend_portrait">Experimente o Modo Retrato</string>
     <string name="recommend_soft_light_tip">Ativar flash</string>
@@ -2201,6 +2203,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="start_capture">"OK"</string>
     <string name="sticker_tab1">Fofo</string>
     <string name="sticker_tab2">Engraçado</string>
+    <string name="stop_save_low_battery">Salvar (%ds)</string>
     <string name="subtitle_network_exception_tips">Não foi possível conectar-se à rede. Não é possível transcrever agora.</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>

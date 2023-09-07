@@ -394,6 +394,7 @@
     <string name="item_num_selected">%1$d selecionado(s)</string>
     <string name="language_change_confirmation">Alterado com sucesso. Você pode alterar o idioma nas configurações da Agenda.</string>
     <string name="launch_weather_comment">Toque aqui para obter informações de clima</string>
+    <string name="load_more_events">Ver %d eventos</string>
     <string name="load_more_hint">Carregar eventos de %1$d</string>
     <string name="loading">Aguarde…</string>
     <string name="local_calendar_display_name">Agenda local</string>

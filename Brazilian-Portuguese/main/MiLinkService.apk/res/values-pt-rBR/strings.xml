@@ -169,6 +169,7 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_headset_back_to_box_subtitle">"Não é possível emparelhar esses fones de ouvido automaticamente. Em vez disso, emparelhe-os manualmente no dispositivo de destino."</string>
     <string name="circulate_headset_back_to_box_title">Emparelhe os fones de ouvido primeiro</string>
     <string name="circulate_headset_back_to_box_title_err_308">Emparelhe seus fones de ouvido</string>
+    <string name="circulate_headset_back_to_box_title_err_310">Primeiro desconecte os alto-falantes da TV</string>
     <string name="circulate_headset_back_to_box_title_pad">Parear fones de ouvido com este dispositivo</string>
     <string name="circulate_headset_back_to_box_title_phone">Parear fones de ouvido com este dispositivo</string>
     <string name="circulate_headset_back_to_box_title_tv">Emparelhe seus fones de ouvido</string>
@@ -320,6 +321,7 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="error_icon_content_description">Erro</string>
     <string name="evening">"PM"</string>
     <string name="expand_button_title">Avançado</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="file_read_des">Para exibir fotos e outros arquivos em monitores externos</string>
     <string name="find_device_close">Entendi</string>
     <string name="find_device_notification_content_phone">%1$s está procurando este dispositivo usando %2$s. Desbloqueie para interromper a reprodução do som.</string>
@@ -505,6 +507,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecione o horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
+    <string name="midnight">"AM"</string>
     <string name="mipaly_server_exit_touping">Saia do screencast atual primeiro</string>
     <string name="miplay_accessibility_cast">Selecione o dispositivo</string>
     <string name="miplay_accessibility_cover">Cover</string>
