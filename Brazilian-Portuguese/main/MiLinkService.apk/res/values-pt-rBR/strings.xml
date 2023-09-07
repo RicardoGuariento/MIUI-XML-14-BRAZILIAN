@@ -492,7 +492,6 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="invisible_mode_dialog_title">"Você está anônimo"</string>
     <string name="item_view_role_description">Guia</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
-    <string name="midnight">"AM"</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione a hora</string>
     <string name="material_hour_suffix">"%1$s horas</string>
