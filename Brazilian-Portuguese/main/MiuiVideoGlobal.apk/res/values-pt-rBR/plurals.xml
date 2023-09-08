@@ -86,6 +86,10 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Reproduzindo na velocidade %sX. Solte para reproduzir na velocidade normal.</item>
+        <item quantity="one">Reproduzindo na velocidade %sX. Solte para reproduzir na velocidade normal</item>
+    </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d pastas</item>
         <item quantity="one">%d pasta</item>

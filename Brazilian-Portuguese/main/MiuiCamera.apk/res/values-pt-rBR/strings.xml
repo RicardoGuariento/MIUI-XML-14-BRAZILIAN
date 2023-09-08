@@ -1421,6 +1421,8 @@ fiquem maiores nas fotos"</string>
     <string name="network_connection_prerequisites_china">Ative o Bluetooth e o Wi-Fi no Centro de controle para usar a Gravação em dois telefones.</string>
     <string name="network_connection_rejected">Rejeitado</string>
     <string name="network_connection_timed_out">A conexão expirou</string>
+    <string name="new_bie_dialog_cancel">Fechar descrição do recurso</string>
+    <string name="new_bie_dialog_desc">Descrição do recurso</string>
     <string name="newbie_privacy_watermark_msg">"Use marcas d'água para proteger seus documentos contra cópias não autorizadas"</string>
     <string name="newbie_privacy_watermark_title">Proteja seus documentos</string>
     <string name="night">"PM"</string>

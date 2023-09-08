@@ -117,6 +117,9 @@
     <string name="auth_fail_warning">Sessão expirada. Faça o login novamente.</string>
     <string name="auto_play_next_off">Reprodução automática desativada</string>
     <string name="auto_play_next_on">Reprodução automática ativada</string>
+    <string name="back_recommend_exchange">Visualizar</string>
+    <string name="back_recommend_exit">Sair</string>
+    <string name="back_recommend_title">Confira vídeos mais populares</string>
     <string name="back_to_mainpage">Descubra</string>
     <string name="background_playback_enabled">Reprodução em 2º plano ativada</string>
     <string name="before_yestoday">2 dias atrás</string>
@@ -693,6 +696,7 @@ Esta operação não afetará as fotos da sua galeria."</string>
     <string name="hello_blank_fragment">Olá fragmento em branco</string>
     <string name="hidden_channels">Os seguintes canais não serão exibidos na Página inicial.</string>
     <string name="hide">Ocultar</string>
+    <string name="hide_video_toast">Este item está oculto. Você pode encontrar e gerenciar itens ocultos em Local > Pastas > Itens ocultos.</string>
     <string name="hint_icon_ad_title">Recomendado</string>
     <string name="hint_in_mivideo">Você pode conferir o painel lateral para recursos adicionais</string>
     <string name="history">Histórico</string>
@@ -795,6 +799,7 @@ para uma melhor experiência de visualização"</string>
     <string name="local_hide_folder_dialog_title">Vídeos ocultos</string>
     <string name="local_hide_folder_setting_goto">Configurações</string>
     <string name="local_hide_folder_setting_tip">Você pode gerenciar seus vídeos ocultos em Perfil > Configurações > Gerenciar vídeos ocultos.</string>
+    <string name="local_new_user_speed_guide">Pressione, segure e deslize para ajustar a velocidade de reprodução</string>
     <string name="local_play_end_camera_title">Ver mais vídeos</string>
     <string name="local_play_end_close_tip">"As recomendações não serão exibidas novamente hoje"</string>
     <string name="local_play_end_download_drag_up_guide">Toque ou deslize para baixar</string>
@@ -805,6 +810,14 @@ para uma melhor experiência de visualização"</string>
     <string name="local_push_setting_power_tag">Notificações sobre vídeos locais</string>
     <string name="local_push_title">Popular hoje</string>
     <string name="local_push_video_title">Procurar por vídeos locais</string>
+    <string name="local_reset_confirm">Entre novamente</string>
+    <string name="local_reset_error_dif_info">"O novo PIN não pode ser igual ao antigo"</string>
+    <string name="local_reset_error_wrong_info">"Os PINs não correspondem. Tente novamente."</string>
+    <string name="local_reset_new_password">Insira o novo PIN</string>
+    <string name="local_reset_old_password">Insira o PIN atual</string>
+    <string name="local_reset_password_done">PIN alterado com sucesso</string>
+    <string name="local_reset_password_title">Alterar PIN</string>
+    <string name="local_reset_tips">Insira o PIN de %d dígitos</string>
     <string name="local_subtitle_choose_language_text">Linguagem</string>
     <string name="local_subtitle_exemption_hint">Procure legendas em opensubtitle.org</string>
     <string name="local_subtitle_input_keyword_text">Procure palavras-chave</string>
@@ -1140,6 +1153,9 @@ para uma melhor experiência de visualização"</string>
     <string name="music_new_user_dialog_tip">Bem-vindo ao Mi Vídeo! Este app fornece um reprodutor de vídeos locais e serviços de transmissão de música e vídeos online.</string>
     <string name="my_favorite_channels">Meus canais favoritos</string>
     <string name="my_feedback_title">Meu feedback</string>
+    <string name="native_body">Corpo</string>
+    <string name="native_headline">Título</string>
+    <string name="native_media_view">Visualização de mídia</string>
     <string name="need_update_app">Atualize o Mi Vídeo para usar todos os seus recursos</string>
     <string name="network_connect_info">Não foi possível conectar-se à rede.</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
@@ -1692,6 +1708,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="sign_in_mi_account">Fazer login na Conta Mi</string>
     <string name="sign_in_progress">Fazendo o login…</string>
     <string name="sign_in_title">Faça o login com sua Conta Mi</string>
+    <string name="skip_ad">Pular</string>
     <string name="slid_fail_message">Não foi possível salvar</string>
     <string name="slide_save_message">Gerando vídeo…</string>
     <string name="small_video_cancel_button">Cancelar</string>

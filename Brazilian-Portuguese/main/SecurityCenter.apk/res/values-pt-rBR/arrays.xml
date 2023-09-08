@@ -183,10 +183,10 @@
         <item>Ordenar por data de instalação</item>
     </string-array>
     <string-array name="sort_title_new">
-        <item>Classificar por nome do app</item>
-        <item>Classificar por frequência de uso</item>
-        <item>Classificar por uso do armazenamento</item>
-        <item>Classificar por data de instalação</item>
+        <item>Classificando por nome do app</item>
+        <item>Classificando pelos usados mais recentemente</item>
+        <item>Classificando por uso do armazenamento</item>
+        <item>Classificando por data de instalação</item>
     </string-array>
     <string-array name="sort_type">
         <item>Status</item>
@@ -197,8 +197,8 @@
     </string-array>
     <string-array name="sort_type_new">
         <item>Nome do app</item>
-        <item>Frequência de uso</item>
-        <item>Uso do armazenamento</item>
+        <item>Usado recentemente</item>
+        <item>Armazenamento usado</item>
         <item>Data de instalação</item>
     </string-array>
     <string-array name="tether_limit_warn_type">
