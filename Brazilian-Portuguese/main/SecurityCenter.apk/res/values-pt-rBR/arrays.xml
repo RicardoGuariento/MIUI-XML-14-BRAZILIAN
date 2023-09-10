@@ -184,8 +184,8 @@
     </string-array>
     <string-array name="sort_title_new">
         <item>Classificando por nome do app</item>
-        <item>Classificando pelos usados mais recentemente</item>
-        <item>Classificando por uso do armazenamento</item>
+        <item>Classificando pelo recentemente usados</item>
+        <item>Classificando pelo uso do armazenamento</item>
         <item>Classificando por data de instalação</item>
     </string-array>
     <string-array name="sort_type">
@@ -197,7 +197,7 @@
     </string-array>
     <string-array name="sort_type_new">
         <item>Nome do app</item>
-        <item>Usado recentemente</item>
+        <item>Recentemente usado</item>
         <item>Armazenamento usado</item>
         <item>Data de instalação</item>
     </string-array>
