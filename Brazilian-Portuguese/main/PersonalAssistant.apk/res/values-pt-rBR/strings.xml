@@ -680,6 +680,8 @@ para mostrar widgets."</string>
     <string name="pa_sports_widget_empty_football">Futebol americano</string>
     <string name="pa_sports_widget_empty_game">Honra dos reis</string>
     <string name="pa_sports_widget_empty_recommend">Recomendada</string>
+    <string name="pa_stack_summary">Mova widgets com novas informações para o topo</string>
+    <string name="pa_stack_text">Mover itens atualizados para cima</string>
     <string name="pa_stock_add_stock_button">Adicionar</string>
     <string name="pa_stock_change_cp_code_alert">Esta operação pode fazer com que os dados não sejam exibidos corretamente</string>
     <string name="pa_stock_change_cp_code_error">"Não foi possível alternar a fonte de dados"</string>

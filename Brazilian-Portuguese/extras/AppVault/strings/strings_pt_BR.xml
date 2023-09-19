@@ -11,7 +11,7 @@
     <string name="widget_num_warn">Adicionado com sucesso. Lembre-se de que ao colocar muitos widgets na Tela inicial pode deixar seu dispositivo mais lento.</string>
     <!-- Categories -->
     <string name="theme_clock">Relógios personalizados</string>
-    <string name="theme_pals">Parceiros</string>
+    <string name="theme_pals">Pets</string>
     <!-- App names -->
     <string name="app_appvault">Assistente</string>
     <string name="app_browser">Navegador</string>
@@ -81,9 +81,9 @@
     <string name="widget_camera_lens">Lentes PRO</string>
     <string name="widget_camera_lens_desc">Experimente com a distância focal</string>
     <string name="widget_clock_dual">Relógio duplo</string>
-    <string name="widget_clock_dual_desc">Hora em seus locais atuais e selecionados</string>
+    <string name="widget_clock_dual_desc">Saiba a hora em seu local atual e selecionados</string>
     <string name="widget_clock_local">Atual</string>
-    <string name="widget_clock_local_desc">Hora em sua localização atual</string>
+    <string name="widget_clock_local_desc">Saiba a hora em sua localização atual</string>
     <string name="widget_clock_simple">Simples</string>
     <string name="widget_clock_simple_desc">Hora e data em sua localização atual</string>
     <string name="widget_clock_weather">Clima</string>
