@@ -2194,6 +2194,7 @@ Seja feliz"</string>
     <string name="similar_songs">Música similares</string>
     <string name="similar_videos">Vídeos similares</string>
     <string name="skip">Pular</string>
+    <string name="skip_ad">Pular</string>
     <string name="skip_query_account">Skip</string>
     <string name="sleep_mode">Timer de desativação</string>
     <string name="sleep_mode_canceled">Timer desativado</string>
@@ -2493,6 +2494,7 @@ Seja feliz"</string>
     <string name="v_code_title">Enter verification code</string>
     <string name="version_info">Versão</string>
     <string name="vhigh_sound_quality">"HD"</string>
+    <string name="video_loading_fail">"Não foi possível carregar o vídeo"</string>
     <string name="video_play_cellular">Seu dispositivo não está conectado ao Wi-Fi. Usar dados móveis?</string>
     <string name="video_replay_btn">Reproduzir novamente</string>
     <string name="video_retry_btn">Tentar novamente</string>
@@ -2600,6 +2602,8 @@ time"</string>
     <string name="wallet_history_record">Records</string>
     <string name="wallet_record">Records</string>
     <string name="watch_video">Assistir vídeo</string>
+    <string name="web_reward_dialog_cancle">Cancelar</string>
+    <string name="web_reward_dialog_ok">Sair</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
@@ -2649,4 +2653,8 @@ Tamanho de atualização delta: %2$s"</string>
     <string name="youtube_play_history">Histórico de reprodução</string>
     <string name="youtube_share_guide_tip">Agora você pode compartilhar vídeos com amigos</string>
     <string name="youtube_tab_explore">Descobrir</string>
+    <string name="youtube_tab_playlist">"Playlists"</string>
+    <string name="youtube_tab_radar">Radar</string>
+    <string name="youtube_tab_shorts">Shorts</string>
+    <string name="youtube_tab_trend">Trending</string>
 </resources>

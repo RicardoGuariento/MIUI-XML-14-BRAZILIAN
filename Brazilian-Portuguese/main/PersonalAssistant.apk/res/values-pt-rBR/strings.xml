@@ -191,6 +191,8 @@ Toque duas vezes para ver os detalhes.
 Pressione e segure para arrastar o item."</string>
     <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, | Status da instalação: %3$s.
 Toque duas vezes para ver os detalhes."</string>
+    <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, | Status da instalação: %3$s.
+Toque duas vezes para ver os detalhes."</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, linha %2$d, número %3$d. 
 Toque duas vezes para ver os detalhes."</string>
     <string name="pa_accessibility_picker_order_list_to_theme">Abrir o Temas</string>
@@ -419,9 +421,11 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_picker_detail_add_maml_net_unavailable">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
     <string name="pa_picker_detail_add_to_home">Adicionar à Tela inicial</string>
     <string name="pa_picker_detail_add_to_minus">Adicionar ao Assistente</string>
+    <string name="pa_picker_detail_add_to_stack">Adicionar ao grupo</string>
     <string name="pa_picker_detail_add_widget_success">Adicionado com sucesso</string>
     <string name="pa_picker_detail_app_not_in_market">"Este app não fornece nenhum widgets agora"</string>
     <string name="pa_picker_detail_app_not_off_shelf">"Os widgets deste app não estão mais disponíveis"</string>
+    <string name="pa_picker_detail_app_widget_in_dev">"Este widget ainda não está disponível. Você pode verificar outros widgets."</string>
     <string name="pa_picker_detail_bottom_bt_source_home">Tela inicial</string>
     <string name="pa_picker_detail_bottom_bt_source_minus">Assistente</string>
     <string name="pa_picker_detail_bottom_bt_text_to_home">Adicionar à Tela inicial</string>
@@ -459,6 +463,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_picker_detail_theme_app_cta_pre">"Para poder usar este widget, permita que temas possam se conectarem à Internet primeiro."</string>
     <string name="pa_picker_detail_theme_app_need_login">Entrar</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">"Faça login na sua Conta Mi primeiro. "</string>
+    <string name="pa_picker_detail_view_more">Veja mais</string>
     <string name="pa_picker_detail_vp2_indicator">Página selecionada: %1$d de %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Este item será baixado via Wi-Fi</string>
     <string name="pa_picker_empty">"Os widgets não estão disponíveis nesta versão do app.
@@ -507,6 +512,9 @@ para mostrar widgets."</string>
     <string name="pa_picker_search_result_type_recommend">Recomendado</string>
     <string name="pa_picker_search_result_type_suit">Conjuntos de widgets</string>
     <string name="pa_picker_search_result_type_widget">"Widgets"</string>
+    <string name="pa_picker_stack_operate_empty_title">"Nada aqui.
+Adicione widgets para começar."</string>
+    <string name="pa_picker_stack_operate_title">Editar grupo</string>
     <string name="pa_picker_suit_list_activity_title">Pacotes de personalização.</string>
     <string name="pa_picker_tab_title_category">Categorias</string>
     <string name="pa_picker_tab_title_fun">Descobrir</string>
@@ -514,6 +522,7 @@ para mostrar widgets."</string>
     <string name="pa_picker_theme_app_version_error">Um erro ocorreu</string>
     <string name="pa_picker_tips_count_limit_forbidden">"Não é possível adicionar mais widgets. Exclua os widgets mais antigos para adicionar novos."</string>
     <string name="pa_picker_toast_add_successfully">Adicionado com sucesso</string>
+    <string name="pa_picker_toast_count_limit_for_stack">Adicione até 10 itens</string>
     <string name="pa_picker_toast_count_limit_forbidden">"Não é possível adicionar mais widgets"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"Não é possível adicionar mais widgets deste tipo"</string>
     <string name="pa_picker_toast_count_limit_warning">Adicionado com sucesso. Lembre-se de que a colocação de muitos widgets na Tela inicial pode diminuir o seu dispositivo.</string>
@@ -728,7 +737,10 @@ para mostrar widgets."</string>
     <string name="pa_vertical_right">Layout vertical. Direito alinhado.</string>
     <string name="pa_widget_advert_loading_dialog_message">Aguarde…</string>
     <string name="pa_widget_menu_edit">Editar</string>
+    <string name="pa_widget_menu_edit_card_in_stack">Editar \"%s\"</string>
+    <string name="pa_widget_menu_edit_stack">Editar grupo</string>
     <string name="pa_widget_menu_remove">Remover</string>
+    <string name="pa_widget_menu_remove_card_in_stack">Remover \"%s\"</string>
     <string name="pa_widget_menu_replace">Alternar</string>
     <string name="pa_widget_need_download_dialog_cancel">Cancelar</string>
     <string name="pa_widget_need_download_dialog_confirm">"OK"</string>
