@@ -111,6 +111,7 @@
     <string name="activity_not_found_notice">"Não é possível encontrar o app"</string>
     <string name="ad_close">Fechar</string>
     <string name="ad_data_exception">Erro nos dados de anúncios</string>
+    <string name="ad_flag_text">Anúncios</string>
     <string name="ad_recommend">Mostrar anúncios</string>
     <string name="ad_setting">Configurações adicionais</string>
     <string name="add">Adicionar</string>

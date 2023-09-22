@@ -302,6 +302,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="backup_automatically_title">Sincronizar automaticamente</string>
     <string name="backup_battery_low_desc">Você pode retomar a sincronização com a bateria fraca</string>
     <string name="backup_battery_low_title">Backup em pausa devido a bateria fraca</string>
+    <string name="backup_category_title">"Backup"</string>
     <string name="backup_close">Fechar backup</string>
     <string name="backup_cloud_space_low_btn_text">Obter mais</string>
     <string name="backup_cloud_space_low_desc">%1$s na MiCloud | %2$s disponível</string>
@@ -317,7 +318,10 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="backup_dirty_num">"Total: %s"</string>
     <string name="backup_dirty_tip">Backup de fotos e vídeos não foi efetuado</string>
     <string name="backup_disable_message">A Galeria precisa limpar o cache do app porque você desativou a sincronização com a nuvem.</string>
+    <string name="backup_display">Lembretes de armazenamento</string>
     <string name="backup_file_over_size_desc">Fotos maiores do que %1$s e vídeos maiores do que %2$s não podem ser salvas no backup.</string>
+    <string name="backup_google_description">Mantenha suas fotos seguras fazendo backup delas em sua Conta do Google</string>
+    <string name="backup_google_name">Google Fotos</string>
     <string name="backup_immediately">Fazer backup</string>
     <string name="backup_need_sync_desc">Toque para continuar o backup</string>
     <string name="backup_need_sync_title">Backup parado</string>
@@ -327,6 +331,10 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="backup_no_wifi_btn_text">Usar dados</string>
     <string name="backup_no_wifi_desc">Você pode retomar a sincronização enquanto usa os dados móveis</string>
     <string name="backup_no_wifi_title">A sincronização será retomada depois que você se conectar ao Wi-Fi</string>
+    <string name="backup_off_des">Ative a sincronização com a nuvem para fazer backup de fotos e vídeos automaticamente</string>
+    <string name="backup_onedrive_description">Proteja suas fotos na nuvem e acesse-as em qualquer dispositivo</string>
+    <string name="backup_onedrive_name">Microsoft OneDrive</string>
+    <string name="backup_onedrive_single_name">OneDrive</string>
     <string name="backup_only_in_wifi">Usar apenas Wi-Fi para sincronizar fotos e vídeos</string>
     <string name="backup_only_in_wifi_summary">Dados móveis nunca será usado para sincronizar fotos ou vídeos</string>
     <string name="backup_only_wifi_dialog_message">Usar dados móveis para sincronizar fotos e vídeos?</string>
@@ -1182,6 +1190,8 @@ estão disponíveis"</string>
     <string name="get_user_info_top_hint_text">Convidar via Conta Mi</string>
     <string name="gif_tip">"GIF"</string>
     <string name="gigabyteShort">"GB"</string>
+    <string name="global_cloud_action_upgrade_onedrive">Atualizar plano OneDrive</string>
+    <string name="global_cloud_full_space_tip_message">Atualize seu plano de armazenamento em nuvem para poder fazer backup de todas as suas fotos e vídeos na nuvem.</string>
     <string name="global_pad">Meu tablet</string>
     <string name="global_pc">Meu laptop</string>
     <string name="global_phone">Meu telefone</string>
@@ -1471,6 +1481,7 @@ estão disponíveis"</string>
     <string name="main_save_compress">Compactar e salvar</string>
     <string name="main_save_error_msg">Não foi possível salvar as alterações devido a um erro</string>
     <string name="main_save_origin">Salvar arquivo original</string>
+    <string name="manager_backup">Gerenciar</string>
     <string name="manual_hide_manage">Adicionar arquivos \".nomedia\"</string>
     <string name="manual_hide_state">Arquivos \".nomedia\" adicionados com sucesso</string>
     <string name="map_album">Mapa</string>
@@ -1808,6 +1819,7 @@ para personalizar a Galeria"</string>
     <string name="online_video_vip_transcoding">"Prestes a iniciar a transmissão VIP…
 A decodificação pode levar algum tempo quando você usa este recurso pela primeira vez."</string>
     <string name="open">Ativar</string>
+    <string name="open_backup">Ativar</string>
     <string name="open_public_message">Criar URL para compartilhar com seus amigos</string>
     <string name="open_public_title">Compartilhar</string>
     <string name="open_settings">Configurações</string>
@@ -2554,6 +2566,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="see_ignore_faces">Ver pessoas que você ignorou</string>
     <string name="see_more_settings">Configurações adicionais</string>
     <string name="select_all">Selecionar todos</string>
+    <string name="select_backup">Selecionar backup</string>
     <string name="select_image_operation">Adicionando fotos</string>
     <string name="select_item_face">"Este(a) é '%s'?"</string>
     <string name="select_origin_tip">Arquivo original (%s)</string>
