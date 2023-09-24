@@ -220,8 +220,8 @@ Envie este código ao supervisor."</string>
     <string name="feedback_answer_detail_submit_dialog_title">Enviar feedback?</string>
     <string name="feedback_bug_status_change_notification_desc">Problema de %1$s - \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Selecionar problema</string>
-    <string name="feedback_choose_module">Selecionar item</string>
-    <string name="feedback_choose_module_hint">Requerido</string>
+    <string name="feedback_choose_module">Selecione o item</string>
+    <string name="feedback_choose_module_hint">Obrigatório</string>
     <string name="feedback_choose_occurrence_time">Hora</string>
     <string name="feedback_choose_reproductivity">Reprodutividade</string>
     <string name="feedback_choose_third_app_name">Selecionar nome do app</string>
@@ -438,7 +438,7 @@ Envie este código ao supervisor."</string>
     <string name="miui_feedback_edit_add_original_images_dialog_content">"Se o problema que você está relatando estiver relacionado à qualidade da imagem da câmera, adicione uma foto de amostra original (não cortada) para nos ajudar a localizar o problema. Adicionar foto agora?"</string>
     <string name="miui_feedback_edit_choose_module">Selecionar item</string>
     <string name="miui_feedback_edit_choose_module_hint">Obrigatório</string>
-    <string name="miui_feedback_edit_choose_occurrence_time">Tempo</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Hora</string>
     <string name="miui_feedback_edit_choose_reproductivity">Reprodutividade</string>
     <string name="miui_feedback_edit_choose_third_app_name">Selecione o nome do app</string>
     <string name="miui_feedback_edit_contact_info_hint">Número de telefone/e-mail</string>
