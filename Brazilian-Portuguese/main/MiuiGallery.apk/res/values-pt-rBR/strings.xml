@@ -2694,6 +2694,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="share_with_family">Compartilhar com familiares</string>
     <string name="sharer_quota_fulfiled">Você já compartilhou este álbum com o número máximo de pessoas permitido.</string>
     <string name="show_cloud_albumlist_summary">Novos itens de álbuns selecionados não serão enviados para a nuvem após você desativar a sincronização.</string>
+    <string name="show_cloud_albumlist_title">Gerenciar álbuns sincronizados</string>
     <string name="show_hidden_album_summary">Gerencie e visualize álbuns ocultos</string>
     <string name="show_hidden_album_title">Ver álbuns ocultos</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Removido com sucesso. Agora você pode visualizar este item entre os \"Álbuns\".</string>
