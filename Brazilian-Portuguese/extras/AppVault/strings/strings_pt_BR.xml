@@ -28,6 +28,7 @@
     <string name="app_mihome">Mi Home</string>
     <string name="app_mipay">Carteira</string>
     <string name="app_mivideo">Mi Vídeo</string>
+    <string name="app_music">Música</string>
     <string name="app_notes">Notas</string>
     <string name="app_recorder">Gravador</string>
     <string name="app_scanner">Scanner</string>
@@ -106,6 +107,8 @@
     <string name="widget_mipay_wallet_desc">Visualize rapidamente informações financeiras, de crédito e de seguro e lembretes importantes de tarefas</string>
     <string name="widget_mivideo_local">Vídeos locais</string>
     <string name="widget_mivideo_local_desc">Acesse rapidamente arquivos offline de áudio e vídeo</string>
+    <string name="widget_music_play">Música</string>
+    <string name="widget_music_play_desc">Controle rapidamente a reprodução de música</string>
     <string name="widget_notes_quick">Atalhos</string>
     <string name="widget_notes_quick_desc">Crie e acesse notas e tarefas rapidamente</string>
     <string name="widget_notes_quick_note">Criar notas</string>
