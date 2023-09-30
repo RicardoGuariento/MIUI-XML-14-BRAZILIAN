@@ -301,7 +301,6 @@ Seleção"</string>
     <string name="convert_to_file_encryption_enabled">Converter…</string>
     <string name="copy">Copiar</string>
     <string name="count_down_unit">s</string>
-    <string name="countdown_text_content_description">{seconds_left, plural, =1 {1 segundo} outro {# segundos} }</string>
     <string name="creating_new_guest_dialog_message">Creating new guest…</string>
     <string name="creating_new_user_dialog_message">Criando novo usuário…</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
