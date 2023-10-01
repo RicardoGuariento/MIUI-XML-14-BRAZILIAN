@@ -7167,16 +7167,16 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="power_menu_cards_passes_device_controls">Mostrar cartões, passes e controles do dispositivo</string>
     <string name="power_menu_device_controls">Mostrar controles do dispositivo</string>
     <string name="power_menu_lock_screen_category">Bloquear tela</string>
-    <string name="power_menu_long_press_for_assist">Segure para abrir o assistente</string>
+    <string name="power_menu_long_press_for_assist">Segure para abrir o Assistente</string>
     <string name="power_menu_long_press_for_assist_sensitivity_high_label">Longo</string>
     <string name="power_menu_long_press_for_assist_sensitivity_low_label">Curto</string>
     <string name="power_menu_long_press_for_assist_sensitivity_summary">Ajusta a sensibilidade escolhendo por quanto tempo pressionar e segurar o botão liga/desliga</string>
     <string name="power_menu_long_press_for_assist_sensitivity_title">Pressionar e segurar (duração)</string>
-    <string name="power_menu_long_press_for_assist_summary">Desencadeie o assistente segurando o botão liga/desliga</string>
+    <string name="power_menu_long_press_for_assist_summary">Acione o Assistente segurando o botão liga/desliga</string>
     <string name="power_menu_none">Não mostrar conteúdo</string>
     <string name="power_menu_power_prevent_ringing_hint">"Evite o toque:
 Atalho disponível no menu volume."</string>
-    <string name="power_menu_power_volume_up_hint">"Energia e Menu de emergência:
+    <string name="power_menu_power_volume_up_hint">"Menu de energia e emergência:
 Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="power_menu_privacy">Conteúdo sensível</string>
     <string name="power_menu_privacy_hide">Ocultar cartões e controles quando bloqueado</string>
@@ -7186,9 +7186,9 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="power_menu_privacy_show_controls">Mostrar controles quando estiver bloqueado</string>
     <string name="power_menu_setting_name">Pressione e segure o botão liga/desliga</string>
     <string name="power_menu_setting_title">Menu do botão de energia</string>
-    <string name="power_menu_summary_long_press_for_assist_disabled_no_action">Pressione e segure desativado</string>
-    <string name="power_menu_summary_long_press_for_assist_disabled_with_power_menu">Pressione e segure para o menu de energia</string>
-    <string name="power_menu_summary_long_press_for_assist_enabled">Pressione e segure para o assistente</string>
+    <string name="power_menu_summary_long_press_for_assist_disabled_no_action">Pressionar e segurar desativado</string>
+    <string name="power_menu_summary_long_press_for_assist_disabled_with_power_menu">Pressione e segure para acessar o menu de energia</string>
+    <string name="power_menu_summary_long_press_for_assist_enabled">Pressione e segure para abrir o Assistente</string>
     <string name="power_menu_under_keyguard_summary">Permite o acesso ao menu de energia mesmo com o dispositivo bloqueado</string>
     <string name="power_menu_under_keyguard_title">Acesso ao menu de energia</string>
     <string name="power_mgr">Bateria</string>
