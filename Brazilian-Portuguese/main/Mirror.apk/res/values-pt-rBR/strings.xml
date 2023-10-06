@@ -268,8 +268,8 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="nfc_account_number_is_inconsistent">Parece que seu telefone e tablet estão usando Contas Mi diferentes. Para transferir itens, entre na mesma Conta Mi em ambos os dispositivos.</string>
-    <string name="nfc_check_the_touch_device">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique se a conexão para o outro dispositivo é permitida em Configurações > Conexão e compartilhamento > Dispositivos conectados e tente novamente.</string>
-    <string name="nfc_check_the_touch_device_china">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique se a conexão para o outro dispositivo é permitida em Configurações > Conexão e compartilhamento > Dispositivos conectados e tente novamente.</string>
+    <string name="nfc_check_the_touch_device">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique se a conexão para o outro dispositivo é permitida em Configurações > Conectividade > Dispositivos conectados e tente novamente.</string>
+    <string name="nfc_check_the_touch_device_china">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique se a conexão para o outro dispositivo é permitida em Configurações > Conectividade > Dispositivos conectados e tente novamente.</string>
     <string name="nfc_check_wifi_and_bluetooth">Verifique o status do Wi-Fi e do Bluetooth</string>
     <string name="nfc_check_wifi_and_bluetooth_china">Verifique o status do Wi-Fi e do Bluetooth</string>
     <string name="nfc_circulation_failed">"Não foi possível transferir"</string>

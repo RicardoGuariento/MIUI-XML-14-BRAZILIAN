@@ -2563,7 +2563,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="connected_via_passpoint">Conectado via %1$s</string>
     <string name="connected_wifi">Conectado</string>
     <string name="connecting_to_vpn">Conectando-se à VPN</string>
-    <string name="connection_and_sharing">Conexão e compartilhamento</string>
+    <string name="connection_and_sharing">Conectividade</string>
     <string name="connection_control">Gerenciar conexões</string>
     <string name="contact_data">Contatos</string>
     <string name="contact_discovery_opt_in_dialog_message">"Os números de telefone dos seus contatos serão enviados periodicamente para a %1$s.
@@ -7077,7 +7077,7 @@ Leia e concorde com o %s antes de usar este recurso."</string>
     <string name="personal_data_section_title">Dados pessoais</string>
     <string name="personal_profile_app_subtext">Pessoais</string>
     <string name="personal_section_title">Personalização</string>
-    <string name="personalize_title">Papel de parede e personalização</string>
+    <string name="personalize_title">Plano de fundo e personalização</string>
     <string name="phone_backup_summary">Faça backup e restaure itens neste dispositivo</string>
     <string name="phone_backup_title">Dispositivo móvel</string>
     <string name="phone_call_noise_suppression">Redução de ruído durante chamadas</string>
@@ -10657,7 +10657,7 @@ Durante uma chamada de voz, não é possível usar a Internet, e alguns apps pod
     <string name="wallpaper_desktop">Tela inicial</string>
     <string name="wallpaper_live">Planos de fundo animados</string>
     <string name="wallpaper_lockscreen">Tela de bloqueio</string>
-    <string name="wallpaper_setting_title">Papéis de parede para dispositivos dobráveis</string>
+    <string name="wallpaper_setting_title">Planos de fundo para dispositivos dobráveis</string>
     <string name="wallpaper_settings_fragment_title">Selecionar de…</string>
     <string name="wallpaper_settings_summary_custom">Personalizado</string>
     <string name="wallpaper_settings_summary_default">Padrão</string>

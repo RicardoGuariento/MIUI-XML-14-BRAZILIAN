@@ -748,7 +748,7 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="user_add_user">Adicionar usuário</string>
     <string name="user_add_user_item_summary">Os usuários têm seus próprios apps e conteúdo</string>
     <string name="user_add_user_item_title">Usuário</string>
-    <string name="user_add_user_message_long">"Você pode compartilhar este dispositivo com outras pessoas criando usuários adicionais. Cada usuário tem seu próprio espaço, que eles podem personalizar com apps, papel de parede e assim por diante. Os usuários também podem ajustar as configurações do dispositivo, como o Wi-Fi que afetam a todos.
+    <string name="user_add_user_message_long">"Você pode compartilhar este dispositivo com outras pessoas criando usuários adicionais. Cada usuário tem seu próprio espaço, que eles podem personalizar com apps, plano de fundo e assim por diante. Os usuários também podem ajustar as configurações do dispositivo, como o Wi-Fi que afetam a todos.
 
 Quando você adiciona um novo usuário, essa pessoa precisa configurar seu espaço.
 

@@ -530,7 +530,7 @@ Adicione widgets para começar."</string>
     <string name="pa_picker_widget_select_uninstall_description">%1$s, não instalado</string>
     <string name="pa_picker_widget_select_upgrade_description">%1$s, atualização disponível</string>
     <string name="pa_privacy_text">Privacidade</string>
-    <string name="pa_read_storage_permission_description">Para exibir o papel de parede da Tela inicial como plano de fundo do app</string>
+    <string name="pa_read_storage_permission_description">Para exibir o plano de fundo da Tela inicial como plano de fundo do app</string>
     <string name="pa_recommend_add_btn">Iniciar</string>
     <string name="pa_recommend_add_msg">Adicionar</string>
     <string name="pa_recommend_card">Recomendações.</string>

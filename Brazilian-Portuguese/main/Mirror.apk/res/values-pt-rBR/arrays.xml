@@ -2,7 +2,7 @@
 <resources>
     <string-array name="settings_search_mirror">
         <item>"Dispositivos conectados"</item>
-        <item>Conexão e compartilhamento/Dispositivos conectados</item>
+        <item>Conectividade/Dispositivos conectados</item>
         <item>MIUI+, MIUIPLUS, handoff, multi janelas, interconectividade, espelhamento de tela, mouse e teclado, extensão de tela, transferência de app, Mi Smart Hub, espelhar, extensão, multitarefa, compartilhar, mouse, teclado, conectar dispositivos</item>
     </string-array>
     <string-array name="settings_tips_message">

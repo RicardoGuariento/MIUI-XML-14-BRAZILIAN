@@ -90,9 +90,9 @@
     <string name="app_enable_transparent_wallpaper">Com plano de fundo transparente</string>
     <string name="app_name">Temas</string>
     <string name="app_name_pad">Personalização</string>
-    <string name="application_list_permission_desc">Para mostrar apps compatíveis com papéis de parede transparentes</string>
+    <string name="application_list_permission_desc">Para mostrar apps compatíveis com planos de fundo transparentes</string>
     <string name="application_notify_title">Atenção!</string>
-    <string name="apply_4k_video_wallpaper_warning">"Vídeos em resolução 4k e 8k não podem ser usados como papel de parede"</string>
+    <string name="apply_4k_video_wallpaper_warning">"Vídeos em resolução 4k e 8k não podem ser usados como plano de fundo"</string>
     <string name="apply_choosen_type_resource">Aplicar itens selecionados</string>
     <string name="apply_default_font_tip">Continuar usando as fontes do sistema?</string>
     <string name="apply_failed">Não foi possível aplicar</string>
@@ -102,15 +102,15 @@
     <string name="apply_not_support_aod">Este dispositivo não suporta a Tela ambiente</string>
     <string name="apply_not_support_in_second_space">Não é possível aplicar este item no segundo espaço</string>
     <string name="apply_not_support_maml_aod">Este dispositivo não suporta a combinação da Tela ambiente com temas</string>
-    <string name="apply_not_support_video_wallpaper_warning">"Vídeos 4K, 8K e Dolby não podem ser definidos como papéis de parede de vídeo."</string>
-    <string name="apply_sensor_video_wallpaper_dialog_message">Este papel de parede será aplicado às Telas de bloqueio internas e externas e às Telas iniciais..</string>
+    <string name="apply_not_support_video_wallpaper_warning">"Vídeos 4K, 8K e Dolby não podem ser definidos como planos de fundo de vídeo."</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Este plano de fundo será aplicado às Telas de bloqueio internas e externas e às Telas iniciais..</string>
     <string name="apply_succeed">Aplicado com sucesso</string>
     <string name="apply_success_not_enable_aod">Ative primeiro a Tela ambiente nas Configurações</string>
     <string name="apply_success_not_support_aod">Não é possível combinar a Tela ambiente com temas neste dispositivo. Os componentes restantes deste tema forma aplicados com sucesso</string>
     <string name="apply_theme_with_ringtones">Usar toques do tema</string>
-    <string name="apply_wallpaper_after_three_theme">"No momento, você está usando um tema de terceiros. Se você alterar o papel de parede da Tela de bloqueio, isso pode fazer com que o estilo do relógio da tela de bloqueio seja restaurado para o padrão. Aplicar agora?"</string>
-    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo papel de parede, ele será aplicado às Telas inicial e de bloqueio, e a exibição sempre ativa será restaurada para a configuração anterior. Aplicar agora?"</string>
-    <string name="apply_wallpaper_warning_use_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo papel de parede, ele será aplicado às Telas inicial e de bloqueio. Aplicar agora?"</string>
+    <string name="apply_wallpaper_after_three_theme">"No momento, você está usando um tema de terceiros. Se você alterar o plano de fundo da Tela de bloqueio, isso pode fazer com que o estilo do relógio da tela de bloqueio seja restaurado para o padrão. Aplicar agora?"</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo plano de fundo, ele será aplicado às Telas inicial e de bloqueio, e a exibição sempre ativa será restaurada para a configuração anterior. Aplicar agora?"</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">"No momento, você está usando um Super plano de fundo. Se você selecionar um novo plano de fundo, ele será aplicado às Telas inicial e de bloqueio. Aplicar agora?"</string>
     <string name="apply_warning_get_device_dialog_message">Para poder usar o conteúdo baixado, permita que este recurso acesse a ID do seu dispositivo primeiro. Você pode conceder essa permissão em Configurações > Privacidade.</string>
     <string name="apply_warning_tip_get_device_status">Primeiro permita que este app acesse a ID do seu dispositivo em Perfil > Configurações.</string>
     <string name="audio_duration_minutes_format">%1$d minutos</string>
@@ -142,7 +142,7 @@
     <string name="browser_local_resource">Recursos locais</string>
     <string name="can_not_apply">Não é possível aplicar</string>
     <string name="can_not_apply_error">Este formato de vídeo não é suportado</string>
-    <string name="can_not_apply_pc_video">"O Modo PC não suporta papéis de parede animados"</string>
+    <string name="can_not_apply_pc_video">"O Modo PC não suporta planos de fundo animados"</string>
     <string name="can_not_apply_size_invalid">Este vídeo é muito grande</string>
     <string name="cancel_download">Download cancelado</string>
     <string name="card_data_request_error">Ocorreu um erro. Aguarde alguns minutos e tente novamente.</string>
@@ -189,7 +189,7 @@
     <string name="copy">Copiar</string>
     <string name="count_down_tip">%d s restantes</string>
     <string name="create_home_icon">Atalho na Tela inicial</string>
-    <string name="current_device_not_support_superwallpaper_dialog_content">"Super papéis de parede não são compatíveis com este dispositivo"</string>
+    <string name="current_device_not_support_superwallpaper_dialog_content">"Super planos de fundo não são compatíveis com este dispositivo"</string>
     <string name="current_using">Atual</string>
     <string name="current_using_desktop_wallpaper_text">Tela inicial</string>
     <string name="current_using_float_wallpaper_text">Transparente</string>
@@ -280,16 +280,16 @@
     <string name="detail_reward_user_limited_to_display">Apenas as 100 primeiras pessoas são exibidas</string>
     <string name="dev_options">Opções do desenvolvedor</string>
     <string name="dev_options_summary">Recursos web</string>
-    <string name="dialog_apply_lock_screen_wallpaper_content">O tema atual pode não suportar a alteração do papel de parede da tela de bloqueio.</string>
-    <string name="dialog_apply_lock_screen_wallpaper_warning">Papel de parede da tela de bloqueio</string>
+    <string name="dialog_apply_lock_screen_wallpaper_content">O tema atual pode não suportar a alteração do plano de fundo da tela de bloqueio.</string>
+    <string name="dialog_apply_lock_screen_wallpaper_warning">Plano de fundo da tela de bloqueio</string>
     <string name="dialog_content_get_device_status">Este app precisa acessar a ID do seu dispositivo para poder autenticar os itens comprados em outros dispositivos. Você pode não conseguir usar alguns dos itens comprados depois de desativar esse recurso. Desativar mesmo assim?</string>
     <string name="dialog_negative_button_text">Agora não</string>
     <string name="dialog_positive_button_text">Permitir</string>
     <string name="dialog_show_never">Não mostrar novamente</string>
-    <string name="dialog_trans_wallpaper_offline_detail">"Papéis de parede transparentes não estão mais disponíveis porque não são compatíveis com o Android 12."</string>
-    <string name="dialog_trans_wallpaper_offline_inform_detail">Papéis de parede transparentes não estão mais disponíveis devido a restrições do Android 12 e problemas de compatibilidade.</string>
-    <string name="dialog_trans_wallpaper_offline_inform_title">Papéis de parede transparentes</string>
-    <string name="dialog_trans_wallpaper_offline_title">"Papéis de parede transparentes não estão disponíveis"</string>
+    <string name="dialog_trans_wallpaper_offline_detail">"Planos de fundo transparentes não estão mais disponíveis porque não são compatíveis com o Android 12."</string>
+    <string name="dialog_trans_wallpaper_offline_inform_detail">Planos de fundo transparentes não estão mais disponíveis devido a restrições do Android 12 e problemas de compatibilidade.</string>
+    <string name="dialog_trans_wallpaper_offline_inform_title">Planos de fundo transparentes</string>
+    <string name="dialog_trans_wallpaper_offline_title">"Planos de fundo transparentes não estão disponíveis"</string>
     <string name="display">Tela</string>
     <string name="do_not_allow">Restrito</string>
     <string name="download_failed">Não foi possível baixar</string>
@@ -330,9 +330,9 @@
     <string name="exo_controls_playback_speed">Velocidade</string>
     <string name="exo_controls_playback_speed_normal">"Normal"</string>
     <string name="exo_controls_previous_description">Anterir</string>
-    <string name="exo_controls_repeat_all_description">Repitir tudo</string>
+    <string name="exo_controls_repeat_all_description">Repetir tudo</string>
     <string name="exo_controls_repeat_off_description">Não repetir</string>
-    <string name="exo_controls_repeat_one_description">Repitir um</string>
+    <string name="exo_controls_repeat_one_description">Repetir um</string>
     <string name="exo_controls_rewind_description">Retroceder</string>
     <string name="exo_controls_seek_bar_description">Progresso da reprodução</string>
     <string name="exo_controls_settings_description">Configurações</string>
@@ -431,7 +431,7 @@
     <string name="fold_restore_default_theme_dialog_content">"Os temas não podem ser usados neste dispositivo agora. Se você mudou seu tema antes, você pode restaurar o tema padrão agora. Você não poderá alterar seu tema novamente depois disso."</string>
     <string name="fold_restore_default_theme_dialog_disagree">Não, obrigado</string>
     <string name="fold_restore_default_theme_dialog_title">Restaurar tema padrão</string>
-    <string name="fold_sensor_video_wallpaper_group">Papéis de parede dinâmicos para dispositivos dobráveis</string>
+    <string name="fold_sensor_video_wallpaper_group">Planos de fundo dinâmicos para dispositivos dobráveis</string>
     <string name="font_compat_dialog_buy_confirm">Comprar</string>
     <string name="font_compat_dialog_buy_content">Fontes de terceiros podem não ser suportadas por alguns apps. Esse problema de compatibilidade será corrigido em uma próxima atualização do sistema. Comprar esta fonte mesmo assim?</string>
     <string name="font_compat_dialog_cancel">Cancelar</string>
@@ -479,7 +479,7 @@
     <string name="hide_mamual_hide_miwallpaper">Não mostrar efeitos de Tela inicial ocultados</string>
     <string name="hide_mamual_hide_theme">"Não mostrar temas ocultados"</string>
     <string name="hide_mamual_hide_wallpaper">"Não mostrar planos de fundo ocultados"</string>
-    <string name="hide_phone_wallpaper">Ocultar papéis de parede do dispositivo</string>
+    <string name="hide_phone_wallpaper">Ocultar planos de fundo do dispositivo</string>
     <string name="hide_pull_down_message">Ocultar?</string>
     <string name="hide_pull_down_negative">Não ocultar</string>
     <string name="hide_pull_down_positive">Ocultar</string>
@@ -772,7 +772,7 @@ dd 'de' MMM"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Problemas de compatibilidade</string>
     <string name="multiwindow_no_support">Esta ação não é compatível com a Tela dividida</string>
     <string name="multiwindow_no_support_icon">Não é possível alterar os ícones ao usar a Tela dividida</string>
-    <string name="need_to_open_application_permission_desc">Para saber quais apps são compatíveis com papéis de parede transparentes, permita que os temas acessem a lista de apps instalados em seu dispositivo.</string>
+    <string name="need_to_open_application_permission_desc">Para saber quais apps são compatíveis com planos de fundo transparentes, permita que os temas acessem a lista de apps instalados em seu dispositivo.</string>
     <string name="need_to_open_permission">Permissões necessárias</string>
     <string name="need_to_open_storage_permission_desc">Para poder usar e baixar itens em Temas, primeiro permita que o app acesse o armazenamento.</string>
     <string name="network_exception">"Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente."</string>
@@ -811,9 +811,9 @@ dd 'de' MMM"</string>
     <string name="ota_recovery_theme_notity_title">Restaure seu tema</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Você não poderá realizar as seguintes ações depois de sair:
 Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</string>
-    <string name="pad_fold_exit_wallpaper_warning_title">Sair do papel de parede e personalização?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do com o papel de parede e a personalização, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
-    <string name="pad_fold_log_in_wallpaper">Faça login no papel de parede e personalização</string>
+    <string name="pad_fold_exit_wallpaper_warning_title">Sair do plano de fundo e personalização?</string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do com o plano de fundo e a personalização, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
+    <string name="pad_fold_log_in_wallpaper">Faça login no plano de fundo e personalização</string>
     <string name="pad_fold_no_permission">Permissões de armazenamento necessárias</string>
     <string name="pad_fold_no_permission_detail">Para poder alterar as preferências de personalização e salvar itens baixados, permita que este recurso acesse o armazenamento primeiro.</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
@@ -837,10 +837,10 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="personalize_title">Plano de fundo e personalização</string>
     <string name="personalize_wallpaper_sub_title">Super planos de fundo e imagens em destaque</string>
     <string name="personalize_wallpaper_title">Plano de fundo</string>
-    <string name="personalized_cta_content_text">Bem-vindo ao Temas! Você pode usar este app para gerenciar seus papéis de parede, tons de toque, fontes e muito mais.</string>
+    <string name="personalized_cta_content_text">Bem-vindo ao Temas! Você pode usar este app para gerenciar seus planos de fundo, tons de toque, fontes e muito mais.</string>
     <string name="phone_exit_theme_warning_content">"Você não poderá realizar as seguintes ações depois de sair:
 1. Visualizar e usar os itens que você comprou ou adicionou aos favoritos.
-2. Adicionar comentários e likes, siguir outras pessoas e interajir com elas."</string>
+2. Adicionar comentários e likes, siguir outras pessoas e interagir com elas."</string>
     <string name="phone_exit_theme_warning_title">Fazer logout do Temas?</string>
     <string name="phone_log_in_theme">Fazer login no Temas</string>
     <string name="phone_log_in_theme_detail"><Data>"Eu li e aceito o &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> do Temas, bem como o &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Contrato do Usuário&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a>&lt;/font> da Conta Mi (para entrar usando a conta do sistema)."</Data></string>
@@ -849,7 +849,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="pref_lockscreen_magazine_summary">Substitua o plano de fundo por apresentações de slides de imagens de várias categorias</string>
     <string name="pref_privacy_policy">Política de Privacidade</string>
     <string name="pref_read_write_function_detail">Para alterar as preferências de personalização e salvar itens baixados</string>
-    <string name="pref_reading_the_application_list_detail">Para usar papéis de parede transparentes</string>
+    <string name="pref_reading_the_application_list_detail">Para usar planos de fundo transparentes</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preference_subtitle_get_device_status">Permita que o app acesse a ID do seu dispositivo para poder baixar os itens comprados em seus outros dispositivos</string>
     <string name="preference_title_get_device_status">Acessar a ID do dispositivo</string>
@@ -878,31 +878,31 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="privacy_network_exception">Ocorreu um erro de rede. Espere um momento e tente novamente.</string>
     <string name="privacy_pad_fold_Read_write_storage">Acessar armazenamento</string>
     <string name="privacy_pad_fold_entry">Privacidade</string>
-    <string name="privacy_pad_fold_logoff_service_content">Cancelar serviços de Papel de parede e personalização</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Todos os papéis de parede, fontes e toques baixados para este dispositivo.</string>
+    <string name="privacy_pad_fold_logoff_service_content">Cancelar serviços de Plano de fundo e personalização</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Todos os planos de fundo, fontes e toques baixados para este dispositivo.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Todas as preferências de permissões, configurações e itens em cache gerados neste dispositivo.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Certifique-se de ter o direito de cancelar os serviços antes de continuar.
-2. O cancelamento do Papel de parede e dos serviços de personalização não afetará o uso normal de outros produtos Xiaomi.
+2. O cancelamento do Plano de fundo e dos serviços de personalização não afetará o uso normal de outros produtos Xiaomi.
 3. O cancelamento do serviço é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão depois que os serviços forem cancelados. Os dados a seguir serão excluídos permanentemente ou tornados anônimos após o cancelamento do serviço (exceto se de outra forma previsto por leis e regulamentos, ou de outra forma exigido pelas autoridades regulatórias):"</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Todos os pedidos (incluindo pedidos pagos) feitos nos dispositivos Xiaomi. Você não poderá mais usar os itens que comprou.
 Todas as informações sobre seus gostos, comentários, classificações e seguidores geradas nos dispositivos Xiaomi.
-Todos os papéis de parede, fontes e toques baixados para este dispositivo.
+Todos os planos de fundo, fontes e toques baixados para este dispositivo.
 Todas as preferências de permissões, configurações e itens em cache gerados neste dispositivo.
 Todos os itens de personalização usados atualmente neste dispositivo. As preferências de personalização padrão serão restauradas."</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. O cancelamento do serviço não implica isenção ou mitigação em relação às responsabilidades decorrentes de ações realizadas antes do cancelamento dos serviços.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Declaração de Cancelamento de Serviços de Papel de parede e personalização</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Leia e concorde com o \"Declaração de Cancelamento de Serviços de Papel de parede e personalização\" antes de cancelar nossos serviços.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Você está prestes a cancelar os serviços de Papel de parede e personalização."</string>
-    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Eu li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração de Cancelamento de Serviços de Papel de parede e personalização&lt;/a>&lt;/font>\"."</Data></string>
-    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Eu li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a Retirada do Consentimento à Política de Privacidade de Papel de parede e personalização&lt;/a>&lt;/font>\"."</Data></string>
-    <string name="privacy_pad_fold_revoke_agree_content_3">3. Todos os papéis de parede, fontes e toques baixados para este dispositivo.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Declaração de Cancelamento de Serviços de Plano de fundo e personalização</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Leia e concorde com o \"Declaração de Cancelamento de Serviços de Plano de fundo e personalização\" antes de cancelar nossos serviços.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Você está prestes a cancelar os serviços de Plano de fundo e personalização."</string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Eu li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração de Cancelamento de Serviços de Plano de fundo e personalização&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Eu li e concordo com a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a Retirada do Consentimento à Política de Privacidade de Plano de fundo e personalização&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_revoke_agree_content_3">3. Todos os planos de fundo, fontes e toques baixados para este dispositivo.</string>
     <string name="privacy_pad_fold_revoke_agree_content_4">4. Todas as preferências de permissões, configurações e itens em cache gerados neste dispositivo.</string>
     <string name="privacy_pad_fold_revoke_agree_detail_prompt">Declaração sobre a Retirada do Consentimento à Política de Privacidade de Papel de Parede e personalização</string>
     <string name="privacy_pad_fold_revoke_agree_detail_title">Leia e concorde com a \"Declaração sobre a Retirada do Consentimento à Política de Privacidade de Papel de Parede e personalização\" antes de retirar o seu consentimento.</string>
-    <string name="privacy_pad_fold_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade de Papel de Parede e personalização. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Uma vez que o Papel de parede e personalização fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar serviços de Papel de parede e personalização."</string>
-    <string name="privacy_pad_fold_update_content">Política de privacidade de Papel de parede e personalização foi atualizada:</string>
-    <string name="privacy_pad_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do usuário e Política de privacidade. No entanto, os recursos e serviços básicos do Papel de parede e personalização ainda estão disponíveis para você.
-Sempre que você usar os itens armazenados neste dispositivo para personalização (ex.: configurá-los como papéis de parede ou toques), pediremos que você permita que este app acesse o armazenamento do dispositivo."</string>
+    <string name="privacy_pad_fold_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade de Papel de Parede e personalização. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Uma vez que o Plano de fundo e personalização fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar serviços de Plano de fundo e personalização."</string>
+    <string name="privacy_pad_fold_update_content">Política de privacidade de Plano de fundo e personalização foi atualizada:</string>
+    <string name="privacy_pad_important_prompt_content">"Parece que você ainda não concordou com nosso Contrato do usuário e Política de privacidade. No entanto, os recursos e serviços básicos do Plano de fundo e personalização ainda estão disponíveis para você.
+Sempre que você usar os itens armazenados neste dispositivo para personalização (ex.: configurá-los como planos de fundo ou toques), pediremos que você permita que este app acesse o armazenamento do dispositivo."</string>
     <string name="privacy_permission_management_description">Detalhes de permissões</string>
     <string name="privacy_permission_related_content">Permissões</string>
     <string name="privacy_permit_privacy_policy_content">"You won't be able to keep using our unless you agree to the new version of &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Privacy Policy&lt;/font>&lt;/a>. Agree to the updated Privacy Policy now?"</string>
@@ -968,7 +968,7 @@ All the information about your likes, comments, ratings, and followers generated
 All the wallpapers, fonts, and ringtones downloaded to this device.
 All the permissions preferences, settings, and cached items generated on this device.
 All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Depois de retirar o seu consentimento com a política de privacidade do Papel de parede e personalização, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário.
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Depois de retirar o seu consentimento com a política de privacidade do Plano de fundo e personalização, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário.
 5. A retirada do consentimento não implica isenção ou mitigação no que diz respeito às responsabilidades decorrentes de ações realizadas antes da retirada do consentimento."</string>
     <string name="provision_default_theme_title">Padrão</string>
     <string name="provision_loading_tips">Aguarde…</string>
@@ -1263,7 +1263,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="settings_search_keyword_font_wechat">Fontes do WeChat</string>
     <string name="share_content_text_first_font">Confira! \"%1$s\" a fonte dá ao seu telefone um visual completamente novo.</string>
     <string name="share_content_text_first_theme">Confira! \"%1$s\" o tema dá ao seu telefone um visual completamente novo.</string>
-    <string name="share_content_text_first_wallpaper">Confira! \"%1$s\" o papel de parede dá ao seu telefone um visual completamente novo.</string>
+    <string name="share_content_text_first_wallpaper">Confira! \"%1$s\" o plano de fundo dá ao seu telefone um visual completamente novo.</string>
     <string name="share_content_text_second">" Encontre seu próprio estilo em %1$s!"</string>
     <string name="share_content_topic">\#MIUIpersonalizar#</string>
     <string name="share_copy_theme_url">Copiar URL do tema</string>
@@ -1296,7 +1296,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="show_mamual_hide_miwallpaper">Mostrar efeitos de Tela inicial ocultados</string>
     <string name="show_mamual_hide_theme">Mostrar temas ocultados</string>
     <string name="show_mamual_hide_wallpaper">Mostrar planos de fundo ocultados</string>
-    <string name="show_phone_wallpaper">Mostrar papéis de parede do dispositivo</string>
+    <string name="show_phone_wallpaper">Mostrar planos de fundo do dispositivo</string>
     <string name="show_theme_community">Atalho da comunidade</string>
     <string name="show_theme_community_desc">Exibe ou oculta o atalho da comunidade de temas</string>
     <string name="still_apply">Aplicar</string>
@@ -1306,7 +1306,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="super_wallpaper">Super plano de fundo</string>
-    <string name="super_wallpaper_dialog_content">A Economia de bateria desativará os recursos dinâmicos dos papéis de parede.</string>
+    <string name="super_wallpaper_dialog_content">A Economia de bateria desativará os recursos dinâmicos dos planos de fundo.</string>
     <string name="super_wallpaper_list_footer_text">Aguarde pelo os nossos novos lançamentos!</string>
     <string name="super_wallpaper_list_label">Super plano de fundo</string>
     <string name="super_wallpaper_setting_apply_success_toast">Aplicado com sucesso</string>
@@ -1315,7 +1315,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
     <string name="super_wallpaper_setting_view_height_title">"Altitude"</string>
     <string name="supersave_mode_toast_message">"Esse recurso não está disponível ao usar o Ultra economia de bateria. Desative a Ultra economia de bateria para poder usá-lo."</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">Este papel de parede já está associado a outra Conta Mi. Faça login com essa Conta Mi e tente novamente.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Este plano de fundo já está associado a outra Conta Mi. Faça login com essa Conta Mi e tente novamente.</string>
     <string name="support_theme_store_des">Bons temas são sempre criados por designers talentosos. Nosso app contém uma pequena quantidade de anúncios que nos permitem apoiar o trabalho deles.</string>
     <string name="support_theme_store_supported">Obrigado pelo seu apoio!</string>
     <string name="support_theme_store_title">Apoie nossos designers</string>
@@ -1325,8 +1325,8 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="system_aod_dialog_title">A exibição está desativada</string>
     <string name="system_cta_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="system_cta_all_purpose">"Bem-vindo ao Temas! Você pode usar este app para gerenciar seus temas, planos de fundo, toques e fontes. "</string>
-    <string name="system_cta_all_purpose_fold">Bem-vindo ao Papel de parede e personalização! Você pode usar este app para gerenciar seus temas de Tela ambiente, papéis de parede, toques e fontes.</string>
-    <string name="system_cta_all_purpose_pad">Bem-vindo ao Personalização! Você pode usar este app para gerenciar seus papéis de parede, toques, ícones de app e fontes.</string>
+    <string name="system_cta_all_purpose_fold">Bem-vindo ao Plano de fundo e personalização! Você pode usar este app para gerenciar seus temas de Tela ambiente, planos de fundo, toques e fontes.</string>
+    <string name="system_cta_all_purpose_pad">Bem-vindo ao Personalização! Você pode usar este app para gerenciar seus planos de fundo, toques, ícones de app e fontes.</string>
     <string name="system_cta_main_purpose">Gerenciar e usar temas online e offline, planos de fundo, toques, fontes e planos de fundo de vídeo</string>
     <string name="system_cta_retry_get_permission_btn_pad">Iniciar</string>
     <string name="system_cta_retry_get_permission_msg_pad">Permissões necessárias</string>
@@ -1508,7 +1508,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="toast_transparent_wallpaper_filter_set_successfully">Aplicado com sucesso</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
-    <string name="trans_wallpaper_offline_notice">"Papéis de parede transparentes não estão disponíveis"</string>
+    <string name="trans_wallpaper_offline_notice">"Planos de fundo transparentes não estão disponíveis"</string>
     <string name="transparency_pref_summary">Escolha como seu plano de fundo transparente deverá ser</string>
     <string name="transparency_pref_title">Nível de opacidade</string>
     <string name="transparent_wallpaper">Plano de fundo transparente</string>
@@ -1580,7 +1580,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="video_not_support_message">Este vídeo pode ser exibido incorretamente ou tornar seu dispositivo mais lento. Aplicar mesmo assim?</string>
     <string name="video_not_support_title">Este vídeo é muito grande</string>
     <string name="video_silence_apply_success">Vídeo sem som configurado com sucesso</string>
-    <string name="video_wallpaper_apply_warning">Este papel de parede será aplicado à Tela inicial e à Tela de bloqueio. Aplicar agora?</string>
+    <string name="video_wallpaper_apply_warning">Este plano de fundo será aplicado à Tela inicial e à Tela de bloqueio. Aplicar agora?</string>
     <string name="video_wallpaper_import">Toque para adicionar itens</string>
     <string name="voice_input">Entrada de voz</string>
     <string name="wallpaper_24h">"24H"</string>
@@ -1590,7 +1590,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wallpaper_apply_large">Tela interna</string>
     <string name="wallpaper_apply_outer">Aplicar à tela externa</string>
     <string name="wallpaper_apply_outer_and_inner">Aplique em Telas internas e externas</string>
-    <string name="wallpaper_apply_pcmode">Definir papel de parede do Modo PC</string>
+    <string name="wallpaper_apply_pcmode">Definir plano de fundo do Modo PC</string>
     <string name="wallpaper_apply_small">Tela externa</string>
     <string name="wallpaper_crop">Cortar</string>
     <string name="wallpaper_dark_mode_image_preview_tip">Visualização do Modo escuro</string>

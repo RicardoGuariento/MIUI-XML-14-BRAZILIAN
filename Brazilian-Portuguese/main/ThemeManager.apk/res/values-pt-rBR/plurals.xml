@@ -54,8 +54,8 @@
         <item quantity="one">Foi adicionado %1$d item à sua conta. Veja os itens adicionados nos seus pedidos.</item>
     </plurals>
     <plurals name="anonymous_resource_login_message">
-        <item quantity="other">"Você pode baixar apenas %1$d itens gratuitos se não estiver conectado (papéis de parede e toques excluídos). Entre para baixar itens sem restrições."</item>
-        <item quantity="one">"Você pode baixar apenas %1$d item gratuito se não estiver conectado (papéis de parede e toques excluídos). Entre para baixar itens sem restrições."</item>
+        <item quantity="other">"Você pode baixar apenas %1$d itens gratuitos se não estiver conectado (planos de fundo e toques excluídos). Entre para baixar itens sem restrições."</item>
+        <item quantity="one">"Você pode baixar apenas %1$d item gratuito se não estiver conectado (planos de fundo e toques excluídos). Entre para baixar itens sem restrições."</item>
     </plurals>
     <plurals name="anonymous_resource_view">
         <item quantity="other">"%1$d itens não foram adicionados à sua conta"</item>

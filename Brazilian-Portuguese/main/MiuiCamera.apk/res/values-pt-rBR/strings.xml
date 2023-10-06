@@ -981,7 +981,7 @@ Conectar os dispositivos através do ponto de acesso pode ser mais confiável, p
     <string name="friend_mode_intro_2_title">%d. Conecte dispositivos juntos</string>
     <string name="friend_mode_intro_3_content">"Selecione o dispositivo ao qual deseja se conectar, envie um convite e aceite-o no outro dispositivo.
 Use o Assistente da câmera em um ambiente de rede estável; caso contrário, você poderá sofrer atrasos.
-Se você estiver usando um ponto de acesso para se conectar, defina sua banda AP para %s GHz em Configurações > Conexão e compartilhamento > Ponto de acesso portátil > Configurar ponto de acesso portátil."</string>
+Se você estiver usando um ponto de acesso para se conectar, defina sua banda AP para %s GHz em Configurações > Conectividade > Ponto de acesso portátil > Configurar ponto de acesso portátil."</string>
     <string name="friend_mode_intro_3_title">%d. Iniciar a sessão</string>
     <string name="friend_mode_introduction_content">Assistente da câmera permite compartilhar visualizações ao vivo entre dois dispositivos e tirar fotos com um dispositivo do outro.</string>
     <string name="friend_mode_introduction_title">Sobre Assistente da câmera</string>
