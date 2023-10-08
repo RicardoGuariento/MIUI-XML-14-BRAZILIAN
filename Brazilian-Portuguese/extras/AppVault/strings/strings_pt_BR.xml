@@ -144,7 +144,7 @@
     <string name="widget_smarthome_control">Atalhos do dispositivo</string>
     <string name="widget_smarthome_control_desc">Visualize e opere dispositivos inteligentes em sua casa</string>
     <string name="widget_smarthome_environment">Informações do ambiente</string>
-    <string name="widget_smarthome_environment_desc">Veja a temperatura, humidade e qualidade do ar da sua casa</string>
+    <string name="widget_smarthome_environment_desc">Veja a temperatura, umidade e qualidade do ar da sua casa</string>
     <string name="widget_weather_aqi">Qualidade do ar</string>
     <string name="widget_weather_aqi_desc">Veja o IQA nos locais que você selecionar</string>
     <string name="widget_weather_forecast">Previsão</string>
