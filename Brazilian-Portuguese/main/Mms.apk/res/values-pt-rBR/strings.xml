@@ -51,8 +51,12 @@
     <string name="add_timing">Programada</string>
     <string name="add_to_block_by_number">"%s adicionado
 à lista de bloqueio"</string>
+    <string name="add_to_block_by_number_failed">"Não foi possível adicionar %s à lista de bloqueio.
+Tente novamente."</string>
     <string name="add_to_block_by_tag">"Mensagens contendo \"%s\"
 adicionado à lista de bloqueio"</string>
+    <string name="add_to_block_by_tag_failed">"Não foi possível adicionar mensagens contendo \"%s\" à lista de bloqueios.
+Tente novamente."</string>
     <string name="add_to_browser_favorite_failed">Não foi possível adicionar</string>
     <string name="add_to_browser_favorite_success">Adicionado com sucesso</string>
     <string name="add_to_calender">Adicionar à Agenda</string>
@@ -152,6 +156,7 @@ adicionado à lista de bloqueio"</string>
     <string name="click_to_view">Toque para ver</string>
     <string name="close">Fechar</string>
     <string name="cloud_recommend_view_tip">Ative para sincronizar com a nuvem para restaurar mensagens importantes a qualquer momento</string>
+    <string name="cloud_space_not_enough">O armazenamento em nuvem está cheio. Atualize sua assinatura para sincronizar os itens mais recentes.</string>
     <string name="cloud_state_disabled">Ative a sincronização com a nuvem para sincronizar mensagens</string>
     <string name="cloud_state_sync_finished">Sincronizado com a MiCloud</string>
     <string name="cloud_state_syncing">Sincronizando com a MiCloud…</string>
@@ -235,6 +240,8 @@ adicionado à lista de bloqueio"</string>
     <string name="converting_to_text_message">Convertendo em mensagem de texto…</string>
     <string name="converting_vcard_failed">Não foi possível converter o contato</string>
     <string name="copy">Copiar</string>
+    <string name="copy_message">Copiar</string>
+    <string name="copy_message_success">Copiado com sucesso</string>
     <string name="copy_message_text">Copiar</string>
     <string name="copy_message_text_success">Copiado com sucesso</string>
     <string name="copy_otp_success">Copiado com sucesso</string>
@@ -275,7 +282,7 @@ adicionado à lista de bloqueio"</string>
     <string name="dialog_message_correct_as_ad">Todas as mensagens de %s (exceto códigos de verificação) serão movidas para mensagens promocionais.</string>
     <string name="dialog_message_correct_as_normal">Selecione mensagens para mover</string>
     <string name="dialog_message_fake_cell_detect_error">Corrigir a informação sobre esta mensagem? Para fazer isto, a MIUI precisa fazer o upload do número do telefone (%1$s), o conteúdo da mensagem, e as informações sobre a localização aproximada para os nossos servidores.</string>
-    <string name="dialog_message_mx">O Mi Mensagens permite que você envie mensagens para outros usuários da MIUI sem a cobrança de tarifas. Uma mensagem SMS é requerida para ativar o Mi Mensagens. A sua operadora cobrará por esta mensagem. Você deve aceitar nosso \"%1$s\" e a \"%2$s\" antes de usar o Mi Mensagens.</string>
+    <string name="dialog_message_mx">O Mi Mensagens permite que você envie mensagens para outros usuários da Xiaomi sem a cobrança de tarifas. Uma mensagem SMS é requerida para ativar o Mi Mensagens. A sua operadora cobrará por esta mensagem. Você deve aceitar nosso \"%1$s\" e a \"%2$s\" antes de usar o Mi Mensagens.</string>
     <string name="dialog_message_networking">O app Mensagens precisa usar as Páginas Amarelas para fornecer o reconhecimento de ID de remetente. O app Mensagens e Páginas Amarelas precisarão de uma conexão com a internet e acesso à sua localização para funcionarem normalmente. Permitir?</string>
     <string name="dialog_message_rcs">O sistema de mensagens do China Mobile permite que você envie mensagens para outros usuários China Mobile sem a cobrança de tarifas de mensagens. Tem de aceitar o \"%1$s\" antes de utilizar as Mensagens do China Mobile.</string>
     <string name="dialog_quit">Sair</string>
@@ -340,6 +347,7 @@ adicionado à lista de bloqueio"</string>
     <string name="expiry_time">Válido até</string>
     <string name="exporting_progress_private_message">Exportando…</string>
     <string name="fail_to_add_attachment">Não foi possível adicionar o anexo</string>
+    <string name="fail_to_add_image">"Não foi possível acessar os itens copiados"</string>
     <string name="fail_to_view_attachment">O anexo não está disponível</string>
     <string name="failed_to_add_media">Você não pode adicionar este(a) %1$s na sua mensagem.</string>
     <string name="failed_to_resize_image">Imagem não redimensionada.</string>
@@ -679,8 +687,8 @@ Esta mensagem pode não ter sido solicitada."</string>
     <string name="mx_btn_enable_now">Ativar</string>
     <string name="mx_count_dspt">Você já enviou %1$d SMS e %2$d MMS gratuitamente</string>
     <string name="mx_current_status">Configurações</string>
-    <string name="mx_dspt">Enviar mensagens SMS e MMS para outros dispositivos com MIUI sem cobrança de tarifas quando você estiver conectado ao Wi-Fi.</string>
-    <string name="mx_dspt_listview">Enviar mensagens para outros dispositivos com MIUI sem a cobrança de tarifas</string>
+    <string name="mx_dspt">Enviar mensagens SMS e MMS para outros dispositivos Xiaomi sem cobrança de tarifas quando você estiver conectado ao Wi-Fi.</string>
+    <string name="mx_dspt_listview">Enviar mensagens para outros dispositivos Xiaomi sem a cobrança de tarifas</string>
     <string name="mx_dspt_provision">O Mi Mensagens permite que você envie mensagens para outros usuários MIUI pela internet sem a cobrança de tarifas da operadora. Um SMS pode ser requerido para reativar o Mi Mensagens. Sua operadora irá cobrar por esta mensagem. Além disso, o serviço precisa de acesso aos dados móveis para verificar quando um usuário está ou não online. Aceitar?</string>
     <string name="mx_dspt_provision_ex2">Política de Privacidade</string>
     <string name="mx_enable">Mi Mensagens</string>
@@ -790,6 +798,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="pref_collapse_sp_messages_summary">Agrupa SMS informativos automaticamente</string>
     <string name="pref_delivery_ringtone">Som de entrega</string>
     <string name="pref_edit_smsc_address">Número do centro de SMS (SMSC)</string>
+    <string name="pref_feedback_title">"Feedback"</string>
     <string name="pref_forward_title">Encaminhar</string>
     <string name="pref_group_ad_mms_recognition">Agrupar mensagens promocionais</string>
     <string name="pref_hide_verification_code_summary">Oculta automaticamente notificações de mensagens contendo códigos de verificação em uma Tela de bloqueio protegida por senha</string>
@@ -1098,8 +1107,8 @@ Dê uma olhada nos recomendados!"</string>
     <string name="recipients_over_size">Muitos destinatários.</string>
     <string name="recommend_agree">Aceitar</string>
     <string name="recommend_bar_cancel">Ignorar</string>
-    <string name="recommend_bar_message_mx">O Mi Mensagens permite que você envie mensagens a outros usuários MIUI sem a cobrança de tarifas.</string>
-    <string name="recommend_bar_message_mx_rcs">O Mi Mensagens permite que você envie mensagens para outros usuários MIUI ou usuários da China Mobile na China sem a cobrança de tarifas.</string>
+    <string name="recommend_bar_message_mx">O Mi Mensagens permite que você envie mensagens a outros usuários Xiaomi sem a cobrança de tarifas.</string>
+    <string name="recommend_bar_message_mx_rcs">O Mi Mensagens permite que você envie mensagens para outros usuários Xiaomi ou usuários da China Mobile na China sem a cobrança de tarifas.</string>
     <string name="recommend_bar_message_rcs">O sistema de mensagens do China Mobile permite que você envie mensagens para outros usuários China Mobile sem a cobrança de tarifas de mensagens.</string>
     <string name="recommend_bar_message_smart_message">Copiar códigos de verificação, rastrear pacotes, usar menus inteligentes e mais</string>
     <string name="recommend_bar_ok">Ativar</string>
@@ -1199,7 +1208,8 @@ Dê uma olhada nos recomendados!"</string>
     <string name="search_show_more_results">Mostrar mais</string>
     <string name="search_title_mms">Mensagens</string>
     <string name="seats">Assento</string>
-    <string name="second_mms_introduction">Ir ao Segundo espaço</string>
+    <string name="search_sms">Pesquisar mensagens</string>
+    <string name="second_mms_introduction">Mude para o Segundo espaço para visualizar mensagens privadas</string>
     <string name="second_mms_switch">Trocar</string>
     <string name="secs">seg</string>
     <string name="security_alert_desc"><font color="#7f000000">"O remetente não está em seus contatos. \"
@@ -1462,6 +1472,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
     <string name="title_show_sms_template">Mensagens inteligentes</string>
     <string name="title_show_sms_template_in">Checar SMS por códigos de verificação</string>
     <string name="title_timed_message_dialog">Programar mensagem</string>
+    <string name="title_timed_remind_message_dialog">Definir horário do lembrete</string>
     <string name="title_use_gsm_alphabet">Usar alfabeto GSM</string>
     <string name="to_address_label">"Para: "</string>
     <string name="to_label">"Para "</string>

@@ -1339,6 +1339,13 @@ After downloading, please bind it on the settings page before 24:00 on %3$d mont
     <string name="lyric_label">Letras</string>
     <string name="lyric_open_other_connect">Baixar letras usando a rede móvel</string>
     <string name="lyric_setting">Configurações de letras musicais</string>
+    <string name="lyrics_guide_button_text">Experimente</string>
+    <string name="lyrics_guide_four">Volte para a página de letras para ver</string>
+    <string name="lyrics_guide_one">Toque em um resultado da pesquisa para selecioná-lo</string>
+    <string name="lyrics_guide_three">Edite e salve as letras</string>
+    <string name="lyrics_guide_title">Como pesquisar e salvar letras</string>
+    <string name="lyrics_guide_two">Selecione as letras desejadas e copie-as</string>
+    <string name="lyrics_popup_title">Toque para pesquisar letras</string>
     <string name="magic_box_manual">Treasure chest description ></string>
     <string name="magic_box_message" formatted="false">"Open %d %s to get
 "</string>
@@ -2125,6 +2132,7 @@ Seja feliz"</string>
     <string name="select_local_cover">Selecionar capa local</string>
     <string name="select_local_lyric">Selecionar arquivo</string>
     <string name="select_local_lyric_file">Selecionar arquivo de letras local</string>
+    <string name="select_lyrics_copy">Selecione e copie o texto da letra</string>
     <string name="select_none">Desmarcar todos</string>
     <string name="select_one_language">Selecione pelo menos %d idioma</string>
     <string name="select_three_languages">Pode selecionar até %d idiomas</string>

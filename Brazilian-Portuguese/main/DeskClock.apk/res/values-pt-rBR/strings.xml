@@ -61,6 +61,7 @@
     <string name="alarm_notify_text">Tirar soneca ou dispensar alarme.</string>
     <string name="alarm_permanent_alert">Toque</string>
     <string name="alarm_repeat">Repetir</string>
+    <string name="alarm_repeat_self_define_button">Customizar</string>
     <string name="alarm_ringtone">Toques do alarme</string>
     <string name="alarm_ringtone_picker">Alarmes</string>
     <string name="alarm_set_new">O alarme tocará em menos de %d minuto.</string>
@@ -297,6 +298,7 @@
     <string name="life_post_weather_no_network">Conecte-se na Internet para atualizar as informações sobre o clima</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="listen_news_privacy"><Data>Para fornecer serviços personalizados e incluir notícias matinais aos seus alarmes, o Relógio precisa de uma conexão com a Internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="look_sleep_data">Ver dados de sono</string>
     <string name="loading_ringtone">Carregando toque…</string>
     <string name="menu_add_worldclock">Novo relógio</string>
     <string name="menu_desk_clock">Relógio</string>
@@ -461,6 +463,10 @@ mm"</string>
     <string name="notification_adv_time_entries5">Nenhum</string>
     <string name="notification_permission_desc">"Caso não conceda as permissões de notificação, não poderá desativar os alarmes quando eles tocarem. Conceder permissão agora?"</string>
     <string name="oneshot_alarm">Excluir após alarme disparar</string>
+    <string name="notification_permission_dialog_content">Permitir que este app envie notificações para receber notificações de alarme. Você pode conceder essa permissão em Configurações.</string>
+    <string name="notification_permission_dialog_not_open">Agora não</string>
+    <string name="notification_permission_dialog_open">Configurações</string>
+    <string name="notification_permission_dialog_title">Permissões necessárias</string>
     <string name="open_keep_screen">A tela será mantida ligada</string>
     <string name="open_notification_permission_remind">Permita notificações para poder desativar os alarmes</string>
     <string name="open_sleep_record">Ativar</string>
@@ -701,6 +707,7 @@ mm"</string>
     <string name="unselect_all">Desmarcar todos</string>
     <string name="upcoming_alarm">Próximo alarme: %s</string>
     <string name="upcoming_alarm_hint">Pode desativá-lo com antecedência</string>
+    <string name="upcoming_alarm_new">Próximo alarme: %s</string>
     <string name="update_health_app">Atualizar Mi Saúde</string>
     <string name="update_health_app_desc">O recurso de análise de sono é fornecido pelo Xiaomi Saúde. Atualize o Xiaomi Saúde para sua versão mais recente para poder acessar os recursos relacionados.</string>
     <string name="update_health_app_desc_new">O recurso de análise do sono é fornecido pelo Mi Fitness. Atualize o Mi Fitness para sua versão mais recente para acessar os recursos relacionados.</string>
