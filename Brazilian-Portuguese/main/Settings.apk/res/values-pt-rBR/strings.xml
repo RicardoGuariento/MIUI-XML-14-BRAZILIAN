@@ -911,7 +911,7 @@ Alterar as configurações agora?"</string>
     <string name="assistant_corner_gesture_title">Deslize para abrir o Assistente</string>
     <string name="assistant_gesture_category_title">Assistente digital</string>
     <string name="assistant_long_press_home_gesture_summary">Pressione e segure o botão Início para iniciar o Assistente.</string>
-    <string name="assistant_long_press_home_gesture_title">Segure Início para o inicar o Assistente</string>
+    <string name="assistant_long_press_home_gesture_title">Segurar o botão de Início</string>
     <string name="assistant_security_warning">O Assistente lerá informações sobre apps em uso no seu sistema, incluindo informações visíveis na tela ou as que podem ser acessadas nos apps.</string>
     <string name="assistant_security_warning_agree">Aceitar</string>
     <string name="assistant_security_warning_disagree">Discordo</string>
