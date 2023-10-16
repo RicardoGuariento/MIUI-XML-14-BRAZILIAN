@@ -769,8 +769,8 @@ Você não perderá nenhum dado de apps."</string>
     <string name="ask_create_shortcut">Criar um atalho na Tela inicial?</string>
     <string name="audio_optimization_summary">Aprimora o áudio e reduz o ruído ambiente em conversas</string>
     <string name="audio_optimization_title">Áudio aprimorado</string>
-    <string name="auto_atsk_condition_battery_level_text_down">"Quando a bateria atingir %s"</string>
-    <string name="auto_atsk_condition_battery_level_text_up">"Quando a bateria estiver a %s"</string>
+    <string name="auto_atsk_condition_battery_level_text_down">Quando a bateria atingir %s</string>
+    <string name="auto_atsk_condition_battery_level_text_up">Quando a bateria estiver a %s</string>
     <string name="auto_back_booster">Parar otimização</string>
     <string name="auto_booster_suc">Otimizado com sucesso</string>
     <string name="auto_clean_close">Limpeza automática desativada</string>
@@ -790,7 +790,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="auto_task_condition_choose_time_duration">Definir hora</string>
     <string name="auto_task_condition_number_pick_title">Definir condição da bateria</string>
     <string name="auto_task_condition_restore_task_when_charged">Alterar para o modo anterior após o carregamento</string>
-    <string name="auto_task_condition_time_duration_text">"De %1$s às %2$s"</string>
+    <string name="auto_task_condition_time_duration_text">De %1$s às %2$s</string>
     <string name="auto_task_condition_time_pick_title">Definir Temporizador</string>
     <string name="auto_task_condition_time_text">Às %s</string>
     <string name="auto_task_conncet_to_some_device">Conectar a %s</string>
