@@ -497,7 +497,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="precipitation_degree_four">Forte</string>
     <string name="precipitation_degree_one">Nenhum</string>
     <string name="precipitation_degree_three">Moderado</string>
-    <string name="precipitation_degree_two">Light</string>
+    <string name="precipitation_degree_two">Leve</string>
     <string name="precipitation_forecast_desc">Toque para previsão</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_grant_failed">"Não foi possível conceder consentimento. Espere um pouco e tente novamente."</string>
