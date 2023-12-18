@@ -6021,7 +6021,7 @@ Este recurso não funciona com a suavização de movimento.
 Ativar um destes recursos desativará o outro."</string>
     <string name="vb_video_super_division_tips">"Não está nítido o suficiente?
 Experimente interpolar a resolução!"</string>
-    <string name="verify_shut_down_password_content">Exigir a confirmação do bloqueio de tela para poder desligar ou reinicar o dispositivo</string>
+    <string name="verify_shut_down_password_content">Exigir a confirmação do bloqueio de tela para poder desligar ou reiniciar o dispositivo</string>
     <string name="verify_shut_down_password_title">Confirmação de desligamento</string>
     <string name="verify_sms_ensure_allow">Enviar</string>
     <string name="verify_sms_title">%1$s está tentando enviar uma mensagem…</string>
